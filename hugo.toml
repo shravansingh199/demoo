@@ -1,0 +1,10 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'demo 1'
+theme = 'my theme'
+
+[taxonomies]
+tag = "tags"
+category = "categories"
+album = "albums"
+artist = 'artists'
