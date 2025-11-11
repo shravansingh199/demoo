@@ -15,5 +15,12 @@
       <guid>http://localhost:1313/albums/singles/</guid>
       <description></description>
     </item>
+    <item>
+      <title>Khuddar (1994)</title>
+      <link>http://localhost:1313/albums/khuddar-1994/</link>
+      <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/albums/khuddar-1994/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Khuddar (1994) on demo 1</title>
+    <link>http://localhost:1313/albums/khuddar-1994/</link>
+    <description>Recent content in Khuddar (1994) on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 21 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/albums/khuddar-1994/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tumsa Koi Pyara Koi Masoom lyrics - Khuddar</title>
+      <link>http://localhost:1313/tumsa-koi-pyara-lyrics/</link>
+      <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tumsa-koi-pyara-lyrics/</guid>
+      <description>&lt;p&gt;Barsaat Ka Mausam&#xA;Yahan Hum Yahan Tum&#xA;Sajni Ko Mil Gaye Saajan…&lt;/p&gt;&#xA;&lt;p&gt;Tumsa Koi Pyara Koi Masoom Nahi Hai&#xA;Kya Cheez Ho Tum Khud Tumhe Maloom Nahi Hai&lt;/p&gt;&#xA;</description>
+    </item>
+  </channel>
+</rss>
