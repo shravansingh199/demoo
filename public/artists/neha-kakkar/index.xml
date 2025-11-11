@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Neha Kakkar on demo 1</title>
+    <link>http://localhost:1313/artists/neha-kakkar/</link>
+    <description>Recent content in Neha Kakkar on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 22 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/artists/neha-kakkar/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Marjaneya lyrics - Neha Kakkar</title>
+      <link>http://localhost:1313/marjaneya-neha-kakkar-lyrics/</link>
+      <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/marjaneya-neha-kakkar-lyrics/</guid>
+      <description>Karda Rahen Ignore Ve Mainu&#xA;Labhgyi Lagda Hor Ve Tenu&#xA;Je Tu Pyar Naal Rakhna Hi Nahi&#xA;Fer Tu Vapis Tor Ve Mainu&#xA;Ik Paasa Karde Yaar</description>
+    </item>
+  </channel>
+</rss>

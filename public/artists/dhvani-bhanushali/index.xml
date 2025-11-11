@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dhvani Bhanushali on demo 1</title>
+    <link>http://localhost:1313/artists/dhvani-bhanushali/</link>
+    <description>Recent content in Dhvani Bhanushali on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 21 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/artists/dhvani-bhanushali/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Baby Girl lyrics - Guru Randhawa, Dhvani Bhanushali</title>
+      <link>http://localhost:1313/baby-girl-guru-randhawa-lyrics/</link>
+      <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/baby-girl-guru-randhawa-lyrics/</guid>
+      <description>Hoke Ni Taiyaar&#xA;Kitthe Chali Ghar Ton Baahar&#xA;Tenu Kihda Intezaar&#xA;Baby Girl, Baby Girl&#xA;Hoke Ve Taiyaar&#xA;Chali Shopping Nu Haan Yaar&#xA;Mere Bill Nu Chakk Le Bhaar</description>
+    </item>
+  </channel>
+</rss>
