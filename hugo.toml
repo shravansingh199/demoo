@@ -3,6 +3,10 @@ languageCode = 'en-us'
 title = 'demo 1'
 theme = 'my theme'
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
 [taxonomies]
 tag = "tags"
 category = "categories"
