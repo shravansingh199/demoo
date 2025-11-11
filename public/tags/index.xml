@@ -29,40 +29,5 @@
       <guid>http://localhost:1313/tags/red/</guid>
       <description></description>
     </item>
-    <item>
-      <title>Dev Negi</title>
-      <link>http://localhost:1313/tags/dev-negi/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/dev-negi/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Neeti Mohan</title>
-      <link>http://localhost:1313/tags/neeti-mohan/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/neeti-mohan/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Pratibha Singh Baghel</title>
-      <link>http://localhost:1313/tags/pratibha-singh-baghel/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/pratibha-singh-baghel/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tushar Joshi</title>
-      <link>http://localhost:1313/tags/tushar-joshi/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/tushar-joshi/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Vishal Mishra</title>
-      <link>http://localhost:1313/tags/vishal-mishra/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/vishal-mishra/</guid>
-      <description></description>
-    </item>
   </channel>
 </rss>

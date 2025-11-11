@@ -6,36 +6,8 @@
     <description>Recent content in Home on demo 1</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Nov 2025 22:08:12 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 14 Feb 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Test2</title>
-      <link>http://localhost:1313/my-test-page/</link>
-      <pubDate>Sat, 08 Nov 2025 22:08:12 +0530</pubDate>
-      <guid>http://localhost:1313/my-test-page/</guid>
-      <description>This is a test default summary.</description>
-    </item>
-    <item>
-      <title>test title</title>
-      <link>http://localhost:1313/my-page-hello/</link>
-      <pubDate>Sat, 08 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/my-page-hello/</guid>
-      <description>This is a test summary.</description>
-    </item>
-    <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/my-first-post/</link>
-      <pubDate>Fri, 07 Nov 2025 20:54:32 +0530</pubDate>
-      <guid>http://localhost:1313/my-first-post/</guid>
-      <description>&lt;p&gt;Hello people !!&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Welcome to Jekyll!</title>
-      <link>http://localhost:1313/2025-11-04-welcome-to-jekyll/</link>
-      <pubDate>Tue, 04 Nov 2025 15:48:53 +0000</pubDate>
-      <guid>http://localhost:1313/2025-11-04-welcome-to-jekyll/</guid>
-      <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;&#xA;&lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;YEAR-MONTH-DAY-title.MARKUP&lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;Where &lt;code&gt;YEAR&lt;/code&gt; is a four-digit number, &lt;code&gt;MONTH&lt;/code&gt; and &lt;code&gt;DAY&lt;/code&gt; are both two-digit numbers, and &lt;code&gt;MARKUP&lt;/code&gt; is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;</description>
-    </item>
     <item>
       <title>Aaj Bhi lyrics - Vishal Mishra</title>
       <link>http://localhost:1313/aaj-bhi-vishal-mishra-lyrics/</link>
@@ -65,32 +37,11 @@
       <description>&lt;p&gt;Tempor proident minim aliquip reprehenderit dolor et ad anim Lorem duis sint eiusmod. Labore ut ea duis dolor. Incididunt consectetur proident qui occaecat incididunt do nisi Lorem. Tempor do laborum elit laboris excepteur eiusmod do. Eiusmod nisi excepteur ut amet pariatur adipisicing Lorem.&lt;/p&gt;&#xA;&lt;p&gt;Occaecat nulla excepteur dolore excepteur duis eiusmod ullamco officia anim in voluptate ea occaecat officia. Cillum sint esse velit ea officia minim fugiat. Elit ea esse id aliquip pariatur cupidatat id duis minim incididunt ea ea. Anim ut duis sunt nisi. Culpa cillum sit voluptate voluptate eiusmod dolor. Enim nisi Lorem ipsum irure est excepteur voluptate eu in enim nisi. Nostrud ipsum Lorem anim sint labore consequat do.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>chand Da Tukda lyrics</title>
-      <link>http://localhost:1313/2025-05-09-chand-da-tukda-lyrics/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2025-05-09-chand-da-tukda-lyrics/</guid>
-      <description>&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Song&lt;/th&gt;&#xA;          &lt;th&gt;Chand Da Tukda&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Singer(s)&lt;/td&gt;&#xA;          &lt;td&gt;Tushar Joshi&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Composer&lt;/td&gt;&#xA;          &lt;td&gt;Rohit Kumar&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Lyrics&lt;/td&gt;&#xA;          &lt;td&gt;Rohit Kumar&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Year&lt;/td&gt;&#xA;          &lt;td&gt;2024&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Honthon Ki Teri Laali&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Zulfein Reshmi Kaali Kaali&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Mujhpe Jaadoo Kare&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;p&gt;Kaano Ki Yeh Baali&lt;br&gt;&#xA;Jo Machaaye Hai Tabaahi&lt;br&gt;&#xA;Dekh Dil Aahein Bhare&lt;/p&gt;&#xA;&lt;p&gt;Mera Aaj Tu, Mera Kal Hai Tu&lt;br&gt;&#xA;Din, Dopehar, Mera Shaam Tu&lt;br&gt;&#xA;Aankhein Moond Moond&lt;br&gt;&#xA;Raatein Main Jagne Laga&lt;/p&gt;&#xA;&lt;p&gt;[Chand Da Tukda Mukhda Tera&lt;br&gt;&#xA;Behlaaye, Dil Jalaaye Jaan-e-jaan] –(2)&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>First Kiss lyrics</title>
-      <link>http://localhost:1313/2025-11-03-first-kiss-lyrics/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2025-11-03-first-kiss-lyrics/</guid>
-      <description>&lt;table&gt;&#xD;&#xA;&lt;tr&gt;&#xD;&#xA;&lt;td&gt;Song&lt;/td&gt;&#xD;&#xA;&lt;td&gt;First Kiss&lt;/td&gt;&#xD;&#xA;&lt;/tr&gt;&#xD;&#xA;&lt;tr&gt;&#xD;&#xA;&lt;td&gt;Singer(s)&lt;/td&gt;&#xD;&#xA;&lt;td&gt;Yo Yo Honey Singh, Ipsitaa&lt;/td&gt;&#xD;&#xA;&lt;/tr&gt;&#xD;&#xA;&lt;tr&gt;&#xD;&#xA;&lt;td&gt;Music&lt;/td&gt;&#xD;&#xA;&lt;td&gt;Yo Yo Honey Singh&lt;/td&gt;&#xD;&#xA;&lt;/tr&gt;&#xD;&#xA;&lt;tr&gt;&#xD;&#xA;&lt;td&gt;Lyrics&lt;/td&gt;&#xD;&#xA;&lt;td&gt;Yo Yo Honey Singh, Lil Golu, Hommie Dilliwala, Singhsta&lt;/td&gt;&#xD;&#xA;&lt;/tr&gt;&#xD;&#xA;&lt;/table&gt;&#xD;&#xA;&lt;p&gt;Pyar Ki Pehli, First Kiss, Pyar Ki Pehli&amp;#8230;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Yo Yo Honey Singh&lt;br /&gt;&#xD;&#xA;Let Me Present, Ipsitaa&lt;/p&gt;&#xD;&#xA;&lt;p&gt;[Aye Yo! Seene Se Laga Ke&lt;br /&gt;&#xD;&#xA;Baanhon Me Mujhe Lelo&lt;br /&gt;&#xD;&#xA;Jaldi Hai Kaisi? I Like It Nice And Slow&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Meri Heartbeat Fast&lt;br /&gt;&#xD;&#xA;Par Sab Lage Mujhe Slo-Mo&lt;br /&gt;&#xD;&#xA;I Want You Right Now&lt;br /&gt;&#xD;&#xA;I Need You Right Now] &amp;#8211;(2)&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Saathiya lyrics - Vishal Mishra, Pratibha Singh Baghel</title>
-      <link>http://localhost:1313/2025-05-08-saathiya-lyrics-vishal-mishra-pratibha-singh-baghel/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2025-05-08-saathiya-lyrics-vishal-mishra-pratibha-singh-baghel/</guid>
-      <description>&lt;table&gt;&#xD;&#xA;&lt;tbody&gt;&#xD;&#xA;&lt;tr&gt;&#xD;&#xA;&lt;td&gt;Song&lt;/td&gt;&#xD;&#xA;&lt;td&gt;Saathiya&lt;/td&gt;&#xD;&#xA;&lt;/tr&gt;&#xD;&#xA;&lt;tr&gt;&#xD;&#xA;&lt;td&gt;Singer(s)&lt;/td&gt;&#xD;&#xA;&lt;td&gt;Vishal Mishra, Pratibha Singh Baghel&lt;/td&gt;&#xD;&#xA;&lt;/tr&gt;&#xD;&#xA;&lt;tr&gt;&#xD;&#xA;&lt;td&gt;Music&lt;/td&gt;&#xD;&#xA;&lt;td&gt;Shankar-Ehsaan-Loy&lt;/td&gt;&#xD;&#xA;&lt;/tr&gt;&#xD;&#xA;&lt;tr&gt;&#xD;&#xA;&lt;td&gt;Lyrics&lt;/td&gt;&#xD;&#xA;&lt;td&gt;Javed Akhtar&lt;/td&gt;&#xD;&#xA;&lt;/tr&gt;&#xD;&#xA;&lt;tr&gt;&#xD;&#xA;&lt;td&gt;Movie&lt;/td&gt;&#xD;&#xA;&lt;td&gt;Yudhra (2024)&lt;/td&gt;&#xD;&#xA;&lt;/tr&gt;&#xD;&#xA;&lt;/tbody&gt;&#xD;&#xA;&lt;/table&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Jaage Jaage Jazbaat Bhi Hain&lt;/em&gt;&lt;br /&gt;&#xD;&#xA;&lt;em&gt;Pighli Pighli Lamhaat Bhi Hain&lt;/em&gt;&lt;br /&gt;&#xD;&#xA;&lt;em&gt;Behki Behki Hai Tanhaayi&lt;/em&gt;&lt;br /&gt;&#xD;&#xA;&lt;em&gt;Mehke Mehke Din Raat Bhi Hain&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Jo Tum Mile Toh Dil Khile&lt;br /&gt;&#xD;&#xA;Jaan-e-jaan, Itne Din Tum The Kahan&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Jo Thi Doori, Thi Majboori&lt;br /&gt;&#xD;&#xA;Jaan-e-jaan, Ab Hum Hain Saath Yahan&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Din Din Bhar Thi Yaad Teri&lt;br /&gt;&#xD;&#xA;Sooni Sooni Thi Har Raat Meri&lt;br /&gt;&#xD;&#xA;Saathiya, Saathiya&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Tere Dar Pe Sanam lyrics - Vishal Mishra, Dev Negi, Neeti Mohan</title>
-      <link>http://localhost:1313/2025-05-08-tere-dar-pe-sanam-lyrics---vishal-mishra/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2025-05-08-tere-dar-pe-sanam-lyrics---vishal-mishra/</guid>
-      <description>&lt;table&gt;&#xD;&#xA;&lt;tbody&gt;&#xD;&#xA;&lt;tr&gt;&#xD;&#xA;&lt;td&gt;Song&lt;/td&gt;&#xD;&#xA;&lt;td&gt;Tere Dar Pe Sanam&lt;/td&gt;&#xD;&#xA;&lt;/tr&gt;&#xD;&#xA;&lt;tr&gt;&#xD;&#xA;&lt;td&gt;Singer(s)&lt;/td&gt;&#xD;&#xA;&lt;td&gt;Dev Negi, Neeti Mohan&lt;/td&gt;&#xD;&#xA;&lt;/tr&gt;&#xD;&#xA;&lt;tr&gt;&#xD;&#xA;&lt;td&gt;Music&lt;/td&gt;&#xD;&#xA;&lt;td&gt;KS Abhishek&lt;/td&gt;&#xD;&#xA;&lt;/tr&gt;&#xD;&#xA;&lt;tr&gt;&#xD;&#xA;&lt;td&gt;Lyrics&lt;/td&gt;&#xD;&#xA;&lt;td&gt;A Bazz, KS Abhishek, Qateel Shafai&lt;/td&gt;&#xD;&#xA;&lt;/tr&gt;&#xD;&#xA;&lt;tr&gt;&#xD;&#xA;&lt;td&gt;Short Film&lt;/td&gt;&#xD;&#xA;&lt;td&gt;Beinteha (2024)&lt;/td&gt;&#xD;&#xA;&lt;/tr&gt;&#xD;&#xA;&lt;/tbody&gt;&#xD;&#xA;&lt;/table&gt;&#xD;&#xA;&lt;p&gt;Door Reh Kar Bhi Mere Tum Paas Rehti Ho&lt;br /&gt;&#xD;&#xA;&lt;em&gt;Girl, You&amp;#8217;re My Darling &amp;#8211;(2)&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Jo Bhi Kasmein Vaade Humne Kiye The&lt;br /&gt;&#xD;&#xA;Unko Nibhaati Ho&lt;br /&gt;&#xD;&#xA;&lt;em&gt;You&amp;#8217;re My Darling, Girl&lt;/em&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Sau Dafa Maine Hai Ki Nadaani&lt;br /&gt;&#xD;&#xA;Tujhe Ek Baar Dekh Loon, Neend Na Aani&lt;/p&gt;</description>
+      <title>First Kiss lyrics - Yo Yo Honey Singh, Ipsitaa</title>
+      <link>http://localhost:1313/first-kiss-yo-yo-honey-singh-lyrics/</link>
+      <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/first-kiss-yo-yo-honey-singh-lyrics/</guid>
+      <description>Pyar Ki Pehli, First Kiss, Pyar Ki Pehli&amp;hellip;&#xA;Yo Yo Honey Singh&#xA;Let Me Present, Ipsitaa&#xA;Aye Yo! Seene Se Laga Ke&#xA;Baanhon Me Mujhe Lelo&#xA;Jaldi Hai Kaisi? I Like It Nice And Slow</description>
     </item>
   </channel>
 </rss>

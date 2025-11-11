@@ -6,27 +6,27 @@
     <description>Recent content in Artists on demo 1</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Nov 2025 22:08:12 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 14 Feb 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/artists/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Honey Singh</title>
-      <link>http://localhost:1313/artists/honey-singh/</link>
-      <pubDate>Sat, 08 Nov 2025 22:08:12 +0530</pubDate>
-      <guid>http://localhost:1313/artists/honey-singh/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Real Badshah</title>
-      <link>http://localhost:1313/artists/real-badshah/</link>
-      <pubDate>Sat, 08 Nov 2025 22:08:12 +0530</pubDate>
-      <guid>http://localhost:1313/artists/real-badshah/</guid>
-      <description></description>
-    </item>
     <item>
       <title>Vishal Mishra</title>
       <link>http://localhost:1313/artists/vishal-mishra/</link>
       <pubDate>Fri, 14 Feb 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/artists/vishal-mishra/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ipsitaa</title>
+      <link>http://localhost:1313/artists/ipsitaa/</link>
+      <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/ipsitaa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Yo Yo Honey Singh</title>
+      <link>http://localhost:1313/artists/yo-yo-honey-singh/</link>
+      <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/yo-yo-honey-singh/</guid>
       <description></description>
     </item>
   </channel>
