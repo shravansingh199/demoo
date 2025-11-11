@@ -37,6 +37,13 @@
       <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;&#xA;&lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;YEAR-MONTH-DAY-title.MARKUP&lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;Where &lt;code&gt;YEAR&lt;/code&gt; is a four-digit number, &lt;code&gt;MONTH&lt;/code&gt; and &lt;code&gt;DAY&lt;/code&gt; are both two-digit numbers, and &lt;code&gt;MARKUP&lt;/code&gt; is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Aaj Bhi lyrics - Vishal Mishra</title>
+      <link>http://localhost:1313/aaj-bhi-vishal-mishra-lyrics/</link>
+      <pubDate>Fri, 14 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/aaj-bhi-vishal-mishra-lyrics/</guid>
+      <description>Na Dard Hai, Na Gham Tere Na Ishq Hai, Na Teri Woh Chaahatein Haan, Khush Hoon Main Tere Bina Na Mujhme Bachi Kahin Teri Aadatein</description>
+    </item>
+    <item>
       <title>Post 3</title>
       <link>http://localhost:1313/posts/post-3/</link>
       <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>

@@ -22,5 +22,12 @@
       <guid>http://localhost:1313/artists/real-badshah/</guid>
       <description></description>
     </item>
+    <item>
+      <title>Vishal Mishra</title>
+      <link>http://localhost:1313/artists/vishal-mishra/</link>
+      <pubDate>Fri, 14 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/vishal-mishra/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
