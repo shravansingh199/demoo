@@ -11,6 +11,9 @@
     <loc>http://localhost:1313/artists/</loc>
     <lastmod>2025-02-14T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/old/</loc>
+    <lastmod>2025-02-14T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/albums/singles/</loc>
     <lastmod>2025-02-14T00:00:00+00:00</lastmod>
   </url><url>
@@ -44,19 +47,37 @@
     <loc>http://localhost:1313/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/banjaara-ek-villain-lyrics/</loc>
+    <lastmod>2021-03-23T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/chal-wahin-chalein-lyrics/</loc>
+    <lastmod>2021-03-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/chupke-chupke-raat-din-lyrics/</loc>
     <lastmod>2021-03-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/artists/darshan-raval/</loc>
     <lastmod>2021-03-23T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/albums/ek-villain-2014/</loc>
+    <lastmod>2021-03-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/artists/ghulam-ali/</loc>
+    <lastmod>2021-03-23T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/artists/guru-randhawa/</loc>
+    <lastmod>2021-03-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/artists/mohammed-irfan/</loc>
     <lastmod>2021-03-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/munde-mar-gaye-lyrics/</loc>
     <lastmod>2021-03-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/artists/neeti-mohan/</loc>
+    <lastmod>2021-03-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/albums/nikaah-1982/</loc>
     <lastmod>2021-03-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/pagalpan-tanishq-kaur-lyrics/</loc>
