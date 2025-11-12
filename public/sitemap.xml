@@ -11,9 +11,6 @@
     <loc>http://localhost:1313/artists/</loc>
     <lastmod>2025-02-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/first-10/</loc>
-    <lastmod>2025-02-14T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/albums/singles/</loc>
     <lastmod>2025-02-14T00:00:00+00:00</lastmod>
   </url><url>
@@ -47,6 +44,15 @@
     <loc>http://localhost:1313/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/artists/darshan-raval/</loc>
+    <lastmod>2021-03-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/artists/neeti-mohan/</loc>
+    <lastmod>2021-03-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/vilayati-sharaab-lyrics/</loc>
+    <lastmod>2021-03-23T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/artists/asees-kaur/</loc>
     <lastmod>2021-03-22T00:00:00+00:00</lastmod>
   </url><url>
@@ -62,6 +68,9 @@
     <loc>http://localhost:1313/albums/happy-hardy-and-heer-2020/</loc>
     <lastmod>2021-03-22T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/har-funn-maula-lyrics/</loc>
+    <lastmod>2021-03-22T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/artists/harshdeep-kaur/</loc>
     <lastmod>2021-03-22T00:00:00+00:00</lastmod>
   </url><url>
@@ -69,6 +78,9 @@
     <lastmod>2021-03-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/artists/jubin-nautiyal/</loc>
+    <lastmod>2021-03-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/albums/koi-jaane-na-2021/</loc>
     <lastmod>2021-03-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/lut-gaye-jubin-nautiyal-lyrics/</loc>
@@ -90,6 +102,12 @@
     <lastmod>2021-03-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/artists/udit-narayan/</loc>
+    <lastmod>2021-03-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/artists/vishal-dadlani/</loc>
+    <lastmod>2021-03-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/artists/zara-khan/</loc>
     <lastmod>2021-03-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/artists/alka-yagnik/</loc>
