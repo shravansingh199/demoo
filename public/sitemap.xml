@@ -44,10 +44,46 @@
     <loc>http://localhost:1313/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/artists/asees-kaur/</loc>
+    <lastmod>2021-03-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/bheed-mein-udit-narayan-lyrics/</loc>
+    <lastmod>2021-03-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/artists/dhvani-bhanushali/</loc>
+    <lastmod>2021-03-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/albums/happy-hardy-and-heer-2020/</loc>
+    <lastmod>2021-03-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/artists/harshdeep-kaur/</loc>
+    <lastmod>2021-03-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/ishqbaaziyaan-jubin-nautiyal-lyrics/</loc>
+    <lastmod>2021-03-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/artists/jubin-nautiyal/</loc>
+    <lastmod>2021-03-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/lut-gaye-jubin-nautiyal-lyrics/</loc>
+    <lastmod>2021-03-22T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/marjaneya-neha-kakkar-lyrics/</loc>
     <lastmod>2021-03-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/artists/neha-kakkar/</loc>
+    <lastmod>2021-03-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/radha-dhvani-bhanushali-lyrics/</loc>
+    <lastmod>2021-03-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/artists/shreya-ghoshal/</loc>
+    <lastmod>2021-03-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/albums/tumsa-nahin-dekha-2004/</loc>
+    <lastmod>2021-03-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/artists/udit-narayan/</loc>
     <lastmod>2021-03-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/artists/alka-yagnik/</loc>
@@ -60,9 +96,6 @@
     <lastmod>2021-03-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/albums/chhalaang-2020/</loc>
-    <lastmod>2021-03-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/artists/dhvani-bhanushali/</loc>
     <lastmod>2021-03-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/first-kiss-yo-yo-honey-singh-lyrics/</loc>
