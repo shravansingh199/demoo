@@ -15,7 +15,7 @@
   <h4>Artists:
   {{ range $index, $element := . }}
     {{ if $index }}, {{ end }}
-    <a href="{{ "/artists/" | relLangURL }}{{ $element | urlize }}">{{ $element }}</a>
+    <a href="{{ (printf "artists/%s" ($element | urlize)) | relURL }}">{{ $element }}</a>
   {{ end }}
   </h4>
 {{ end }}
