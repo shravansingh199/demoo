@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Time to Dance (2021) on demo 1</title>
+    <link>http://localhost:1313/albums/time-to-dance-2021/</link>
+    <description>Recent content in Time to Dance (2021) on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 23 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/albums/time-to-dance-2021/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Munde Mar Gaye lyrics - Time to Dance</title>
+      <link>http://localhost:1313/munde-mar-gaye-lyrics/</link>
+      <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/munde-mar-gaye-lyrics/</guid>
+      <description>Na Na Kar Inkaar Goriye Ni&#xA;Daily De Kinne Munde Sooliyan Te Chadh Gaye&#xA;Mar Gaye Mar Gaye Mar Gaye</description>
+    </item>
+  </channel>
+</rss>

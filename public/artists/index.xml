@@ -23,10 +23,31 @@
       <description></description>
     </item>
     <item>
+      <title>Guru Randhawa</title>
+      <link>http://localhost:1313/artists/guru-randhawa/</link>
+      <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/guru-randhawa/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Neeti Mohan</title>
       <link>http://localhost:1313/artists/neeti-mohan/</link>
       <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/artists/neeti-mohan/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Shreya Ghoshal</title>
+      <link>http://localhost:1313/artists/shreya-ghoshal/</link>
+      <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/shreya-ghoshal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tanishq Kaur</title>
+      <link>http://localhost:1313/artists/tanishq-kaur/</link>
+      <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/tanishq-kaur/</guid>
       <description></description>
     </item>
     <item>
@@ -65,13 +86,6 @@
       <description></description>
     </item>
     <item>
-      <title>Shreya Ghoshal</title>
-      <link>http://localhost:1313/artists/shreya-ghoshal/</link>
-      <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/artists/shreya-ghoshal/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Udit Narayan</title>
       <link>http://localhost:1313/artists/udit-narayan/</link>
       <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
@@ -97,13 +111,6 @@
       <link>http://localhost:1313/artists/alka-yagnik/</link>
       <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/artists/alka-yagnik/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Guru Randhawa</title>
-      <link>http://localhost:1313/artists/guru-randhawa/</link>
-      <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/artists/guru-randhawa/</guid>
       <description></description>
     </item>
     <item>

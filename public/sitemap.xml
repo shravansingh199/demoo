@@ -44,10 +44,34 @@
     <loc>http://localhost:1313/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/chal-wahin-chalein-lyrics/</loc>
+    <lastmod>2021-03-23T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/artists/darshan-raval/</loc>
     <lastmod>2021-03-23T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/artists/guru-randhawa/</loc>
+    <lastmod>2021-03-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/munde-mar-gaye-lyrics/</loc>
+    <lastmod>2021-03-23T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/artists/neeti-mohan/</loc>
+    <lastmod>2021-03-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/pagalpan-tanishq-kaur-lyrics/</loc>
+    <lastmod>2021-03-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/albums/saina-2021/</loc>
+    <lastmod>2021-03-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/artists/shreya-ghoshal/</loc>
+    <lastmod>2021-03-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/artists/tanishq-kaur/</loc>
+    <lastmod>2021-03-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/albums/time-to-dance-2021/</loc>
     <lastmod>2021-03-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/vilayati-sharaab-lyrics/</loc>
@@ -95,9 +119,6 @@
     <loc>http://localhost:1313/radha-dhvani-bhanushali-lyrics/</loc>
     <lastmod>2021-03-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/artists/shreya-ghoshal/</loc>
-    <lastmod>2021-03-22T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/albums/tumsa-nahin-dekha-2004/</loc>
     <lastmod>2021-03-22T00:00:00+00:00</lastmod>
   </url><url>
@@ -123,9 +144,6 @@
     <lastmod>2021-03-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/first-kiss-yo-yo-honey-singh-lyrics/</loc>
-    <lastmod>2021-03-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/artists/guru-randhawa/</loc>
     <lastmod>2021-03-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/artists/ipsitaa/</loc>
