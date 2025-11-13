@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Himesh Reshammiya on demo 1</title>
+    <link>https://example.org/artists/himesh-reshammiya/</link>
+    <description>Recent content in Himesh Reshammiya on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 25 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.org/artists/himesh-reshammiya/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aadat lyrics - Happy Hardy And Heer</title>
+      <link>https://example.org/aadat-happy-hardy-heer-lyrics/</link>
+      <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.org/aadat-happy-hardy-heer-lyrics/</guid>
+      <description>Badi Hi Nasheeli Sangat Teri&#xA;Tu Hai Meri Aadat Buri&#xA;Betaabiyon Me Teri&#xA;Jaayegi Jaan Yeh Meri</description>
+    </item>
+  </channel>
+</rss>
