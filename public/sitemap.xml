@@ -47,7 +47,19 @@
     <loc>https://example.org/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url><url>
+    <loc>https://example.org/aaj-se-teri-lyrics/</loc>
+    <lastmod>2021-03-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/artists/abhijeet-bhattacharya/</loc>
+    <lastmod>2021-03-24T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://example.org/artists/alka-yagnik/</loc>
+    <lastmod>2021-03-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/artists/arijit-singh/</loc>
+    <lastmod>2021-03-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/albums/chalte-chalte-2003/</loc>
     <lastmod>2021-03-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.org/artists/dhvani-bhanushali/</loc>
@@ -68,6 +80,9 @@
     <loc>https://example.org/milegi-milegi-lyrics/</loc>
     <lastmod>2021-03-24T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://example.org/albums/padman-2018/</loc>
+    <lastmod>2021-03-24T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://example.org/panchhi-nadiyan-pawan-ke-lyrics/</loc>
     <lastmod>2021-03-24T00:00:00+00:00</lastmod>
   </url><url>
@@ -78,6 +93,9 @@
     <lastmod>2021-03-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.org/albums/stree-2018/</loc>
+    <lastmod>2021-03-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/tauba-tumhare-lyrics/</loc>
     <lastmod>2021-03-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.org/aur-pyaar-karna-hai-lyrics/</loc>
