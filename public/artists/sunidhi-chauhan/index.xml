@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Shaan on demo 1</title>
-    <link>https://example.org/artists/shaan/</link>
-    <description>Recent content in Shaan on demo 1</description>
+    <title>Sunidhi Chauhan on demo 1</title>
+    <link>https://example.org/artists/sunidhi-chauhan/</link>
+    <description>Recent content in Sunidhi Chauhan on demo 1</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 26 Mar 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/artists/shaan/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/artists/sunidhi-chauhan/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hey Shona lyrics - Shaan, Sunidhi Chauhan</title>
       <link>https://example.org/hey-shona-ta-ra-rum-pum/</link>
@@ -16,11 +16,11 @@
       <description>Tumhe Pata Toh Hoga&#xA;Tumhi Pe Main Fida Hoon&#xA;Tumhe Hai Jab Se Chaaha&#xA;Hawaaon Me Udta Hoon</description>
     </item>
     <item>
-      <title>Ta Ra Rum Pum - Title Track lyrics</title>
-      <link>https://example.org/ta-ra-rum-pum-title-track-lyrics/</link>
-      <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/ta-ra-rum-pum-title-track-lyrics/</guid>
-      <description>TA Jo Gire Toh&#xA;RA De Sahara&#xA;MA Pal Me Samjhe&#xA;PA Ka Ishara&#xA;Ye TA Ye RA Ye MA Ye PA&#xA;Agar Mil Jaye Toh</description>
+      <title>Kajra Kajra Kajraare lyrics</title>
+      <link>https://example.org/kajra-kajra-kajraare-himesh-reshammiya/</link>
+      <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.org/kajra-kajra-kajraare-himesh-reshammiya/</guid>
+      <description>Na Main Jaaga, Na Main Soya&#xA;Tujhko Dekh Ke Sudh-Budh Khoya&#xA;Maar Gaye..&#xA;Mati Maar Gaye Matwaare</description>
     </item>
   </channel>
 </rss>

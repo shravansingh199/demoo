@@ -47,6 +47,18 @@
     <loc>https://example.org/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url><url>
+    <loc>https://example.org/falak-tak-tashan/</loc>
+    <lastmod>2021-03-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/artists/mahalakshmi-iyer/</loc>
+    <lastmod>2021-03-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/albums/tashan-2008/</loc>
+    <lastmod>2021-03-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/artists/udit-narayan/</loc>
+    <lastmod>2021-03-27T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://example.org/artists/armaan-malik/</loc>
     <lastmod>2021-03-26T00:00:00+00:00</lastmod>
   </url><url>
@@ -62,6 +74,12 @@
     <loc>https://example.org/artists/divya-kumar/</loc>
     <lastmod>2021-03-26T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://example.org/hey-shona-ta-ra-rum-pum/</loc>
+    <lastmod>2021-03-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/artists/himesh-reshammiya/</loc>
+    <lastmod>2021-03-26T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://example.org/artists/ip-singh/</loc>
     <lastmod>2021-03-26T00:00:00+00:00</lastmod>
   </url><url>
@@ -69,6 +87,12 @@
     <lastmod>2021-03-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.org/artists/jubin-nautiyal/</loc>
+    <lastmod>2021-03-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/kajra-kajra-kajraare-himesh-reshammiya/</loc>
+    <lastmod>2021-03-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/albums/kajraare-2010/</loc>
     <lastmod>2021-03-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.org/artists/kamaal-khan/</loc>
@@ -110,13 +134,19 @@
     <loc>https://example.org/albums/saina-2021/</loc>
     <lastmod>2021-03-26T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://example.org/artists/shaan/</loc>
+    <lastmod>2021-03-26T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://example.org/artists/shamur/</loc>
     <lastmod>2021-03-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.org/artists/sneha-pant/</loc>
     <lastmod>2021-03-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/artists/udit-narayan/</loc>
+    <loc>https://example.org/artists/sunidhi-chauhan/</loc>
+    <lastmod>2021-03-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/albums/ta-ra-rum-pum-2007/</loc>
     <lastmod>2021-03-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.org/aadat-happy-hardy-heer-lyrics/</loc>
@@ -134,9 +164,6 @@
     <loc>https://example.org/haule-haule-rab-ne-bana-di-jodi-lyrics/</loc>
     <lastmod>2021-03-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/artists/himesh-reshammiya/</loc>
-    <lastmod>2021-03-25T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://example.org/ishq-namazaa-lyrics/</loc>
     <lastmod>2021-03-25T00:00:00+00:00</lastmod>
   </url><url>
@@ -149,9 +176,6 @@
     <loc>https://example.org/albums/krrish-2006/</loc>
     <lastmod>2021-03-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/artists/mahalakshmi-iyer/</loc>
-    <lastmod>2021-03-25T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://example.org/oye-hoye-hoye-jassie-gill-lyrics/</loc>
     <lastmod>2021-03-25T00:00:00+00:00</lastmod>
   </url><url>
@@ -162,9 +186,6 @@
     <lastmod>2021-03-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.org/artists/ranu-mondal/</loc>
-    <lastmod>2021-03-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.org/artists/shaan/</loc>
     <lastmod>2021-03-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.org/artists/shalmali-kholgade/</loc>
@@ -183,9 +204,6 @@
     <lastmod>2021-03-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.org/ta-ra-rum-pum-title-track-lyrics/</loc>
-    <lastmod>2021-03-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.org/albums/ta-ra-rum-pum-2007/</loc>
     <lastmod>2021-03-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.org/tanha-hoon-yasser-desai-lyrics/</loc>

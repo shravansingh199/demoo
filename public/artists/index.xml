@@ -16,6 +16,20 @@
       <description></description>
     </item>
     <item>
+      <title>Mahalakshmi Iyer</title>
+      <link>https://example.org/artists/mahalakshmi-iyer/</link>
+      <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.org/artists/mahalakshmi-iyer/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Udit Narayan</title>
+      <link>https://example.org/artists/udit-narayan/</link>
+      <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.org/artists/udit-narayan/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Armaan Malik</title>
       <link>https://example.org/artists/armaan-malik/</link>
       <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
@@ -34,6 +48,13 @@
       <link>https://example.org/artists/divya-kumar/</link>
       <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
       <guid>https://example.org/artists/divya-kumar/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Himesh Reshammiya</title>
+      <link>https://example.org/artists/himesh-reshammiya/</link>
+      <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.org/artists/himesh-reshammiya/</guid>
       <description></description>
     </item>
     <item>
@@ -86,6 +107,13 @@
       <description></description>
     </item>
     <item>
+      <title>Shaan</title>
+      <link>https://example.org/artists/shaan/</link>
+      <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.org/artists/shaan/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Shamur</title>
       <link>https://example.org/artists/shamur/</link>
       <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
@@ -100,10 +128,10 @@
       <description></description>
     </item>
     <item>
-      <title>Udit Narayan</title>
-      <link>https://example.org/artists/udit-narayan/</link>
+      <title>Sunidhi Chauhan</title>
+      <link>https://example.org/artists/sunidhi-chauhan/</link>
       <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/artists/udit-narayan/</guid>
+      <guid>https://example.org/artists/sunidhi-chauhan/</guid>
       <description></description>
     </item>
     <item>
@@ -114,24 +142,10 @@
       <description></description>
     </item>
     <item>
-      <title>Himesh Reshammiya</title>
-      <link>https://example.org/artists/himesh-reshammiya/</link>
-      <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/artists/himesh-reshammiya/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Jassie Gill</title>
       <link>https://example.org/artists/jassie-gill/</link>
       <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
       <guid>https://example.org/artists/jassie-gill/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Mahalakshmi Iyer</title>
-      <link>https://example.org/artists/mahalakshmi-iyer/</link>
-      <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/artists/mahalakshmi-iyer/</guid>
       <description></description>
     </item>
     <item>
@@ -146,13 +160,6 @@
       <link>https://example.org/artists/ranu-mondal/</link>
       <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
       <guid>https://example.org/artists/ranu-mondal/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Shaan</title>
-      <link>https://example.org/artists/shaan/</link>
-      <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/artists/shaan/</guid>
       <description></description>
     </item>
     <item>
