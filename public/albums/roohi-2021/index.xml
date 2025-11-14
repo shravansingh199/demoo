@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Roohi (2021) on demo 1</title>
+    <link>http://localhost:1313/albums/roohi-2021/</link>
+    <description>Recent content in Roohi (2021) on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 26 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/albums/roohi-2021/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nadiyon Paar (Let the Music Play Again) lyrics</title>
+      <link>http://localhost:1313/nadiyon-paar-roohi/</link>
+      <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/nadiyon-paar-roohi/</guid>
+      <description>Nadiyon Paar Sajan Da Thaana&#xA;Keete Kol Jaroori Jaana</description>
+    </item>
+    <item>
+      <title>Panghat lyrics - Roohi</title>
+      <link>http://localhost:1313/panghat-roohi/</link>
+      <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/panghat-roohi/</guid>
+      <description>Julmi Badi Aukat Pe Ye Raat Aayi Hai&#xA;Mann Toh Hai Mera Paawan Magar Yovan Harjaayi Hai</description>
+    </item>
+  </channel>
+</rss>

@@ -2,269 +2,304 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Artists on demo 1</title>
-    <link>https://example.org/artists/</link>
+    <link>http://localhost:1313/artists/</link>
     <description>Recent content in Artists on demo 1</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 14 Feb 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/artists/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/artists/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Vishal Mishra</title>
-      <link>https://example.org/artists/vishal-mishra/</link>
+      <link>http://localhost:1313/artists/vishal-mishra/</link>
       <pubDate>Fri, 14 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.org/artists/vishal-mishra/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Ankit Tiwari</title>
-      <link>https://example.org/artists/ankit-tiwari/</link>
-      <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/artists/ankit-tiwari/</guid>
+      <guid>http://localhost:1313/artists/vishal-mishra/</guid>
       <description></description>
     </item>
     <item>
       <title>Asees Kaur</title>
-      <link>https://example.org/artists/asees-kaur/</link>
-      <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/artists/asees-kaur/</guid>
+      <link>http://localhost:1313/artists/asees-kaur/</link>
+      <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/asees-kaur/</guid>
       <description></description>
     </item>
     <item>
-      <title>Himesh Reshammiya</title>
-      <link>https://example.org/artists/himesh-reshammiya/</link>
-      <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/artists/himesh-reshammiya/</guid>
+      <title>Divya Kumar</title>
+      <link>http://localhost:1313/artists/divya-kumar/</link>
+      <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/divya-kumar/</guid>
       <description></description>
     </item>
     <item>
-      <title>Jassie Gill</title>
-      <link>https://example.org/artists/jassie-gill/</link>
-      <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/artists/jassie-gill/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Mahalakshmi Iyer</title>
-      <link>https://example.org/artists/mahalakshmi-iyer/</link>
-      <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/artists/mahalakshmi-iyer/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Rabbi Shergill</title>
-      <link>https://example.org/artists/rabbi-shergill/</link>
-      <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/artists/rabbi-shergill/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Ranu Mondal</title>
-      <link>https://example.org/artists/ranu-mondal/</link>
-      <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/artists/ranu-mondal/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Shaan</title>
-      <link>https://example.org/artists/shaan/</link>
-      <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/artists/shaan/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Shalmali Kholgade</title>
-      <link>https://example.org/artists/shalmali-kholgade/</link>
-      <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/artists/shalmali-kholgade/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Simar Kaur</title>
-      <link>https://example.org/artists/simar-kaur/</link>
-      <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/artists/simar-kaur/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Sukhwinder Singh</title>
-      <link>https://example.org/artists/sukhwinder-singh/</link>
-      <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/artists/sukhwinder-singh/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Vishal Dadlani</title>
-      <link>https://example.org/artists/vishal-dadlani/</link>
-      <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/artists/vishal-dadlani/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Yasser Desai</title>
-      <link>https://example.org/artists/yasser-desai/</link>
-      <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/artists/yasser-desai/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Abhijeet Bhattacharya</title>
-      <link>https://example.org/artists/abhijeet-bhattacharya/</link>
-      <pubDate>Wed, 24 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/artists/abhijeet-bhattacharya/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Alka Yagnik</title>
-      <link>https://example.org/artists/alka-yagnik/</link>
-      <pubDate>Wed, 24 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/artists/alka-yagnik/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Arijit Singh</title>
-      <link>https://example.org/artists/arijit-singh/</link>
-      <pubDate>Wed, 24 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/artists/arijit-singh/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Dhvani Bhanushali</title>
-      <link>https://example.org/artists/dhvani-bhanushali/</link>
-      <pubDate>Wed, 24 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/artists/dhvani-bhanushali/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Guru Randhawa</title>
-      <link>https://example.org/artists/guru-randhawa/</link>
-      <pubDate>Wed, 24 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/artists/guru-randhawa/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Mika Singh</title>
-      <link>https://example.org/artists/mika-singh/</link>
-      <pubDate>Wed, 24 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/artists/mika-singh/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Payal Dev</title>
-      <link>https://example.org/artists/payal-dev/</link>
-      <pubDate>Wed, 24 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/artists/payal-dev/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Sonu Nigam</title>
-      <link>https://example.org/artists/sonu-nigam/</link>
-      <pubDate>Wed, 24 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/artists/sonu-nigam/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Darshan Raval</title>
-      <link>https://example.org/artists/darshan-raval/</link>
-      <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/artists/darshan-raval/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Ghulam Ali</title>
-      <link>https://example.org/artists/ghulam-ali/</link>
-      <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/artists/ghulam-ali/</guid>
+      <title>IP Singh</title>
+      <link>http://localhost:1313/artists/ip-singh/</link>
+      <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/ip-singh/</guid>
       <description></description>
     </item>
     <item>
       <title>Jubin Nautiyal</title>
-      <link>https://example.org/artists/jubin-nautiyal/</link>
-      <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/artists/jubin-nautiyal/</guid>
+      <link>http://localhost:1313/artists/jubin-nautiyal/</link>
+      <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/jubin-nautiyal/</guid>
       <description></description>
     </item>
     <item>
-      <title>Mohammed Irfan</title>
-      <link>https://example.org/artists/mohammed-irfan/</link>
-      <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/artists/mohammed-irfan/</guid>
+      <title>Mellow D</title>
+      <link>http://localhost:1313/artists/mellow-d/</link>
+      <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/mellow-d/</guid>
       <description></description>
     </item>
     <item>
-      <title>Neeti Mohan</title>
-      <link>https://example.org/artists/neeti-mohan/</link>
-      <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/artists/neeti-mohan/</guid>
+      <title>Rashmeet Kaur</title>
+      <link>http://localhost:1313/artists/rashmeet-kaur/</link>
+      <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/rashmeet-kaur/</guid>
       <description></description>
     </item>
     <item>
-      <title>Neha Kakkar</title>
-      <link>https://example.org/artists/neha-kakkar/</link>
-      <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/artists/neha-kakkar/</guid>
+      <title>Shamur</title>
+      <link>http://localhost:1313/artists/shamur/</link>
+      <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/shamur/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ankit Tiwari</title>
+      <link>http://localhost:1313/artists/ankit-tiwari/</link>
+      <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/ankit-tiwari/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Himesh Reshammiya</title>
+      <link>http://localhost:1313/artists/himesh-reshammiya/</link>
+      <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/himesh-reshammiya/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Jassie Gill</title>
+      <link>http://localhost:1313/artists/jassie-gill/</link>
+      <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/jassie-gill/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mahalakshmi Iyer</title>
+      <link>http://localhost:1313/artists/mahalakshmi-iyer/</link>
+      <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/mahalakshmi-iyer/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rabbi Shergill</title>
+      <link>http://localhost:1313/artists/rabbi-shergill/</link>
+      <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/rabbi-shergill/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ranu Mondal</title>
+      <link>http://localhost:1313/artists/ranu-mondal/</link>
+      <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/ranu-mondal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Shaan</title>
+      <link>http://localhost:1313/artists/shaan/</link>
+      <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/shaan/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Shalmali Kholgade</title>
+      <link>http://localhost:1313/artists/shalmali-kholgade/</link>
+      <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/shalmali-kholgade/</guid>
       <description></description>
     </item>
     <item>
       <title>Shreya Ghoshal</title>
-      <link>https://example.org/artists/shreya-ghoshal/</link>
+      <link>http://localhost:1313/artists/shreya-ghoshal/</link>
+      <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/shreya-ghoshal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Simar Kaur</title>
+      <link>http://localhost:1313/artists/simar-kaur/</link>
+      <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/simar-kaur/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sonu Nigam</title>
+      <link>http://localhost:1313/artists/sonu-nigam/</link>
+      <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/sonu-nigam/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sukhwinder Singh</title>
+      <link>http://localhost:1313/artists/sukhwinder-singh/</link>
+      <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/sukhwinder-singh/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vishal Dadlani</title>
+      <link>http://localhost:1313/artists/vishal-dadlani/</link>
+      <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/vishal-dadlani/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Yasser Desai</title>
+      <link>http://localhost:1313/artists/yasser-desai/</link>
+      <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/yasser-desai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Abhijeet Bhattacharya</title>
+      <link>http://localhost:1313/artists/abhijeet-bhattacharya/</link>
+      <pubDate>Wed, 24 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/abhijeet-bhattacharya/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Alka Yagnik</title>
+      <link>http://localhost:1313/artists/alka-yagnik/</link>
+      <pubDate>Wed, 24 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/alka-yagnik/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Arijit Singh</title>
+      <link>http://localhost:1313/artists/arijit-singh/</link>
+      <pubDate>Wed, 24 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/arijit-singh/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dhvani Bhanushali</title>
+      <link>http://localhost:1313/artists/dhvani-bhanushali/</link>
+      <pubDate>Wed, 24 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/dhvani-bhanushali/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Guru Randhawa</title>
+      <link>http://localhost:1313/artists/guru-randhawa/</link>
+      <pubDate>Wed, 24 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/guru-randhawa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mika Singh</title>
+      <link>http://localhost:1313/artists/mika-singh/</link>
+      <pubDate>Wed, 24 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/mika-singh/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Payal Dev</title>
+      <link>http://localhost:1313/artists/payal-dev/</link>
+      <pubDate>Wed, 24 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/payal-dev/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Darshan Raval</title>
+      <link>http://localhost:1313/artists/darshan-raval/</link>
       <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/artists/shreya-ghoshal/</guid>
+      <guid>http://localhost:1313/artists/darshan-raval/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ghulam Ali</title>
+      <link>http://localhost:1313/artists/ghulam-ali/</link>
+      <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/ghulam-ali/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mohammed Irfan</title>
+      <link>http://localhost:1313/artists/mohammed-irfan/</link>
+      <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/mohammed-irfan/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Neeti Mohan</title>
+      <link>http://localhost:1313/artists/neeti-mohan/</link>
+      <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/neeti-mohan/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Neha Kakkar</title>
+      <link>http://localhost:1313/artists/neha-kakkar/</link>
+      <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/neha-kakkar/</guid>
       <description></description>
     </item>
     <item>
       <title>Tanishq Kaur</title>
-      <link>https://example.org/artists/tanishq-kaur/</link>
+      <link>http://localhost:1313/artists/tanishq-kaur/</link>
       <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/artists/tanishq-kaur/</guid>
+      <guid>http://localhost:1313/artists/tanishq-kaur/</guid>
       <description></description>
     </item>
     <item>
       <title>Harshdeep Kaur</title>
-      <link>https://example.org/artists/harshdeep-kaur/</link>
+      <link>http://localhost:1313/artists/harshdeep-kaur/</link>
       <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/artists/harshdeep-kaur/</guid>
+      <guid>http://localhost:1313/artists/harshdeep-kaur/</guid>
       <description></description>
     </item>
     <item>
       <title>Udit Narayan</title>
-      <link>https://example.org/artists/udit-narayan/</link>
+      <link>http://localhost:1313/artists/udit-narayan/</link>
       <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/artists/udit-narayan/</guid>
+      <guid>http://localhost:1313/artists/udit-narayan/</guid>
       <description></description>
     </item>
     <item>
       <title>Zara Khan</title>
-      <link>https://example.org/artists/zara-khan/</link>
+      <link>http://localhost:1313/artists/zara-khan/</link>
       <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/artists/zara-khan/</guid>
+      <guid>http://localhost:1313/artists/zara-khan/</guid>
       <description></description>
     </item>
     <item>
       <title>Ipsitaa</title>
-      <link>https://example.org/artists/ipsitaa/</link>
+      <link>http://localhost:1313/artists/ipsitaa/</link>
       <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/artists/ipsitaa/</guid>
+      <guid>http://localhost:1313/artists/ipsitaa/</guid>
       <description></description>
     </item>
     <item>
       <title>Kumar Sanu</title>
-      <link>https://example.org/artists/kumar-sanu/</link>
+      <link>http://localhost:1313/artists/kumar-sanu/</link>
       <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/artists/kumar-sanu/</guid>
+      <guid>http://localhost:1313/artists/kumar-sanu/</guid>
       <description></description>
     </item>
     <item>
       <title>Sweetaj Brar</title>
-      <link>https://example.org/artists/sweetaj-brar/</link>
+      <link>http://localhost:1313/artists/sweetaj-brar/</link>
       <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/artists/sweetaj-brar/</guid>
+      <guid>http://localhost:1313/artists/sweetaj-brar/</guid>
       <description></description>
     </item>
     <item>
       <title>Yo Yo Honey Singh</title>
-      <link>https://example.org/artists/yo-yo-honey-singh/</link>
+      <link>http://localhost:1313/artists/yo-yo-honey-singh/</link>
       <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/artists/yo-yo-honey-singh/</guid>
+      <guid>http://localhost:1313/artists/yo-yo-honey-singh/</guid>
       <description></description>
     </item>
   </channel>

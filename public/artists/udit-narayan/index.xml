@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Udit Narayan on demo 1</title>
-    <link>https://example.org/artists/udit-narayan/</link>
+    <link>http://localhost:1313/artists/udit-narayan/</link>
     <description>Recent content in Udit Narayan on demo 1</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 22 Mar 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/artists/udit-narayan/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/artists/udit-narayan/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bheed Mein Tanhayi Mein lyrics - Tumsa Nahin Dekha</title>
-      <link>https://example.org/bheed-mein-udit-narayan-lyrics/</link>
+      <link>http://localhost:1313/bheed-mein-udit-narayan-lyrics/</link>
       <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/bheed-mein-udit-narayan-lyrics/</guid>
+      <guid>http://localhost:1313/bheed-mein-udit-narayan-lyrics/</guid>
       <description>Bheed Mein Tanhayi Mein&#xA;Pyaas Ki Gehrayi Mein&#xA;Dard Mein Ruswayi Mein&#xA;Mujhe Tum Yaad Aate Ho</description>
     </item>
   </channel>
