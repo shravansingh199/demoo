@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Divya Kumar on demo 1</title>
-    <link>https://example.org/artists/divya-kumar/</link>
+    <link>http://localhost:1313/artists/divya-kumar/</link>
     <description>Recent content in Divya Kumar on demo 1</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 27 Mar 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/artists/divya-kumar/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/artists/divya-kumar/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kamariya lyrics - Aastha Gill, Divya Kumar</title>
-      <link>https://example.org/kamariya-stree-lyrics/</link>
+      <link>http://localhost:1313/kamariya-stree-lyrics/</link>
       <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/kamariya-stree-lyrics/</guid>
+      <guid>http://localhost:1313/kamariya-stree-lyrics/</guid>
       <description>Aaj Bijli Bhi Girwaani Hai&#xA;Fire Bhi Lagwaani Hai&#xA;Jo Tu Aake Baby Humre Saath Ma&#xA;Aa Aa Aa Aake Kamariya</description>
     </item>
     <item>
       <title>Panghat lyrics - Roohi</title>
-      <link>https://example.org/panghat-roohi/</link>
+      <link>http://localhost:1313/panghat-roohi/</link>
       <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/panghat-roohi/</guid>
+      <guid>http://localhost:1313/panghat-roohi/</guid>
       <description>Julmi Badi Aukat Pe Ye Raat Aayi Hai&#xA;Mann Toh Hai Mera Paawan Magar Yovan Harjaayi Hai</description>
     </item>
   </channel>

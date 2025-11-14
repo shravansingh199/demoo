@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yeh Jawaani Hai Deewani (2013) on demo 1</title>
-    <link>https://example.org/albums/yeh-jawaani-hai-deewani-2013/</link>
+    <link>http://localhost:1313/albums/yeh-jawaani-hai-deewani-2013/</link>
     <description>Recent content in Yeh Jawaani Hai Deewani (2013) on demo 1</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 25 Mar 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/albums/yeh-jawaani-hai-deewani-2013/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/albums/yeh-jawaani-hai-deewani-2013/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Balam Pichkari lyrics - Yeh Jawaani Hai Deewani</title>
-      <link>https://example.org/balam-pichkari-lyrics/</link>
+      <link>http://localhost:1313/balam-pichkari-lyrics/</link>
       <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/balam-pichkari-lyrics/</guid>
+      <guid>http://localhost:1313/balam-pichkari-lyrics/</guid>
       <description>Itna Maza Kyun Aa Raha Hai&#xA;Tune Hawa Me Bhaang Milaya&#xA;Dugna Nasha Kyun Ho Raha Hai&#xA;Aankhon Se Meetha Tune Khilaya</description>
     </item>
   </channel>

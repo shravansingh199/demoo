@@ -2,38 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Shreya Ghoshal on demo 1</title>
-    <link>https://example.org/artists/shreya-ghoshal/</link>
+    <link>http://localhost:1313/artists/shreya-ghoshal/</link>
     <description>Recent content in Shreya Ghoshal on demo 1</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Mar 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/artists/shreya-ghoshal/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 28 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/artists/shreya-ghoshal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kaise Mujhe lyrics - Benny Dayal, Shreya Ghoshal</title>
+      <link>http://localhost:1313/kaise-mujhe-ghajini/</link>
+      <pubDate>Sun, 28 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/kaise-mujhe-ghajini/</guid>
+      <description>Kaise Mujhe Tum Mil Gayi&#xA;Kismat Pe Aaye Na Yakeen&#xA;Utar Aayi Jheel Me&#xA;Jaise Chaand Utarta Hai Kabhi&#xA;Haule Haule, Dheere Se</description>
+    </item>
     <item>
       <title>Koi Tumsa Nahin lyrics - Krrish</title>
-      <link>https://example.org/koi-tumsa-nahin-krrish/</link>
+      <link>http://localhost:1313/koi-tumsa-nahin-krrish/</link>
       <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/koi-tumsa-nahin-krrish/</guid>
+      <guid>http://localhost:1313/koi-tumsa-nahin-krrish/</guid>
       <description>Dhoop Nikalti Hai Jahan Se&#xA;Chaandni Rehti Hai Jahan Pe&#xA;Khabar Yeh Aayi Hai Wahan Se</description>
     </item>
     <item>
       <title>Chal Wahin Chalein lyrics - Saina</title>
-      <link>https://example.org/chal-wahin-chalein-lyrics/</link>
+      <link>http://localhost:1313/chal-wahin-chalein-lyrics/</link>
       <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/chal-wahin-chalein-lyrics/</guid>
+      <guid>http://localhost:1313/chal-wahin-chalein-lyrics/</guid>
       <description>Jahan Hasne Pe Shartein Na Ho&#xA;Log Jeene Se Darte Na Ho&#xA;Chal Wahin Chalein</description>
     </item>
     <item>
       <title>Bheed Mein Tanhayi Mein lyrics - Tumsa Nahin Dekha</title>
-      <link>https://example.org/bheed-mein-udit-narayan-lyrics/</link>
+      <link>http://localhost:1313/bheed-mein-udit-narayan-lyrics/</link>
       <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/bheed-mein-udit-narayan-lyrics/</guid>
+      <guid>http://localhost:1313/bheed-mein-udit-narayan-lyrics/</guid>
       <description>Bheed Mein Tanhayi Mein&#xA;Pyaas Ki Gehrayi Mein&#xA;Dard Mein Ruswayi Mein&#xA;Mujhe Tum Yaad Aate Ho</description>
     </item>
     <item>
       <title>Dhanak Ka Rang lyrics - Shreya Ghoshal</title>
-      <link>https://example.org/dhanak-ka-rang-shreya-ghoshal-lyrics/</link>
+      <link>http://localhost:1313/dhanak-ka-rang-shreya-ghoshal-lyrics/</link>
       <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/dhanak-ka-rang-shreya-ghoshal-lyrics/</guid>
+      <guid>http://localhost:1313/dhanak-ka-rang-shreya-ghoshal-lyrics/</guid>
       <description>Dhanak Ka Rang Hai Bikhra&#xA;Mere Dupatte Pe&#xA;Sari Khusboo Meri Baahon Me&#xA;Simat Aayi Hai&#xA;Paaon Padte Nahi Zameen Pe Mere</description>
     </item>
   </channel>

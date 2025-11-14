@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Stree (2018) on demo 1</title>
-    <link>https://example.org/albums/stree-2018/</link>
+    <link>http://localhost:1313/albums/stree-2018/</link>
     <description>Recent content in Stree (2018) on demo 1</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 27 Mar 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/albums/stree-2018/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/albums/stree-2018/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kamariya lyrics - Aastha Gill, Divya Kumar</title>
-      <link>https://example.org/kamariya-stree-lyrics/</link>
+      <link>http://localhost:1313/kamariya-stree-lyrics/</link>
       <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/kamariya-stree-lyrics/</guid>
+      <guid>http://localhost:1313/kamariya-stree-lyrics/</guid>
       <description>Aaj Bijli Bhi Girwaani Hai&#xA;Fire Bhi Lagwaani Hai&#xA;Jo Tu Aake Baby Humre Saath Ma&#xA;Aa Aa Aa Aake Kamariya</description>
     </item>
     <item>
       <title>Milegi Milegi lyrics - Stree</title>
-      <link>https://example.org/milegi-milegi-lyrics/</link>
+      <link>http://localhost:1313/milegi-milegi-lyrics/</link>
       <pubDate>Wed, 24 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/milegi-milegi-lyrics/</guid>
+      <guid>http://localhost:1313/milegi-milegi-lyrics/</guid>
       <description>Khel Liye Shot Sabhi&#xA;Dekh Liye Spot Sabhi&#xA;Haath Kahin Bhi Na Lagi&#xA;Haan Ji Haan Ji Haan Ji Lekin&#xA;Milegi Milegi&#xA;Tujhe Bhi Milegi</description>
     </item>
   </channel>
