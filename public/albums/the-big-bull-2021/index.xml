@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Big Bull (2021) on demo 1</title>
-    <link>http://localhost:1313/albums/the-big-bull-2021/</link>
+    <link>https://example.org/albums/the-big-bull-2021/</link>
     <description>Recent content in The Big Bull (2021) on demo 1</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 25 Mar 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/albums/the-big-bull-2021/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/albums/the-big-bull-2021/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ishq Namazaa lyrics - Ankit Tiwari</title>
-      <link>http://localhost:1313/ishq-namazaa-lyrics/</link>
+      <link>https://example.org/ishq-namazaa-lyrics/</link>
       <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ishq-namazaa-lyrics/</guid>
+      <guid>https://example.org/ishq-namazaa-lyrics/</guid>
       <description>Oh Mitha Mitha Hai Khara Paani&#xA;Mithiyan Teri Yaadan&#xA;Haan Tere Mere Ishq Diyan Hai&#xA;Uchiyan Hai Parwazaa&#xA;Ishq Namazaa Main Ta Paddhiyan</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sukhwinder Singh on demo 1</title>
-    <link>http://localhost:1313/artists/sukhwinder-singh/</link>
+    <link>https://example.org/artists/sukhwinder-singh/</link>
     <description>Recent content in Sukhwinder Singh on demo 1</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 25 Mar 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/artists/sukhwinder-singh/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/artists/sukhwinder-singh/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Haule Haule lyrics - Rab Ne Bana Di Jodi</title>
-      <link>http://localhost:1313/haule-haule-rab-ne-bana-di-jodi-lyrics/</link>
+      <link>https://example.org/haule-haule-rab-ne-bana-di-jodi-lyrics/</link>
       <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/haule-haule-rab-ne-bana-di-jodi-lyrics/</guid>
+      <guid>https://example.org/haule-haule-rab-ne-bana-di-jodi-lyrics/</guid>
       <description>Haule Haule Se Hawa Lagti Hai&#xA;Haule Haule Se Dawa Lagti Hai&#xA;Haule Haule Se Dua Lagti Hai..</description>
     </item>
   </channel>

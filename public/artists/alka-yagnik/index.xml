@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alka Yagnik on demo 1</title>
-    <link>http://localhost:1313/artists/alka-yagnik/</link>
+    <link>https://example.org/artists/alka-yagnik/</link>
     <description>Recent content in Alka Yagnik on demo 1</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 24 Mar 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/artists/alka-yagnik/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/artists/alka-yagnik/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Panchhi Nadiyan Pawan Ke Jhonke lyrics - Refugee</title>
-      <link>http://localhost:1313/panchhi-nadiyan-pawan-ke-lyrics/</link>
+      <link>https://example.org/panchhi-nadiyan-pawan-ke-lyrics/</link>
       <pubDate>Wed, 24 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/panchhi-nadiyan-pawan-ke-lyrics/</guid>
+      <guid>https://example.org/panchhi-nadiyan-pawan-ke-lyrics/</guid>
       <description>Panchhi Nadiyan Pawan Ke Jhonke&#xA;Koi Sarhad Na Inhe Roke&#xA;Sarhad Insaano Ke Liye Hai&#xA;Socho Tumne Aur Maine&#xA;Kya Paaya Insaan Hoke</description>
     </item>
     <item>
       <title>Tauba Tumhare Yeh Ishare lyrics - Chalte Chalte</title>
-      <link>http://localhost:1313/tauba-tumhare-lyrics/</link>
+      <link>https://example.org/tauba-tumhare-lyrics/</link>
       <pubDate>Wed, 24 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tauba-tumhare-lyrics/</guid>
+      <guid>https://example.org/tauba-tumhare-lyrics/</guid>
       <description>Tauba, Tumhare Yeh Ishaare&#xA;Hum Toh Deewane Hain Tumhare&#xA;Raaz Yeh Kaise Khol Rahi Ho&#xA;Tum Aankhon Se Bol Rahi Ho&#xA;Jadoo Aate Hain Tumko Saare</description>
     </item>
     <item>
       <title>Tumsa Koi Pyara Koi Masoom lyrics - Khuddar</title>
-      <link>http://localhost:1313/tumsa-koi-pyara-lyrics/</link>
+      <link>https://example.org/tumsa-koi-pyara-lyrics/</link>
       <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tumsa-koi-pyara-lyrics/</guid>
+      <guid>https://example.org/tumsa-koi-pyara-lyrics/</guid>
       <description>Barsaat Ka Mausam&#xA;Yahan Hum Yahan Tum&#xA;Sajni Ko Mil Gaye Saajan…&#xA;Tumsa Koi Pyara Koi Masoom Nahi Hai&#xA;Kya Cheez Ho Tum Khud Tumhe Maloom Nahi Hai</description>
     </item>
   </channel>

@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Koi Jaane Na (2021) on demo 1</title>
-    <link>http://localhost:1313/albums/koi-jaane-na-2021/</link>
+    <link>https://example.org/albums/koi-jaane-na-2021/</link>
     <description>Recent content in Koi Jaane Na (2021) on demo 1</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 23 Mar 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/albums/koi-jaane-na-2021/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/albums/koi-jaane-na-2021/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ishq Karo Dil Se lyrics - Koi Jaane Na</title>
-      <link>http://localhost:1313/ishq-karo-dil-se-lyrics/</link>
+      <link>https://example.org/ishq-karo-dil-se-lyrics/</link>
       <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ishq-karo-dil-se-lyrics/</guid>
+      <guid>https://example.org/ishq-karo-dil-se-lyrics/</guid>
       <description>Jitna Bhi Jeena Hai&#xA;Is Pal Me Jeena Hai&#xA;Chhodo Na Kuch Kal Pe&#xA;Ishq Karo Dil Se&#xA;Ye Dil Milte Hain Mushkil Se</description>
     </item>
     <item>
       <title>Har Funn Maula lyrics - Vishal Dadlani, Zara Khan</title>
-      <link>http://localhost:1313/har-funn-maula-lyrics/</link>
+      <link>https://example.org/har-funn-maula-lyrics/</link>
       <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/har-funn-maula-lyrics/</guid>
+      <guid>https://example.org/har-funn-maula-lyrics/</guid>
       <description>Hai Koi Parwana Yahan&#xA;Jo Jaan Pe Apni Khelega&#xA;Aashiqui Mein Hoke Fanna&#xA;Baahon Mein Shama Ko Le Lega&#xA;Kitni Haseeno Pe&#xA;Kitni Dafa Ye Dola</description>
     </item>
   </channel>

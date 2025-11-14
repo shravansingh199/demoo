@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pamela Jain on demo 1</title>
+    <link>https://example.org/artists/pamela-jain/</link>
+    <description>Recent content in Pamela Jain on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 26 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.org/artists/pamela-jain/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dil Leke lyrics - Na Tum Jaano Na Hum</title>
+      <link>https://example.org/dil-leke-na-tum-jaano-na-hum/</link>
+      <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.org/dil-leke-na-tum-jaano-na-hum/</guid>
+      <description>Dil Leke (Haan)&#xA;Jaan Leke (Haan)&#xA;Teri Me Main Aa Gaya&#xA;Aaja Agar Tujhe Aana Hai</description>
+    </item>
+  </channel>
+</rss>

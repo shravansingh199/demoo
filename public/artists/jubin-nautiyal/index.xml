@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jubin Nautiyal on demo 1</title>
-    <link>http://localhost:1313/artists/jubin-nautiyal/</link>
+    <link>https://example.org/artists/jubin-nautiyal/</link>
     <description>Recent content in Jubin Nautiyal on demo 1</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 26 Mar 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/artists/jubin-nautiyal/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/artists/jubin-nautiyal/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bewafa Tera Masoom Chehra lyrics - Jubin Nautiyal</title>
-      <link>http://localhost:1313/bewafa-tera-masoom-chehra-jubin-nautiyal/</link>
+      <link>https://example.org/bewafa-tera-masoom-chehra-jubin-nautiyal/</link>
       <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/bewafa-tera-masoom-chehra-jubin-nautiyal/</guid>
+      <guid>https://example.org/bewafa-tera-masoom-chehra-jubin-nautiyal/</guid>
       <description>Khubsoorat Bohot Hai Tu Lekin&#xA;Dil Lagane Ke Kaabil Nahi Hai&#xA;Bewafa Tera Masoom Chehra&#xA;Bhool Jaane Ke Kaabil Nahi Hai</description>
     </item>
     <item>
       <title>Ishq Karo Dil Se lyrics - Koi Jaane Na</title>
-      <link>http://localhost:1313/ishq-karo-dil-se-lyrics/</link>
+      <link>https://example.org/ishq-karo-dil-se-lyrics/</link>
       <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ishq-karo-dil-se-lyrics/</guid>
+      <guid>https://example.org/ishq-karo-dil-se-lyrics/</guid>
       <description>Jitna Bhi Jeena Hai&#xA;Is Pal Me Jeena Hai&#xA;Chhodo Na Kuch Kal Pe&#xA;Ishq Karo Dil Se&#xA;Ye Dil Milte Hain Mushkil Se</description>
     </item>
     <item>
       <title>Ishqbaaziyaan lyrics - Jubin Nautiyal, Harshdeep Kaur</title>
-      <link>http://localhost:1313/ishqbaaziyaan-jubin-nautiyal-lyrics/</link>
+      <link>https://example.org/ishqbaaziyaan-jubin-nautiyal-lyrics/</link>
       <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ishqbaaziyaan-jubin-nautiyal-lyrics/</guid>
+      <guid>https://example.org/ishqbaaziyaan-jubin-nautiyal-lyrics/</guid>
       <description>Dil Se Mere Khel Rahi Ho&#xA;Honthon Se Kuch Na Bol Rahi Ho&#xA;Bol Rahi Ho&#xA;Naina Kare Ishqbaaziyaan Tere</description>
     </item>
     <item>
       <title>Lut Gaye lyrics - Jubin Nautiyal</title>
-      <link>http://localhost:1313/lut-gaye-jubin-nautiyal-lyrics/</link>
+      <link>https://example.org/lut-gaye-jubin-nautiyal-lyrics/</link>
       <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/lut-gaye-jubin-nautiyal-lyrics/</guid>
+      <guid>https://example.org/lut-gaye-jubin-nautiyal-lyrics/</guid>
       <description>Aasmaano Pe Jo Khuda Hai&#xA;Usse Meri Yahi Dua Hai&#xA;Chand Ye Har Roz Main Dekhoon&#xA;Tere Saath Me&#xA;Aankh Uthi Mohabbat Ne Angdayi Li</description>
     </item>
   </channel>
