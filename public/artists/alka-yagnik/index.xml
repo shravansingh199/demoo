@@ -6,8 +6,15 @@
     <description>Recent content in Alka Yagnik on demo 1</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Mar 2021 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://example.org/artists/alka-yagnik/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chandi Ki Daal Par lyrics</title>
+      <link>https://example.org/chandi-ki-daal-par-hello-brother/</link>
+      <pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.org/chandi-ki-daal-par-hello-brother/</guid>
+      <description>Chandi Ki Daal Par&#xA;Sone Ka Mor&#xA;Taak Jhaak Taak&#xA;Kare Neeche Ka Chor</description>
+    </item>
     <item>
       <title>Hori Khele Raghuveera lyrics</title>
       <link>https://example.org/hori-khele-raghuveera-baghban/</link>

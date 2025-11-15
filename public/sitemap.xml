@@ -47,14 +47,44 @@
     <loc>https://example.org/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url><url>
+    <loc>https://example.org/albums/ahista-ahista-2006/</loc>
+    <lastmod>2021-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/artists/alka-yagnik/</loc>
+    <lastmod>2021-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/allah-kare-ahista-ahista-lyrics/</loc>
+    <lastmod>2021-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/bachpan-kahan-prem-ratan-dhan-payo/</loc>
+    <lastmod>2021-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/chandi-ki-daal-par-hello-brother/</loc>
+    <lastmod>2021-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/albums/hello-brother-1999/</loc>
+    <lastmod>2021-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/artists/himesh-reshammiya/</loc>
+    <lastmod>2021-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/artists/jubin-nautiyal/</loc>
+    <lastmod>2021-03-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://example.org/now-i-know-time-to-dance/</loc>
+    <lastmod>2021-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/albums/prem-ratan-dhan-payo-2015/</loc>
+    <lastmod>2021-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/artists/salman-khan/</loc>
     <lastmod>2021-03-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.org/albums/time-to-dance-2021/</loc>
     <lastmod>2021-03-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/artists/alka-yagnik/</loc>
-    <lastmod>2021-03-28T00:00:00+00:00</lastmod>
+    <loc>https://example.org/tujhe-bhoolna-toh-chaaha-jubin-nautiyal/</loc>
+    <lastmod>2021-03-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.org/artists/arijit-singh/</loc>
     <lastmod>2021-03-28T00:00:00+00:00</lastmod>
@@ -69,9 +99,6 @@
     <lastmod>2021-03-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.org/artists/harshdeep-kaur/</loc>
-    <lastmod>2021-03-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.org/artists/himesh-reshammiya/</loc>
     <lastmod>2021-03-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.org/hori-khele-raghuveera-baghban/</loc>
@@ -179,9 +206,6 @@
     <loc>https://example.org/jaa-sanam-mujhko-hai/</loc>
     <lastmod>2021-03-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/artists/jubin-nautiyal/</loc>
-    <lastmod>2021-03-26T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://example.org/kajra-kajra-kajraare-himesh-reshammiya/</loc>
     <lastmod>2021-03-26T00:00:00+00:00</lastmod>
   </url><url>
@@ -213,9 +237,6 @@
     <lastmod>2021-03-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.org/prem-ratan-dhan-payo-title-track/</loc>
-    <lastmod>2021-03-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.org/albums/prem-ratan-dhan-payo-2015/</loc>
     <lastmod>2021-03-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.org/artists/rashmeet-kaur/</loc>

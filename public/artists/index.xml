@@ -18,8 +18,29 @@
     <item>
       <title>Alka Yagnik</title>
       <link>https://example.org/artists/alka-yagnik/</link>
-      <pubDate>Sun, 28 Mar 2021 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate>
       <guid>https://example.org/artists/alka-yagnik/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Himesh Reshammiya</title>
+      <link>https://example.org/artists/himesh-reshammiya/</link>
+      <pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.org/artists/himesh-reshammiya/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Jubin Nautiyal</title>
+      <link>https://example.org/artists/jubin-nautiyal/</link>
+      <pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.org/artists/jubin-nautiyal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Salman Khan</title>
+      <link>https://example.org/artists/salman-khan/</link>
+      <pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.org/artists/salman-khan/</guid>
       <description></description>
     </item>
     <item>
@@ -41,13 +62,6 @@
       <link>https://example.org/artists/harshdeep-kaur/</link>
       <pubDate>Sun, 28 Mar 2021 00:00:00 +0000</pubDate>
       <guid>https://example.org/artists/harshdeep-kaur/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Himesh Reshammiya</title>
-      <link>https://example.org/artists/himesh-reshammiya/</link>
-      <pubDate>Sun, 28 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/artists/himesh-reshammiya/</guid>
       <description></description>
     </item>
     <item>
@@ -139,13 +153,6 @@
       <link>https://example.org/artists/ip-singh/</link>
       <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
       <guid>https://example.org/artists/ip-singh/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Jubin Nautiyal</title>
-      <link>https://example.org/artists/jubin-nautiyal/</link>
-      <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/artists/jubin-nautiyal/</guid>
       <description></description>
     </item>
     <item>
