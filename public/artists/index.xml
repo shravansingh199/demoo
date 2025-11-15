@@ -18,8 +18,22 @@
     <item>
       <title>Alka Yagnik</title>
       <link>https://example.org/artists/alka-yagnik/</link>
-      <pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
       <guid>https://example.org/artists/alka-yagnik/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Goldie Sohel</title>
+      <link>https://example.org/artists/goldie-sohel/</link>
+      <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.org/artists/goldie-sohel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kumar Sanu</title>
+      <link>https://example.org/artists/kumar-sanu/</link>
+      <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.org/artists/kumar-sanu/</guid>
       <description></description>
     </item>
     <item>
@@ -41,6 +55,20 @@
       <link>https://example.org/artists/salman-khan/</link>
       <pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate>
       <guid>https://example.org/artists/salman-khan/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vasundhara Das</title>
+      <link>https://example.org/artists/vasundhara-das/</link>
+      <pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.org/artists/vasundhara-das/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vishal Dadlani</title>
+      <link>https://example.org/artists/vishal-dadlani/</link>
+      <pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.org/artists/vishal-dadlani/</guid>
       <description></description>
     </item>
     <item>
@@ -125,13 +153,6 @@
       <link>https://example.org/artists/tulsi-kumar/</link>
       <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
       <guid>https://example.org/artists/tulsi-kumar/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Vishal Dadlani</title>
-      <link>https://example.org/artists/vishal-dadlani/</link>
-      <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/artists/vishal-dadlani/</guid>
       <description></description>
     </item>
     <item>
@@ -363,13 +384,6 @@
       <link>https://example.org/artists/ipsitaa/</link>
       <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
       <guid>https://example.org/artists/ipsitaa/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Kumar Sanu</title>
-      <link>https://example.org/artists/kumar-sanu/</link>
-      <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/artists/kumar-sanu/</guid>
       <description></description>
     </item>
     <item>

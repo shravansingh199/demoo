@@ -47,10 +47,28 @@
     <loc>https://example.org/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/albums/ahista-ahista-2006/</loc>
-    <lastmod>2021-03-29T00:00:00+00:00</lastmod>
+    <loc>https://example.org/aaj-sajeya-goldie-sohel/</loc>
+    <lastmod>2021-03-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.org/artists/alka-yagnik/</loc>
+    <lastmod>2021-03-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/artists/goldie-sohel/</loc>
+    <lastmod>2021-03-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/hum-ho-gaye-aapke-title-track/</loc>
+    <lastmod>2021-03-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/albums/hum-ho-gaye-aap-ke-2001/</loc>
+    <lastmod>2021-03-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/artists/kumar-sanu/</loc>
+    <lastmod>2021-03-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/albums/a-new-love-ishtory-2013/</loc>
+    <lastmod>2021-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/albums/ahista-ahista-2006/</loc>
     <lastmod>2021-03-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.org/allah-kare-ahista-ahista-lyrics/</loc>
@@ -68,7 +86,16 @@
     <loc>https://example.org/artists/himesh-reshammiya/</loc>
     <lastmod>2021-03-29T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://example.org/jab-main-chhota-baccha-tha-lyrics/</loc>
+    <lastmod>2021-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/albums/jhoom-barabar-jhoom-2007/</loc>
+    <lastmod>2021-03-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://example.org/artists/jubin-nautiyal/</loc>
+    <lastmod>2021-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/kiss-of-love-jhoom-barabar-jhoom/</loc>
     <lastmod>2021-03-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.org/now-i-know-time-to-dance/</loc>
@@ -84,6 +111,12 @@
     <lastmod>2021-03-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.org/tujhe-bhoolna-toh-chaaha-jubin-nautiyal/</loc>
+    <lastmod>2021-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/artists/vasundhara-das/</loc>
+    <lastmod>2021-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/artists/vishal-dadlani/</loc>
     <lastmod>2021-03-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.org/artists/arijit-singh/</loc>
@@ -180,9 +213,6 @@
     <lastmod>2021-03-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.org/albums/ungli-2014/</loc>
-    <lastmod>2021-03-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.org/artists/vishal-dadlani/</loc>
     <lastmod>2021-03-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.org/artists/armaan-malik/</loc>
@@ -465,9 +495,6 @@
     <lastmod>2021-03-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.org/albums/khuddar-1994/</loc>
-    <lastmod>2021-03-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.org/artists/kumar-sanu/</loc>
     <lastmod>2021-03-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.org/artists/sweetaj-brar/</loc>
