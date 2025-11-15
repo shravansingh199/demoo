@@ -2,24 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kumar Sanu on demo 1</title>
-    <link>https://example.org/artists/kumar-sanu/</link>
+    <link>http://localhost:1313/artists/kumar-sanu/</link>
     <description>Recent content in Kumar Sanu on demo 1</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 30 Mar 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/artists/kumar-sanu/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/artists/kumar-sanu/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hum Ho Gaye Aap Ke - Title Track lyrics</title>
-      <link>https://example.org/hum-ho-gaye-aapke-title-track/</link>
+      <link>http://localhost:1313/hum-ho-gaye-aapke-title-track/</link>
       <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/hum-ho-gaye-aapke-title-track/</guid>
+      <guid>http://localhost:1313/hum-ho-gaye-aapke-title-track/</guid>
       <description>Kyun Bekhudi Si Chhai Hai&#xA;Kyun Aag Si Lagai Hai Aapne&#xA;Ho.. Hum Ho Gaye Aapke</description>
     </item>
     <item>
+      <title>Pehli Baar Dil Yun lyrics</title>
+      <link>http://localhost:1313/pehli-baar-dil-yun-lyrics/</link>
+      <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pehli-baar-dil-yun-lyrics/</guid>
+      <description>Pehli Baar Dil Yun&#xA;Bekaraar Hua Hai&#xA;Aisa Lag Raha Hai&#xA;Jaise Pyar Hua Hai</description>
+    </item>
+    <item>
       <title>Tumsa Koi Pyara Koi Masoom lyrics - Khuddar</title>
-      <link>https://example.org/tumsa-koi-pyara-lyrics/</link>
+      <link>http://localhost:1313/tumsa-koi-pyara-lyrics/</link>
       <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tumsa-koi-pyara-lyrics/</guid>
+      <guid>http://localhost:1313/tumsa-koi-pyara-lyrics/</guid>
       <description>Barsaat Ka Mausam&#xA;Yahan Hum Yahan Tum&#xA;Sajni Ko Mil Gaye Saajan…&#xA;Tumsa Koi Pyara Koi Masoom Nahi Hai&#xA;Kya Cheez Ho Tum Khud Tumhe Maloom Nahi Hai</description>
     </item>
   </channel>

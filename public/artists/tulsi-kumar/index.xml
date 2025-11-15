@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tulsi Kumar on demo 1</title>
-    <link>https://example.org/artists/tulsi-kumar/</link>
+    <link>http://localhost:1313/artists/tulsi-kumar/</link>
     <description>Recent content in Tulsi Kumar on demo 1</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 27 Mar 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/artists/tulsi-kumar/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/artists/tulsi-kumar/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tere Bin Chain Na Aave lyrics</title>
-      <link>https://example.org/tere-bin-chain-na-aave-karzzzz/</link>
+      <link>http://localhost:1313/tere-bin-chain-na-aave-karzzzz/</link>
       <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tere-bin-chain-na-aave-karzzzz/</guid>
+      <guid>http://localhost:1313/tere-bin-chain-na-aave-karzzzz/</guid>
       <description>Mahiya Tu Dekh Le&#xA;Jindadi Meri Behaal Hai&#xA;Tere Bin Chain Na Aave, Na Aave</description>
     </item>
   </channel>

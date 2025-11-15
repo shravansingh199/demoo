@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Palak Muchhal on demo 1</title>
-    <link>https://example.org/artists/palak-muchhal/</link>
+    <link>http://localhost:1313/artists/palak-muchhal/</link>
     <description>Recent content in Palak Muchhal on demo 1</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 26 Mar 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/artists/palak-muchhal/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/artists/palak-muchhal/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Prem Ratan Dhan Payo - Title Track lyrics</title>
-      <link>https://example.org/prem-ratan-dhan-payo-title-track/</link>
+      <link>http://localhost:1313/prem-ratan-dhan-payo-title-track/</link>
       <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/prem-ratan-dhan-payo-title-track/</guid>
+      <guid>http://localhost:1313/prem-ratan-dhan-payo-title-track/</guid>
       <description>Sukh Dukh Jhoothe&#xA;Dhan Bhi Jhootha&#xA;Jhoothi Moh Maaya&#xA;Saccha Mann Ka&#xA;Woh Kona Jahan&#xA;Prem Ratan Paaya</description>
     </item>
   </channel>

@@ -2,136 +2,136 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Singles on demo 1</title>
-    <link>https://example.org/albums/singles/</link>
+    <link>http://localhost:1313/albums/singles/</link>
     <description>Recent content in Singles on demo 1</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 14 Feb 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/albums/singles/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/albums/singles/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Aaj Bhi lyrics - Vishal Mishra</title>
-      <link>https://example.org/aaj-bhi-vishal-mishra-lyrics/</link>
+      <link>http://localhost:1313/aaj-bhi-vishal-mishra-lyrics/</link>
       <pubDate>Fri, 14 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.org/aaj-bhi-vishal-mishra-lyrics/</guid>
+      <guid>http://localhost:1313/aaj-bhi-vishal-mishra-lyrics/</guid>
       <description>Na Dard Hai, Na Gham Tere Na Ishq Hai, Na Teri Woh Chaahatein Haan, Khush Hoon Main Tere Bina Na Mujhme Bachi Kahin Teri Aadatein</description>
     </item>
     <item>
       <title>Aaj Sajeya lyrics - Goldie Sohel</title>
-      <link>https://example.org/aaj-sajeya-goldie-sohel/</link>
+      <link>http://localhost:1313/aaj-sajeya-goldie-sohel/</link>
       <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/aaj-sajeya-goldie-sohel/</guid>
+      <guid>http://localhost:1313/aaj-sajeya-goldie-sohel/</guid>
       <description>Aaj Sajeya Ae Ve&#xA;Saara Sheher&#xA;Aaj Ho Gayi Aa Ve&#xA;Rab Di Meher</description>
     </item>
     <item>
       <title>Tujhe Bhoolna Toh Chaaha lyrics - Jubin Nautiyal</title>
-      <link>https://example.org/tujhe-bhoolna-toh-chaaha-jubin-nautiyal/</link>
+      <link>http://localhost:1313/tujhe-bhoolna-toh-chaaha-jubin-nautiyal/</link>
       <pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tujhe-bhoolna-toh-chaaha-jubin-nautiyal/</guid>
+      <guid>http://localhost:1313/tujhe-bhoolna-toh-chaaha-jubin-nautiyal/</guid>
       <description>Teri Judaiyon Me&#xA;Barse Woh Naina Bhi&#xA;Sau Dard Milke&#xA;Jinko Rula Na Paaye&#xA;Tujhe Bhoolna Toh Chaaha&#xA;Lekin Bhoola Na Paaye</description>
     </item>
     <item>
       <title>Baarish Ki Jaaye lyrics - B Praak</title>
-      <link>https://example.org/baarish-ki-jaaye-b-praak/</link>
+      <link>http://localhost:1313/baarish-ki-jaaye-b-praak/</link>
       <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/baarish-ki-jaaye-b-praak/</guid>
+      <guid>http://localhost:1313/baarish-ki-jaaye-b-praak/</guid>
       <description>Aye Khuda Tu Bol De Tere Baadalon Ko&#xA;Mera Yaar Hass Raha Hai&#xA;Baarish Ki Jaaye</description>
     </item>
     <item>
       <title>Bewafa Tera Masoom Chehra lyrics - Jubin Nautiyal</title>
-      <link>https://example.org/bewafa-tera-masoom-chehra-jubin-nautiyal/</link>
+      <link>http://localhost:1313/bewafa-tera-masoom-chehra-jubin-nautiyal/</link>
       <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/bewafa-tera-masoom-chehra-jubin-nautiyal/</guid>
+      <guid>http://localhost:1313/bewafa-tera-masoom-chehra-jubin-nautiyal/</guid>
       <description>Khubsoorat Bohot Hai Tu Lekin&#xA;Dil Lagane Ke Kaabil Nahi Hai&#xA;Bewafa Tera Masoom Chehra&#xA;Bhool Jaane Ke Kaabil Nahi Hai</description>
     </item>
     <item>
       <title>Oye Hoye Hoye lyrics - Jassie Gill, Simar Kaur</title>
-      <link>https://example.org/oye-hoye-hoye-jassie-gill-lyrics/</link>
+      <link>http://localhost:1313/oye-hoye-hoye-jassie-gill-lyrics/</link>
       <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/oye-hoye-hoye-jassie-gill-lyrics/</guid>
+      <guid>http://localhost:1313/oye-hoye-hoye-jassie-gill-lyrics/</guid>
       <description>Ek Laide Mainu Bungalow Mundeya&#xA;Ek Laide Mainu Car Ve&#xA;Car Wich Mainu Tu Chahida&#xA;Bungalow Wich Tera Pyaar Ve</description>
     </item>
     <item>
       <title>Tanha Hoon lyrics - Yasser Desai</title>
-      <link>https://example.org/tanha-hoon-yasser-desai-lyrics/</link>
+      <link>http://localhost:1313/tanha-hoon-yasser-desai-lyrics/</link>
       <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tanha-hoon-yasser-desai-lyrics/</guid>
+      <guid>http://localhost:1313/tanha-hoon-yasser-desai-lyrics/</guid>
       <description>Tanha Hoon..&#xA;Aankh Meri Aansuon Se Nam Hain&#xA;Tere Gham Ki..&#xA;Baarishon Me Aaj Bheege Hum Hain</description>
     </item>
     <item>
       <title>Bepanah Pyaar lyrics - Payal Dev, Yasser Desai</title>
-      <link>https://example.org/bepanah-pyaar-payal-dev-lyrics/</link>
+      <link>http://localhost:1313/bepanah-pyaar-payal-dev-lyrics/</link>
       <pubDate>Wed, 24 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/bepanah-pyaar-payal-dev-lyrics/</guid>
+      <guid>http://localhost:1313/bepanah-pyaar-payal-dev-lyrics/</guid>
       <description>Bepanah Pyaar Tujhse&#xA;Tu Kyun Jaane Na&#xA;Hua Ikraar Tujhse&#xA;Tu Kyun Maane Na</description>
     </item>
     <item>
       <title>Ishare Tere lyrics - Dhvani Bhanushali, Guru Randhawa</title>
-      <link>https://example.org/ishare-tere-lyrics/</link>
+      <link>http://localhost:1313/ishare-tere-lyrics/</link>
       <pubDate>Wed, 24 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/ishare-tere-lyrics/</guid>
+      <guid>http://localhost:1313/ishare-tere-lyrics/</guid>
       <description>Ishaare Tere Kangne De&#xA;Tareeke Dil Mangne De&#xA;Mera Vi Dil Chori Kitta&#xA;Fan Tera Ban Gaya Yeh</description>
     </item>
     <item>
       <title>Mehendi Wale Haath lyrics - Guru Randhawa</title>
-      <link>https://example.org/mehendi-wale-haath-lyrics/</link>
+      <link>http://localhost:1313/mehendi-wale-haath-lyrics/</link>
       <pubDate>Wed, 24 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/mehendi-wale-haath-lyrics/</guid>
+      <guid>http://localhost:1313/mehendi-wale-haath-lyrics/</guid>
       <description>Mehendi Wale Haath Wo Tere&#xA;Paayal Wale Paaon&#xA;Yaad Bohot Aate Hain Mujhko&#xA;Tu Aur Apna Gaaon</description>
     </item>
     <item>
       <title>Aur Pyaar Karna Hai lyrics - Guru Randhawa</title>
-      <link>https://example.org/aur-pyaar-karna-hai-lyrics/</link>
+      <link>http://localhost:1313/aur-pyaar-karna-hai-lyrics/</link>
       <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/aur-pyaar-karna-hai-lyrics/</guid>
+      <guid>http://localhost:1313/aur-pyaar-karna-hai-lyrics/</guid>
       <description>Abhi Tumhe Aur Hume&#xA;Beshumaar Karna Hai&#xA;Jab Talak Jahaan Se&#xA;Bichadna Hai</description>
     </item>
     <item>
       <title>Pagalpan lyrics - Tanishq Kaur</title>
-      <link>https://example.org/pagalpan-tanishq-kaur-lyrics/</link>
+      <link>http://localhost:1313/pagalpan-tanishq-kaur-lyrics/</link>
       <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/pagalpan-tanishq-kaur-lyrics/</guid>
+      <guid>http://localhost:1313/pagalpan-tanishq-kaur-lyrics/</guid>
       <description>Tere Nal Hi Hai Hun Rehna Ve&#xA;Eh Gal Bas Mith Layi Aa Main&#xA;Tenu Paake Inj Lagda Jiven&#xA;Duniya Hi Jeet Layi Aa Main</description>
     </item>
     <item>
       <title>Vilayati Sharaab lyrics - Darshan Raval, Neeti Mohan</title>
-      <link>https://example.org/vilayati-sharaab-lyrics/</link>
+      <link>http://localhost:1313/vilayati-sharaab-lyrics/</link>
       <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/vilayati-sharaab-lyrics/</guid>
+      <guid>http://localhost:1313/vilayati-sharaab-lyrics/</guid>
       <description>Nazron Mein Meri Kitna Maza Hai&#xA;Jitna Maza Hai Utni Saza Hai&#xA;Isi Nashe Me Kayi Barbaad Ho Gaye&#xA;Ho, Tere Naina Vilayati Sharaab Ho Gaye</description>
     </item>
     <item>
       <title>Lut Gaye lyrics - Jubin Nautiyal</title>
-      <link>https://example.org/lut-gaye-jubin-nautiyal-lyrics/</link>
+      <link>http://localhost:1313/lut-gaye-jubin-nautiyal-lyrics/</link>
       <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/lut-gaye-jubin-nautiyal-lyrics/</guid>
+      <guid>http://localhost:1313/lut-gaye-jubin-nautiyal-lyrics/</guid>
       <description>Aasmaano Pe Jo Khuda Hai&#xA;Usse Meri Yahi Dua Hai&#xA;Chand Ye Har Roz Main Dekhoon&#xA;Tere Saath Me&#xA;Aankh Uthi Mohabbat Ne Angdayi Li</description>
     </item>
     <item>
       <title>Marjaneya lyrics - Neha Kakkar</title>
-      <link>https://example.org/marjaneya-neha-kakkar-lyrics/</link>
+      <link>http://localhost:1313/marjaneya-neha-kakkar-lyrics/</link>
       <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/marjaneya-neha-kakkar-lyrics/</guid>
+      <guid>http://localhost:1313/marjaneya-neha-kakkar-lyrics/</guid>
       <description>Karda Rahen Ignore Ve Mainu&#xA;Labhgyi Lagda Hor Ve Tenu&#xA;Je Tu Pyar Naal Rakhna Hi Nahi&#xA;Fer Tu Vapis Tor Ve Mainu&#xA;Ik Paasa Karde Yaar</description>
     </item>
     <item>
       <title>Radha lyrics - Dhvani Bhanushali</title>
-      <link>https://example.org/radha-dhvani-bhanushali-lyrics/</link>
+      <link>http://localhost:1313/radha-dhvani-bhanushali-lyrics/</link>
       <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/radha-dhvani-bhanushali-lyrics/</guid>
+      <guid>http://localhost:1313/radha-dhvani-bhanushali-lyrics/</guid>
       <description>Ho Gayi Main Jogan, Saiyaan&#xA;Tose Mann Laaga&#xA;Jo Bane Tu Mohan, Saiyaan&#xA;Main Banu Radha</description>
     </item>
     <item>
       <title>Baby Girl lyrics - Guru Randhawa, Dhvani Bhanushali</title>
-      <link>https://example.org/baby-girl-guru-randhawa-lyrics/</link>
+      <link>http://localhost:1313/baby-girl-guru-randhawa-lyrics/</link>
       <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/baby-girl-guru-randhawa-lyrics/</guid>
+      <guid>http://localhost:1313/baby-girl-guru-randhawa-lyrics/</guid>
       <description>Hoke Ni Taiyaar&#xA;Kitthe Chali Ghar Ton Baahar&#xA;Tenu Kihda Intezaar&#xA;Baby Girl, Baby Girl&#xA;Hoke Ve Taiyaar&#xA;Chali Shopping Nu Haan Yaar&#xA;Mere Bill Nu Chakk Le Bhaar</description>
     </item>
     <item>
       <title>First Kiss lyrics - Yo Yo Honey Singh, Ipsitaa</title>
-      <link>https://example.org/first-kiss-yo-yo-honey-singh-lyrics/</link>
+      <link>http://localhost:1313/first-kiss-yo-yo-honey-singh-lyrics/</link>
       <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/first-kiss-yo-yo-honey-singh-lyrics/</guid>
+      <guid>http://localhost:1313/first-kiss-yo-yo-honey-singh-lyrics/</guid>
       <description>Pyar Ki Pehli, First Kiss, Pyar Ki Pehli&amp;hellip;&#xA;Yo Yo Honey Singh&#xA;Let Me Present, Ipsitaa&#xA;Aye Yo! Seene Se Laga Ke&#xA;Baanhon Me Mujhe Lelo&#xA;Jaldi Hai Kaisi? I Like It Nice And Slow</description>
     </item>
   </channel>

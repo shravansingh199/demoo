@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Baghban (2003) on demo 1</title>
-    <link>https://example.org/albums/baghban-2003/</link>
+    <link>http://localhost:1313/albums/baghban-2003/</link>
     <description>Recent content in Baghban (2003) on demo 1</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 28 Mar 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/albums/baghban-2003/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/albums/baghban-2003/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hori Khele Raghuveera lyrics</title>
-      <link>https://example.org/hori-khele-raghuveera-baghban/</link>
+      <link>http://localhost:1313/hori-khele-raghuveera-baghban/</link>
       <pubDate>Sun, 28 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/hori-khele-raghuveera-baghban/</guid>
+      <guid>http://localhost:1313/hori-khele-raghuveera-baghban/</guid>
       <description>Taal Se Taal Mile More Babua&#xA;Baaje Dhol Mridang&#xA;Mann Se Mann Ka Mel Jo Ho Toh&#xA;Rang Se Mil Jaye Rang&#xA;Ho.. Holi Khele Raghuveera</description>
     </item>
     <item>
       <title>Pehle Kabhi Na Mera Haal lyrics</title>
-      <link>https://example.org/pehle-kabhi-na-mera-haal-baghban/</link>
+      <link>http://localhost:1313/pehle-kabhi-na-mera-haal-baghban/</link>
       <pubDate>Sun, 28 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/pehle-kabhi-na-mera-haal-baghban/</guid>
+      <guid>http://localhost:1313/pehle-kabhi-na-mera-haal-baghban/</guid>
       <description>Pehle Kabhi&#xA;Na Mera Haal Aisa Hua&#xA;Meri Neend Gayi, Chain&#xA;Khone Laga, Kuchh Toh Hone Laga</description>
     </item>
   </channel>

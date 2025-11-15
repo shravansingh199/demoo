@@ -2,52 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Udit Narayan on demo 1</title>
-    <link>https://example.org/artists/udit-narayan/</link>
+    <link>http://localhost:1313/artists/udit-narayan/</link>
     <description>Recent content in Udit Narayan on demo 1</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Mar 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/artists/udit-narayan/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 30 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/artists/udit-narayan/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Akele Hum Akele Tum - Title Track lyrics</title>
+      <link>http://localhost:1313/akele-hum-akele-tum-lyrics/</link>
+      <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/akele-hum-akele-tum-lyrics/</guid>
+      <description>Akele Hum, Akele Tum&#xA;Jo Hum Tum Sang Hain&#xA;Toh Fir Kya Gham&#xA;Tu Mera Dil, Tu Meri Jaan</description>
+    </item>
     <item>
       <title>Hori Khele Raghuveera lyrics</title>
-      <link>https://example.org/hori-khele-raghuveera-baghban/</link>
+      <link>http://localhost:1313/hori-khele-raghuveera-baghban/</link>
       <pubDate>Sun, 28 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/hori-khele-raghuveera-baghban/</guid>
+      <guid>http://localhost:1313/hori-khele-raghuveera-baghban/</guid>
       <description>Taal Se Taal Mile More Babua&#xA;Baaje Dhol Mridang&#xA;Mann Se Mann Ka Mel Jo Ho Toh&#xA;Rang Se Mil Jaye Rang&#xA;Ho.. Holi Khele Raghuveera</description>
     </item>
     <item>
       <title>Kyaa Dil Ne Kahaa - Title Track lyrics</title>
-      <link>https://example.org/kyaa-dil-ne-kahaa-title-track-lyrics/</link>
+      <link>http://localhost:1313/kyaa-dil-ne-kahaa-title-track-lyrics/</link>
       <pubDate>Sun, 28 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/kyaa-dil-ne-kahaa-title-track-lyrics/</guid>
+      <guid>http://localhost:1313/kyaa-dil-ne-kahaa-title-track-lyrics/</guid>
       <description>Palkein Jhuki Hain, Saansein Ruki Hai&#xA;Koi Hame Pukaare&#xA;Anjaani Raahein Thaame Hain Baahein..</description>
     </item>
     <item>
       <title>Pehle Kabhi Na Mera Haal lyrics</title>
-      <link>https://example.org/pehle-kabhi-na-mera-haal-baghban/</link>
+      <link>http://localhost:1313/pehle-kabhi-na-mera-haal-baghban/</link>
       <pubDate>Sun, 28 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/pehle-kabhi-na-mera-haal-baghban/</guid>
+      <guid>http://localhost:1313/pehle-kabhi-na-mera-haal-baghban/</guid>
       <description>Pehle Kabhi&#xA;Na Mera Haal Aisa Hua&#xA;Meri Neend Gayi, Chain&#xA;Khone Laga, Kuchh Toh Hone Laga</description>
     </item>
     <item>
       <title>Falak Tak lyrics - Udit Narayan, Mahalakshmi Iyer</title>
-      <link>https://example.org/falak-tak-tashan/</link>
+      <link>http://localhost:1313/falak-tak-tashan/</link>
       <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/falak-tak-tashan/</guid>
+      <guid>http://localhost:1313/falak-tak-tashan/</guid>
       <description>Falak Tak Chal Saath Mere&#xA;Falak Tak Chal Saath Chal&#xA;Ye Baadal Ki Chaadar&#xA;Ye Taaron Ke Aanchal&#xA;Me Chhup Jaayein Hum&#xA;Pal Do Pal..</description>
     </item>
     <item>
       <title>Dil Leke lyrics - Na Tum Jaano Na Hum</title>
-      <link>https://example.org/dil-leke-na-tum-jaano-na-hum/</link>
+      <link>http://localhost:1313/dil-leke-na-tum-jaano-na-hum/</link>
       <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/dil-leke-na-tum-jaano-na-hum/</guid>
+      <guid>http://localhost:1313/dil-leke-na-tum-jaano-na-hum/</guid>
       <description>Dil Leke (Haan)&#xA;Jaan Leke (Haan)&#xA;Teri Me Main Aa Gaya&#xA;Aaja Agar Tujhe Aana Hai</description>
     </item>
     <item>
       <title>Bheed Mein Tanhayi Mein lyrics - Tumsa Nahin Dekha</title>
-      <link>https://example.org/bheed-mein-udit-narayan-lyrics/</link>
+      <link>http://localhost:1313/bheed-mein-udit-narayan-lyrics/</link>
       <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/bheed-mein-udit-narayan-lyrics/</guid>
+      <guid>http://localhost:1313/bheed-mein-udit-narayan-lyrics/</guid>
       <description>Bheed Mein Tanhayi Mein&#xA;Pyaas Ki Gehrayi Mein&#xA;Dard Mein Ruswayi Mein&#xA;Mujhe Tum Yaad Aate Ho</description>
     </item>
   </channel>
