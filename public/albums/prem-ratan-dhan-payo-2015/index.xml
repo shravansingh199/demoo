@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Prem Ratan Dhan Payo (2015) on demo 1</title>
-    <link>http://localhost:1313/albums/prem-ratan-dhan-payo-2015/</link>
+    <link>https://example.org/albums/prem-ratan-dhan-payo-2015/</link>
     <description>Recent content in Prem Ratan Dhan Payo (2015) on demo 1</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 26 Mar 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/albums/prem-ratan-dhan-payo-2015/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/albums/prem-ratan-dhan-payo-2015/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Prem Ratan Dhan Payo - Title Track lyrics</title>
-      <link>http://localhost:1313/prem-ratan-dhan-payo-title-track/</link>
+      <link>https://example.org/prem-ratan-dhan-payo-title-track/</link>
       <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/prem-ratan-dhan-payo-title-track/</guid>
+      <guid>https://example.org/prem-ratan-dhan-payo-title-track/</guid>
       <description>Sukh Dukh Jhoothe&#xA;Dhan Bhi Jhootha&#xA;Jhoothi Moh Maaya&#xA;Saccha Mann Ka&#xA;Woh Kona Jahan&#xA;Prem Ratan Paaya</description>
     </item>
   </channel>

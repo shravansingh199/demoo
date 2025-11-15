@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Arijit Singh on demo 1</title>
-    <link>http://localhost:1313/artists/arijit-singh/</link>
+    <link>https://example.org/artists/arijit-singh/</link>
     <description>Recent content in Arijit Singh on demo 1</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 28 Mar 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/artists/arijit-singh/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/artists/arijit-singh/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Thodi Jagah lyrics - Arijit Singh</title>
-      <link>http://localhost:1313/thodi-jagah-marjaavaan/</link>
+      <link>https://example.org/thodi-jagah-marjaavaan/</link>
       <pubDate>Sun, 28 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/thodi-jagah-marjaavaan/</guid>
+      <guid>https://example.org/thodi-jagah-marjaavaan/</guid>
       <description>Thodi Jagah De De Mujhe&#xA;Tere Paas Kahin Reh Jaaun Main&#xA;Khamoshiyan Teri Sunu&#xA;Aur Door Kahin Na Jaaun Main</description>
     </item>
     <item>
       <title>Aaj Se Teri lyrics - Arijit Singh</title>
-      <link>http://localhost:1313/aaj-se-teri-lyrics/</link>
+      <link>https://example.org/aaj-se-teri-lyrics/</link>
       <pubDate>Wed, 24 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/aaj-se-teri-lyrics/</guid>
+      <guid>https://example.org/aaj-se-teri-lyrics/</guid>
       <description>Aaj Se Teri&#xA;Saari Galiyan Meri Ho Gayi&#xA;Aaj Se Mera&#xA;Ghar Tera Ho Gaya&#xA;Aaj Se Meri&#xA;Saari Khushiyan Teri Ho Gayi</description>
     </item>
   </channel>

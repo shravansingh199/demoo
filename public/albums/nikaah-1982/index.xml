@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nikaah (1982) on demo 1</title>
-    <link>http://localhost:1313/albums/nikaah-1982/</link>
+    <link>https://example.org/albums/nikaah-1982/</link>
     <description>Recent content in Nikaah (1982) on demo 1</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 23 Mar 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/albums/nikaah-1982/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/albums/nikaah-1982/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Chupke Chupke Raat Din lyrics - Nikaah</title>
-      <link>http://localhost:1313/chupke-chupke-raat-din-lyrics/</link>
+      <link>https://example.org/chupke-chupke-raat-din-lyrics/</link>
       <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/chupke-chupke-raat-din-lyrics/</guid>
+      <guid>https://example.org/chupke-chupke-raat-din-lyrics/</guid>
       <description>Chupke Chupke Raat Din&#xA;Aansoo Bahaana Yaad Hai&#xA;Humko Ab Tak Aashiqui Ka&#xA;Woh Zamaana Yaad Hai</description>
     </item>
   </channel>

@@ -2,441 +2,462 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/aaj-bhi-vishal-mishra-lyrics/</loc>
+    <loc>https://example.org/aaj-bhi-vishal-mishra-lyrics/</loc>
     <lastmod>2025-02-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/albums/</loc>
+    <loc>https://example.org/albums/</loc>
     <lastmod>2025-02-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/artists/</loc>
+    <loc>https://example.org/artists/</loc>
     <lastmod>2025-02-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/old/</loc>
+    <loc>https://example.org/old/</loc>
     <lastmod>2025-02-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/albums/singles/</loc>
+    <loc>https://example.org/albums/singles/</loc>
     <lastmod>2025-02-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/artists/vishal-mishra/</loc>
+    <loc>https://example.org/artists/vishal-mishra/</loc>
     <lastmod>2025-02-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/blue/</loc>
+    <loc>https://example.org/tags/blue/</loc>
     <lastmod>2023-03-15T11:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/green/</loc>
+    <loc>https://example.org/tags/green/</loc>
     <lastmod>2023-03-15T11:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/post-3/</loc>
+    <loc>https://example.org/posts/post-3/</loc>
     <lastmod>2023-03-15T11:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/red/</loc>
+    <loc>https://example.org/tags/red/</loc>
     <lastmod>2023-03-15T11:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://example.org/tags/</loc>
     <lastmod>2023-03-15T11:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/post-2/</loc>
+    <loc>https://example.org/posts/post-2/</loc>
     <lastmod>2023-02-15T10:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/post-1/</loc>
+    <loc>https://example.org/posts/post-1/</loc>
     <lastmod>2023-01-15T09:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://example.org/posts/</loc>
     <lastmod>2023-01-01T08:30:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://example.org/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/artists/arijit-singh/</loc>
+    <loc>https://example.org/now-i-know-time-to-dance/</loc>
+    <lastmod>2021-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/albums/time-to-dance-2021/</loc>
+    <lastmod>2021-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/artists/alka-yagnik/</loc>
     <lastmod>2021-03-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/artists/benny-dayal/</loc>
+    <loc>https://example.org/artists/arijit-singh/</loc>
     <lastmod>2021-03-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/albums/ghajini-2008/</loc>
+    <loc>https://example.org/albums/baghban-2003/</loc>
     <lastmod>2021-03-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/kaise-mujhe-ghajini/</loc>
+    <loc>https://example.org/artists/benny-dayal/</loc>
     <lastmod>2021-03-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/albums/marjaavaan-2019/</loc>
+    <loc>https://example.org/albums/ghajini-2008/</loc>
     <lastmod>2021-03-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/artists/shreya-ghoshal/</loc>
+    <loc>https://example.org/artists/harshdeep-kaur/</loc>
     <lastmod>2021-03-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/thodi-jagah-marjaavaan/</loc>
+    <loc>https://example.org/artists/himesh-reshammiya/</loc>
     <lastmod>2021-03-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/artists/aastha-gill/</loc>
+    <loc>https://example.org/hori-khele-raghuveera-baghban/</loc>
+    <lastmod>2021-03-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/kaise-mujhe-ghajini/</loc>
+    <lastmod>2021-03-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/albums/karzzzz-2008/</loc>
+    <lastmod>2021-03-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/kyaa-dil-ne-kahaa-title-track-lyrics/</loc>
+    <lastmod>2021-03-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/albums/kyaa-dil-ne-kahaa-2002/</loc>
+    <lastmod>2021-03-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/lut-jaaon-karzzzz-lyrics/</loc>
+    <lastmod>2021-03-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/albums/marjaavaan-2019/</loc>
+    <lastmod>2021-03-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/pehle-kabhi-na-mera-haal-baghban/</loc>
+    <lastmod>2021-03-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/artists/shreya-ghoshal/</loc>
+    <lastmod>2021-03-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/artists/sukhwinder-singh/</loc>
+    <lastmod>2021-03-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/thodi-jagah-marjaavaan/</loc>
+    <lastmod>2021-03-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/artists/udit-narayan/</loc>
+    <lastmod>2021-03-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/artists/aastha-gill/</loc>
     <lastmod>2021-03-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/artists/anushka-manchanda/</loc>
+    <loc>https://example.org/artists/anushka-manchanda/</loc>
     <lastmod>2021-03-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/artists/b-praak/</loc>
+    <loc>https://example.org/artists/b-praak/</loc>
     <lastmod>2021-03-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/baarish-ki-jaaye-b-praak/</loc>
+    <loc>https://example.org/baarish-ki-jaaye-b-praak/</loc>
     <lastmod>2021-03-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/dance-basanti/</loc>
+    <loc>https://example.org/dance-basanti/</loc>
     <lastmod>2021-03-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/artists/divya-kumar/</loc>
+    <loc>https://example.org/artists/divya-kumar/</loc>
     <lastmod>2021-03-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/falak-tak-tashan/</loc>
+    <loc>https://example.org/falak-tak-tashan/</loc>
     <lastmod>2021-03-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/artists/himesh-reshammiya/</loc>
+    <loc>https://example.org/kamariya-stree-lyrics/</loc>
     <lastmod>2021-03-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/kamariya-stree-lyrics/</loc>
+    <loc>https://example.org/artists/mahalakshmi-iyer/</loc>
     <lastmod>2021-03-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/albums/karzzzz-2008/</loc>
+    <loc>https://example.org/masha-allah-karzzzz-lyrics/</loc>
     <lastmod>2021-03-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/artists/mahalakshmi-iyer/</loc>
+    <loc>https://example.org/albums/stree-2018/</loc>
     <lastmod>2021-03-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/masha-allah-karzzzz-lyrics/</loc>
+    <loc>https://example.org/albums/tashan-2008/</loc>
     <lastmod>2021-03-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/albums/stree-2018/</loc>
+    <loc>https://example.org/tere-bin-chain-na-aave-karzzzz/</loc>
     <lastmod>2021-03-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/albums/tashan-2008/</loc>
+    <loc>https://example.org/artists/tulsi-kumar/</loc>
     <lastmod>2021-03-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tere-bin-chain-na-aave-karzzzz/</loc>
+    <loc>https://example.org/albums/ungli-2014/</loc>
     <lastmod>2021-03-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/artists/tulsi-kumar/</loc>
+    <loc>https://example.org/artists/vishal-dadlani/</loc>
     <lastmod>2021-03-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/artists/udit-narayan/</loc>
-    <lastmod>2021-03-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/albums/ungli-2014/</loc>
-    <lastmod>2021-03-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/artists/vishal-dadlani/</loc>
-    <lastmod>2021-03-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/artists/armaan-malik/</loc>
+    <loc>https://example.org/artists/armaan-malik/</loc>
     <lastmod>2021-03-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/artists/asees-kaur/</loc>
+    <loc>https://example.org/artists/asees-kaur/</loc>
     <lastmod>2021-03-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/bewafa-tera-masoom-chehra-jubin-nautiyal/</loc>
+    <loc>https://example.org/bewafa-tera-masoom-chehra-jubin-nautiyal/</loc>
     <lastmod>2021-03-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/dil-leke-na-tum-jaano-na-hum/</loc>
+    <loc>https://example.org/dil-leke-na-tum-jaano-na-hum/</loc>
     <lastmod>2021-03-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hey-shona-ta-ra-rum-pum/</loc>
+    <loc>https://example.org/hey-shona-ta-ra-rum-pum/</loc>
     <lastmod>2021-03-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/artists/ip-singh/</loc>
+    <loc>https://example.org/artists/ip-singh/</loc>
     <lastmod>2021-03-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/jaa-sanam-mujhko-hai/</loc>
+    <loc>https://example.org/jaa-sanam-mujhko-hai/</loc>
     <lastmod>2021-03-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/artists/jubin-nautiyal/</loc>
+    <loc>https://example.org/artists/jubin-nautiyal/</loc>
     <lastmod>2021-03-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/kajra-kajra-kajraare-himesh-reshammiya/</loc>
+    <loc>https://example.org/kajra-kajra-kajraare-himesh-reshammiya/</loc>
     <lastmod>2021-03-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/albums/kajraare-2010/</loc>
+    <loc>https://example.org/albums/kajraare-2010/</loc>
     <lastmod>2021-03-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/artists/kamaal-khan/</loc>
+    <loc>https://example.org/artists/kamaal-khan/</loc>
     <lastmod>2021-03-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/main-hoon-na-tere-saath-saina/</loc>
+    <loc>https://example.org/main-hoon-na-tere-saath-saina/</loc>
     <lastmod>2021-03-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/artists/mellow-d/</loc>
+    <loc>https://example.org/artists/mellow-d/</loc>
     <lastmod>2021-03-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/albums/na-tum-jaano-na-hum-2002/</loc>
+    <loc>https://example.org/albums/na-tum-jaano-na-hum-2002/</loc>
     <lastmod>2021-03-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/nadiyon-paar-roohi/</loc>
+    <loc>https://example.org/nadiyon-paar-roohi/</loc>
     <lastmod>2021-03-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/artists/palak-muchhal/</loc>
+    <loc>https://example.org/artists/palak-muchhal/</loc>
     <lastmod>2021-03-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/artists/pamela-jain/</loc>
+    <loc>https://example.org/artists/pamela-jain/</loc>
     <lastmod>2021-03-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/panghat-roohi/</loc>
+    <loc>https://example.org/panghat-roohi/</loc>
     <lastmod>2021-03-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/prem-ratan-dhan-payo-title-track/</loc>
+    <loc>https://example.org/prem-ratan-dhan-payo-title-track/</loc>
     <lastmod>2021-03-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/albums/prem-ratan-dhan-payo-2015/</loc>
+    <loc>https://example.org/albums/prem-ratan-dhan-payo-2015/</loc>
     <lastmod>2021-03-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/artists/rashmeet-kaur/</loc>
+    <loc>https://example.org/artists/rashmeet-kaur/</loc>
     <lastmod>2021-03-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/albums/roohi-2021/</loc>
+    <loc>https://example.org/albums/roohi-2021/</loc>
     <lastmod>2021-03-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/albums/saina-2021/</loc>
+    <loc>https://example.org/albums/saina-2021/</loc>
     <lastmod>2021-03-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/artists/shaan/</loc>
+    <loc>https://example.org/artists/shaan/</loc>
     <lastmod>2021-03-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/artists/shamur/</loc>
+    <loc>https://example.org/artists/shamur/</loc>
     <lastmod>2021-03-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/artists/sneha-pant/</loc>
+    <loc>https://example.org/artists/sneha-pant/</loc>
     <lastmod>2021-03-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/artists/sunidhi-chauhan/</loc>
+    <loc>https://example.org/artists/sunidhi-chauhan/</loc>
     <lastmod>2021-03-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/albums/ta-ra-rum-pum-2007/</loc>
+    <loc>https://example.org/albums/ta-ra-rum-pum-2007/</loc>
     <lastmod>2021-03-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/aadat-happy-hardy-heer-lyrics/</loc>
+    <loc>https://example.org/aadat-happy-hardy-heer-lyrics/</loc>
     <lastmod>2021-03-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/artists/ankit-tiwari/</loc>
+    <loc>https://example.org/artists/ankit-tiwari/</loc>
     <lastmod>2021-03-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/balam-pichkari-lyrics/</loc>
+    <loc>https://example.org/balam-pichkari-lyrics/</loc>
     <lastmod>2021-03-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/albums/happy-hardy-and-heer-2020/</loc>
+    <loc>https://example.org/albums/happy-hardy-and-heer-2020/</loc>
     <lastmod>2021-03-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/haule-haule-rab-ne-bana-di-jodi-lyrics/</loc>
+    <loc>https://example.org/haule-haule-rab-ne-bana-di-jodi-lyrics/</loc>
     <lastmod>2021-03-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ishq-namazaa-lyrics/</loc>
+    <loc>https://example.org/ishq-namazaa-lyrics/</loc>
     <lastmod>2021-03-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/artists/jassie-gill/</loc>
+    <loc>https://example.org/artists/jassie-gill/</loc>
     <lastmod>2021-03-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/koi-tumsa-nahin-krrish/</loc>
+    <loc>https://example.org/koi-tumsa-nahin-krrish/</loc>
     <lastmod>2021-03-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/albums/krrish-2006/</loc>
+    <loc>https://example.org/albums/krrish-2006/</loc>
     <lastmod>2021-03-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/oye-hoye-hoye-jassie-gill-lyrics/</loc>
+    <loc>https://example.org/oye-hoye-hoye-jassie-gill-lyrics/</loc>
     <lastmod>2021-03-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/albums/rab-ne-bana-di-jodi-2008/</loc>
+    <loc>https://example.org/albums/rab-ne-bana-di-jodi-2008/</loc>
     <lastmod>2021-03-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/artists/rabbi-shergill/</loc>
+    <loc>https://example.org/artists/rabbi-shergill/</loc>
     <lastmod>2021-03-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/artists/ranu-mondal/</loc>
+    <loc>https://example.org/artists/ranu-mondal/</loc>
     <lastmod>2021-03-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/artists/shalmali-kholgade/</loc>
+    <loc>https://example.org/artists/shalmali-kholgade/</loc>
     <lastmod>2021-03-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/artists/simar-kaur/</loc>
+    <loc>https://example.org/artists/simar-kaur/</loc>
     <lastmod>2021-03-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/artists/sonu-nigam/</loc>
+    <loc>https://example.org/artists/sonu-nigam/</loc>
     <lastmod>2021-03-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/artists/sukhwinder-singh/</loc>
+    <loc>https://example.org/ta-ra-rum-pum-title-track-lyrics/</loc>
     <lastmod>2021-03-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ta-ra-rum-pum-title-track-lyrics/</loc>
+    <loc>https://example.org/tanha-hoon-yasser-desai-lyrics/</loc>
     <lastmod>2021-03-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tanha-hoon-yasser-desai-lyrics/</loc>
+    <loc>https://example.org/albums/the-big-bull-2021/</loc>
     <lastmod>2021-03-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/albums/the-big-bull-2021/</loc>
+    <loc>https://example.org/artists/yasser-desai/</loc>
     <lastmod>2021-03-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/artists/yasser-desai/</loc>
+    <loc>https://example.org/albums/yeh-jawaani-hai-deewani-2013/</loc>
     <lastmod>2021-03-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/albums/yeh-jawaani-hai-deewani-2013/</loc>
-    <lastmod>2021-03-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/aaj-se-teri-lyrics/</loc>
+    <loc>https://example.org/aaj-se-teri-lyrics/</loc>
     <lastmod>2021-03-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/artists/abhijeet-bhattacharya/</loc>
+    <loc>https://example.org/artists/abhijeet-bhattacharya/</loc>
     <lastmod>2021-03-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/artists/alka-yagnik/</loc>
+    <loc>https://example.org/bepanah-pyaar-payal-dev-lyrics/</loc>
     <lastmod>2021-03-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/bepanah-pyaar-payal-dev-lyrics/</loc>
+    <loc>https://example.org/albums/chalte-chalte-2003/</loc>
     <lastmod>2021-03-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/albums/chalte-chalte-2003/</loc>
+    <loc>https://example.org/artists/dhvani-bhanushali/</loc>
     <lastmod>2021-03-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/artists/dhvani-bhanushali/</loc>
+    <loc>https://example.org/artists/guru-randhawa/</loc>
     <lastmod>2021-03-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/artists/guru-randhawa/</loc>
+    <loc>https://example.org/ishare-tere-lyrics/</loc>
     <lastmod>2021-03-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ishare-tere-lyrics/</loc>
+    <loc>https://example.org/mehendi-wale-haath-lyrics/</loc>
     <lastmod>2021-03-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/mehendi-wale-haath-lyrics/</loc>
+    <loc>https://example.org/artists/mika-singh/</loc>
     <lastmod>2021-03-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/artists/mika-singh/</loc>
+    <loc>https://example.org/milegi-milegi-lyrics/</loc>
     <lastmod>2021-03-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/milegi-milegi-lyrics/</loc>
+    <loc>https://example.org/albums/padman-2018/</loc>
     <lastmod>2021-03-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/albums/padman-2018/</loc>
+    <loc>https://example.org/panchhi-nadiyan-pawan-ke-lyrics/</loc>
     <lastmod>2021-03-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/panchhi-nadiyan-pawan-ke-lyrics/</loc>
+    <loc>https://example.org/artists/payal-dev/</loc>
     <lastmod>2021-03-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/artists/payal-dev/</loc>
+    <loc>https://example.org/albums/refugee-2000/</loc>
     <lastmod>2021-03-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/albums/refugee-2000/</loc>
+    <loc>https://example.org/tauba-tumhare-lyrics/</loc>
     <lastmod>2021-03-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tauba-tumhare-lyrics/</loc>
-    <lastmod>2021-03-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/aur-pyaar-karna-hai-lyrics/</loc>
+    <loc>https://example.org/aur-pyaar-karna-hai-lyrics/</loc>
     <lastmod>2021-03-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/banjaara-ek-villain-lyrics/</loc>
+    <loc>https://example.org/banjaara-ek-villain-lyrics/</loc>
     <lastmod>2021-03-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/chal-wahin-chalein-lyrics/</loc>
+    <loc>https://example.org/chal-wahin-chalein-lyrics/</loc>
     <lastmod>2021-03-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/chupke-chupke-raat-din-lyrics/</loc>
+    <loc>https://example.org/chupke-chupke-raat-din-lyrics/</loc>
     <lastmod>2021-03-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/artists/darshan-raval/</loc>
+    <loc>https://example.org/artists/darshan-raval/</loc>
     <lastmod>2021-03-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/albums/ek-villain-2014/</loc>
+    <loc>https://example.org/albums/ek-villain-2014/</loc>
     <lastmod>2021-03-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/artists/ghulam-ali/</loc>
+    <loc>https://example.org/artists/ghulam-ali/</loc>
     <lastmod>2021-03-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ishq-karo-dil-se-lyrics/</loc>
+    <loc>https://example.org/ishq-karo-dil-se-lyrics/</loc>
     <lastmod>2021-03-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/albums/koi-jaane-na-2021/</loc>
+    <loc>https://example.org/albums/koi-jaane-na-2021/</loc>
     <lastmod>2021-03-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/artists/mohammed-irfan/</loc>
+    <loc>https://example.org/artists/mohammed-irfan/</loc>
     <lastmod>2021-03-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/munde-mar-gaye-lyrics/</loc>
+    <loc>https://example.org/munde-mar-gaye-lyrics/</loc>
     <lastmod>2021-03-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/artists/neeti-mohan/</loc>
+    <loc>https://example.org/artists/neeti-mohan/</loc>
     <lastmod>2021-03-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/artists/neha-kakkar/</loc>
+    <loc>https://example.org/artists/neha-kakkar/</loc>
     <lastmod>2021-03-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/albums/nikaah-1982/</loc>
+    <loc>https://example.org/albums/nikaah-1982/</loc>
     <lastmod>2021-03-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/pagalpan-tanishq-kaur-lyrics/</loc>
+    <loc>https://example.org/pagalpan-tanishq-kaur-lyrics/</loc>
     <lastmod>2021-03-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/artists/tanishq-kaur/</loc>
+    <loc>https://example.org/artists/tanishq-kaur/</loc>
     <lastmod>2021-03-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/albums/time-to-dance-2021/</loc>
+    <loc>https://example.org/vilayati-sharaab-lyrics/</loc>
     <lastmod>2021-03-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/vilayati-sharaab-lyrics/</loc>
-    <lastmod>2021-03-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/bheed-mein-udit-narayan-lyrics/</loc>
+    <loc>https://example.org/bheed-mein-udit-narayan-lyrics/</loc>
     <lastmod>2021-03-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/dhanak-ka-rang-shreya-ghoshal-lyrics/</loc>
+    <loc>https://example.org/dhanak-ka-rang-shreya-ghoshal-lyrics/</loc>
     <lastmod>2021-03-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/har-funn-maula-lyrics/</loc>
+    <loc>https://example.org/har-funn-maula-lyrics/</loc>
     <lastmod>2021-03-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/artists/harshdeep-kaur/</loc>
+    <loc>https://example.org/ishqbaaziyaan-jubin-nautiyal-lyrics/</loc>
     <lastmod>2021-03-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ishqbaaziyaan-jubin-nautiyal-lyrics/</loc>
+    <loc>https://example.org/lut-gaye-jubin-nautiyal-lyrics/</loc>
     <lastmod>2021-03-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/lut-gaye-jubin-nautiyal-lyrics/</loc>
+    <loc>https://example.org/marjaneya-neha-kakkar-lyrics/</loc>
     <lastmod>2021-03-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/marjaneya-neha-kakkar-lyrics/</loc>
+    <loc>https://example.org/radha-dhvani-bhanushali-lyrics/</loc>
     <lastmod>2021-03-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/radha-dhvani-bhanushali-lyrics/</loc>
+    <loc>https://example.org/albums/tumsa-nahin-dekha-2004/</loc>
     <lastmod>2021-03-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/albums/tumsa-nahin-dekha-2004/</loc>
+    <loc>https://example.org/artists/zara-khan/</loc>
     <lastmod>2021-03-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/artists/zara-khan/</loc>
-    <lastmod>2021-03-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/baby-girl-guru-randhawa-lyrics/</loc>
+    <loc>https://example.org/baby-girl-guru-randhawa-lyrics/</loc>
     <lastmod>2021-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/care-ni-karda-lyrics/</loc>
+    <loc>https://example.org/care-ni-karda-lyrics/</loc>
     <lastmod>2021-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/albums/chhalaang-2020/</loc>
+    <loc>https://example.org/albums/chhalaang-2020/</loc>
     <lastmod>2021-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/first-kiss-yo-yo-honey-singh-lyrics/</loc>
+    <loc>https://example.org/first-kiss-yo-yo-honey-singh-lyrics/</loc>
     <lastmod>2021-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/artists/ipsitaa/</loc>
+    <loc>https://example.org/artists/ipsitaa/</loc>
     <lastmod>2021-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/albums/khuddar-1994/</loc>
+    <loc>https://example.org/albums/khuddar-1994/</loc>
     <lastmod>2021-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/artists/kumar-sanu/</loc>
+    <loc>https://example.org/artists/kumar-sanu/</loc>
     <lastmod>2021-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/artists/sweetaj-brar/</loc>
+    <loc>https://example.org/artists/sweetaj-brar/</loc>
     <lastmod>2021-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tumsa-koi-pyara-lyrics/</loc>
+    <loc>https://example.org/tumsa-koi-pyara-lyrics/</loc>
     <lastmod>2021-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/artists/yo-yo-honey-singh/</loc>
+    <loc>https://example.org/artists/yo-yo-honey-singh/</loc>
     <lastmod>2021-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://example.org/categories/</loc>
   </url>
 </urlset>

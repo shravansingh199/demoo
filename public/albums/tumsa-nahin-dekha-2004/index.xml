@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tumsa Nahin Dekha (2004) on demo 1</title>
-    <link>http://localhost:1313/albums/tumsa-nahin-dekha-2004/</link>
+    <link>https://example.org/albums/tumsa-nahin-dekha-2004/</link>
     <description>Recent content in Tumsa Nahin Dekha (2004) on demo 1</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 22 Mar 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/albums/tumsa-nahin-dekha-2004/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/albums/tumsa-nahin-dekha-2004/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bheed Mein Tanhayi Mein lyrics - Tumsa Nahin Dekha</title>
-      <link>http://localhost:1313/bheed-mein-udit-narayan-lyrics/</link>
+      <link>https://example.org/bheed-mein-udit-narayan-lyrics/</link>
       <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/bheed-mein-udit-narayan-lyrics/</guid>
+      <guid>https://example.org/bheed-mein-udit-narayan-lyrics/</guid>
       <description>Bheed Mein Tanhayi Mein&#xA;Pyaas Ki Gehrayi Mein&#xA;Dard Mein Ruswayi Mein&#xA;Mujhe Tum Yaad Aate Ho</description>
     </item>
     <item>
       <title>Dhanak Ka Rang lyrics - Shreya Ghoshal</title>
-      <link>http://localhost:1313/dhanak-ka-rang-shreya-ghoshal-lyrics/</link>
+      <link>https://example.org/dhanak-ka-rang-shreya-ghoshal-lyrics/</link>
       <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/dhanak-ka-rang-shreya-ghoshal-lyrics/</guid>
+      <guid>https://example.org/dhanak-ka-rang-shreya-ghoshal-lyrics/</guid>
       <description>Dhanak Ka Rang Hai Bikhra&#xA;Mere Dupatte Pe&#xA;Sari Khusboo Meri Baahon Me&#xA;Simat Aayi Hai&#xA;Paaon Padte Nahi Zameen Pe Mere</description>
     </item>
   </channel>
