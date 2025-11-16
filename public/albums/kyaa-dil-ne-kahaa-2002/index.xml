@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kyaa Dil Ne Kahaa (2002) on demo 1</title>
-    <link>https://example.org/albums/kyaa-dil-ne-kahaa-2002/</link>
+    <link>http://localhost:1313/albums/kyaa-dil-ne-kahaa-2002/</link>
     <description>Recent content in Kyaa Dil Ne Kahaa (2002) on demo 1</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 28 Mar 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/albums/kyaa-dil-ne-kahaa-2002/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/albums/kyaa-dil-ne-kahaa-2002/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kyaa Dil Ne Kahaa - Title Track lyrics</title>
-      <link>https://example.org/kyaa-dil-ne-kahaa-title-track-lyrics/</link>
+      <link>http://localhost:1313/kyaa-dil-ne-kahaa-title-track-lyrics/</link>
       <pubDate>Sun, 28 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/kyaa-dil-ne-kahaa-title-track-lyrics/</guid>
+      <guid>http://localhost:1313/kyaa-dil-ne-kahaa-title-track-lyrics/</guid>
       <description>Palkein Jhuki Hain, Saansein Ruki Hai&#xA;Koi Hame Pukaare&#xA;Anjaani Raahein Thaame Hain Baahein..</description>
     </item>
   </channel>

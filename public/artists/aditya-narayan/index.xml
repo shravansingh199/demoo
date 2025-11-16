@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Aditya Narayan on demo 1</title>
-    <link>https://example.org/artists/aditya-narayan/</link>
+    <link>http://localhost:1313/artists/aditya-narayan/</link>
     <description>Recent content in Aditya Narayan on demo 1</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 30 Mar 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/artists/aditya-narayan/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/artists/aditya-narayan/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Akele Hum Akele Tum - Title Track lyrics</title>
-      <link>https://example.org/akele-hum-akele-tum-lyrics/</link>
+      <link>http://localhost:1313/akele-hum-akele-tum-lyrics/</link>
       <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/akele-hum-akele-tum-lyrics/</guid>
+      <guid>http://localhost:1313/akele-hum-akele-tum-lyrics/</guid>
       <description>Akele Hum, Akele Tum&#xA;Jo Hum Tum Sang Hain&#xA;Toh Fir Kya Gham&#xA;Tu Mera Dil, Tu Meri Jaan</description>
     </item>
   </channel>
