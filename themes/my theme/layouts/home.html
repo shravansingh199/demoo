@@ -2,8 +2,22 @@
   {{ .Content }}
   {{ range where site.RegularPages "Type" "lyrics" }}
     <section>
+
+      {{ with .Params.albums }}
+        <h4><a href="{{ (printf "albums/%s" (. | urlize)) | relURL }}">{{ . }}</a></h4>
+      {{ end }}
+
       <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
       {{ .Summary }}
+
+      {{ with .Params.artists }}
+        <p><strong>{{ range $index, $element := . -}}
+    {{- if gt $index 0 }}, {{ end }}<a href="{{ (printf "artists/%s" ($element | urlize)) | relURL }}">{{ $element }}</a>
+  {{- end }}</strong></p>
+      {{ end }}
+
     </section>
+    <hr>
+    </br>
   {{ end }}
 {{ end }}

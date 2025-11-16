@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Neeti Mohan on demo 1</title>
-    <link>http://localhost:1313/artists/neeti-mohan/</link>
+    <link>https://example.org/artists/neeti-mohan/</link>
     <description>Recent content in Neeti Mohan on demo 1</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Mar 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/artists/neeti-mohan/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 31 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.org/artists/neeti-mohan/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dil Udd Jaa Re lyrics</title>
+      <link>https://example.org/dil-udd-jaa-re-pagglait-lyrics/</link>
+      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.org/dil-udd-jaa-re-pagglait-lyrics/</guid>
+      <description>Lamha Yun Dukhta Kyun&#xA;Kyun Main Sau Dafa&#xA;Khud Se Hoon Khafa</description>
+    </item>
     <item>
       <title>Vilayati Sharaab lyrics - Darshan Raval, Neeti Mohan</title>
-      <link>http://localhost:1313/vilayati-sharaab-lyrics/</link>
+      <link>https://example.org/vilayati-sharaab-lyrics/</link>
       <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/vilayati-sharaab-lyrics/</guid>
+      <guid>https://example.org/vilayati-sharaab-lyrics/</guid>
       <description>Nazron Mein Meri Kitna Maza Hai&#xA;Jitna Maza Hai Utni Saza Hai&#xA;Isi Nashe Me Kayi Barbaad Ho Gaye&#xA;Ho, Tere Naina Vilayati Sharaab Ho Gaye</description>
     </item>
   </channel>

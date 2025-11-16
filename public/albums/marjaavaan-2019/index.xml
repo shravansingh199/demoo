@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Marjaavaan (2019) on demo 1</title>
-    <link>http://localhost:1313/albums/marjaavaan-2019/</link>
+    <link>https://example.org/albums/marjaavaan-2019/</link>
     <description>Recent content in Marjaavaan (2019) on demo 1</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 28 Mar 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/albums/marjaavaan-2019/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/albums/marjaavaan-2019/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Thodi Jagah lyrics - Arijit Singh</title>
-      <link>http://localhost:1313/thodi-jagah-marjaavaan/</link>
+      <link>https://example.org/thodi-jagah-marjaavaan/</link>
       <pubDate>Sun, 28 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/thodi-jagah-marjaavaan/</guid>
+      <guid>https://example.org/thodi-jagah-marjaavaan/</guid>
       <description>Thodi Jagah De De Mujhe&#xA;Tere Paas Kahin Reh Jaaun Main&#xA;Khamoshiyan Teri Sunu&#xA;Aur Door Kahin Na Jaaun Main</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Simar Kaur on demo 1</title>
-    <link>http://localhost:1313/artists/simar-kaur/</link>
+    <link>https://example.org/artists/simar-kaur/</link>
     <description>Recent content in Simar Kaur on demo 1</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 25 Mar 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/artists/simar-kaur/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/artists/simar-kaur/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Oye Hoye Hoye lyrics - Jassie Gill, Simar Kaur</title>
-      <link>http://localhost:1313/oye-hoye-hoye-jassie-gill-lyrics/</link>
+      <link>https://example.org/oye-hoye-hoye-jassie-gill-lyrics/</link>
       <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/oye-hoye-hoye-jassie-gill-lyrics/</guid>
+      <guid>https://example.org/oye-hoye-hoye-jassie-gill-lyrics/</guid>
       <description>Ek Laide Mainu Bungalow Mundeya&#xA;Ek Laide Mainu Car Ve&#xA;Car Wich Mainu Tu Chahida&#xA;Bungalow Wich Tera Pyaar Ve</description>
     </item>
   </channel>
