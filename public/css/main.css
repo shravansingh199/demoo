@@ -20,3 +20,27 @@ a {
   color: rgb(21, 95, 48);
   text-decoration: none;
 }
+
+.pagination ul {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  gap: 0.5rem;
+}
+
+.pagination li {
+  display: inline-block;
+}
+
+.pagination a {
+  text-decoration: none;
+  padding: 6px 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.pagination .active a {
+  font-weight: bold;
+  border-color: #333;
+}
+

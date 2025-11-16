@@ -6,8 +6,15 @@
     <description>Recent content in Kumar Sanu on demo 1</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 31 Mar 2021 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://example.org/artists/kumar-sanu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Uparwala Apne Saath Hai lyrics</title>
+      <link>https://example.org/uparwala-apne-saath-hai-lyrics/</link>
+      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.org/uparwala-apne-saath-hai-lyrics/</guid>
+      <description>Pyar Bhi Milega&#xA;Dildaar Bhi Milega Tujhe&#xA;Sab Kuchh Uske Haath Hai</description>
+    </item>
     <item>
       <title>Hum Ho Gaye Aap Ke - Title Track lyrics</title>
       <link>https://example.org/hum-ho-gaye-aapke-title-track/</link>

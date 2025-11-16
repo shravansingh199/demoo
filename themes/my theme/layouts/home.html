@@ -1,6 +1,10 @@
 {{ define "main" }}
   {{ .Content }}
-  {{ range where site.RegularPages "Type" "lyrics" }}
+
+  {{ $lyrics := where site.RegularPages "Type" "lyrics" }}
+  {{ $paginator := .Paginate $lyrics }}
+
+  {{ range $paginator.Pages }}
     <section>
 
       {{ with .Params.albums }}
@@ -12,12 +16,17 @@
 
       {{ with .Params.artists }}
         <p><strong>{{ range $index, $element := . -}}
-    {{- if gt $index 0 }}, {{ end }}<a href="{{ (printf "artists/%s" ($element | urlize)) | relURL }}">{{ $element }}</a>
-  {{- end }}</strong></p>
+        {{- if gt $index 0 }}, {{ end }}<a href="{{ (printf "artists/%s" ($element | urlize)) | relURL }}">{{ $element }}</a>
+            {{- end }}</strong></p>
       {{ end }}
 
     </section>
     <hr>
     </br>
   {{ end }}
+
+  {{ partial "pagination.html" . }}
+
+
 {{ end }}
+
