@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mika Singh on demo 1</title>
-    <link>http://localhost:1313/artists/mika-singh/</link>
+    <link>https://example.org/artists/mika-singh/</link>
     <description>Recent content in Mika Singh on demo 1</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 24 Mar 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/artists/mika-singh/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/artists/mika-singh/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Milegi Milegi lyrics - Stree</title>
-      <link>http://localhost:1313/milegi-milegi-lyrics/</link>
+      <link>https://example.org/milegi-milegi-lyrics/</link>
       <pubDate>Wed, 24 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/milegi-milegi-lyrics/</guid>
+      <guid>https://example.org/milegi-milegi-lyrics/</guid>
       <description>Khel Liye Shot Sabhi&#xA;Dekh Liye Spot Sabhi&#xA;Haath Kahin Bhi Na Lagi&#xA;Haan Ji Haan Ji Haan Ji Lekin&#xA;Milegi Milegi&#xA;Tujhe Bhi Milegi</description>
     </item>
   </channel>

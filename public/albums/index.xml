@@ -2,283 +2,297 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Albums on demo 1</title>
-    <link>http://localhost:1313/albums/</link>
+    <link>https://example.org/albums/</link>
     <description>Recent content in Albums on demo 1</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 14 Feb 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/albums/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/albums/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Singles</title>
-      <link>http://localhost:1313/albums/singles/</link>
+      <link>https://example.org/albums/singles/</link>
       <pubDate>Fri, 14 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/albums/singles/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Pagglait (2021)</title>
-      <link>http://localhost:1313/albums/pagglait-2021/</link>
-      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/albums/pagglait-2021/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Sirf Tum (1999)</title>
-      <link>http://localhost:1313/albums/sirf-tum-1999/</link>
-      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/albums/sirf-tum-1999/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Time to Dance (2021)</title>
-      <link>http://localhost:1313/albums/time-to-dance-2021/</link>
-      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/albums/time-to-dance-2021/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Akele Hum Akele Tum (1995)</title>
-      <link>http://localhost:1313/albums/akele-hum-akele-tum-1995/</link>
-      <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/albums/akele-hum-akele-tum-1995/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Hum Ho Gaye Aap Ke (2001)</title>
-      <link>http://localhost:1313/albums/hum-ho-gaye-aap-ke-2001/</link>
-      <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/albums/hum-ho-gaye-aap-ke-2001/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Pal Pal Dil Ke Paas (2019)</title>
-      <link>http://localhost:1313/albums/pal-pal-dil-ke-paas-2019/</link>
-      <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/albums/pal-pal-dil-ke-paas-2019/</guid>
+      <guid>https://example.org/albums/singles/</guid>
       <description></description>
     </item>
     <item>
       <title>A New Love Ishtory (2013)</title>
-      <link>http://localhost:1313/albums/a-new-love-ishtory-2013/</link>
-      <pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/albums/a-new-love-ishtory-2013/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Ahista Ahista (2006)</title>
-      <link>http://localhost:1313/albums/ahista-ahista-2006/</link>
-      <pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/albums/ahista-ahista-2006/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Hello Brother (1999)</title>
-      <link>http://localhost:1313/albums/hello-brother-1999/</link>
-      <pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/albums/hello-brother-1999/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Jhoom Barabar Jhoom (2007)</title>
-      <link>http://localhost:1313/albums/jhoom-barabar-jhoom-2007/</link>
-      <pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/albums/jhoom-barabar-jhoom-2007/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Prem Ratan Dhan Payo (2015)</title>
-      <link>http://localhost:1313/albums/prem-ratan-dhan-payo-2015/</link>
-      <pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/albums/prem-ratan-dhan-payo-2015/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Baghban (2003)</title>
-      <link>http://localhost:1313/albums/baghban-2003/</link>
-      <pubDate>Sun, 28 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/albums/baghban-2003/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Ghajini (2008)</title>
-      <link>http://localhost:1313/albums/ghajini-2008/</link>
-      <pubDate>Sun, 28 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/albums/ghajini-2008/</guid>
+      <link>https://example.org/albums/a-new-love-ishtory-2013/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.org/albums/a-new-love-ishtory-2013/</guid>
       <description></description>
     </item>
     <item>
       <title>Karzzzz (2008)</title>
-      <link>http://localhost:1313/albums/karzzzz-2008/</link>
+      <link>https://example.org/albums/karzzzz-2008/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.org/albums/karzzzz-2008/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Saaho (2019)</title>
+      <link>https://example.org/albums/saaho-2019/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.org/albums/saaho-2019/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kasoor (2001)</title>
+      <link>https://example.org/albums/kasoor-2001/</link>
+      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.org/albums/kasoor-2001/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pagglait (2021)</title>
+      <link>https://example.org/albums/pagglait-2021/</link>
+      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.org/albums/pagglait-2021/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sirf Tum (1999)</title>
+      <link>https://example.org/albums/sirf-tum-1999/</link>
+      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.org/albums/sirf-tum-1999/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Time to Dance (2021)</title>
+      <link>https://example.org/albums/time-to-dance-2021/</link>
+      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.org/albums/time-to-dance-2021/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Akele Hum Akele Tum (1995)</title>
+      <link>https://example.org/albums/akele-hum-akele-tum-1995/</link>
+      <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.org/albums/akele-hum-akele-tum-1995/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hum Ho Gaye Aap Ke (2001)</title>
+      <link>https://example.org/albums/hum-ho-gaye-aap-ke-2001/</link>
+      <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.org/albums/hum-ho-gaye-aap-ke-2001/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pal Pal Dil Ke Paas (2019)</title>
+      <link>https://example.org/albums/pal-pal-dil-ke-paas-2019/</link>
+      <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.org/albums/pal-pal-dil-ke-paas-2019/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ahista Ahista (2006)</title>
+      <link>https://example.org/albums/ahista-ahista-2006/</link>
+      <pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.org/albums/ahista-ahista-2006/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hello Brother (1999)</title>
+      <link>https://example.org/albums/hello-brother-1999/</link>
+      <pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.org/albums/hello-brother-1999/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Jhoom Barabar Jhoom (2007)</title>
+      <link>https://example.org/albums/jhoom-barabar-jhoom-2007/</link>
+      <pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.org/albums/jhoom-barabar-jhoom-2007/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Prem Ratan Dhan Payo (2015)</title>
+      <link>https://example.org/albums/prem-ratan-dhan-payo-2015/</link>
+      <pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.org/albums/prem-ratan-dhan-payo-2015/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Baghban (2003)</title>
+      <link>https://example.org/albums/baghban-2003/</link>
       <pubDate>Sun, 28 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/albums/karzzzz-2008/</guid>
+      <guid>https://example.org/albums/baghban-2003/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ghajini (2008)</title>
+      <link>https://example.org/albums/ghajini-2008/</link>
+      <pubDate>Sun, 28 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.org/albums/ghajini-2008/</guid>
       <description></description>
     </item>
     <item>
       <title>Kyaa Dil Ne Kahaa (2002)</title>
-      <link>http://localhost:1313/albums/kyaa-dil-ne-kahaa-2002/</link>
+      <link>https://example.org/albums/kyaa-dil-ne-kahaa-2002/</link>
       <pubDate>Sun, 28 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/albums/kyaa-dil-ne-kahaa-2002/</guid>
+      <guid>https://example.org/albums/kyaa-dil-ne-kahaa-2002/</guid>
       <description></description>
     </item>
     <item>
       <title>Marjaavaan (2019)</title>
-      <link>http://localhost:1313/albums/marjaavaan-2019/</link>
+      <link>https://example.org/albums/marjaavaan-2019/</link>
       <pubDate>Sun, 28 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/albums/marjaavaan-2019/</guid>
+      <guid>https://example.org/albums/marjaavaan-2019/</guid>
       <description></description>
     </item>
     <item>
       <title>Stree (2018)</title>
-      <link>http://localhost:1313/albums/stree-2018/</link>
+      <link>https://example.org/albums/stree-2018/</link>
       <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/albums/stree-2018/</guid>
+      <guid>https://example.org/albums/stree-2018/</guid>
       <description></description>
     </item>
     <item>
       <title>Tashan (2008)</title>
-      <link>http://localhost:1313/albums/tashan-2008/</link>
+      <link>https://example.org/albums/tashan-2008/</link>
       <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/albums/tashan-2008/</guid>
+      <guid>https://example.org/albums/tashan-2008/</guid>
       <description></description>
     </item>
     <item>
       <title>Ungli (2014)</title>
-      <link>http://localhost:1313/albums/ungli-2014/</link>
+      <link>https://example.org/albums/ungli-2014/</link>
       <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/albums/ungli-2014/</guid>
+      <guid>https://example.org/albums/ungli-2014/</guid>
       <description></description>
     </item>
     <item>
       <title>Kajraare (2010)</title>
-      <link>http://localhost:1313/albums/kajraare-2010/</link>
+      <link>https://example.org/albums/kajraare-2010/</link>
       <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/albums/kajraare-2010/</guid>
+      <guid>https://example.org/albums/kajraare-2010/</guid>
       <description></description>
     </item>
     <item>
       <title>Na Tum Jaano Na Hum (2002)</title>
-      <link>http://localhost:1313/albums/na-tum-jaano-na-hum-2002/</link>
+      <link>https://example.org/albums/na-tum-jaano-na-hum-2002/</link>
       <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/albums/na-tum-jaano-na-hum-2002/</guid>
+      <guid>https://example.org/albums/na-tum-jaano-na-hum-2002/</guid>
       <description></description>
     </item>
     <item>
       <title>Roohi (2021)</title>
-      <link>http://localhost:1313/albums/roohi-2021/</link>
+      <link>https://example.org/albums/roohi-2021/</link>
       <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/albums/roohi-2021/</guid>
+      <guid>https://example.org/albums/roohi-2021/</guid>
       <description></description>
     </item>
     <item>
       <title>Saina (2021)</title>
-      <link>http://localhost:1313/albums/saina-2021/</link>
+      <link>https://example.org/albums/saina-2021/</link>
       <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/albums/saina-2021/</guid>
+      <guid>https://example.org/albums/saina-2021/</guid>
       <description></description>
     </item>
     <item>
       <title>Ta Ra Rum Pum (2007)</title>
-      <link>http://localhost:1313/albums/ta-ra-rum-pum-2007/</link>
+      <link>https://example.org/albums/ta-ra-rum-pum-2007/</link>
       <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/albums/ta-ra-rum-pum-2007/</guid>
+      <guid>https://example.org/albums/ta-ra-rum-pum-2007/</guid>
       <description></description>
     </item>
     <item>
       <title>Happy Hardy and Heer (2020)</title>
-      <link>http://localhost:1313/albums/happy-hardy-and-heer-2020/</link>
+      <link>https://example.org/albums/happy-hardy-and-heer-2020/</link>
       <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/albums/happy-hardy-and-heer-2020/</guid>
+      <guid>https://example.org/albums/happy-hardy-and-heer-2020/</guid>
       <description></description>
     </item>
     <item>
       <title>Krrish (2006)</title>
-      <link>http://localhost:1313/albums/krrish-2006/</link>
+      <link>https://example.org/albums/krrish-2006/</link>
       <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/albums/krrish-2006/</guid>
+      <guid>https://example.org/albums/krrish-2006/</guid>
       <description></description>
     </item>
     <item>
       <title>Rab Ne Bana Di Jodi (2008)</title>
-      <link>http://localhost:1313/albums/rab-ne-bana-di-jodi-2008/</link>
+      <link>https://example.org/albums/rab-ne-bana-di-jodi-2008/</link>
       <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/albums/rab-ne-bana-di-jodi-2008/</guid>
+      <guid>https://example.org/albums/rab-ne-bana-di-jodi-2008/</guid>
       <description></description>
     </item>
     <item>
       <title>The Big Bull (2021)</title>
-      <link>http://localhost:1313/albums/the-big-bull-2021/</link>
+      <link>https://example.org/albums/the-big-bull-2021/</link>
       <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/albums/the-big-bull-2021/</guid>
+      <guid>https://example.org/albums/the-big-bull-2021/</guid>
       <description></description>
     </item>
     <item>
       <title>Yeh Jawaani Hai Deewani (2013)</title>
-      <link>http://localhost:1313/albums/yeh-jawaani-hai-deewani-2013/</link>
+      <link>https://example.org/albums/yeh-jawaani-hai-deewani-2013/</link>
       <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/albums/yeh-jawaani-hai-deewani-2013/</guid>
+      <guid>https://example.org/albums/yeh-jawaani-hai-deewani-2013/</guid>
       <description></description>
     </item>
     <item>
       <title>Chalte Chalte (2003)</title>
-      <link>http://localhost:1313/albums/chalte-chalte-2003/</link>
+      <link>https://example.org/albums/chalte-chalte-2003/</link>
       <pubDate>Wed, 24 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/albums/chalte-chalte-2003/</guid>
+      <guid>https://example.org/albums/chalte-chalte-2003/</guid>
       <description></description>
     </item>
     <item>
       <title>Padman (2018)</title>
-      <link>http://localhost:1313/albums/padman-2018/</link>
+      <link>https://example.org/albums/padman-2018/</link>
       <pubDate>Wed, 24 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/albums/padman-2018/</guid>
+      <guid>https://example.org/albums/padman-2018/</guid>
       <description></description>
     </item>
     <item>
       <title>Refugee (2000)</title>
-      <link>http://localhost:1313/albums/refugee-2000/</link>
+      <link>https://example.org/albums/refugee-2000/</link>
       <pubDate>Wed, 24 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/albums/refugee-2000/</guid>
+      <guid>https://example.org/albums/refugee-2000/</guid>
       <description></description>
     </item>
     <item>
       <title>Ek Villain (2014)</title>
-      <link>http://localhost:1313/albums/ek-villain-2014/</link>
+      <link>https://example.org/albums/ek-villain-2014/</link>
       <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/albums/ek-villain-2014/</guid>
+      <guid>https://example.org/albums/ek-villain-2014/</guid>
       <description></description>
     </item>
     <item>
       <title>Koi Jaane Na (2021)</title>
-      <link>http://localhost:1313/albums/koi-jaane-na-2021/</link>
+      <link>https://example.org/albums/koi-jaane-na-2021/</link>
       <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/albums/koi-jaane-na-2021/</guid>
+      <guid>https://example.org/albums/koi-jaane-na-2021/</guid>
       <description></description>
     </item>
     <item>
       <title>Nikaah (1982)</title>
-      <link>http://localhost:1313/albums/nikaah-1982/</link>
+      <link>https://example.org/albums/nikaah-1982/</link>
       <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/albums/nikaah-1982/</guid>
+      <guid>https://example.org/albums/nikaah-1982/</guid>
       <description></description>
     </item>
     <item>
       <title>Tumsa Nahin Dekha (2004)</title>
-      <link>http://localhost:1313/albums/tumsa-nahin-dekha-2004/</link>
+      <link>https://example.org/albums/tumsa-nahin-dekha-2004/</link>
       <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/albums/tumsa-nahin-dekha-2004/</guid>
+      <guid>https://example.org/albums/tumsa-nahin-dekha-2004/</guid>
       <description></description>
     </item>
     <item>
       <title>Chhalaang (2020)</title>
-      <link>http://localhost:1313/albums/chhalaang-2020/</link>
+      <link>https://example.org/albums/chhalaang-2020/</link>
       <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/albums/chhalaang-2020/</guid>
+      <guid>https://example.org/albums/chhalaang-2020/</guid>
       <description></description>
     </item>
     <item>
       <title>Khuddar (1994)</title>
-      <link>http://localhost:1313/albums/khuddar-1994/</link>
+      <link>https://example.org/albums/khuddar-1994/</link>
       <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/albums/khuddar-1994/</guid>
+      <guid>https://example.org/albums/khuddar-1994/</guid>
       <description></description>
     </item>
   </channel>

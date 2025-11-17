@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Armaan Malik on demo 1</title>
-    <link>http://localhost:1313/artists/armaan-malik/</link>
+    <link>https://example.org/artists/armaan-malik/</link>
     <description>Recent content in Armaan Malik on demo 1</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 26 Mar 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/artists/armaan-malik/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/artists/armaan-malik/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Main Hoon Na Tere Saath lyrics - Saina</title>
-      <link>http://localhost:1313/main-hoon-na-tere-saath-saina/</link>
+      <link>https://example.org/main-hoon-na-tere-saath-saina/</link>
       <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/main-hoon-na-tere-saath-saina/</guid>
+      <guid>https://example.org/main-hoon-na-tere-saath-saina/</guid>
       <description>Main Hoon Na Tere Saath&#xA;Tere Saath&#xA;Na Koi Tha Na Hoga&#xA;Tere Baad&#xA;Main Hoon Na Tere Saath&#xA;Tere Saath&#xA;Karle Tu Poore Saare&#xA;Tere Khwaab</description>
     </item>
   </channel>

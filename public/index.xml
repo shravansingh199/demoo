@@ -2,528 +2,556 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on demo 1</title>
-    <link>http://localhost:1313/</link>
+    <link>https://example.org/</link>
     <description>Recent content in Home on demo 1</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 14 Feb 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Aaj Bhi lyrics - Vishal Mishra</title>
-      <link>http://localhost:1313/aaj-bhi-vishal-mishra-lyrics/</link>
+      <link>https://example.org/aaj-bhi-vishal-mishra-lyrics/</link>
       <pubDate>Fri, 14 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/aaj-bhi-vishal-mishra-lyrics/</guid>
+      <guid>https://example.org/aaj-bhi-vishal-mishra-lyrics/</guid>
       <description>Na Dard Hai, Na Gham Tere Na Ishq Hai, Na Teri Woh Chaahatein Haan, Khush Hoon Main Tere Bina Na Mujhme Bachi Kahin Teri Aadatein</description>
     </item>
     <item>
       <title>Post 3</title>
-      <link>http://localhost:1313/posts/post-3/</link>
+      <link>https://example.org/posts/post-3/</link>
       <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/posts/post-3/</guid>
+      <guid>https://example.org/posts/post-3/</guid>
       <description>&lt;p&gt;Occaecat aliqua consequat laborum ut ex aute aliqua culpa quis irure esse magna dolore quis. Proident fugiat labore eu laboris officia Lorem enim. Ipsum occaecat cillum ut tempor id sint aliqua incididunt nisi incididunt reprehenderit. Voluptate ad minim sint est aute aliquip esse occaecat tempor officia qui sunt. Aute ex ipsum id ut in est velit est laborum incididunt. Aliqua qui id do esse sunt eiusmod id deserunt eu nostrud aute sit ipsum. Deserunt esse cillum Lorem non magna adipisicing mollit amet consequat.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Post 2</title>
-      <link>http://localhost:1313/posts/post-2/</link>
+      <link>https://example.org/posts/post-2/</link>
       <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/posts/post-2/</guid>
+      <guid>https://example.org/posts/post-2/</guid>
       <description>&lt;p&gt;Anim eiusmod irure incididunt sint cupidatat. Incididunt irure irure irure nisi ipsum do ut quis fugiat consectetur proident cupidatat incididunt cillum. Dolore voluptate occaecat qui mollit laborum ullamco et. Ipsum laboris officia anim laboris culpa eiusmod ex magna ex cupidatat anim ipsum aute. Mollit aliquip occaecat qui sunt velit ut cupidatat reprehenderit enim sunt laborum. Velit veniam in officia nulla adipisicing ut duis officia.&lt;/p&gt;&#xA;&lt;p&gt;Exercitation voluptate irure in irure tempor mollit Lorem nostrud ad officia. Velit id fugiat occaecat do tempor. Sit officia Lorem aliquip eu deserunt consectetur. Aute proident deserunt in nulla aliquip dolore ipsum Lorem ut cupidatat consectetur sit sint laborum. Esse cupidatat sit sint sunt tempor exercitation deserunt. Labore dolor duis laborum est do nisi ut veniam dolor et nostrud nostrud.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Post 1</title>
-      <link>http://localhost:1313/posts/post-1/</link>
+      <link>https://example.org/posts/post-1/</link>
       <pubDate>Sun, 15 Jan 2023 09:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/posts/post-1/</guid>
+      <guid>https://example.org/posts/post-1/</guid>
       <description>&lt;p&gt;Tempor proident minim aliquip reprehenderit dolor et ad anim Lorem duis sint eiusmod. Labore ut ea duis dolor. Incididunt consectetur proident qui occaecat incididunt do nisi Lorem. Tempor do laborum elit laboris excepteur eiusmod do. Eiusmod nisi excepteur ut amet pariatur adipisicing Lorem.&lt;/p&gt;&#xA;&lt;p&gt;Occaecat nulla excepteur dolore excepteur duis eiusmod ullamco officia anim in voluptate ea occaecat officia. Cillum sint esse velit ea officia minim fugiat. Elit ea esse id aliquip pariatur cupidatat id duis minim incididunt ea ea. Anim ut duis sunt nisi. Culpa cillum sit voluptate voluptate eiusmod dolor. Enim nisi Lorem ipsum irure est excepteur voluptate eu in enim nisi. Nostrud ipsum Lorem anim sint labore consequat do.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Bolo Shara Rara lyrics - Himesh Reshammiya</title>
+      <link>https://example.org/bolo-shara-ra-ra-himesh-reshammiya/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.org/bolo-shara-ra-ra-himesh-reshammiya/</guid>
+      <description>Neeche Paan Ki Dukaan&#xA;Upar Gori Ka Makaan&#xA;Tera Munda Hai Nadaan&#xA;Gori De Deta Hai..</description>
+    </item>
+    <item>
+      <title>Psycho Saiyaan lyrics</title>
+      <link>https://example.org/psycho-saiyaan-saaho-lyrics/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.org/psycho-saiyaan-saaho-lyrics/</guid>
+      <description>Pehle Tu Neeli Akhiyaan Ladai Gayi&#xA;Raaton Ki Meri Neendein Udayi Gayi&#xA;Nashe Me Tere Mujhko Dubayi Gayi</description>
+    </item>
+    <item>
+      <title>Tandoori Nights lyrics</title>
+      <link>https://example.org/tandoori-nights-karzzzz-lyrics/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tandoori-nights-karzzzz-lyrics/</guid>
+      <description>Shama Sharaabi&#xA;Dono Jahan Sharaabi&#xA;Rut Rawan Sharaabi&#xA;Dildar Ve&#xA;Hawaa Sharaabi&#xA;Teri Adaa Sharaabi&#xA;Ye Fiza..</description>
+    </item>
+    <item>
       <title>Dil Udd Jaa Re lyrics</title>
-      <link>http://localhost:1313/dil-udd-jaa-re-pagglait-lyrics/</link>
+      <link>https://example.org/dil-udd-jaa-re-pagglait-lyrics/</link>
       <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/dil-udd-jaa-re-pagglait-lyrics/</guid>
+      <guid>https://example.org/dil-udd-jaa-re-pagglait-lyrics/</guid>
       <description>Lamha Yun Dukhta Kyun&#xA;Kyun Main Sau Dafa&#xA;Khud Se Hoon Khafa</description>
     </item>
     <item>
       <title>Hathon Se Yoon lyrics</title>
-      <link>http://localhost:1313/hathon-se-yoon-time-to-dance-lyrics/</link>
+      <link>https://example.org/hathon-se-yoon-time-to-dance-lyrics/</link>
       <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hathon-se-yoon-time-to-dance-lyrics/</guid>
+      <guid>https://example.org/hathon-se-yoon-time-to-dance-lyrics/</guid>
       <description>Haathon Se Yoon&#xA;Chhoote Hain Kyun&#xA;Dhaage Junoon Ke&#xA;Toote Se Kyun</description>
     </item>
     <item>
-      <title>Uparwala Apne Saath Hai lyrics</title>
-      <link>http://localhost:1313/uparwala-apne-saath-hai-lyrics/</link>
+      <title>Kitni Bechain Hoke lyrics</title>
+      <link>https://example.org/kitni-bechain-hoke-kasoor/</link>
       <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/uparwala-apne-saath-hai-lyrics/</guid>
+      <guid>https://example.org/kitni-bechain-hoke-kasoor/</guid>
+      <description>Kitni Bechain Hoke Tumse Mili&#xA;Tumko Kya Thi Khabar&#xA;Thi Main Kitni Akeli&#xA;Haan..</description>
+    </item>
+    <item>
+      <title>Uparwala Apne Saath Hai lyrics</title>
+      <link>https://example.org/uparwala-apne-saath-hai-lyrics/</link>
+      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.org/uparwala-apne-saath-hai-lyrics/</guid>
       <description>Pyar Bhi Milega&#xA;Dildaar Bhi Milega Tujhe&#xA;Sab Kuchh Uske Haath Hai</description>
     </item>
     <item>
       <title>Aaj Sajeya lyrics - Goldie Sohel</title>
-      <link>http://localhost:1313/aaj-sajeya-goldie-sohel/</link>
+      <link>https://example.org/aaj-sajeya-goldie-sohel/</link>
       <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/aaj-sajeya-goldie-sohel/</guid>
+      <guid>https://example.org/aaj-sajeya-goldie-sohel/</guid>
       <description>Aaj Sajeya Ae Ve&#xA;Saara Sheher&#xA;Aaj Ho Gayi Aa Ve&#xA;Rab Di Meher</description>
     </item>
     <item>
       <title>Akele Hum Akele Tum - Title Track lyrics</title>
-      <link>http://localhost:1313/akele-hum-akele-tum-lyrics/</link>
+      <link>https://example.org/akele-hum-akele-tum-lyrics/</link>
       <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/akele-hum-akele-tum-lyrics/</guid>
+      <guid>https://example.org/akele-hum-akele-tum-lyrics/</guid>
       <description>Akele Hum, Akele Tum&#xA;Jo Hum Tum Sang Hain&#xA;Toh Fir Kya Gham&#xA;Tu Mera Dil, Tu Meri Jaan</description>
     </item>
     <item>
       <title>Hum Ho Gaye Aap Ke - Title Track lyrics</title>
-      <link>http://localhost:1313/hum-ho-gaye-aapke-title-track/</link>
+      <link>https://example.org/hum-ho-gaye-aapke-title-track/</link>
       <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hum-ho-gaye-aapke-title-track/</guid>
+      <guid>https://example.org/hum-ho-gaye-aapke-title-track/</guid>
       <description>Kyun Bekhudi Si Chhai Hai&#xA;Kyun Aag Si Lagai Hai Aapne&#xA;Ho.. Hum Ho Gaye Aapke</description>
     </item>
     <item>
       <title>Pal Pal Dil Ke Paas - Title Track lyrics</title>
-      <link>http://localhost:1313/pal-pal-dil-ke-paas-arijit-singh/</link>
+      <link>https://example.org/pal-pal-dil-ke-paas-arijit-singh/</link>
       <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pal-pal-dil-ke-paas-arijit-singh/</guid>
+      <guid>https://example.org/pal-pal-dil-ke-paas-arijit-singh/</guid>
       <description>Rehna Tu Pal Pal Dil Ke Paas&#xA;Judi Rahe Tujhse Har Ek Saans&#xA;Khud Pe Pehle Na Itna Yakeen</description>
     </item>
     <item>
       <title>Pehli Baar Dil Yun lyrics</title>
-      <link>http://localhost:1313/pehli-baar-dil-yun-lyrics/</link>
+      <link>https://example.org/pehli-baar-dil-yun-lyrics/</link>
       <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pehli-baar-dil-yun-lyrics/</guid>
+      <guid>https://example.org/pehli-baar-dil-yun-lyrics/</guid>
       <description>Pehli Baar Dil Yun&#xA;Bekaraar Hua Hai&#xA;Aisa Lag Raha Hai&#xA;Jaise Pyar Hua Hai</description>
     </item>
     <item>
       <title>Allah Kare lyrics - Himesh Reshammiya</title>
-      <link>http://localhost:1313/allah-kare-ahista-ahista-lyrics/</link>
+      <link>https://example.org/allah-kare-ahista-ahista-lyrics/</link>
       <pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/allah-kare-ahista-ahista-lyrics/</guid>
+      <guid>https://example.org/allah-kare-ahista-ahista-lyrics/</guid>
       <description>Jab Tak Khudaayi Rahe&#xA;Tere Dil Pe Mera Naam&#xA;Rahe..&#xA;Allah Kare</description>
     </item>
     <item>
       <title>Bachpan Kahan lyrics - Himesh Reshammiya</title>
-      <link>http://localhost:1313/bachpan-kahan-prem-ratan-dhan-payo/</link>
+      <link>https://example.org/bachpan-kahan-prem-ratan-dhan-payo/</link>
       <pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/bachpan-kahan-prem-ratan-dhan-payo/</guid>
+      <guid>https://example.org/bachpan-kahan-prem-ratan-dhan-payo/</guid>
       <description>Sapno Ka Woh Aangan Kahan&#xA;Darpan Bata Bachpan Kahan&#xA;Seedha Saral Tha Jeevan Jahan&#xA;Darpan Bata Bachpan Kahan</description>
     </item>
     <item>
       <title>Chandi Ki Daal Par lyrics</title>
-      <link>http://localhost:1313/chandi-ki-daal-par-hello-brother/</link>
+      <link>https://example.org/chandi-ki-daal-par-hello-brother/</link>
       <pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/chandi-ki-daal-par-hello-brother/</guid>
+      <guid>https://example.org/chandi-ki-daal-par-hello-brother/</guid>
       <description>Chandi Ki Daal Par&#xA;Sone Ka Mor&#xA;Taak Jhaak Taak&#xA;Kare Neeche Ka Chor</description>
     </item>
     <item>
       <title>Jab Main Chhota Bachcha Tha lyrics</title>
-      <link>http://localhost:1313/jab-main-chhota-baccha-tha-lyrics/</link>
+      <link>https://example.org/jab-main-chhota-baccha-tha-lyrics/</link>
       <pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/jab-main-chhota-baccha-tha-lyrics/</guid>
+      <guid>https://example.org/jab-main-chhota-baccha-tha-lyrics/</guid>
       <description>Jab Main Chhota Baccha Tha&#xA;Badi Sharaarat Karta Tha&#xA;Meri Chori Pakdi Jati</description>
     </item>
     <item>
       <title>Kiss Of Love lyrics</title>
-      <link>http://localhost:1313/kiss-of-love-jhoom-barabar-jhoom/</link>
+      <link>https://example.org/kiss-of-love-jhoom-barabar-jhoom/</link>
       <pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/kiss-of-love-jhoom-barabar-jhoom/</guid>
+      <guid>https://example.org/kiss-of-love-jhoom-barabar-jhoom/</guid>
       <description>Teri Aankhon Me Jab Bhi Jhaanku&#xA;Meri Saans Atak Jaati Hai&#xA;Oye Band Karle, Oye Band Kar, Yaara&#xA;Daake Daalti Aankhein</description>
     </item>
     <item>
       <title>Now I Know lyrics</title>
-      <link>http://localhost:1313/now-i-know-time-to-dance/</link>
+      <link>https://example.org/now-i-know-time-to-dance/</link>
       <pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/now-i-know-time-to-dance/</guid>
+      <guid>https://example.org/now-i-know-time-to-dance/</guid>
       <description>Now I Know&#xA;I Made A Mistake&#xA;I Shouldn’t Have Let You Go&#xA;I Should Have..</description>
     </item>
     <item>
       <title>Tujhe Bhoolna Toh Chaaha lyrics - Jubin Nautiyal</title>
-      <link>http://localhost:1313/tujhe-bhoolna-toh-chaaha-jubin-nautiyal/</link>
+      <link>https://example.org/tujhe-bhoolna-toh-chaaha-jubin-nautiyal/</link>
       <pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tujhe-bhoolna-toh-chaaha-jubin-nautiyal/</guid>
+      <guid>https://example.org/tujhe-bhoolna-toh-chaaha-jubin-nautiyal/</guid>
       <description>Teri Judaiyon Me&#xA;Barse Woh Naina Bhi&#xA;Sau Dard Milke&#xA;Jinko Rula Na Paaye&#xA;Tujhe Bhoolna Toh Chaaha&#xA;Lekin Bhoola Na Paaye</description>
     </item>
     <item>
       <title>Hori Khele Raghuveera lyrics</title>
-      <link>http://localhost:1313/hori-khele-raghuveera-baghban/</link>
+      <link>https://example.org/hori-khele-raghuveera-baghban/</link>
       <pubDate>Sun, 28 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hori-khele-raghuveera-baghban/</guid>
+      <guid>https://example.org/hori-khele-raghuveera-baghban/</guid>
       <description>Taal Se Taal Mile More Babua&#xA;Baaje Dhol Mridang&#xA;Mann Se Mann Ka Mel Jo Ho Toh&#xA;Rang Se Mil Jaye Rang&#xA;Ho.. Holi Khele Raghuveera</description>
     </item>
     <item>
       <title>Kaise Mujhe lyrics - Benny Dayal, Shreya Ghoshal</title>
-      <link>http://localhost:1313/kaise-mujhe-ghajini/</link>
+      <link>https://example.org/kaise-mujhe-ghajini/</link>
       <pubDate>Sun, 28 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/kaise-mujhe-ghajini/</guid>
+      <guid>https://example.org/kaise-mujhe-ghajini/</guid>
       <description>Kaise Mujhe Tum Mil Gayi&#xA;Kismat Pe Aaye Na Yakeen&#xA;Utar Aayi Jheel Me&#xA;Jaise Chaand Utarta Hai Kabhi&#xA;Haule Haule, Dheere Se</description>
     </item>
     <item>
       <title>Kyaa Dil Ne Kahaa - Title Track lyrics</title>
-      <link>http://localhost:1313/kyaa-dil-ne-kahaa-title-track-lyrics/</link>
+      <link>https://example.org/kyaa-dil-ne-kahaa-title-track-lyrics/</link>
       <pubDate>Sun, 28 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/kyaa-dil-ne-kahaa-title-track-lyrics/</guid>
+      <guid>https://example.org/kyaa-dil-ne-kahaa-title-track-lyrics/</guid>
       <description>Palkein Jhuki Hain, Saansein Ruki Hai&#xA;Koi Hame Pukaare&#xA;Anjaani Raahein Thaame Hain Baahein..</description>
     </item>
     <item>
       <title>Lut Jaaon Lut Jaaon lyrics - Karzzzz</title>
-      <link>http://localhost:1313/lut-jaaon-karzzzz-lyrics/</link>
+      <link>https://example.org/lut-jaaon-karzzzz-lyrics/</link>
       <pubDate>Sun, 28 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/lut-jaaon-karzzzz-lyrics/</guid>
+      <guid>https://example.org/lut-jaaon-karzzzz-lyrics/</guid>
       <description>Nazron Me Teri Kashish Ka Aalam&#xA;Dil Me Hai Armaano Ki Sargam&#xA;Jo Bhi Di Hai Mere Jiya Ko..</description>
     </item>
     <item>
       <title>Pehle Kabhi Na Mera Haal lyrics</title>
-      <link>http://localhost:1313/pehle-kabhi-na-mera-haal-baghban/</link>
+      <link>https://example.org/pehle-kabhi-na-mera-haal-baghban/</link>
       <pubDate>Sun, 28 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pehle-kabhi-na-mera-haal-baghban/</guid>
+      <guid>https://example.org/pehle-kabhi-na-mera-haal-baghban/</guid>
       <description>Pehle Kabhi&#xA;Na Mera Haal Aisa Hua&#xA;Meri Neend Gayi, Chain&#xA;Khone Laga, Kuchh Toh Hone Laga</description>
     </item>
     <item>
       <title>Thodi Jagah lyrics - Arijit Singh</title>
-      <link>http://localhost:1313/thodi-jagah-marjaavaan/</link>
+      <link>https://example.org/thodi-jagah-marjaavaan/</link>
       <pubDate>Sun, 28 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/thodi-jagah-marjaavaan/</guid>
+      <guid>https://example.org/thodi-jagah-marjaavaan/</guid>
       <description>Thodi Jagah De De Mujhe&#xA;Tere Paas Kahin Reh Jaaun Main&#xA;Khamoshiyan Teri Sunu&#xA;Aur Door Kahin Na Jaaun Main</description>
     </item>
     <item>
       <title>Baarish Ki Jaaye lyrics - B Praak</title>
-      <link>http://localhost:1313/baarish-ki-jaaye-b-praak/</link>
+      <link>https://example.org/baarish-ki-jaaye-b-praak/</link>
       <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/baarish-ki-jaaye-b-praak/</guid>
+      <guid>https://example.org/baarish-ki-jaaye-b-praak/</guid>
       <description>Aye Khuda Tu Bol De Tere Baadalon Ko&#xA;Mera Yaar Hass Raha Hai&#xA;Baarish Ki Jaaye</description>
     </item>
     <item>
       <title>Dance Basanti lyrics - Vishal Dadlani, Anushka Manchanda</title>
-      <link>http://localhost:1313/dance-basanti/</link>
+      <link>https://example.org/dance-basanti/</link>
       <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/dance-basanti/</guid>
+      <guid>https://example.org/dance-basanti/</guid>
       <description>Kisi Hit Gaane Pe Jo&#xA;Kamar Matka Degi Tu&#xA;Fateechar Se Ye Dil&#xA;Ban Jayega Shehzaada&#xA;Oonchi Waali Heel Pehankar&#xA;Dance Basanti</description>
     </item>
     <item>
       <title>Falak Tak lyrics - Udit Narayan, Mahalakshmi Iyer</title>
-      <link>http://localhost:1313/falak-tak-tashan/</link>
+      <link>https://example.org/falak-tak-tashan/</link>
       <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/falak-tak-tashan/</guid>
+      <guid>https://example.org/falak-tak-tashan/</guid>
       <description>Falak Tak Chal Saath Mere&#xA;Falak Tak Chal Saath Chal&#xA;Ye Baadal Ki Chaadar&#xA;Ye Taaron Ke Aanchal&#xA;Me Chhup Jaayein Hum&#xA;Pal Do Pal..</description>
     </item>
     <item>
       <title>Kamariya lyrics - Aastha Gill, Divya Kumar</title>
-      <link>http://localhost:1313/kamariya-stree-lyrics/</link>
+      <link>https://example.org/kamariya-stree-lyrics/</link>
       <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/kamariya-stree-lyrics/</guid>
+      <guid>https://example.org/kamariya-stree-lyrics/</guid>
       <description>Aaj Bijli Bhi Girwaani Hai&#xA;Fire Bhi Lagwaani Hai&#xA;Jo Tu Aake Baby Humre Saath Ma&#xA;Aa Aa Aa Aake Kamariya</description>
     </item>
     <item>
       <title>Masha Allah lyrics - Himesh Reshammiya</title>
-      <link>http://localhost:1313/masha-allah-karzzzz-lyrics/</link>
+      <link>https://example.org/masha-allah-karzzzz-lyrics/</link>
       <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/masha-allah-karzzzz-lyrics/</guid>
+      <guid>https://example.org/masha-allah-karzzzz-lyrics/</guid>
       <description>Tera Chehra, Jabse Dekha&#xA;Dil Gumshuda Hua, Wallah&#xA;Masha Allah, Subhan Allah</description>
     </item>
     <item>
       <title>Tere Bin Chain Na Aave lyrics</title>
-      <link>http://localhost:1313/tere-bin-chain-na-aave-karzzzz/</link>
+      <link>https://example.org/tere-bin-chain-na-aave-karzzzz/</link>
       <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tere-bin-chain-na-aave-karzzzz/</guid>
+      <guid>https://example.org/tere-bin-chain-na-aave-karzzzz/</guid>
       <description>Mahiya Tu Dekh Le&#xA;Jindadi Meri Behaal Hai&#xA;Tere Bin Chain Na Aave, Na Aave</description>
     </item>
     <item>
       <title>Bewafa Tera Masoom Chehra lyrics - Jubin Nautiyal</title>
-      <link>http://localhost:1313/bewafa-tera-masoom-chehra-jubin-nautiyal/</link>
+      <link>https://example.org/bewafa-tera-masoom-chehra-jubin-nautiyal/</link>
       <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/bewafa-tera-masoom-chehra-jubin-nautiyal/</guid>
+      <guid>https://example.org/bewafa-tera-masoom-chehra-jubin-nautiyal/</guid>
       <description>Khubsoorat Bohot Hai Tu Lekin&#xA;Dil Lagane Ke Kaabil Nahi Hai&#xA;Bewafa Tera Masoom Chehra&#xA;Bhool Jaane Ke Kaabil Nahi Hai</description>
     </item>
     <item>
       <title>Dil Leke lyrics - Na Tum Jaano Na Hum</title>
-      <link>http://localhost:1313/dil-leke-na-tum-jaano-na-hum/</link>
+      <link>https://example.org/dil-leke-na-tum-jaano-na-hum/</link>
       <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/dil-leke-na-tum-jaano-na-hum/</guid>
+      <guid>https://example.org/dil-leke-na-tum-jaano-na-hum/</guid>
       <description>Dil Leke (Haan)&#xA;Jaan Leke (Haan)&#xA;Teri Me Main Aa Gaya&#xA;Aaja Agar Tujhe Aana Hai</description>
     </item>
     <item>
       <title>Hey Shona lyrics - Shaan, Sunidhi Chauhan</title>
-      <link>http://localhost:1313/hey-shona-ta-ra-rum-pum/</link>
+      <link>https://example.org/hey-shona-ta-ra-rum-pum/</link>
       <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hey-shona-ta-ra-rum-pum/</guid>
+      <guid>https://example.org/hey-shona-ta-ra-rum-pum/</guid>
       <description>Tumhe Pata Toh Hoga&#xA;Tumhi Pe Main Fida Hoon&#xA;Tumhe Hai Jab Se Chaaha&#xA;Hawaaon Me Udta Hoon</description>
     </item>
     <item>
       <title>Jaa Sanam lyrics - Na Tum Jaano Na Hum</title>
-      <link>http://localhost:1313/jaa-sanam-mujhko-hai/</link>
+      <link>https://example.org/jaa-sanam-mujhko-hai/</link>
       <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/jaa-sanam-mujhko-hai/</guid>
+      <guid>https://example.org/jaa-sanam-mujhko-hai/</guid>
       <description>Ja Sanam Mujhko Hai&#xA;Pyar Pe Aitbaar&#xA;Main Karungi Tera Intezaar</description>
     </item>
     <item>
       <title>Kajra Kajra Kajraare lyrics</title>
-      <link>http://localhost:1313/kajra-kajra-kajraare-himesh-reshammiya/</link>
+      <link>https://example.org/kajra-kajra-kajraare-himesh-reshammiya/</link>
       <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/kajra-kajra-kajraare-himesh-reshammiya/</guid>
+      <guid>https://example.org/kajra-kajra-kajraare-himesh-reshammiya/</guid>
       <description>Na Main Jaaga, Na Main Soya&#xA;Tujhko Dekh Ke Sudh-Budh Khoya&#xA;Maar Gaye..&#xA;Mati Maar Gaye Matwaare</description>
     </item>
     <item>
       <title>Main Hoon Na Tere Saath lyrics - Saina</title>
-      <link>http://localhost:1313/main-hoon-na-tere-saath-saina/</link>
+      <link>https://example.org/main-hoon-na-tere-saath-saina/</link>
       <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/main-hoon-na-tere-saath-saina/</guid>
+      <guid>https://example.org/main-hoon-na-tere-saath-saina/</guid>
       <description>Main Hoon Na Tere Saath&#xA;Tere Saath&#xA;Na Koi Tha Na Hoga&#xA;Tere Baad&#xA;Main Hoon Na Tere Saath&#xA;Tere Saath&#xA;Karle Tu Poore Saare&#xA;Tere Khwaab</description>
     </item>
     <item>
       <title>Nadiyon Paar (Let the Music Play Again) lyrics</title>
-      <link>http://localhost:1313/nadiyon-paar-roohi/</link>
+      <link>https://example.org/nadiyon-paar-roohi/</link>
       <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/nadiyon-paar-roohi/</guid>
+      <guid>https://example.org/nadiyon-paar-roohi/</guid>
       <description>Nadiyon Paar Sajan Da Thaana&#xA;Keete Kol Jaroori Jaana</description>
     </item>
     <item>
       <title>Panghat lyrics - Roohi</title>
-      <link>http://localhost:1313/panghat-roohi/</link>
+      <link>https://example.org/panghat-roohi/</link>
       <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/panghat-roohi/</guid>
+      <guid>https://example.org/panghat-roohi/</guid>
       <description>Julmi Badi Aukat Pe Ye Raat Aayi Hai&#xA;Mann Toh Hai Mera Paawan Magar Yovan Harjaayi Hai</description>
     </item>
     <item>
       <title>Prem Ratan Dhan Payo - Title Track lyrics</title>
-      <link>http://localhost:1313/prem-ratan-dhan-payo-title-track/</link>
+      <link>https://example.org/prem-ratan-dhan-payo-title-track/</link>
       <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/prem-ratan-dhan-payo-title-track/</guid>
+      <guid>https://example.org/prem-ratan-dhan-payo-title-track/</guid>
       <description>Sukh Dukh Jhoothe&#xA;Dhan Bhi Jhootha&#xA;Jhoothi Moh Maaya&#xA;Saccha Mann Ka&#xA;Woh Kona Jahan&#xA;Prem Ratan Paaya</description>
     </item>
     <item>
       <title>Aadat lyrics - Happy Hardy And Heer</title>
-      <link>http://localhost:1313/aadat-happy-hardy-heer-lyrics/</link>
+      <link>https://example.org/aadat-happy-hardy-heer-lyrics/</link>
       <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/aadat-happy-hardy-heer-lyrics/</guid>
+      <guid>https://example.org/aadat-happy-hardy-heer-lyrics/</guid>
       <description>Badi Hi Nasheeli Sangat Teri&#xA;Tu Hai Meri Aadat Buri&#xA;Betaabiyon Me Teri&#xA;Jaayegi Jaan Yeh Meri</description>
     </item>
     <item>
       <title>Balam Pichkari lyrics - Vishal Dadlani, Shalmali Kholgade</title>
-      <link>http://localhost:1313/balam-pichkari-lyrics/</link>
+      <link>https://example.org/balam-pichkari-lyrics/</link>
       <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/balam-pichkari-lyrics/</guid>
+      <guid>https://example.org/balam-pichkari-lyrics/</guid>
       <description>Itna Maza Kyun Aa Raha Hai&#xA;Tune Hawa Me Bhaang Milaya&#xA;Dugna Nasha Kyun Ho Raha Hai&#xA;Aankhon Se Meetha Tune Khilaya</description>
     </item>
     <item>
       <title>Haule Haule lyrics - Rab Ne Bana Di Jodi</title>
-      <link>http://localhost:1313/haule-haule-rab-ne-bana-di-jodi-lyrics/</link>
+      <link>https://example.org/haule-haule-rab-ne-bana-di-jodi-lyrics/</link>
       <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/haule-haule-rab-ne-bana-di-jodi-lyrics/</guid>
+      <guid>https://example.org/haule-haule-rab-ne-bana-di-jodi-lyrics/</guid>
       <description>Haule Haule Se Hawa Lagti Hai&#xA;Haule Haule Se Dawa Lagti Hai&#xA;Haule Haule Se Dua Lagti Hai..</description>
     </item>
     <item>
       <title>Ishq Namazaa lyrics - Ankit Tiwari</title>
-      <link>http://localhost:1313/ishq-namazaa-lyrics/</link>
+      <link>https://example.org/ishq-namazaa-lyrics/</link>
       <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ishq-namazaa-lyrics/</guid>
+      <guid>https://example.org/ishq-namazaa-lyrics/</guid>
       <description>Oh Mitha Mitha Hai Khara Paani&#xA;Mithiyan Teri Yaadan&#xA;Haan Tere Mere Ishq Diyan Hai&#xA;Uchiyan Hai Parwazaa&#xA;Ishq Namazaa Main Ta Paddhiyan</description>
     </item>
     <item>
       <title>Koi Tumsa Nahin lyrics - Krrish</title>
-      <link>http://localhost:1313/koi-tumsa-nahin-krrish/</link>
+      <link>https://example.org/koi-tumsa-nahin-krrish/</link>
       <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/koi-tumsa-nahin-krrish/</guid>
+      <guid>https://example.org/koi-tumsa-nahin-krrish/</guid>
       <description>Dhoop Nikalti Hai Jahan Se&#xA;Chaandni Rehti Hai Jahan Pe&#xA;Khabar Yeh Aayi Hai Wahan Se</description>
     </item>
     <item>
       <title>Oye Hoye Hoye lyrics - Jassie Gill, Simar Kaur</title>
-      <link>http://localhost:1313/oye-hoye-hoye-jassie-gill-lyrics/</link>
+      <link>https://example.org/oye-hoye-hoye-jassie-gill-lyrics/</link>
       <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/oye-hoye-hoye-jassie-gill-lyrics/</guid>
+      <guid>https://example.org/oye-hoye-hoye-jassie-gill-lyrics/</guid>
       <description>Ek Laide Mainu Bungalow Mundeya&#xA;Ek Laide Mainu Car Ve&#xA;Car Wich Mainu Tu Chahida&#xA;Bungalow Wich Tera Pyaar Ve</description>
     </item>
     <item>
       <title>Ta Ra Rum Pum - Title Track lyrics</title>
-      <link>http://localhost:1313/ta-ra-rum-pum-title-track-lyrics/</link>
+      <link>https://example.org/ta-ra-rum-pum-title-track-lyrics/</link>
       <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ta-ra-rum-pum-title-track-lyrics/</guid>
+      <guid>https://example.org/ta-ra-rum-pum-title-track-lyrics/</guid>
       <description>TA Jo Gire Toh&#xA;RA De Sahara&#xA;MA Pal Me Samjhe&#xA;PA Ka Ishara&#xA;Ye TA Ye RA Ye MA Ye PA&#xA;Agar Mil Jaye Toh</description>
     </item>
     <item>
       <title>Tanha Hoon lyrics - Yasser Desai</title>
-      <link>http://localhost:1313/tanha-hoon-yasser-desai-lyrics/</link>
+      <link>https://example.org/tanha-hoon-yasser-desai-lyrics/</link>
       <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tanha-hoon-yasser-desai-lyrics/</guid>
+      <guid>https://example.org/tanha-hoon-yasser-desai-lyrics/</guid>
       <description>Tanha Hoon..&#xA;Aankh Meri Aansuon Se Nam Hain&#xA;Tere Gham Ki..&#xA;Baarishon Me Aaj Bheege Hum Hain</description>
     </item>
     <item>
       <title>Aaj Se Teri lyrics - Arijit Singh</title>
-      <link>http://localhost:1313/aaj-se-teri-lyrics/</link>
+      <link>https://example.org/aaj-se-teri-lyrics/</link>
       <pubDate>Wed, 24 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/aaj-se-teri-lyrics/</guid>
+      <guid>https://example.org/aaj-se-teri-lyrics/</guid>
       <description>Aaj Se Teri&#xA;Saari Galiyan Meri Ho Gayi&#xA;Aaj Se Mera&#xA;Ghar Tera Ho Gaya&#xA;Aaj Se Meri&#xA;Saari Khushiyan Teri Ho Gayi</description>
     </item>
     <item>
       <title>Bepanah Pyaar lyrics - Payal Dev, Yasser Desai</title>
-      <link>http://localhost:1313/bepanah-pyaar-payal-dev-lyrics/</link>
+      <link>https://example.org/bepanah-pyaar-payal-dev-lyrics/</link>
       <pubDate>Wed, 24 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/bepanah-pyaar-payal-dev-lyrics/</guid>
+      <guid>https://example.org/bepanah-pyaar-payal-dev-lyrics/</guid>
       <description>Bepanah Pyaar Tujhse&#xA;Tu Kyun Jaane Na&#xA;Hua Ikraar Tujhse&#xA;Tu Kyun Maane Na</description>
     </item>
     <item>
       <title>Ishare Tere lyrics - Dhvani Bhanushali, Guru Randhawa</title>
-      <link>http://localhost:1313/ishare-tere-lyrics/</link>
+      <link>https://example.org/ishare-tere-lyrics/</link>
       <pubDate>Wed, 24 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ishare-tere-lyrics/</guid>
+      <guid>https://example.org/ishare-tere-lyrics/</guid>
       <description>Ishaare Tere Kangne De&#xA;Tareeke Dil Mangne De&#xA;Mera Vi Dil Chori Kitta&#xA;Fan Tera Ban Gaya Yeh</description>
     </item>
     <item>
       <title>Mehendi Wale Haath lyrics - Guru Randhawa</title>
-      <link>http://localhost:1313/mehendi-wale-haath-lyrics/</link>
+      <link>https://example.org/mehendi-wale-haath-lyrics/</link>
       <pubDate>Wed, 24 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mehendi-wale-haath-lyrics/</guid>
+      <guid>https://example.org/mehendi-wale-haath-lyrics/</guid>
       <description>Mehendi Wale Haath Wo Tere&#xA;Paayal Wale Paaon&#xA;Yaad Bohot Aate Hain Mujhko&#xA;Tu Aur Apna Gaaon</description>
     </item>
     <item>
       <title>Milegi Milegi lyrics - Stree</title>
-      <link>http://localhost:1313/milegi-milegi-lyrics/</link>
+      <link>https://example.org/milegi-milegi-lyrics/</link>
       <pubDate>Wed, 24 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/milegi-milegi-lyrics/</guid>
+      <guid>https://example.org/milegi-milegi-lyrics/</guid>
       <description>Khel Liye Shot Sabhi&#xA;Dekh Liye Spot Sabhi&#xA;Haath Kahin Bhi Na Lagi&#xA;Haan Ji Haan Ji Haan Ji Lekin&#xA;Milegi Milegi&#xA;Tujhe Bhi Milegi</description>
     </item>
     <item>
       <title>Panchhi Nadiyan Pawan Ke Jhonke lyrics - Refugee</title>
-      <link>http://localhost:1313/panchhi-nadiyan-pawan-ke-lyrics/</link>
+      <link>https://example.org/panchhi-nadiyan-pawan-ke-lyrics/</link>
       <pubDate>Wed, 24 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/panchhi-nadiyan-pawan-ke-lyrics/</guid>
+      <guid>https://example.org/panchhi-nadiyan-pawan-ke-lyrics/</guid>
       <description>Panchhi Nadiyan Pawan Ke Jhonke&#xA;Koi Sarhad Na Inhe Roke&#xA;Sarhad Insaano Ke Liye Hai&#xA;Socho Tumne Aur Maine&#xA;Kya Paaya Insaan Hoke</description>
     </item>
     <item>
       <title>Tauba Tumhare Yeh Ishare lyrics - Chalte Chalte</title>
-      <link>http://localhost:1313/tauba-tumhare-lyrics/</link>
+      <link>https://example.org/tauba-tumhare-lyrics/</link>
       <pubDate>Wed, 24 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tauba-tumhare-lyrics/</guid>
+      <guid>https://example.org/tauba-tumhare-lyrics/</guid>
       <description>Tauba, Tumhare Yeh Ishaare&#xA;Hum Toh Deewane Hain Tumhare&#xA;Raaz Yeh Kaise Khol Rahi Ho&#xA;Tum Aankhon Se Bol Rahi Ho&#xA;Jadoo Aate Hain Tumko Saare</description>
     </item>
     <item>
       <title>Aur Pyaar Karna Hai lyrics - Guru Randhawa</title>
-      <link>http://localhost:1313/aur-pyaar-karna-hai-lyrics/</link>
+      <link>https://example.org/aur-pyaar-karna-hai-lyrics/</link>
       <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/aur-pyaar-karna-hai-lyrics/</guid>
+      <guid>https://example.org/aur-pyaar-karna-hai-lyrics/</guid>
       <description>Abhi Tumhe Aur Hume&#xA;Beshumaar Karna Hai&#xA;Jab Talak Jahaan Se&#xA;Bichadna Hai</description>
     </item>
     <item>
       <title>Banjaara lyrics - Ek Villain</title>
-      <link>http://localhost:1313/banjaara-ek-villain-lyrics/</link>
+      <link>https://example.org/banjaara-ek-villain-lyrics/</link>
       <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/banjaara-ek-villain-lyrics/</guid>
+      <guid>https://example.org/banjaara-ek-villain-lyrics/</guid>
       <description>Kisi Shaayar Ki Ghazal&#xA;Jo De Rooh Ko Sukoon Ke Pal&#xA;Koi Mujhko Yun Mila Hai&#xA;Jaise Banjaare Ko Ghar</description>
     </item>
     <item>
       <title>Chal Wahin Chalein lyrics - Saina</title>
-      <link>http://localhost:1313/chal-wahin-chalein-lyrics/</link>
+      <link>https://example.org/chal-wahin-chalein-lyrics/</link>
       <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/chal-wahin-chalein-lyrics/</guid>
+      <guid>https://example.org/chal-wahin-chalein-lyrics/</guid>
       <description>Jahan Hasne Pe Shartein Na Ho&#xA;Log Jeene Se Darte Na Ho&#xA;Chal Wahin Chalein</description>
     </item>
     <item>
       <title>Chupke Chupke Raat Din lyrics - Nikaah</title>
-      <link>http://localhost:1313/chupke-chupke-raat-din-lyrics/</link>
+      <link>https://example.org/chupke-chupke-raat-din-lyrics/</link>
       <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/chupke-chupke-raat-din-lyrics/</guid>
+      <guid>https://example.org/chupke-chupke-raat-din-lyrics/</guid>
       <description>Chupke Chupke Raat Din&#xA;Aansoo Bahaana Yaad Hai&#xA;Humko Ab Tak Aashiqui Ka&#xA;Woh Zamaana Yaad Hai</description>
     </item>
     <item>
       <title>Ishq Karo Dil Se lyrics - Koi Jaane Na</title>
-      <link>http://localhost:1313/ishq-karo-dil-se-lyrics/</link>
+      <link>https://example.org/ishq-karo-dil-se-lyrics/</link>
       <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ishq-karo-dil-se-lyrics/</guid>
+      <guid>https://example.org/ishq-karo-dil-se-lyrics/</guid>
       <description>Jitna Bhi Jeena Hai&#xA;Is Pal Me Jeena Hai&#xA;Chhodo Na Kuch Kal Pe&#xA;Ishq Karo Dil Se&#xA;Ye Dil Milte Hain Mushkil Se</description>
     </item>
     <item>
       <title>Munde Mar Gaye lyrics - Time to Dance</title>
-      <link>http://localhost:1313/munde-mar-gaye-lyrics/</link>
+      <link>https://example.org/munde-mar-gaye-lyrics/</link>
       <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/munde-mar-gaye-lyrics/</guid>
+      <guid>https://example.org/munde-mar-gaye-lyrics/</guid>
       <description>Na Na Kar Inkaar Goriye Ni&#xA;Daily De Kinne Munde Sooliyan Te Chadh Gaye&#xA;Mar Gaye Mar Gaye Mar Gaye</description>
     </item>
     <item>
       <title>Pagalpan lyrics - Tanishq Kaur</title>
-      <link>http://localhost:1313/pagalpan-tanishq-kaur-lyrics/</link>
+      <link>https://example.org/pagalpan-tanishq-kaur-lyrics/</link>
       <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pagalpan-tanishq-kaur-lyrics/</guid>
+      <guid>https://example.org/pagalpan-tanishq-kaur-lyrics/</guid>
       <description>Tere Nal Hi Hai Hun Rehna Ve&#xA;Eh Gal Bas Mith Layi Aa Main&#xA;Tenu Paake Inj Lagda Jiven&#xA;Duniya Hi Jeet Layi Aa Main</description>
     </item>
     <item>
       <title>Vilayati Sharaab lyrics - Darshan Raval, Neeti Mohan</title>
-      <link>http://localhost:1313/vilayati-sharaab-lyrics/</link>
+      <link>https://example.org/vilayati-sharaab-lyrics/</link>
       <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/vilayati-sharaab-lyrics/</guid>
+      <guid>https://example.org/vilayati-sharaab-lyrics/</guid>
       <description>Nazron Mein Meri Kitna Maza Hai&#xA;Jitna Maza Hai Utni Saza Hai&#xA;Isi Nashe Me Kayi Barbaad Ho Gaye&#xA;Ho, Tere Naina Vilayati Sharaab Ho Gaye</description>
     </item>
     <item>
       <title>Bheed Mein Tanhayi Mein lyrics - Tumsa Nahin Dekha</title>
-      <link>http://localhost:1313/bheed-mein-udit-narayan-lyrics/</link>
+      <link>https://example.org/bheed-mein-udit-narayan-lyrics/</link>
       <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/bheed-mein-udit-narayan-lyrics/</guid>
+      <guid>https://example.org/bheed-mein-udit-narayan-lyrics/</guid>
       <description>Bheed Mein Tanhayi Mein&#xA;Pyaas Ki Gehrayi Mein&#xA;Dard Mein Ruswayi Mein&#xA;Mujhe Tum Yaad Aate Ho</description>
     </item>
     <item>
       <title>Dhanak Ka Rang lyrics - Shreya Ghoshal</title>
-      <link>http://localhost:1313/dhanak-ka-rang-shreya-ghoshal-lyrics/</link>
+      <link>https://example.org/dhanak-ka-rang-shreya-ghoshal-lyrics/</link>
       <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/dhanak-ka-rang-shreya-ghoshal-lyrics/</guid>
+      <guid>https://example.org/dhanak-ka-rang-shreya-ghoshal-lyrics/</guid>
       <description>Dhanak Ka Rang Hai Bikhra&#xA;Mere Dupatte Pe&#xA;Sari Khusboo Meri Baahon Me&#xA;Simat Aayi Hai&#xA;Paaon Padte Nahi Zameen Pe Mere</description>
     </item>
     <item>
       <title>Har Funn Maula lyrics - Vishal Dadlani, Zara Khan</title>
-      <link>http://localhost:1313/har-funn-maula-lyrics/</link>
+      <link>https://example.org/har-funn-maula-lyrics/</link>
       <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/har-funn-maula-lyrics/</guid>
+      <guid>https://example.org/har-funn-maula-lyrics/</guid>
       <description>Hai Koi Parwana Yahan&#xA;Jo Jaan Pe Apni Khelega&#xA;Aashiqui Mein Hoke Fanna&#xA;Baahon Mein Shama Ko Le Lega&#xA;Kitni Haseeno Pe&#xA;Kitni Dafa Ye Dola</description>
     </item>
     <item>
       <title>Ishqbaaziyaan lyrics - Jubin Nautiyal, Harshdeep Kaur</title>
-      <link>http://localhost:1313/ishqbaaziyaan-jubin-nautiyal-lyrics/</link>
+      <link>https://example.org/ishqbaaziyaan-jubin-nautiyal-lyrics/</link>
       <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ishqbaaziyaan-jubin-nautiyal-lyrics/</guid>
+      <guid>https://example.org/ishqbaaziyaan-jubin-nautiyal-lyrics/</guid>
       <description>Dil Se Mere Khel Rahi Ho&#xA;Honthon Se Kuch Na Bol Rahi Ho&#xA;Bol Rahi Ho&#xA;Naina Kare Ishqbaaziyaan Tere</description>
     </item>
     <item>
       <title>Lut Gaye lyrics - Jubin Nautiyal</title>
-      <link>http://localhost:1313/lut-gaye-jubin-nautiyal-lyrics/</link>
+      <link>https://example.org/lut-gaye-jubin-nautiyal-lyrics/</link>
       <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/lut-gaye-jubin-nautiyal-lyrics/</guid>
+      <guid>https://example.org/lut-gaye-jubin-nautiyal-lyrics/</guid>
       <description>Aasmaano Pe Jo Khuda Hai&#xA;Usse Meri Yahi Dua Hai&#xA;Chand Ye Har Roz Main Dekhoon&#xA;Tere Saath Me&#xA;Aankh Uthi Mohabbat Ne Angdayi Li</description>
     </item>
     <item>
       <title>Marjaneya lyrics - Neha Kakkar</title>
-      <link>http://localhost:1313/marjaneya-neha-kakkar-lyrics/</link>
+      <link>https://example.org/marjaneya-neha-kakkar-lyrics/</link>
       <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/marjaneya-neha-kakkar-lyrics/</guid>
+      <guid>https://example.org/marjaneya-neha-kakkar-lyrics/</guid>
       <description>Karda Rahen Ignore Ve Mainu&#xA;Labhgyi Lagda Hor Ve Tenu&#xA;Je Tu Pyar Naal Rakhna Hi Nahi&#xA;Fer Tu Vapis Tor Ve Mainu&#xA;Ik Paasa Karde Yaar</description>
     </item>
     <item>
       <title>Radha lyrics - Dhvani Bhanushali</title>
-      <link>http://localhost:1313/radha-dhvani-bhanushali-lyrics/</link>
+      <link>https://example.org/radha-dhvani-bhanushali-lyrics/</link>
       <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/radha-dhvani-bhanushali-lyrics/</guid>
+      <guid>https://example.org/radha-dhvani-bhanushali-lyrics/</guid>
       <description>Ho Gayi Main Jogan, Saiyaan&#xA;Tose Mann Laaga&#xA;Jo Bane Tu Mohan, Saiyaan&#xA;Main Banu Radha</description>
     </item>
     <item>
       <title>Baby Girl lyrics - Guru Randhawa, Dhvani Bhanushali</title>
-      <link>http://localhost:1313/baby-girl-guru-randhawa-lyrics/</link>
+      <link>https://example.org/baby-girl-guru-randhawa-lyrics/</link>
       <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/baby-girl-guru-randhawa-lyrics/</guid>
+      <guid>https://example.org/baby-girl-guru-randhawa-lyrics/</guid>
       <description>Hoke Ni Taiyaar&#xA;Kitthe Chali Ghar Ton Baahar&#xA;Tenu Kihda Intezaar&#xA;Baby Girl, Baby Girl&#xA;Hoke Ve Taiyaar&#xA;Chali Shopping Nu Haan Yaar&#xA;Mere Bill Nu Chakk Le Bhaar</description>
     </item>
     <item>
       <title>Care Ni Karda lyrics - Chhalaang</title>
-      <link>http://localhost:1313/care-ni-karda-lyrics/</link>
+      <link>https://example.org/care-ni-karda-lyrics/</link>
       <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/care-ni-karda-lyrics/</guid>
+      <guid>https://example.org/care-ni-karda-lyrics/</guid>
       <description>Tu Tan Saadi Care Ni Karda&#xA;Time Spare Ni Karda&#xA;Ve Main Hi Tere Pichhe Picchhe Auniyan&#xA;Main Hi Tainu Phone Maloniyan</description>
     </item>
     <item>
       <title>First Kiss lyrics - Yo Yo Honey Singh, Ipsitaa</title>
-      <link>http://localhost:1313/first-kiss-yo-yo-honey-singh-lyrics/</link>
+      <link>https://example.org/first-kiss-yo-yo-honey-singh-lyrics/</link>
       <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/first-kiss-yo-yo-honey-singh-lyrics/</guid>
+      <guid>https://example.org/first-kiss-yo-yo-honey-singh-lyrics/</guid>
       <description>Pyar Ki Pehli, First Kiss, Pyar Ki Pehli&amp;hellip;&#xA;Yo Yo Honey Singh&#xA;Let Me Present, Ipsitaa&#xA;Aye Yo! Seene Se Laga Ke&#xA;Baanhon Me Mujhe Lelo&#xA;Jaldi Hai Kaisi? I Like It Nice And Slow</description>
     </item>
     <item>
       <title>Tumsa Koi Pyara Koi Masoom lyrics - Khuddar</title>
-      <link>http://localhost:1313/tumsa-koi-pyara-lyrics/</link>
+      <link>https://example.org/tumsa-koi-pyara-lyrics/</link>
       <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tumsa-koi-pyara-lyrics/</guid>
+      <guid>https://example.org/tumsa-koi-pyara-lyrics/</guid>
       <description>Barsaat Ka Mausam&#xA;Yahan Hum Yahan Tum&#xA;Sajni Ko Mil Gaye Saajan…&#xA;Tumsa Koi Pyara Koi Masoom Nahi Hai&#xA;Kya Cheez Ho Tum Khud Tumhe Maloom Nahi Hai</description>
     </item>
   </channel>
