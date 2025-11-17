@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thalaivii (2021) on demo 1</title>
+    <link>https://example.org/albums/thalaivii-2021/</link>
+    <description>Recent content in Thalaivii (2021) on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 02 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.org/albums/thalaivii-2021/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chali Chali lyrics - Thalaivii</title>
+      <link>https://example.org/chali-chali-thalaivi-lyrics/</link>
+      <pubDate>Fri, 02 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.org/chali-chali-thalaivi-lyrics/</guid>
+      <description>Chali Chali Haan Chali&#xA;Ek Nayi Hawaa Hoon Main&#xA;Kabhi Nahi Dekhi Jo&#xA;Woh Nayi Disha Hoon..</description>
+    </item>
+  </channel>
+</rss>

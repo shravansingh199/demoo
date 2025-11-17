@@ -16,6 +16,20 @@
       <description></description>
     </item>
     <item>
+      <title>Neha Kakkar</title>
+      <link>https://example.org/artists/neha-kakkar/</link>
+      <pubDate>Fri, 02 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.org/artists/neha-kakkar/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Saindhavi</title>
+      <link>https://example.org/artists/saindhavi/</link>
+      <pubDate>Fri, 02 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.org/artists/saindhavi/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Dhvani Bhanushali</title>
       <link>https://example.org/artists/dhvani-bhanushali/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
@@ -41,6 +55,13 @@
       <link>https://example.org/artists/sunidhi-chauhan/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
       <guid>https://example.org/artists/sunidhi-chauhan/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Yo Yo Honey Singh</title>
+      <link>https://example.org/artists/yo-yo-honey-singh/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.org/artists/yo-yo-honey-singh/</guid>
       <description></description>
     </item>
     <item>
@@ -387,13 +408,6 @@
       <description></description>
     </item>
     <item>
-      <title>Neha Kakkar</title>
-      <link>https://example.org/artists/neha-kakkar/</link>
-      <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/artists/neha-kakkar/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Tanishq Kaur</title>
       <link>https://example.org/artists/tanishq-kaur/</link>
       <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
@@ -419,13 +433,6 @@
       <link>https://example.org/artists/sweetaj-brar/</link>
       <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
       <guid>https://example.org/artists/sweetaj-brar/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Yo Yo Honey Singh</title>
-      <link>https://example.org/artists/yo-yo-honey-singh/</link>
-      <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/artists/yo-yo-honey-singh/</guid>
       <description></description>
     </item>
   </channel>
