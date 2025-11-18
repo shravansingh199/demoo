@@ -51,4 +51,3 @@ document.addEventListener("DOMContentLoaded", () => {
   list.innerHTML = "";
   newList.forEach(li => list.appendChild(li));
 });
-

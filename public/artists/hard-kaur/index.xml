@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hard Kaur on demo 1</title>
+    <link>https://example.org/artists/hard-kaur/</link>
+    <description>Recent content in Hard Kaur on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 04 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.org/artists/hard-kaur/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Main Tera Dhadkan Teri lyrics</title>
+      <link>https://example.org/main-tera-dhadkan-teri-kk-lyrics/</link>
+      <pubDate>Sun, 04 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.org/main-tera-dhadkan-teri-kk-lyrics/</guid>
+      <description>Dharti Hila De&#xA;La De Lashkare&#xA;Club Nu Hila De&#xA;Nach Ke Dikha De Tu Soneya..</description>
+    </item>
+  </channel>
+</rss>

@@ -47,7 +47,100 @@
     <loc>https://example.org/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url><url>
+    <loc>https://example.org/albums/ajab-prem-ki-ghazab-kahani-2009/</loc>
+    <lastmod>2021-04-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/artists/hard-kaur/</loc>
+    <lastmod>2021-04-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/artists/k.k./</loc>
+    <lastmod>2021-04-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/main-tera-dhadkan-teri-kk-lyrics/</loc>
+    <lastmod>2021-04-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/artists/sunidhi-chauhan/</loc>
+    <lastmod>2021-04-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/artists/aditi-singh-sharma/</loc>
+    <lastmod>2021-04-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/artists/alka-yagnik/</loc>
+    <lastmod>2021-04-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/artists/darshan-raval/</loc>
+    <lastmod>2021-04-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/gypsy-guitar-hello-charlie-lyrics/</loc>
+    <lastmod>2021-04-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/albums/hello-charlie-2021/</loc>
+    <lastmod>2021-04-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/artists/himesh-reshammiya/</loc>
+    <lastmod>2021-04-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/is-qadar-darshan-tulsi-lyrics/</loc>
+    <lastmod>2021-04-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/janeman-radio-lyrics/</loc>
+    <lastmod>2021-04-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/artists/jasbir-jassi/</loc>
+    <lastmod>2021-04-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/artists/kanika-kapoor/</loc>
+    <lastmod>2021-04-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/albums/koi-jaane-na-2021/</loc>
+    <lastmod>2021-04-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/albums/kyaa-dil-ne-kahaa-2002/</loc>
+    <lastmod>2021-04-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/artists/lakhwinder-wadali/</loc>
+    <lastmod>2021-04-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/artists/neeti-mohan/</loc>
+    <lastmod>2021-04-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/rabb-manneya-koi-jaane-na-lyrics/</loc>
+    <lastmod>2021-04-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/albums/radio-love-on-air-2009/</loc>
+    <lastmod>2021-04-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/sajna-tere-pyar-mein-lyrics/</loc>
+    <lastmod>2021-04-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/artists/shreya-ghoshal/</loc>
+    <lastmod>2021-04-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/soneya-ve-hello-charlie-lyrics/</loc>
+    <lastmod>2021-04-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/teri-meri-dosti-ka-aasman-lyrics/</loc>
+    <lastmod>2021-04-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/artists/tulsi-kumar/</loc>
+    <lastmod>2021-04-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/artists/udit-narayan/</loc>
+    <lastmod>2021-04-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/artists/yasser-desai/</loc>
+    <lastmod>2021-04-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/zindagi-jaise-ek-radio-lyrics/</loc>
+    <lastmod>2021-04-03T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://example.org/chali-chali-thalaivi-lyrics/</loc>
+    <lastmod>2021-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/albums/genius-2018/</loc>
+    <lastmod>2021-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/modern-ranjha-singhsta-lyrics/</loc>
     <lastmod>2021-04-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.org/artists/neha-kakkar/</loc>
@@ -56,7 +149,16 @@
     <loc>https://example.org/artists/saindhavi/</loc>
     <lastmod>2021-04-02T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://example.org/artists/singhsta/</loc>
+    <lastmod>2021-04-02T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://example.org/albums/thalaivii-2021/</loc>
+    <lastmod>2021-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/tujhse-kahan-juda-genius-lyrics/</loc>
+    <lastmod>2021-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/artists/vineet-singh/</loc>
     <lastmod>2021-04-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.org/yaad-piya-ki-aane-lagi-neha-kakkar/</loc>
@@ -71,9 +173,6 @@
     <loc>https://example.org/artists/dhvani-bhanushali/</loc>
     <lastmod>2021-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/artists/himesh-reshammiya/</loc>
-    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://example.org/albums/karzzzz-2008/</loc>
     <lastmod>2021-04-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -86,9 +185,6 @@
     <loc>https://example.org/artists/sachet-tandon/</loc>
     <lastmod>2021-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/artists/sunidhi-chauhan/</loc>
-    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://example.org/tandoori-nights-karzzzz-lyrics/</loc>
     <lastmod>2021-04-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -97,9 +193,6 @@
   </url><url>
     <loc>https://example.org/artists/yo-yo-honey-singh/</loc>
     <lastmod>2021-04-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.org/artists/alka-yagnik/</loc>
-    <lastmod>2021-03-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.org/dil-udd-jaa-re-pagglait-lyrics/</loc>
     <lastmod>2021-03-31T00:00:00+00:00</lastmod>
@@ -116,9 +209,6 @@
     <loc>https://example.org/artists/kumar-sanu/</loc>
     <lastmod>2021-03-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/artists/neeti-mohan/</loc>
-    <lastmod>2021-03-31T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://example.org/albums/pagglait-2021/</loc>
     <lastmod>2021-03-31T00:00:00+00:00</lastmod>
   </url><url>
@@ -129,9 +219,6 @@
     <lastmod>2021-03-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.org/albums/time-to-dance-2021/</loc>
-    <lastmod>2021-03-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.org/artists/udit-narayan/</loc>
     <lastmod>2021-03-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.org/uparwala-apne-saath-hai-lyrics/</loc>
@@ -239,9 +326,6 @@
     <loc>https://example.org/kyaa-dil-ne-kahaa-title-track-lyrics/</loc>
     <lastmod>2021-03-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/albums/kyaa-dil-ne-kahaa-2002/</loc>
-    <lastmod>2021-03-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://example.org/lut-jaaon-karzzzz-lyrics/</loc>
     <lastmod>2021-03-28T00:00:00+00:00</lastmod>
   </url><url>
@@ -249,9 +333,6 @@
     <lastmod>2021-03-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.org/pehle-kabhi-na-mera-haal-baghban/</loc>
-    <lastmod>2021-03-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.org/artists/shreya-ghoshal/</loc>
     <lastmod>2021-03-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.org/artists/sukhwinder-singh/</loc>
@@ -297,9 +378,6 @@
     <lastmod>2021-03-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.org/tere-bin-chain-na-aave-karzzzz/</loc>
-    <lastmod>2021-03-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.org/artists/tulsi-kumar/</loc>
     <lastmod>2021-03-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.org/albums/ungli-2014/</loc>
@@ -437,9 +515,6 @@
     <loc>https://example.org/albums/the-big-bull-2021/</loc>
     <lastmod>2021-03-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/artists/yasser-desai/</loc>
-    <lastmod>2021-03-25T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://example.org/albums/yeh-jawaani-hai-deewani-2013/</loc>
     <lastmod>2021-03-25T00:00:00+00:00</lastmod>
   </url><url>
@@ -497,9 +572,6 @@
     <loc>https://example.org/chupke-chupke-raat-din-lyrics/</loc>
     <lastmod>2021-03-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/artists/darshan-raval/</loc>
-    <lastmod>2021-03-23T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://example.org/albums/ek-villain-2014/</loc>
     <lastmod>2021-03-23T00:00:00+00:00</lastmod>
   </url><url>
@@ -507,9 +579,6 @@
     <lastmod>2021-03-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.org/ishq-karo-dil-se-lyrics/</loc>
-    <lastmod>2021-03-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.org/albums/koi-jaane-na-2021/</loc>
     <lastmod>2021-03-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.org/artists/mohammed-irfan/</loc>

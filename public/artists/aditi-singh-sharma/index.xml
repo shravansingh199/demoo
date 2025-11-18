@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aditi Singh Sharma on demo 1</title>
+    <link>https://example.org/artists/aditi-singh-sharma/</link>
+    <description>Recent content in Aditi Singh Sharma on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 03 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.org/artists/aditi-singh-sharma/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Zindagi Jaise Ek Radio lyrics</title>
+      <link>https://example.org/zindagi-jaise-ek-radio-lyrics/</link>
+      <pubDate>Sat, 03 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.org/zindagi-jaise-ek-radio-lyrics/</guid>
+      <description>It’s A Red Light And A Fish Net&#xA;If It’s Not Then You’re In Basket&#xA;If You Start To Feel..</description>
+    </item>
+  </channel>
+</rss>
