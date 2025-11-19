@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tanishq Kaur on demo 1</title>
-    <link>https://example.org/artists/tanishq-kaur/</link>
+    <link>http://localhost:1313/artists/tanishq-kaur/</link>
     <description>Recent content in Tanishq Kaur on demo 1</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 23 Mar 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/artists/tanishq-kaur/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/artists/tanishq-kaur/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pagalpan lyrics - Tanishq Kaur</title>
-      <link>https://example.org/pagalpan-tanishq-kaur-lyrics/</link>
+      <link>http://localhost:1313/pagalpan-tanishq-kaur-lyrics/</link>
       <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/pagalpan-tanishq-kaur-lyrics/</guid>
+      <guid>http://localhost:1313/pagalpan-tanishq-kaur-lyrics/</guid>
       <description>Tere Nal Hi Hai Hun Rehna Ve&#xA;Eh Gal Bas Mith Layi Aa Main&#xA;Tenu Paake Inj Lagda Jiven&#xA;Duniya Hi Jeet Layi Aa Main</description>
     </item>
   </channel>

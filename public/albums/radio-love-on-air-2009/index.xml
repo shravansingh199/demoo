@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Radio: Love on Air (2009) on demo 1</title>
-    <link>https://example.org/albums/radio-love-on-air-2009/</link>
+    <link>http://localhost:1313/albums/radio-love-on-air-2009/</link>
     <description>Recent content in Radio: Love on Air (2009) on demo 1</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 03 Apr 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/albums/radio-love-on-air-2009/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/albums/radio-love-on-air-2009/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Janeman lyrics - Himesh Reshammiya, Shreya Ghoshal</title>
-      <link>https://example.org/janeman-radio-lyrics/</link>
+      <link>http://localhost:1313/janeman-radio-lyrics/</link>
       <pubDate>Sat, 03 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/janeman-radio-lyrics/</guid>
+      <guid>http://localhost:1313/janeman-radio-lyrics/</guid>
       <description>Ek Naam Tumhara Le Kar&#xA;Hum Jeete Hain, Marte Hain&#xA;Yeh Ishq Nibha Dena Tum&#xA;Guzarish Yeh Karte..</description>
     </item>
     <item>
       <title>Teri Meri Dosti Ka Aasman lyrics</title>
-      <link>https://example.org/teri-meri-dosti-ka-aasman-lyrics/</link>
+      <link>http://localhost:1313/teri-meri-dosti-ka-aasman-lyrics/</link>
       <pubDate>Sat, 03 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/teri-meri-dosti-ka-aasman-lyrics/</guid>
+      <guid>http://localhost:1313/teri-meri-dosti-ka-aasman-lyrics/</guid>
       <description>Teri Meri Dosti Ka Aasmaan&#xA;Jaane Kahan..&#xA;Tere Mere Faasle Jo&#xA;Kho Rahe..</description>
     </item>
     <item>
       <title>Zindagi Jaise Ek Radio lyrics</title>
-      <link>https://example.org/zindagi-jaise-ek-radio-lyrics/</link>
+      <link>http://localhost:1313/zindagi-jaise-ek-radio-lyrics/</link>
       <pubDate>Sat, 03 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/zindagi-jaise-ek-radio-lyrics/</guid>
+      <guid>http://localhost:1313/zindagi-jaise-ek-radio-lyrics/</guid>
       <description>It’s A Red Light And A Fish Net&#xA;If It’s Not Then You’re In Basket&#xA;If You Start To Feel..</description>
     </item>
   </channel>

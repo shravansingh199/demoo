@@ -2,45 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Guru Randhawa on demo 1</title>
-    <link>https://example.org/artists/guru-randhawa/</link>
+    <link>http://localhost:1313/artists/guru-randhawa/</link>
     <description>Recent content in Guru Randhawa on demo 1</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 Mar 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/artists/guru-randhawa/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 06 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/artists/guru-randhawa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Naach Meri Rani lyrics - Nikhita Gandhi, Guru Randhawa</title>
+      <link>http://localhost:1313/naach-meri-rani-guru-lyrics/</link>
+      <pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/naach-meri-rani-guru-lyrics/</guid>
+      <description>Saat Samundar Paar Gayi Main&#xA;Sab Kuchh Tujhpe Haar Gayi Main&#xA;Khud Hi Khud Ki Nahi..</description>
+    </item>
     <item>
       <title>Ishare Tere lyrics - Dhvani Bhanushali, Guru Randhawa</title>
-      <link>https://example.org/ishare-tere-lyrics/</link>
+      <link>http://localhost:1313/ishare-tere-lyrics/</link>
       <pubDate>Wed, 24 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/ishare-tere-lyrics/</guid>
+      <guid>http://localhost:1313/ishare-tere-lyrics/</guid>
       <description>Ishaare Tere Kangne De&#xA;Tareeke Dil Mangne De&#xA;Mera Vi Dil Chori Kitta&#xA;Fan Tera Ban Gaya Yeh</description>
     </item>
     <item>
       <title>Mehendi Wale Haath lyrics - Guru Randhawa</title>
-      <link>https://example.org/mehendi-wale-haath-lyrics/</link>
+      <link>http://localhost:1313/mehendi-wale-haath-lyrics/</link>
       <pubDate>Wed, 24 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/mehendi-wale-haath-lyrics/</guid>
+      <guid>http://localhost:1313/mehendi-wale-haath-lyrics/</guid>
       <description>Mehendi Wale Haath Wo Tere&#xA;Paayal Wale Paaon&#xA;Yaad Bohot Aate Hain Mujhko&#xA;Tu Aur Apna Gaaon</description>
     </item>
     <item>
       <title>Aur Pyaar Karna Hai lyrics - Guru Randhawa</title>
-      <link>https://example.org/aur-pyaar-karna-hai-lyrics/</link>
+      <link>http://localhost:1313/aur-pyaar-karna-hai-lyrics/</link>
       <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/aur-pyaar-karna-hai-lyrics/</guid>
+      <guid>http://localhost:1313/aur-pyaar-karna-hai-lyrics/</guid>
       <description>Abhi Tumhe Aur Hume&#xA;Beshumaar Karna Hai&#xA;Jab Talak Jahaan Se&#xA;Bichadna Hai</description>
     </item>
     <item>
       <title>Munde Mar Gaye lyrics - Time to Dance</title>
-      <link>https://example.org/munde-mar-gaye-lyrics/</link>
+      <link>http://localhost:1313/munde-mar-gaye-lyrics/</link>
       <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/munde-mar-gaye-lyrics/</guid>
+      <guid>http://localhost:1313/munde-mar-gaye-lyrics/</guid>
       <description>Na Na Kar Inkaar Goriye Ni&#xA;Daily De Kinne Munde Sooliyan Te Chadh Gaye&#xA;Mar Gaye Mar Gaye Mar Gaye</description>
     </item>
     <item>
       <title>Baby Girl lyrics - Guru Randhawa, Dhvani Bhanushali</title>
-      <link>https://example.org/baby-girl-guru-randhawa-lyrics/</link>
+      <link>http://localhost:1313/baby-girl-guru-randhawa-lyrics/</link>
       <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/baby-girl-guru-randhawa-lyrics/</guid>
+      <guid>http://localhost:1313/baby-girl-guru-randhawa-lyrics/</guid>
       <description>Hoke Ni Taiyaar&#xA;Kitthe Chali Ghar Ton Baahar&#xA;Tenu Kihda Intezaar&#xA;Baby Girl, Baby Girl&#xA;Hoke Ve Taiyaar&#xA;Chali Shopping Nu Haan Yaar&#xA;Mere Bill Nu Chakk Le Bhaar</description>
     </item>
   </channel>

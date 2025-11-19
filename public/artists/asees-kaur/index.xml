@@ -2,31 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Asees Kaur on demo 1</title>
-    <link>https://example.org/artists/asees-kaur/</link>
+    <link>http://localhost:1313/artists/asees-kaur/</link>
     <description>Recent content in Asees Kaur on demo 1</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 26 Mar 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/artists/asees-kaur/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 07 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/artists/asees-kaur/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Galat lyrics - Asees Kaur</title>
+      <link>http://localhost:1313/galat-asees-kaur-lyrics/</link>
+      <pubDate>Wed, 07 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/galat-asees-kaur-lyrics/</guid>
+      <description>Warka Hauli Hauli Karke&#xA;Palat Ho Reha Ae&#xA;Mainu Lagde..</description>
+    </item>
     <item>
       <title>Panghat lyrics - Roohi</title>
-      <link>https://example.org/panghat-roohi/</link>
+      <link>http://localhost:1313/panghat-roohi/</link>
       <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/panghat-roohi/</guid>
+      <guid>http://localhost:1313/panghat-roohi/</guid>
       <description>Julmi Badi Aukat Pe Ye Raat Aayi Hai&#xA;Mann Toh Hai Mera Paawan Magar Yovan Harjaayi Hai</description>
     </item>
     <item>
       <title>Aadat lyrics - Happy Hardy And Heer</title>
-      <link>https://example.org/aadat-happy-hardy-heer-lyrics/</link>
+      <link>http://localhost:1313/aadat-happy-hardy-heer-lyrics/</link>
       <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/aadat-happy-hardy-heer-lyrics/</guid>
+      <guid>http://localhost:1313/aadat-happy-hardy-heer-lyrics/</guid>
       <description>Badi Hi Nasheeli Sangat Teri&#xA;Tu Hai Meri Aadat Buri&#xA;Betaabiyon Me Teri&#xA;Jaayegi Jaan Yeh Meri</description>
     </item>
     <item>
       <title>Ishqbaaziyaan lyrics - Jubin Nautiyal, Harshdeep Kaur</title>
-      <link>https://example.org/ishqbaaziyaan-jubin-nautiyal-lyrics/</link>
+      <link>http://localhost:1313/ishqbaaziyaan-jubin-nautiyal-lyrics/</link>
       <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/ishqbaaziyaan-jubin-nautiyal-lyrics/</guid>
+      <guid>http://localhost:1313/ishqbaaziyaan-jubin-nautiyal-lyrics/</guid>
       <description>Dil Se Mere Khel Rahi Ho&#xA;Honthon Se Kuch Na Bol Rahi Ho&#xA;Bol Rahi Ho&#xA;Naina Kare Ishqbaaziyaan Tere</description>
     </item>
   </channel>

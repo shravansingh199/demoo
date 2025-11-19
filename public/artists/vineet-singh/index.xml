@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vineet Singh on demo 1</title>
-    <link>https://example.org/artists/vineet-singh/</link>
+    <link>http://localhost:1313/artists/vineet-singh/</link>
     <description>Recent content in Vineet Singh on demo 1</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 02 Apr 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/artists/vineet-singh/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/artists/vineet-singh/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tujhse Kahan Juda Hoon Main lyrics</title>
-      <link>https://example.org/tujhse-kahan-juda-genius-lyrics/</link>
+      <link>http://localhost:1313/tujhse-kahan-juda-genius-lyrics/</link>
       <pubDate>Fri, 02 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tujhse-kahan-juda-genius-lyrics/</guid>
+      <guid>http://localhost:1313/tujhse-kahan-juda-genius-lyrics/</guid>
       <description>Tere Chehra Se Ab Na&#xA;Meri Nazar Hatt-ti Hai&#xA;Teri Duaaon Me Shaamil&#xA;Meri Duaa Rehti Hai&#xA;Tujhse Kahan Juda Hoon Main..</description>
     </item>
   </channel>

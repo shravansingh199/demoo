@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Darshan Raval on demo 1</title>
-    <link>https://example.org/artists/darshan-raval/</link>
+    <link>http://localhost:1313/artists/darshan-raval/</link>
     <description>Recent content in Darshan Raval on demo 1</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 03 Apr 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/artists/darshan-raval/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/artists/darshan-raval/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Is Qadar lyrics - Darshan Raval, Tulsi Kumar</title>
-      <link>https://example.org/is-qadar-darshan-tulsi-lyrics/</link>
+      <link>http://localhost:1313/is-qadar-darshan-tulsi-lyrics/</link>
       <pubDate>Sat, 03 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/is-qadar-darshan-tulsi-lyrics/</guid>
+      <guid>http://localhost:1313/is-qadar-darshan-tulsi-lyrics/</guid>
       <description>Is Qadar Tumse Hume Pyar Ho Gaya&#xA;Hadd Se Zyada Hadd Se Paar Ho Gaya..</description>
     </item>
     <item>
       <title>Vilayati Sharaab lyrics - Darshan Raval, Neeti Mohan</title>
-      <link>https://example.org/vilayati-sharaab-lyrics/</link>
+      <link>http://localhost:1313/vilayati-sharaab-lyrics/</link>
       <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/vilayati-sharaab-lyrics/</guid>
+      <guid>http://localhost:1313/vilayati-sharaab-lyrics/</guid>
       <description>Nazron Mein Meri Kitna Maza Hai&#xA;Jitna Maza Hai Utni Saza Hai&#xA;Isi Nashe Me Kayi Barbaad Ho Gaye&#xA;Ho, Tere Naina Vilayati Sharaab Ho Gaye</description>
     </item>
   </channel>

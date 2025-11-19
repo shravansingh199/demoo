@@ -2,38 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sunidhi Chauhan on demo 1</title>
-    <link>https://example.org/artists/sunidhi-chauhan/</link>
+    <link>http://localhost:1313/artists/sunidhi-chauhan/</link>
     <description>Recent content in Sunidhi Chauhan on demo 1</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 04 Apr 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/artists/sunidhi-chauhan/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 06 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/artists/sunidhi-chauhan/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Soniye lyrics - KK, Sunidhi Chauhan</title>
+      <link>http://localhost:1313/soniye-aksar-lyrics/</link>
+      <pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/soniye-aksar-lyrics/</guid>
+      <description>Tu Hi, Tu Hi Meri Manzil&#xA;Tu Hi Chaahat Me Hai Shaamil..</description>
+    </item>
     <item>
       <title>Main Tera Dhadkan Teri lyrics</title>
-      <link>https://example.org/main-tera-dhadkan-teri-kk-lyrics/</link>
+      <link>http://localhost:1313/main-tera-dhadkan-teri-kk-lyrics/</link>
       <pubDate>Sun, 04 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/main-tera-dhadkan-teri-kk-lyrics/</guid>
+      <guid>http://localhost:1313/main-tera-dhadkan-teri-kk-lyrics/</guid>
       <description>Dharti Hila De&#xA;La De Lashkare&#xA;Club Nu Hila De&#xA;Nach Ke Dikha De Tu Soneya..</description>
     </item>
     <item>
       <title>Tandoori Nights lyrics</title>
-      <link>https://example.org/tandoori-nights-karzzzz-lyrics/</link>
+      <link>http://localhost:1313/tandoori-nights-karzzzz-lyrics/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tandoori-nights-karzzzz-lyrics/</guid>
+      <guid>http://localhost:1313/tandoori-nights-karzzzz-lyrics/</guid>
       <description>Shama Sharaabi&#xA;Dono Jahan Sharaabi&#xA;Rut Rawan Sharaabi&#xA;Dildar Ve&#xA;Hawaa Sharaabi&#xA;Teri Adaa Sharaabi&#xA;Ye Fiza..</description>
     </item>
     <item>
       <title>Hey Shona lyrics - Shaan, Sunidhi Chauhan</title>
-      <link>https://example.org/hey-shona-ta-ra-rum-pum/</link>
+      <link>http://localhost:1313/hey-shona-ta-ra-rum-pum/</link>
       <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/hey-shona-ta-ra-rum-pum/</guid>
+      <guid>http://localhost:1313/hey-shona-ta-ra-rum-pum/</guid>
       <description>Tumhe Pata Toh Hoga&#xA;Tumhi Pe Main Fida Hoon&#xA;Tumhe Hai Jab Se Chaaha&#xA;Hawaaon Me Udta Hoon</description>
     </item>
     <item>
       <title>Kajra Kajra Kajraare lyrics</title>
-      <link>https://example.org/kajra-kajra-kajraare-himesh-reshammiya/</link>
+      <link>http://localhost:1313/kajra-kajra-kajraare-himesh-reshammiya/</link>
       <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/kajra-kajra-kajraare-himesh-reshammiya/</guid>
+      <guid>http://localhost:1313/kajra-kajra-kajraare-himesh-reshammiya/</guid>
       <description>Na Main Jaaga, Na Main Soya&#xA;Tujhko Dekh Ke Sudh-Budh Khoya&#xA;Maar Gaye..&#xA;Mati Maar Gaye Matwaare</description>
     </item>
   </channel>

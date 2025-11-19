@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chhalaang (2020) on demo 1</title>
-    <link>https://example.org/albums/chhalaang-2020/</link>
+    <link>http://localhost:1313/albums/chhalaang-2020/</link>
     <description>Recent content in Chhalaang (2020) on demo 1</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 21 Mar 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/albums/chhalaang-2020/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/albums/chhalaang-2020/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Care Ni Karda lyrics - Chhalaang</title>
-      <link>https://example.org/care-ni-karda-lyrics/</link>
+      <link>http://localhost:1313/care-ni-karda-lyrics/</link>
       <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/care-ni-karda-lyrics/</guid>
+      <guid>http://localhost:1313/care-ni-karda-lyrics/</guid>
       <description>Tu Tan Saadi Care Ni Karda&#xA;Time Spare Ni Karda&#xA;Ve Main Hi Tere Pichhe Picchhe Auniyan&#xA;Main Hi Tainu Phone Maloniyan</description>
     </item>
   </channel>

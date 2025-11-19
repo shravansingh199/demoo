@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Singhsta on demo 1</title>
-    <link>https://example.org/artists/singhsta/</link>
+    <link>http://localhost:1313/artists/singhsta/</link>
     <description>Recent content in Singhsta on demo 1</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 02 Apr 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/artists/singhsta/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/artists/singhsta/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Modern Ranjha lyrics - Singhsta</title>
-      <link>https://example.org/modern-ranjha-singhsta-lyrics/</link>
+      <link>http://localhost:1313/modern-ranjha-singhsta-lyrics/</link>
       <pubDate>Fri, 02 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/modern-ranjha-singhsta-lyrics/</guid>
+      <guid>http://localhost:1313/modern-ranjha-singhsta-lyrics/</guid>
       <description>Main Aj Da Aan Modern Ranjha&#xA;Gaddiya Vi Mere Kol Panj Aa&#xA;Full Gall Baat Humble, Chakde Aa Dumbell</description>
     </item>
   </channel>
