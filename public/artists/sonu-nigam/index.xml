@@ -6,8 +6,15 @@
     <description>Recent content in Sonu Nigam on demo 1</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Apr 2021 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/artists/sonu-nigam/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pyaar Ki Ek Kahani lyrics - Krrish</title>
+      <link>http://localhost:1313/pyar-ki-ek-kahani-krrish-lyrics/</link>
+      <pubDate>Wed, 07 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pyar-ki-ek-kahani-krrish-lyrics/</guid>
+      <description>Aao Sunaaun Pyar Ki Ek Kahani&#xA;Ek Tha Ladka,&#xA;Ek Thi Ladki Deewani..</description>
+    </item>
     <item>
       <title>Ishq Bina lyrics</title>
       <link>http://localhost:1313/ishq-bina-taal-lyrics/</link>
