@@ -16,10 +16,108 @@
       <description></description>
     </item>
     <item>
+      <title>Arko</title>
+      <link>http://localhost:1313/artists/arko/</link>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/arko/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Himesh Reshammiya</title>
+      <link>http://localhost:1313/artists/himesh-reshammiya/</link>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/himesh-reshammiya/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Shreya Ghoshal</title>
+      <link>http://localhost:1313/artists/shreya-ghoshal/</link>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/shreya-ghoshal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Stebin Ben</title>
+      <link>http://localhost:1313/artists/stebin-ben/</link>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/stebin-ben/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Guru Randhawa</title>
+      <link>http://localhost:1313/artists/guru-randhawa/</link>
+      <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/guru-randhawa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Neha Kakkar</title>
+      <link>http://localhost:1313/artists/neha-kakkar/</link>
+      <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/neha-kakkar/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pitbull</title>
+      <link>http://localhost:1313/artists/pitbull/</link>
+      <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/pitbull/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tony Kakkar</title>
+      <link>http://localhost:1313/artists/tony-kakkar/</link>
+      <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/tony-kakkar/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Alka Yagnik</title>
       <link>http://localhost:1313/artists/alka-yagnik/</link>
-      <pubDate>Thu, 08 Apr 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 10 Apr 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/artists/alka-yagnik/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Anuradha Paudwal</title>
+      <link>http://localhost:1313/artists/anuradha-paudwal/</link>
+      <pubDate>Sat, 10 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/anuradha-paudwal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kylie Minogue</title>
+      <link>http://localhost:1313/artists/kylie-minogue/</link>
+      <pubDate>Sat, 10 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/kylie-minogue/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sonu Nigam</title>
+      <link>http://localhost:1313/artists/sonu-nigam/</link>
+      <pubDate>Sat, 10 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/sonu-nigam/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Udit Narayan</title>
+      <link>http://localhost:1313/artists/udit-narayan/</link>
+      <pubDate>Sat, 10 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/udit-narayan/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vinod Rathod</title>
+      <link>http://localhost:1313/artists/vinod-rathod/</link>
+      <pubDate>Sat, 10 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/vinod-rathod/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Jubin Nautiyal</title>
+      <link>http://localhost:1313/artists/jubin-nautiyal/</link>
+      <pubDate>Fri, 09 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/jubin-nautiyal/</guid>
       <description></description>
     </item>
     <item>
@@ -34,20 +132,6 @@
       <link>http://localhost:1313/artists/himani-kapoor/</link>
       <pubDate>Thu, 08 Apr 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/artists/himani-kapoor/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Himesh Reshammiya</title>
-      <link>http://localhost:1313/artists/himesh-reshammiya/</link>
-      <pubDate>Thu, 08 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/artists/himesh-reshammiya/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Shreya Ghoshal</title>
-      <link>http://localhost:1313/artists/shreya-ghoshal/</link>
-      <pubDate>Thu, 08 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/artists/shreya-ghoshal/</guid>
       <description></description>
     </item>
     <item>
@@ -93,13 +177,6 @@
       <description></description>
     </item>
     <item>
-      <title>Sonu Nigam</title>
-      <link>http://localhost:1313/artists/sonu-nigam/</link>
-      <pubDate>Wed, 07 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/artists/sonu-nigam/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Tulsi Kumar</title>
       <link>http://localhost:1313/artists/tulsi-kumar/</link>
       <pubDate>Wed, 07 Apr 2021 00:00:00 +0000</pubDate>
@@ -111,13 +188,6 @@
       <link>http://localhost:1313/artists/deep-prince/</link>
       <pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/artists/deep-prince/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Guru Randhawa</title>
-      <link>http://localhost:1313/artists/guru-randhawa/</link>
-      <pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/artists/guru-randhawa/</guid>
       <description></description>
     </item>
     <item>
@@ -181,20 +251,6 @@
       <link>http://localhost:1313/artists/sujatha-mohan/</link>
       <pubDate>Mon, 05 Apr 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/artists/sujatha-mohan/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tony Kakkar</title>
-      <link>http://localhost:1313/artists/tony-kakkar/</link>
-      <pubDate>Mon, 05 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/artists/tony-kakkar/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Udit Narayan</title>
-      <link>http://localhost:1313/artists/udit-narayan/</link>
-      <pubDate>Mon, 05 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/artists/udit-narayan/</guid>
       <description></description>
     </item>
     <item>
@@ -275,13 +331,6 @@
       <description></description>
     </item>
     <item>
-      <title>Neha Kakkar</title>
-      <link>http://localhost:1313/artists/neha-kakkar/</link>
-      <pubDate>Fri, 02 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/artists/neha-kakkar/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Saindhavi</title>
       <link>http://localhost:1313/artists/saindhavi/</link>
       <pubDate>Fri, 02 Apr 2021 00:00:00 +0000</pubDate>
@@ -349,13 +398,6 @@
       <link>http://localhost:1313/artists/parampara-thakur/</link>
       <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/artists/parampara-thakur/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Jubin Nautiyal</title>
-      <link>http://localhost:1313/artists/jubin-nautiyal/</link>
-      <pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/artists/jubin-nautiyal/</guid>
       <description></description>
     </item>
     <item>

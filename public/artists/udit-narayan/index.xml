@@ -6,8 +6,15 @@
     <description>Recent content in Udit Narayan on demo 1</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Apr 2021 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/artists/udit-narayan/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aaja Mahiya lyrics - Fiza</title>
+      <link>http://localhost:1313/aaja-mahiya-fiza-lyrics/</link>
+      <pubDate>Sat, 10 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/aaja-mahiya-fiza-lyrics/</guid>
+      <description>Aa Dhoop Malu Main Tere Haathon Me&#xA;Aa Sajda Karu Main Tere Haathon Me..</description>
+    </item>
     <item>
       <title>Taal Se Taal lyrics</title>
       <link>http://localhost:1313/taal-se-taal-lyrics/</link>
