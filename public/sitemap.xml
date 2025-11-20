@@ -47,10 +47,43 @@
     <loc>http://localhost:1313/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/albums/aap-kaa-surroor-2006-album/</loc>
-    <lastmod>2021-04-12T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/albums/3-idiots-2009/</loc>
+    <lastmod>2021-04-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/albums/aap-se-mausiiquii-2016-album/</loc>
+    <lastmod>2021-04-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/artists/guru-randhawa/</loc>
+    <lastmod>2021-04-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/artists/himesh-reshammiya/</loc>
+    <lastmod>2021-04-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/artists/ikka/</loc>
+    <lastmod>2021-04-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/artists/jay-sean/</loc>
+    <lastmod>2021-04-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/menu-kehn-de-himesh-reshammiya-lyrics/</loc>
+    <lastmod>2021-04-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/artists/shreya-ghoshal/</loc>
+    <lastmod>2021-04-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/artists/sonu-nigam/</loc>
+    <lastmod>2021-04-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/surma-surma-guru-randhawa-lyrics/</loc>
+    <lastmod>2021-04-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tere-te-guru-ikka-lyrics/</loc>
+    <lastmod>2021-04-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/zoobi-doobi-sonu-shreya-lyrics/</loc>
+    <lastmod>2021-04-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/albums/aap-kaa-surroor-2006-album/</loc>
     <lastmod>2021-04-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/artists/arko/</loc>
@@ -65,16 +98,10 @@
     <loc>http://localhost:1313/deewani-mastani-shreya-ghoshal-lyrics/</loc>
     <lastmod>2021-04-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/artists/himesh-reshammiya/</loc>
-    <lastmod>2021-04-12T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/i-love-you-sayyoni-himesh-lyrics/</loc>
     <lastmod>2021-04-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/nazm-nazm-bareilly-ki-barfi-lyrics/</loc>
-    <lastmod>2021-04-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/artists/shreya-ghoshal/</loc>
     <lastmod>2021-04-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/soni-himesh-reshammiya-lyrics/</loc>
@@ -87,9 +114,6 @@
     <lastmod>2021-04-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/dheeme-dheeme-tony-kakkar-lyrics/</loc>
-    <lastmod>2021-04-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/artists/guru-randhawa/</loc>
     <lastmod>2021-04-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/artists/neha-kakkar/</loc>
@@ -132,9 +156,6 @@
     <lastmod>2021-04-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/main-sohni-tu-mahiwal-lyrics/</loc>
-    <lastmod>2021-04-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/artists/sonu-nigam/</loc>
     <lastmod>2021-04-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/artists/udit-narayan/</loc>
