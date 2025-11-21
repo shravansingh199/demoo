@@ -47,6 +47,21 @@
     <loc>http://localhost:1313/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/artists/adaab-kharoud/</loc>
+    <lastmod>2021-04-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/dhund-di-khushboo-kaka-lyrics/</loc>
+    <lastmod>2021-04-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/feelings-female-version-lyrics/</loc>
+    <lastmod>2021-04-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/artists/kaka/</loc>
+    <lastmod>2021-04-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/artists/vatsala-vallabhi/</loc>
+    <lastmod>2021-04-14T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/albums/3-idiots-2009/</loc>
     <lastmod>2021-04-13T00:00:00+00:00</lastmod>
   </url><url>
@@ -255,9 +270,6 @@
     <lastmod>2021-04-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/artists/deep-prince/</loc>
-    <lastmod>2021-04-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/artists/kaka/</loc>
     <lastmod>2021-04-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/artists/kk/</loc>

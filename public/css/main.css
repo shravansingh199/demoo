@@ -48,3 +48,16 @@ a {
   max-width: 100%;
 }
 
+table {
+  font-family: system-ui;
+  font-size: 0.95rem; 
+}
+
+td:first-child {
+  border-right: 1px solid rgba(0,0,0,0.2); /* the vertical divider */
+  padding-right: 0.8rem;        /* optional spacing */
+}
+
+td:last-child {
+  padding-left: 0.7rem;
+}
