@@ -81,5 +81,8 @@ td:last-child {
   h1, h2, h3, h4, h5, h6 {
     color: #aeaeae;  /* pick any light tone you like */
   }
+  hr {
+    border-color: #547273;
+  }
 }
 

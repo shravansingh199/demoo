@@ -6,8 +6,15 @@
     <description>Recent content in Kavita Krishnamurthy on demo 1</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 04 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Apr 2021 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/artists/kavita-krishnamurthy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mannata lyrics - Heroes</title>
+      <link>http://localhost:1313/mannata-heroes-lyrics/</link>
+      <pubDate>Thu, 15 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mannata-heroes-lyrics/</guid>
+      <description>Main Mangeya Si Mannata Ve Mannata&#xA;Tu Jo Mile Jindadi Jannata Ve..</description>
+    </item>
     <item>
       <title>Na Jane Kahan Se lyrics</title>
       <link>http://localhost:1313/na-jane-kahan-se-chaalbaaz-lyrics/</link>
