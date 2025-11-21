@@ -61,3 +61,25 @@ td:first-child {
 td:last-child {
   padding-left: 0.7rem;
 }
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background: #111;
+    color: #eee;
+  }
+  a {
+    color: rgb(54, 188, 161);        /* light blue so it shows up on dark bg */
+  }
+  a:hover {
+    color: #cfe8ff;     /* optional — slightly brighter hover */
+  }
+
+  /* Table borders */
+  td:first-child {
+  border-right: 1px solid rgb(136, 220, 216); /* the vertical divider */
+  }
+  h1, h2, h3, h4, h5, h6 {
+    color: #aeaeae;  /* pick any light tone you like */
+  }
+}
+

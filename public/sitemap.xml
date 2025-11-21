@@ -47,7 +47,31 @@
     <loc>http://localhost:1313/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/artists/hamsika-iyer/</loc>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/artists/himesh-reshammiya/</loc>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/albums/khiladi-786-2012/</loc>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/lonely-himesh-reshammiya-lyrics/</loc>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/artists/yo-yo-honey-singh/</loc>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/artists/adaab-kharoud/</loc>
+    <lastmod>2021-04-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/albums/ajab-prem-ki-ghazab-kahani-2009/</loc>
+    <lastmod>2021-04-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/artists/alisha-chinai/</loc>
+    <lastmod>2021-04-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/artists/atif-aslam/</loc>
     <lastmod>2021-04-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/dhund-di-khushboo-kaka-lyrics/</loc>
@@ -57,6 +81,18 @@
     <lastmod>2021-04-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/artists/kaka/</loc>
+    <lastmod>2021-04-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/long-drive-khiladi-786-lyrics/</loc>
+    <lastmod>2021-04-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/artists/mika-singh/</loc>
+    <lastmod>2021-04-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/one-bottle-down-honey-singh-lyrics/</loc>
+    <lastmod>2021-04-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tera-hone-laga-hoon-lyrics/</loc>
     <lastmod>2021-04-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/artists/vatsala-vallabhi/</loc>
@@ -69,9 +105,6 @@
     <lastmod>2021-04-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/artists/guru-randhawa/</loc>
-    <lastmod>2021-04-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/artists/himesh-reshammiya/</loc>
     <lastmod>2021-04-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/artists/ikka/</loc>
@@ -230,9 +263,6 @@
     <loc>http://localhost:1313/artists/asees-kaur/</loc>
     <lastmod>2021-04-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/artists/atif-aslam/</loc>
-    <lastmod>2021-04-07T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/albums/bajrangi-bhaijaan-2015/</loc>
     <lastmod>2021-04-07T00:00:00+00:00</lastmod>
   </url><url>
@@ -273,9 +303,6 @@
     <lastmod>2021-04-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/artists/kk/</loc>
-    <lastmod>2021-04-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/artists/mika-singh/</loc>
     <lastmod>2021-04-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/naach-meri-rani-guru-lyrics/</loc>
@@ -333,9 +360,6 @@
     <lastmod>2021-04-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/aa-jao-meri-tamanna-lyrics/</loc>
-    <lastmod>2021-04-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/albums/ajab-prem-ki-ghazab-kahani-2009/</loc>
     <lastmod>2021-04-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/artists/amit-kumar/</loc>
@@ -468,9 +492,6 @@
     <lastmod>2021-04-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/urvashi-yo-yo-honey-singh-lyrics/</loc>
-    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/artists/yo-yo-honey-singh/</loc>
     <lastmod>2021-04-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/dil-udd-jaa-re-pagglait-lyrics/</loc>
