@@ -16,10 +16,38 @@
       <description></description>
     </item>
     <item>
+      <title>Antara Mitra</title>
+      <link>http://localhost:1313/artists/antara-mitra/</link>
+      <pubDate>Fri, 16 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/antara-mitra/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Himesh Reshammiya</title>
       <link>http://localhost:1313/artists/himesh-reshammiya/</link>
       <pubDate>Fri, 16 Apr 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/artists/himesh-reshammiya/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Shaan</title>
+      <link>http://localhost:1313/artists/shaan/</link>
+      <pubDate>Fri, 16 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/shaan/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Shreya Ghoshal</title>
+      <link>http://localhost:1313/artists/shreya-ghoshal/</link>
+      <pubDate>Fri, 16 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/shreya-ghoshal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Stebin Ben</title>
+      <link>http://localhost:1313/artists/stebin-ben/</link>
+      <pubDate>Fri, 16 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/stebin-ben/</guid>
       <description></description>
     </item>
     <item>
@@ -128,24 +156,10 @@
       <description></description>
     </item>
     <item>
-      <title>Shreya Ghoshal</title>
-      <link>http://localhost:1313/artists/shreya-ghoshal/</link>
-      <pubDate>Tue, 13 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/artists/shreya-ghoshal/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Arko</title>
       <link>http://localhost:1313/artists/arko/</link>
       <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/artists/arko/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Stebin Ben</title>
-      <link>http://localhost:1313/artists/stebin-ben/</link>
-      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/artists/stebin-ben/</guid>
       <description></description>
     </item>
     <item>
@@ -573,13 +587,6 @@
       <link>http://localhost:1313/artists/rashmeet-kaur/</link>
       <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/artists/rashmeet-kaur/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Shaan</title>
-      <link>http://localhost:1313/artists/shaan/</link>
-      <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/artists/shaan/</guid>
       <description></description>
     </item>
     <item>

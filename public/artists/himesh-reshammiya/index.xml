@@ -9,11 +9,25 @@
     <lastBuildDate>Fri, 16 Apr 2021 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/artists/himesh-reshammiya/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Kya Jeena lyrics - Himesh Reshammiya</title>
+      <link>http://localhost:1313/kya-jeena-aap-kaa-surroor-lyrics/</link>
+      <pubDate>Fri, 16 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/kya-jeena-aap-kaa-surroor-lyrics/</guid>
+      <description>Tu Hai Jaise Rab Di Meher&#xA;Kya Jeena, Jeena Kya Jeena Tere Bagair&#xA;Jeena Mera Kya..</description>
+    </item>
+    <item>
       <title>Rabba Luck Barsa lyrics - Kajraare</title>
       <link>http://localhost:1313/rabba-luck-barsa-kajraare-lyrics/</link>
       <pubDate>Fri, 16 Apr 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/rabba-luck-barsa-kajraare-lyrics/</guid>
       <description>Mahiya Se Deedar Kara De&#xA;Rabba Luck Barsa&#xA;Rabba Luck Luck Luck Luck Barsa..</description>
+    </item>
+    <item>
+      <title>Tera Mera Milna lyrics - Aap Kaa Surroor</title>
+      <link>http://localhost:1313/tera-mera-milna-aap-kaa-surroor-lyrics/</link>
+      <pubDate>Fri, 16 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tera-mera-milna-aap-kaa-surroor-lyrics/</guid>
+      <description>Yeh Tera Mera Milna&#xA;Yun Dilon Ka Khilna&#xA;Yeh Hai Khuda Ki Marzi&#xA;Yun Hi Nahi Hai..</description>
     </item>
     <item>
       <title>Lonely lyrics - Khiladi 786</title>
