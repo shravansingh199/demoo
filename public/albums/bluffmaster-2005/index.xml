@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bluffmaster (2005) on demo 1</title>
+    <link>http://localhost:1313/albums/bluffmaster-2005/</link>
+    <description>Recent content in Bluffmaster (2005) on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 20 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/albums/bluffmaster-2005/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Right Here Right Now lyrics - Bluffmaster</title>
+      <link>http://localhost:1313/right-here-right-now-bluffmaster-lyrics/</link>
+      <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/right-here-right-now-bluffmaster-lyrics/</guid>
+      <description>Come To Me, Come To Me&#xA;Bhool Jayein Saara Jahaan&#xA;Come To Me, Come To Me&#xA;Hum Bana Lein Apni Nayi..</description>
+    </item>
+    <item>
+      <title>Sabsa Bada Rupaiya lyrics - Bluffmaster</title>
+      <link>http://localhost:1313/sabse-bada-rupaiyya-bluffmaster-lyrics/</link>
+      <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sabse-bada-rupaiyya-bluffmaster-lyrics/</guid>
+      <description>Na Biwi Na Baccha&#xA;Na Baap Bada Na Maiyya&#xA;The Whole Thing Is That&#xA;Ke Bhaiya Sabse Bada..</description>
+    </item>
+  </channel>
+</rss>

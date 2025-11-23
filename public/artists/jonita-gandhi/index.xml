@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jonita Gandhi on demo 1</title>
+    <link>http://localhost:1313/artists/jonita-gandhi/</link>
+    <description>Recent content in Jonita Gandhi on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 20 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/artists/jonita-gandhi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Allah Duhai Hai lyrics - Race 3</title>
+      <link>http://localhost:1313/allah-duhai-hai-race-3-lyrics/</link>
+      <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/allah-duhai-hai-race-3-lyrics/</guid>
+      <description>Tune Kardi Hai Thodi Dooriyan&#xA;Daba Ke Rakhi Dil Me Sau Farebiyan&#xA;Aelaan Hai Yeh Zakhmi Jigar..</description>
+    </item>
+  </channel>
+</rss>
