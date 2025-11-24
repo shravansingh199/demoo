@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shekhar Ravjiani on demo 1</title>
+    <link>http://localhost:1313/artists/shekhar-ravjiani/</link>
+    <description>Recent content in Shekhar Ravjiani on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 21 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/artists/shekhar-ravjiani/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tujhe Bhula Diya lyrics - Anjaana Anjaani</title>
+      <link>http://localhost:1313/tujhe-bhula-diya-anjaana-anjaani-lyrics/</link>
+      <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tujhe-bhula-diya-anjaana-anjaani-lyrics/</guid>
+      <description>Naina Laggeyan Baarishan&#xA;Te Sukke Sukke Sapne Vi Pijj Gaye&#xA;Naina Laggeyan Baarishan&#xA;Rove Palkan De Kone Vich..</description>
+    </item>
+  </channel>
+</rss>
