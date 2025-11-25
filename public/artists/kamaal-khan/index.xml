@@ -6,8 +6,15 @@
     <description>Recent content in Kamaal Khan on demo 1</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 26 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Apr 2021 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/artists/kamaal-khan/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Seeti Maar lyrics - Kamaal Khan, Iulia Vântur</title>
+      <link>http://localhost:1313/seeti-maar-radhe-lyrics/</link>
+      <pubDate>Mon, 26 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/seeti-maar-radhe-lyrics/</guid>
+      <description>Nach le Nach le&#xA;Armaan Machle&#xA;Arre De, De De, De De,&#xA;De De, De De&#xA;De De, De De Mujhe Pyar De..</description>
+    </item>
     <item>
       <title>Jaa Sanam lyrics - Na Tum Jaano Na Hum</title>
       <link>http://localhost:1313/jaa-sanam-mujhko-hai/</link>
