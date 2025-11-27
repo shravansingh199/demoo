@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 States (2014) on demo 1</title>
+    <link>http://localhost:1313/albums/2-states-2014/</link>
+    <description>Recent content in 2 States (2014) on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 29 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/albums/2-states-2014/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Locha-e-Ulfat lyrics - Benny Dayal</title>
+      <link>http://localhost:1313/locha-e-ulfat-2-states-lyrics/</link>
+      <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/locha-e-ulfat-2-states-lyrics/</guid>
+      <description>Eklauta Mera Dil Tha&#xA;Bhola-Bhaala Simple Tha&#xA;Tujhse Main Takraaya&#xA;Sarphira Ho Gaya&#xA;Mujhe Pyaar Laga..</description>
+    </item>
+    <item>
+      <title>Mast Magan lyrics - 2 States</title>
+      <link>http://localhost:1313/mast-magan-2-states-lyrics/</link>
+      <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mast-magan-2-states-lyrics/</guid>
+      <description>Ankhiyan Kare Ji Hazoori&#xA;Maange Hai Teri Manzoori&#xA;Kajra Siyaahi Din Rang Jaaye&#xA;Teri Kastoori..</description>
+    </item>
+  </channel>
+</rss>

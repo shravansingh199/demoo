@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Parampara Tandon on demo 1</title>
+    <link>http://localhost:1313/artists/parampara-tandon/</link>
+    <description>Recent content in Parampara Tandon on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 30 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/artists/parampara-tandon/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pal Pal Dil Ke Paas - Title Track lyrics</title>
+      <link>http://localhost:1313/pal-pal-dil-ke-paas-arijit-singh/</link>
+      <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pal-pal-dil-ke-paas-arijit-singh/</guid>
+      <description>Rehna Tu Pal Pal Dil Ke Paas&#xA;Judi Rahe Tujhse Har Ek Saans&#xA;Khud Pe Pehle Na Itna Yakeen</description>
+    </item>
+    <item>
+      <title>Patli Kamariya lyrics - Sukhe, Parampara Tandon, Tanishk Bagchi</title>
+      <link>http://localhost:1313/patli-kamariya-tanishk-bagchi/</link>
+      <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/patli-kamariya-tanishk-bagchi/</guid>
+      <description>Machhli Ki Tarah&#xA;Teri Yeh Body&#xA;Sabki Tune Watt Lagwaadi&#xA;Ladki Hai Aafat&#xA;Kehti Thi..</description>
+    </item>
+  </channel>
+</rss>

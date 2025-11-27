@@ -16,10 +16,178 @@
       <description></description>
     </item>
     <item>
+      <title>Genius (2018)</title>
+      <link>http://localhost:1313/albums/genius-2018/</link>
+      <pubDate>Mon, 03 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/albums/genius-2018/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Namastey London (2007)</title>
+      <link>http://localhost:1313/albums/namastey-london-2007/</link>
+      <pubDate>Mon, 03 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/albums/namastey-london-2007/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sardar Ka Grandson (2021)</title>
+      <link>http://localhost:1313/albums/sardar-ka-grandson-2021/</link>
+      <pubDate>Mon, 03 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/albums/sardar-ka-grandson-2021/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Damadamm (2011)</title>
+      <link>http://localhost:1313/albums/damadamm-2011/</link>
+      <pubDate>Sun, 02 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/albums/damadamm-2011/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Major Saab (1998)</title>
+      <link>http://localhost:1313/albums/major-saab-1998/</link>
+      <pubDate>Sun, 02 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/albums/major-saab-1998/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Partner (2007)</title>
+      <link>http://localhost:1313/albums/partner-2007/</link>
+      <pubDate>Sun, 02 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/albums/partner-2007/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The Xpose (2014)</title>
+      <link>http://localhost:1313/albums/the-xpose-2014/</link>
+      <pubDate>Sun, 02 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/albums/the-xpose-2014/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Jawaani Jaaneman (2020)</title>
+      <link>http://localhost:1313/albums/jawaani-jaaneman-2020/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/albums/jawaani-jaaneman-2020/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kasoor (2001)</title>
+      <link>http://localhost:1313/albums/kasoor-2001/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/albums/kasoor-2001/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Prince (2010)</title>
+      <link>http://localhost:1313/albums/prince-2010/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/albums/prince-2010/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Radhe (2021)</title>
+      <link>http://localhost:1313/albums/radhe-2021/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/albums/radhe-2021/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Happy Hardy and Heer (2020)</title>
+      <link>http://localhost:1313/albums/happy-hardy-and-heer-2020/</link>
+      <pubDate>Fri, 30 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/albums/happy-hardy-and-heer-2020/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>R Rajkumar (2013)</title>
+      <link>http://localhost:1313/albums/r-rajkumar-2013/</link>
+      <pubDate>Fri, 30 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/albums/r-rajkumar-2013/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Singh Is Bliing (2015)</title>
+      <link>http://localhost:1313/albums/singh-is-bliing-2015/</link>
+      <pubDate>Fri, 30 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/albums/singh-is-bliing-2015/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2 States (2014)</title>
+      <link>http://localhost:1313/albums/2-states-2014/</link>
+      <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/albums/2-states-2014/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bole Chudiyan (2021)</title>
+      <link>http://localhost:1313/albums/bole-chudiyan-2021/</link>
+      <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/albums/bole-chudiyan-2021/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Ek Villain (2014)</title>
       <link>http://localhost:1313/albums/ek-villain-2014/</link>
-      <pubDate>Mon, 26 Apr 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/albums/ek-villain-2014/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Raja (1995)</title>
+      <link>http://localhost:1313/albums/raja-1995/</link>
+      <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/albums/raja-1995/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>36 China Town (2006)</title>
+      <link>http://localhost:1313/albums/36-china-town-2006/</link>
+      <pubDate>Wed, 28 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/albums/36-china-town-2006/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Judwaa 2 (2017)</title>
+      <link>http://localhost:1313/albums/judwaa-2-2017/</link>
+      <pubDate>Wed, 28 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/albums/judwaa-2-2017/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Love Aaj Kal (2009)</title>
+      <link>http://localhost:1313/albums/love-aaj-kal-2009/</link>
+      <pubDate>Wed, 28 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/albums/love-aaj-kal-2009/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Radio: Love on Air (2009)</title>
+      <link>http://localhost:1313/albums/radio-love-on-air-2009/</link>
+      <pubDate>Wed, 28 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/albums/radio-love-on-air-2009/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Aarzoo (1999)</title>
+      <link>http://localhost:1313/albums/aarzoo-1999/</link>
+      <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/albums/aarzoo-1999/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Batti Gul Meter Chalu (2018)</title>
+      <link>http://localhost:1313/albums/batti-gul-meter-chalu-2018/</link>
+      <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/albums/batti-gul-meter-chalu-2018/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Policegiri (2013)</title>
+      <link>http://localhost:1313/albums/policegiri-2013/</link>
+      <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/albums/policegiri-2013/</guid>
       <description></description>
     </item>
     <item>
@@ -37,10 +205,10 @@
       <description></description>
     </item>
     <item>
-      <title>Radhe (2021)</title>
-      <link>http://localhost:1313/albums/radhe-2021/</link>
+      <title>Raajneeti (2010)</title>
+      <link>http://localhost:1313/albums/raajneeti-2010/</link>
       <pubDate>Mon, 26 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/albums/radhe-2021/</guid>
+      <guid>http://localhost:1313/albums/raajneeti-2010/</guid>
       <description></description>
     </item>
     <item>
@@ -62,13 +230,6 @@
       <link>http://localhost:1313/albums/ek-tha-tiger-2012/</link>
       <pubDate>Sun, 25 Apr 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/albums/ek-tha-tiger-2012/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Happy Hardy and Heer (2020)</title>
-      <link>http://localhost:1313/albums/happy-hardy-and-heer-2020/</link>
-      <pubDate>Sun, 25 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/albums/happy-hardy-and-heer-2020/</guid>
       <description></description>
     </item>
     <item>
@@ -163,13 +324,6 @@
       <description></description>
     </item>
     <item>
-      <title>Radio: Love on Air (2009)</title>
-      <link>http://localhost:1313/albums/radio-love-on-air-2009/</link>
-      <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/albums/radio-love-on-air-2009/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Teraa Surroor (2016)</title>
       <link>http://localhost:1313/albums/teraa-surroor-2016/</link>
       <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
@@ -188,13 +342,6 @@
       <link>http://localhost:1313/albums/bluffmaster-2005/</link>
       <pubDate>Thu, 22 Apr 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/albums/bluffmaster-2005/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Bole Chudiyan (2021)</title>
-      <link>http://localhost:1313/albums/bole-chudiyan-2021/</link>
-      <pubDate>Thu, 22 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/albums/bole-chudiyan-2021/</guid>
       <description></description>
     </item>
     <item>
@@ -300,13 +447,6 @@
       <link>http://localhost:1313/albums/jab-we-met-2007/</link>
       <pubDate>Sun, 18 Apr 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/albums/jab-we-met-2007/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Namastey London (2007)</title>
-      <link>http://localhost:1313/albums/namastey-london-2007/</link>
-      <pubDate>Sun, 18 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/albums/namastey-london-2007/</guid>
       <description></description>
     </item>
     <item>
@@ -548,13 +688,6 @@
       <description></description>
     </item>
     <item>
-      <title>Genius (2018)</title>
-      <link>http://localhost:1313/albums/genius-2018/</link>
-      <pubDate>Fri, 02 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/albums/genius-2018/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Thalaivii (2021)</title>
       <link>http://localhost:1313/albums/thalaivii-2021/</link>
       <pubDate>Fri, 02 Apr 2021 00:00:00 +0000</pubDate>
@@ -580,13 +713,6 @@
       <link>http://localhost:1313/albums/saaho-2019/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/albums/saaho-2019/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Kasoor (2001)</title>
-      <link>http://localhost:1313/albums/kasoor-2001/</link>
-      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/albums/kasoor-2001/</guid>
       <description></description>
     </item>
     <item>

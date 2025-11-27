@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Damadamm (2011) on demo 1</title>
+    <link>http://localhost:1313/albums/damadamm-2011/</link>
+    <description>Recent content in Damadamm (2011) on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 May 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/albums/damadamm-2011/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mango lyrics - Damadamm</title>
+      <link>http://localhost:1313/mango-damadamm-lyrics/</link>
+      <pubDate>Sun, 02 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mango-damadamm-lyrics/</guid>
+      <description>Jab Tum Jaati Ho&#xA;Jaldi Nahi Aati Ho&#xA;I Miss You Baby&#xA;Like Mango..</description>
+    </item>
+    <item>
+      <title>Tere Bina lyrics - Damadamm</title>
+      <link>http://localhost:1313/tere-bina-damadamm-lyrics/</link>
+      <pubDate>Sun, 02 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tere-bina-damadamm-lyrics/</guid>
+      <description>Tere Bina Jiya Nahi Jaye&#xA;Tu Har Saans Me, Har Aah Me&#xA;Tu Mere Har Ek Ehsaas..</description>
+    </item>
+  </channel>
+</rss>
