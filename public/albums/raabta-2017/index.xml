@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Raabta (2017) on demo 1</title>
+    <link>http://localhost:1313/albums/raabta-2017/</link>
+    <description>Recent content in Raabta (2017) on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 08 May 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/albums/raabta-2017/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Main Tera Boyfriend lyrics - Raabta</title>
+      <link>http://localhost:1313/main-tera-boyfriend-raabta-lyrics/</link>
+      <pubDate>Sat, 08 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/main-tera-boyfriend-raabta-lyrics/</guid>
+      <description>Duniya Ko Khud Se Alag Kar Ke&#xA;Rakh Lunga Tujhko Main Hug Kar Ke&#xA;I Wanna Say You Main Tan Rehna..</description>
+    </item>
+  </channel>
+</rss>

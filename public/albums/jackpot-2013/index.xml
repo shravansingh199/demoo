@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jackpot (2013) on demo 1</title>
+    <link>http://localhost:1313/albums/jackpot-2013/</link>
+    <description>Recent content in Jackpot (2013) on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 08 May 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/albums/jackpot-2013/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kabhi Jo Baadal Barse lyrics - Jackpot</title>
+      <link>http://localhost:1313/kabhi-jo-baadal-barse-jackpot-lyrics/</link>
+      <pubDate>Sat, 08 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/kabhi-jo-baadal-barse-jackpot-lyrics/</guid>
+      <description>Kabhi Jo Baadal Barse&#xA;Main Dekhoon Tujhe Aankhein Bharke&#xA;Tu Lage Mujhe Pehli Baarish Ki..</description>
+    </item>
+  </channel>
+</rss>
