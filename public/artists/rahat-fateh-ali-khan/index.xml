@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rahat Fateh Ali Khan on demo 1</title>
+    <link>http://localhost:1313/artists/rahat-fateh-ali-khan/</link>
+    <description>Recent content in Rahat Fateh Ali Khan on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 04 May 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/artists/rahat-fateh-ali-khan/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Main Jahaan Rahoon lyrics - Namastey London</title>
+      <link>http://localhost:1313/main-jahan-rahoon-namastey-london-lyrics/</link>
+      <pubDate>Tue, 04 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/main-jahan-rahoon-namastey-london-lyrics/</guid>
+      <description>Main Jahan Rahoon&#xA;Main Kahin Bhi Hoon&#xA;Teri Yaad Saath Hai&#xA;Kisi Se Kahoon&#xA;Ke Nahi Kahoon&#xA;Yeh Jo Dil Ki..</description>
+    </item>
+    <item>
+      <title>Teri Meri lyrics - Bodyguard</title>
+      <link>http://localhost:1313/teri-meri-bodyguard-lyrics/</link>
+      <pubDate>Tue, 04 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teri-meri-bodyguard-lyrics/</guid>
+      <description>Teri Meri, Meri Teri&#xA;Prem Kahani Hai Mushkil&#xA;Do Lafzon Me Yeh&#xA;Bayaan Na Ho..</description>
+    </item>
+  </channel>
+</rss>

@@ -6,8 +6,15 @@
     <description>Recent content in KK on demo 1</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 May 2021 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/artists/kk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Khuda Jaane lyrics - KK, Shilpa Rao</title>
+      <link>http://localhost:1313/khuda-jaane-bachna-ae-haseeno-lyrics/</link>
+      <pubDate>Wed, 05 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/khuda-jaane-bachna-ae-haseeno-lyrics/</guid>
+      <description>Sajde Me Yun Hi Jhukta Hoon&#xA;Tumpe Hi Aake Rukta Hoon&#xA;Kya Yeh Sab Ko..</description>
+    </item>
     <item>
       <title>Ab To Forever lyrics - Ta Ra Rum Pum</title>
       <link>http://localhost:1313/ab-toh-forever-ta-ra-rum-pum-lyrics/</link>
