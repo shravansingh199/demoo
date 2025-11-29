@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Loy Mendonsa on demo 1</title>
+    <link>http://localhost:1313/artists/loy-mendonsa/</link>
+    <description>Recent content in Loy Mendonsa on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 May 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/artists/loy-mendonsa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nach Baliye lyrics - Bunty Aur Babli</title>
+      <link>http://localhost:1313/nach-baliye-bunty-aur-babli-lyrics/</link>
+      <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/nach-baliye-bunty-aur-babli-lyrics/</guid>
+      <description>Aaja Udiye Chal Udiye&#xA;Aaja Udiye Udd Vekhiye&#xA;Ho, Raanjheya Di Gali Aaj Chal..</description>
+    </item>
+  </channel>
+</rss>
