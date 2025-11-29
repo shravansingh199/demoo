@@ -6,8 +6,15 @@
     <description>Recent content in Blue (2009) on demo 1</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 May 2021 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/albums/blue-2009/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aaj Dil Gustakh Hai lyrics - Blue</title>
+      <link>http://localhost:1313/aaj-dil-gustakh-hai-blue-lyrics/</link>
+      <pubDate>Wed, 12 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/aaj-dil-gustakh-hai-blue-lyrics/</guid>
+      <description>Aaj Dil Gustakh Hai&#xA;Paaniyon Pe Aag Hai&#xA;Dhadkan Bhi Betaab Hai&#xA;Chal Chal..</description>
+    </item>
     <item>
       <title>Chiggy Wiggy lyrics - Blue</title>
       <link>http://localhost:1313/chiggy-wiggy-blue-lyrics/</link>
