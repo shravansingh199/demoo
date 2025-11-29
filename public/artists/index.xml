@@ -16,6 +16,55 @@
       <description></description>
     </item>
     <item>
+      <title>Javed Ali</title>
+      <link>http://localhost:1313/artists/javed-ali/</link>
+      <pubDate>Tue, 11 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/javed-ali/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mustafa Zahid</title>
+      <link>http://localhost:1313/artists/mustafa-zahid/</link>
+      <pubDate>Tue, 11 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/mustafa-zahid/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ahir</title>
+      <link>http://localhost:1313/artists/ahir/</link>
+      <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/ahir/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ankit Tiwari</title>
+      <link>http://localhost:1313/artists/ankit-tiwari/</link>
+      <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/ankit-tiwari/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Arijit Singh</title>
+      <link>http://localhost:1313/artists/arijit-singh/</link>
+      <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/arijit-singh/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Guru Randhawa</title>
+      <link>http://localhost:1313/artists/guru-randhawa/</link>
+      <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/guru-randhawa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Himesh Reshammiya</title>
+      <link>http://localhost:1313/artists/himesh-reshammiya/</link>
+      <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/himesh-reshammiya/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Karsan Sargathiya</title>
       <link>http://localhost:1313/artists/karsan-sargathiya/</link>
       <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
@@ -30,10 +79,31 @@
       <description></description>
     </item>
     <item>
+      <title>Khushboo Grewal</title>
+      <link>http://localhost:1313/artists/khushboo-grewal/</link>
+      <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/khushboo-grewal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Krishna Beuraa</title>
+      <link>http://localhost:1313/artists/krishna-beuraa/</link>
+      <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/krishna-beuraa/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Loy Mendonsa</title>
       <link>http://localhost:1313/artists/loy-mendonsa/</link>
       <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/artists/loy-mendonsa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Meet Bros</title>
+      <link>http://localhost:1313/artists/meet-bros/</link>
+      <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/meet-bros/</guid>
       <description></description>
     </item>
     <item>
@@ -79,20 +149,6 @@
       <description></description>
     </item>
     <item>
-      <title>Himesh Reshammiya</title>
-      <link>http://localhost:1313/artists/himesh-reshammiya/</link>
-      <pubDate>Sun, 09 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/artists/himesh-reshammiya/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Krishna Beuraa</title>
-      <link>http://localhost:1313/artists/krishna-beuraa/</link>
-      <pubDate>Sun, 09 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/artists/krishna-beuraa/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Neeti Mohan</title>
       <link>http://localhost:1313/artists/neeti-mohan/</link>
       <pubDate>Sun, 09 May 2021 00:00:00 +0000</pubDate>
@@ -135,13 +191,6 @@
       <description></description>
     </item>
     <item>
-      <title>Arijit Singh</title>
-      <link>http://localhost:1313/artists/arijit-singh/</link>
-      <pubDate>Sat, 08 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/artists/arijit-singh/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Arjun</title>
       <link>http://localhost:1313/artists/arjun/</link>
       <pubDate>Sat, 08 May 2021 00:00:00 +0000</pubDate>
@@ -160,13 +209,6 @@
       <link>http://localhost:1313/artists/kumar-sanu/</link>
       <pubDate>Sat, 08 May 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/artists/kumar-sanu/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Meet Bros</title>
-      <link>http://localhost:1313/artists/meet-bros/</link>
-      <pubDate>Sat, 08 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/artists/meet-bros/</guid>
       <description></description>
     </item>
     <item>
@@ -244,13 +286,6 @@
       <link>http://localhost:1313/artists/jaspinder-narula/</link>
       <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/artists/jaspinder-narula/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Javed Ali</title>
-      <link>http://localhost:1313/artists/javed-ali/</link>
-      <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/artists/javed-ali/</guid>
       <description></description>
     </item>
     <item>
@@ -478,13 +513,6 @@
       <description></description>
     </item>
     <item>
-      <title>Guru Randhawa</title>
-      <link>http://localhost:1313/artists/guru-randhawa/</link>
-      <pubDate>Fri, 30 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/artists/guru-randhawa/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Kalpana Patowary</title>
       <link>http://localhost:1313/artists/kalpana-patowary/</link>
       <pubDate>Fri, 30 Apr 2021 00:00:00 +0000</pubDate>
@@ -510,13 +538,6 @@
       <link>http://localhost:1313/artists/wajid/</link>
       <pubDate>Fri, 30 Apr 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/artists/wajid/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Mustafa Zahid</title>
-      <link>http://localhost:1313/artists/mustafa-zahid/</link>
-      <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/artists/mustafa-zahid/</guid>
       <description></description>
     </item>
     <item>
@@ -1217,13 +1238,6 @@
       <link>http://localhost:1313/artists/shamur/</link>
       <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/artists/shamur/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Ankit Tiwari</title>
-      <link>http://localhost:1313/artists/ankit-tiwari/</link>
-      <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/artists/ankit-tiwari/</guid>
       <description></description>
     </item>
     <item>
