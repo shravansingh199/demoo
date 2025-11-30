@@ -16,6 +16,48 @@
       <description></description>
     </item>
     <item>
+      <title>Baaghi (2016)</title>
+      <link>http://localhost:1313/albums/baaghi-2016/</link>
+      <pubDate>Sun, 16 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/albums/baaghi-2016/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bhaag Johnny (2015)</title>
+      <link>http://localhost:1313/albums/bhaag-johnny-2015/</link>
+      <pubDate>Sun, 16 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/albums/bhaag-johnny-2015/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gabbar Is Back (2015)</title>
+      <link>http://localhost:1313/albums/gabbar-is-back-2015/</link>
+      <pubDate>Sun, 16 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/albums/gabbar-is-back-2015/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Happy Hardy and Heer (2020)</title>
+      <link>http://localhost:1313/albums/happy-hardy-and-heer-2020/</link>
+      <pubDate>Sun, 16 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/albums/happy-hardy-and-heer-2020/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Housefull 2 (2012)</title>
+      <link>http://localhost:1313/albums/housefull-2-2012/</link>
+      <pubDate>Sun, 16 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/albums/housefull-2-2012/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The Shaukeens (2014)</title>
+      <link>http://localhost:1313/albums/the-shaukeens-2014/</link>
+      <pubDate>Sun, 16 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/albums/the-shaukeens-2014/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Chameli (2003)</title>
       <link>http://localhost:1313/albums/chameli-2003/</link>
       <pubDate>Sat, 15 May 2021 00:00:00 +0000</pubDate>
@@ -23,10 +65,17 @@
       <description></description>
     </item>
     <item>
-      <title>Housefull 2 (2012)</title>
-      <link>http://localhost:1313/albums/housefull-2-2012/</link>
+      <title>De De Pyaar De (2019)</title>
+      <link>http://localhost:1313/albums/de-de-pyaar-de-2019/</link>
       <pubDate>Sat, 15 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/albums/housefull-2-2012/</guid>
+      <guid>http://localhost:1313/albums/de-de-pyaar-de-2019/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dil Diya Hai (2006)</title>
+      <link>http://localhost:1313/albums/dil-diya-hai-2006/</link>
+      <pubDate>Sat, 15 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/albums/dil-diya-hai-2006/</guid>
       <description></description>
     </item>
     <item>
@@ -41,6 +90,13 @@
       <link>http://localhost:1313/albums/lootera-2013/</link>
       <pubDate>Sat, 15 May 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/albums/lootera-2013/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ra One (2011)</title>
+      <link>http://localhost:1313/albums/ra-one-2011/</link>
+      <pubDate>Sat, 15 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/albums/ra-one-2011/</guid>
       <description></description>
     </item>
     <item>
@@ -559,13 +615,6 @@
       <link>http://localhost:1313/albums/prince-2010/</link>
       <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/albums/prince-2010/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Happy Hardy and Heer (2020)</title>
-      <link>http://localhost:1313/albums/happy-hardy-and-heer-2020/</link>
-      <pubDate>Fri, 30 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/albums/happy-hardy-and-heer-2020/</guid>
       <description></description>
     </item>
     <item>
