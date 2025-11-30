@@ -16,6 +16,55 @@
       <description></description>
     </item>
     <item>
+      <title>Chameli (2003)</title>
+      <link>http://localhost:1313/albums/chameli-2003/</link>
+      <pubDate>Sat, 15 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/albums/chameli-2003/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Housefull 2 (2012)</title>
+      <link>http://localhost:1313/albums/housefull-2-2012/</link>
+      <pubDate>Sat, 15 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/albums/housefull-2-2012/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kick (2014)</title>
+      <link>http://localhost:1313/albums/kick-2014/</link>
+      <pubDate>Sat, 15 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/albums/kick-2014/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lootera (2013)</title>
+      <link>http://localhost:1313/albums/lootera-2013/</link>
+      <pubDate>Sat, 15 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/albums/lootera-2013/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ek Tha Tiger (2012)</title>
+      <link>http://localhost:1313/albums/ek-tha-tiger-2012/</link>
+      <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/albums/ek-tha-tiger-2012/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Murder 2 (2011)</title>
+      <link>http://localhost:1313/albums/murder-2-2011/</link>
+      <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/albums/murder-2-2011/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tiger Zinda Hai (2017)</title>
+      <link>http://localhost:1313/albums/tiger-zinda-hai-2017/</link>
+      <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/albums/tiger-zinda-hai-2017/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Awarapan (2007)</title>
       <link>http://localhost:1313/albums/awarapan-2007/</link>
       <pubDate>Thu, 13 May 2021 00:00:00 +0000</pubDate>
@@ -125,13 +174,6 @@
       <link>http://localhost:1313/albums/blood-money-2012/</link>
       <pubDate>Tue, 11 May 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/albums/blood-money-2012/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Ek Tha Tiger (2012)</title>
-      <link>http://localhost:1313/albums/ek-tha-tiger-2012/</link>
-      <pubDate>Tue, 11 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/albums/ek-tha-tiger-2012/</guid>
       <description></description>
     </item>
     <item>
@@ -685,13 +727,6 @@
       <link>http://localhost:1313/albums/kismat-konnection-2008/</link>
       <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/albums/kismat-konnection-2008/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Murder 2 (2011)</title>
-      <link>http://localhost:1313/albums/murder-2-2011/</link>
-      <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/albums/murder-2-2011/</guid>
       <description></description>
     </item>
     <item>
