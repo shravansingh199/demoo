@@ -47,10 +47,31 @@
     <loc>http://localhost:1313/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/aapki-yaad-aaye-to-aapko-pehle-bhi-kahin-lyrics/</loc>
+    <lastmod>2021-05-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/albums/aapko-pehle-bhi-kahin-dekha-hai-2003/</loc>
+    <lastmod>2021-05-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/artists/anuradha-paudwal/</loc>
+    <lastmod>2021-05-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/artists/sonu-nigam/</loc>
+    <lastmod>2021-05-24T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/ab-mujhe-raat-din-deewana-album-lyrics/</loc>
     <lastmod>2021-05-23T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/aisi-aankhein-nahi-dekhi-aapko-pehle-bhi-kahin-lyrics/</loc>
+    <lastmod>2021-05-23T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/artists/anand-raj-anand/</loc>
+    <lastmod>2021-05-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/artists/asha-bhosle/</loc>
+    <lastmod>2021-05-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/aye-bacchu-ghajini-lyrics/</loc>
     <lastmod>2021-05-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/artists/banjyotsna/</loc>
@@ -72,6 +93,12 @@
     <lastmod>2021-05-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/gale-lag-ja-de-dana-dan-lyrics/</loc>
+    <lastmod>2021-05-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/albums/ghajini-2008/</loc>
+    <lastmod>2021-05-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/artists/jagjit-singh/</loc>
     <lastmod>2021-05-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/artists/javed-ali/</loc>
@@ -101,7 +128,7 @@
     <loc>http://localhost:1313/artists/shreya-ghoshal/</loc>
     <lastmod>2021-05-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/artists/sonu-nigam/</loc>
+    <loc>http://localhost:1313/artists/suzanne-dmello/</loc>
     <lastmod>2021-05-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tum-bin-sanam-re-lyrics/</loc>
@@ -116,16 +143,10 @@
     <loc>http://localhost:1313/artists/abhijeet-bhattacharya/</loc>
     <lastmod>2021-05-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/artists/anuradha-paudwal/</loc>
-    <lastmod>2021-05-22T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/chhoti-chhoti-raatein-tum-bin-lyrics/</loc>
     <lastmod>2021-05-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/dekhte-hi-dekhte-tum-bin-lyrics/</loc>
-    <lastmod>2021-05-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/artists/jagjit-singh/</loc>
     <lastmod>2021-05-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/artists/k-s-chithra/</loc>
@@ -174,9 +195,6 @@
     <lastmod>2021-05-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/albums/gangster-2006/</loc>
-    <lastmod>2021-05-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/albums/ghajini-2008/</loc>
     <lastmod>2021-05-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/albums/golmaal-3-2010/</loc>
@@ -591,9 +609,6 @@
     <lastmod>2021-05-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/sawaar-loon-lootera-lyrics/</loc>
-    <lastmod>2021-05-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/artists/suzanne-dmello/</loc>
     <lastmod>2021-05-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tu-hi-tu-kick-lyrics/</loc>

@@ -16,6 +16,20 @@
       <description></description>
     </item>
     <item>
+      <title>Anuradha Paudwal</title>
+      <link>http://localhost:1313/artists/anuradha-paudwal/</link>
+      <pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/anuradha-paudwal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sonu Nigam</title>
+      <link>http://localhost:1313/artists/sonu-nigam/</link>
+      <pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/sonu-nigam/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Anand Raj Anand</title>
       <link>http://localhost:1313/artists/anand-raj-anand/</link>
       <pubDate>Sun, 23 May 2021 00:00:00 +0000</pubDate>
@@ -23,10 +37,24 @@
       <description></description>
     </item>
     <item>
+      <title>Asha Bhosle</title>
+      <link>http://localhost:1313/artists/asha-bhosle/</link>
+      <pubDate>Sun, 23 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/asha-bhosle/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Banjyotsna</title>
       <link>http://localhost:1313/artists/banjyotsna/</link>
       <pubDate>Sun, 23 May 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/artists/banjyotsna/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Jagjit Singh</title>
+      <link>http://localhost:1313/artists/jagjit-singh/</link>
+      <pubDate>Sun, 23 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/jagjit-singh/</guid>
       <description></description>
     </item>
     <item>
@@ -58,10 +86,10 @@
       <description></description>
     </item>
     <item>
-      <title>Sonu Nigam</title>
-      <link>http://localhost:1313/artists/sonu-nigam/</link>
+      <title>Suzanne D&#39;Mello</title>
+      <link>http://localhost:1313/artists/suzanne-dmello/</link>
       <pubDate>Sun, 23 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/artists/sonu-nigam/</guid>
+      <guid>http://localhost:1313/artists/suzanne-dmello/</guid>
       <description></description>
     </item>
     <item>
@@ -83,20 +111,6 @@
       <link>http://localhost:1313/artists/abhijeet-bhattacharya/</link>
       <pubDate>Sat, 22 May 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/artists/abhijeet-bhattacharya/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Anuradha Paudwal</title>
-      <link>http://localhost:1313/artists/anuradha-paudwal/</link>
-      <pubDate>Sat, 22 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/artists/anuradha-paudwal/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Jagjit Singh</title>
-      <link>http://localhost:1313/artists/jagjit-singh/</link>
-      <pubDate>Sat, 22 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/artists/jagjit-singh/</guid>
       <description></description>
     </item>
     <item>
@@ -475,13 +489,6 @@
       <link>http://localhost:1313/artists/parampara-tandon/</link>
       <pubDate>Sat, 15 May 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/artists/parampara-tandon/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Suzanne D&#39;Mello</title>
-      <link>http://localhost:1313/artists/suzanne-dmello/</link>
-      <pubDate>Sat, 15 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/artists/suzanne-dmello/</guid>
       <description></description>
     </item>
     <item>
