@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Masti (2004) on demo 1</title>
+    <link>http://localhost:1313/albums/masti-2004/</link>
+    <description>Recent content in Masti (2004) on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 May 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/albums/masti-2004/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chain Khuli Ki Main Khuli lyrics - Masti</title>
+      <link>http://localhost:1313/chain-khuli-ki-main-khuli-masti-lyrics/</link>
+      <pubDate>Sun, 23 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/chain-khuli-ki-main-khuli-masti-lyrics/</guid>
+      <description>Chain Khuli Ki Main Khuli Ki Chain&#xA;Dil Ka Panchhi Kare Dhamaal&#xA;Pinjre Me Na..</description>
+    </item>
+    <item>
+      <title>Dil De Diya Hai lyrics - Masti</title>
+      <link>http://localhost:1313/dil-de-diya-hai-masti-lyrics/</link>
+      <pubDate>Sun, 23 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/dil-de-diya-hai-masti-lyrics/</guid>
+      <description>Dil De Diya Hai, Jaan Tumhe Denge&#xA;Daga Nahi Karenge, Sanam&#xA;Rabb Di Kasam</description>
+    </item>
+  </channel>
+</rss>

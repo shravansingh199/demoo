@@ -6,8 +6,15 @@
     <description>Recent content in Ghajini (2008) on demo 1</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 May 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 May 2021 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/albums/ghajini-2008/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Guzarish lyrics - Ghajini</title>
+      <link>http://localhost:1313/guzarish-ghajini-lyrics/</link>
+      <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/guzarish-ghajini-lyrics/</guid>
+      <description>Tu Meri Adhoori Pyas Pyas&#xA;Tu Aa Gayi Mann Ko Raas Raas&#xA;Ab Toh..</description>
+    </item>
     <item>
       <title>Behka lyrics - Ghajini</title>
       <link>http://localhost:1313/behka-ghajini-lyrics/</link>
