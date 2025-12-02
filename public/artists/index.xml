@@ -23,6 +23,20 @@
       <description></description>
     </item>
     <item>
+      <title>Banjyotsna</title>
+      <link>http://localhost:1313/artists/banjyotsna/</link>
+      <pubDate>Sun, 23 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/banjyotsna/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Javed Ali</title>
+      <link>http://localhost:1313/artists/javed-ali/</link>
+      <pubDate>Sun, 23 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/javed-ali/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Palak Muchhal</title>
       <link>http://localhost:1313/artists/palak-muchhal/</link>
       <pubDate>Sun, 23 May 2021 00:00:00 +0000</pubDate>
@@ -34,6 +48,13 @@
       <link>http://localhost:1313/artists/shaan/</link>
       <pubDate>Sun, 23 May 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/artists/shaan/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Shreya Ghoshal</title>
+      <link>http://localhost:1313/artists/shreya-ghoshal/</link>
+      <pubDate>Sun, 23 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/shreya-ghoshal/</guid>
       <description></description>
     </item>
     <item>
@@ -107,13 +128,6 @@
       <description></description>
     </item>
     <item>
-      <title>Javed Ali</title>
-      <link>http://localhost:1313/artists/javed-ali/</link>
-      <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/artists/javed-ali/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Jubin Nautiyal</title>
       <link>http://localhost:1313/artists/jubin-nautiyal/</link>
       <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
@@ -139,13 +153,6 @@
       <link>http://localhost:1313/artists/salim-merchant/</link>
       <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/artists/salim-merchant/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Shreya Ghoshal</title>
-      <link>http://localhost:1313/artists/shreya-ghoshal/</link>
-      <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/artists/shreya-ghoshal/</guid>
       <description></description>
     </item>
     <item>

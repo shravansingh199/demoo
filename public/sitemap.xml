@@ -53,10 +53,16 @@
     <loc>http://localhost:1313/artists/anand-raj-anand/</loc>
     <lastmod>2021-05-23T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/artists/banjyotsna/</loc>
+    <lastmod>2021-05-23T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/chain-khuli-ki-main-khuli-masti-lyrics/</loc>
     <lastmod>2021-05-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/chura-ke-leja-policegiri-lyrics/</loc>
+    <lastmod>2021-05-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/albums/de-dana-dan-2009/</loc>
     <lastmod>2021-05-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/albums/deewana-1999-album/</loc>
@@ -65,7 +71,16 @@
     <loc>http://localhost:1313/dil-de-diya-hai-masti-lyrics/</loc>
     <lastmod>2021-05-23T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/gale-lag-ja-de-dana-dan-lyrics/</loc>
+    <lastmod>2021-05-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/artists/javed-ali/</loc>
+    <lastmod>2021-05-23T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/albums/masti-2004/</loc>
+    <lastmod>2021-05-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mujhe-raat-din-sangharsh-lyrics/</loc>
     <lastmod>2021-05-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/artists/palak-muchhal/</loc>
@@ -74,10 +89,22 @@
     <loc>http://localhost:1313/albums/policegiri-2013/</loc>
     <lastmod>2021-05-23T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/albums/sanam-re-2016/</loc>
+    <lastmod>2021-05-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/albums/sangharsh-1999/</loc>
+    <lastmod>2021-05-23T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/artists/shaan/</loc>
     <lastmod>2021-05-23T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/artists/shreya-ghoshal/</loc>
+    <lastmod>2021-05-23T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/artists/sonu-nigam/</loc>
+    <lastmod>2021-05-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tum-bin-sanam-re-lyrics/</loc>
     <lastmod>2021-05-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/artists/udit-narayan/</loc>
@@ -158,9 +185,6 @@
     <loc>http://localhost:1313/guzarish-ghajini-lyrics/</loc>
     <lastmod>2021-05-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/artists/javed-ali/</loc>
-    <lastmod>2021-05-21T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/artists/jubin-nautiyal/</loc>
     <lastmod>2021-05-21T00:00:00+00:00</lastmod>
   </url><url>
@@ -189,9 +213,6 @@
     <lastmod>2021-05-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/artists/salim-merchant/</loc>
-    <lastmod>2021-05-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/artists/shreya-ghoshal/</loc>
     <lastmod>2021-05-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/artists/shruti-pathak/</loc>
