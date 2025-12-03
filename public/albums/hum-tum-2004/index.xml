@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hum Tum (2004) on demo 1</title>
+    <link>http://localhost:1313/albums/hum-tum-2004/</link>
+    <description>Recent content in Hum Tum (2004) on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 26 May 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/albums/hum-tum-2004/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ladki Kyon lyrics - Hum Tum</title>
+      <link>http://localhost:1313/ladki-kyon-hum-tum-lyrics/</link>
+      <pubDate>Wed, 26 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ladki-kyon-hum-tum-lyrics/</guid>
+      <description>Ladki Kyun, Na Jaane Kyun&#xA;Ladkon Si Nahi Hoti&#xA;Sochti Hai Zyada..</description>
+    </item>
+    <item>
+      <title>U &#39;n&#39; I (Mere Dil Vich Hum Tum) lyrics</title>
+      <link>http://localhost:1313/u-n-i-mere-dil-vich-hum-tum-lyrics/</link>
+      <pubDate>Tue, 25 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/u-n-i-mere-dil-vich-hum-tum-lyrics/</guid>
+      <description>Hangin’ With The Girls At The Weekend&#xA;Tryna Have A Laugh And A Good Time&#xA;Why You Callin’ Me..</description>
+    </item>
+  </channel>
+</rss>

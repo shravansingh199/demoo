@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Action Jackson (2014) on demo 1</title>
+    <link>http://localhost:1313/albums/action-jackson-2014/</link>
+    <description>Recent content in Action Jackson (2014) on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 26 May 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/albums/action-jackson-2014/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Keeda lyrics - Himesh Reshammiya, Neeti Mohan</title>
+      <link>http://localhost:1313/keeda-action-jackson-lyrics/</link>
+      <pubDate>Wed, 26 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/keeda-action-jackson-lyrics/</guid>
+      <description>Tumse Milne Ka Keeda Andar Hai&#xA;Dating Karle Tu, Open Calendar Hai&#xA;Som, Mangal, Budh, Guru&#xA;Shukra..</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hate Story 2 (2014) on demo 1</title>
+    <link>http://localhost:1313/albums/hate-story-2-2014/</link>
+    <description>Recent content in Hate Story 2 (2014) on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 26 May 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/albums/hate-story-2-2014/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pink Lips lyrics - Khushboo Grewal, Meet Bros</title>
+      <link>http://localhost:1313/pink-lips-hate-story-2-lyrics/</link>
+      <pubDate>Wed, 26 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pink-lips-hate-story-2-lyrics/</guid>
+      <description>Honthon Pe Beimaaniyan&#xA;Karle, Karle Thodi Nadaaniyan&#xA;Honthon Pe Mannmaaniyan&#xA;Karle, Karle Thodi..</description>
+    </item>
+  </channel>
+</rss>
