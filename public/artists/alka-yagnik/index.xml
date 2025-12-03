@@ -6,8 +6,15 @@
     <description>Recent content in Alka Yagnik on demo 1</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 May 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 May 2021 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/artists/alka-yagnik/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Laal Chunariya lyrics - Jodi No.1</title>
+      <link>http://localhost:1313/laal-chunariya-jodi-no-1-lyrics/</link>
+      <pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/laal-chunariya-jodi-no-1-lyrics/</guid>
+      <description>Dil Dhak Dhak Karta Hai Re&#xA;Tujhpe Hi Marta Hai Re&#xA;Sunn Kya Kya Kehta..</description>
+    </item>
     <item>
       <title>Tera Dil lyrics - Hungama</title>
       <link>http://localhost:1313/tera-dil-mere-paas-hungama-lyrics/</link>

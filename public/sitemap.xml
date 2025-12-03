@@ -53,10 +53,43 @@
     <loc>http://localhost:1313/albums/aapko-pehle-bhi-kahin-dekha-hai-2003/</loc>
     <lastmod>2021-05-24T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/artists/alka-yagnik/</loc>
+    <lastmod>2021-05-24T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/artists/anuradha-paudwal/</loc>
     <lastmod>2021-05-24T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/albums/aur-pyar-ho-gaya-1997/</loc>
+    <lastmod>2021-05-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/albums/dastak-1996/</loc>
+    <lastmod>2021-05-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/albums/dil-vil-pyar-vyar-2002/</loc>
+    <lastmod>2021-05-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/artists/hariharan/</loc>
+    <lastmod>2021-05-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/jaadu-bhari-dastak-lyrics/</loc>
+    <lastmod>2021-05-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/albums/jodi-no-1-2001/</loc>
+    <lastmod>2021-05-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/laal-chunariya-jodi-no-1-lyrics/</loc>
+    <lastmod>2021-05-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/meri-saanson-mein-aur-pyar-ho-gaya-lyrics/</loc>
+    <lastmod>2021-05-24T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/artists/sonu-nigam/</loc>
+    <lastmod>2021-05-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tum-bin-jaaun-kahan-dil-vil-pyar-vyar-lyrics/</loc>
+    <lastmod>2021-05-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/artists/udit-narayan/</loc>
     <lastmod>2021-05-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/ab-mujhe-raat-din-deewana-album-lyrics/</loc>
@@ -132,9 +165,6 @@
     <lastmod>2021-05-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tum-bin-sanam-re-lyrics/</loc>
-    <lastmod>2021-05-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/artists/udit-narayan/</loc>
     <lastmod>2021-05-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/artists/yashraj-kapil/</loc>
@@ -346,9 +376,6 @@
   </url><url>
     <loc>http://localhost:1313/artists/yasser-desai/</loc>
     <lastmod>2021-05-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/artists/alka-yagnik/</loc>
-    <lastmod>2021-05-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/artists/amrita-kak/</loc>
     <lastmod>2021-05-19T00:00:00+00:00</lastmod>
@@ -654,9 +681,6 @@
     <lastmod>2021-05-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/artists/babul-supriyo/</loc>
-    <lastmod>2021-05-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/artists/hariharan/</loc>
     <lastmod>2021-05-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/albums/ishaqzaade-2012/</loc>

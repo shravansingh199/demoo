@@ -16,6 +16,13 @@
       <description></description>
     </item>
     <item>
+      <title>Alka Yagnik</title>
+      <link>http://localhost:1313/artists/alka-yagnik/</link>
+      <pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/alka-yagnik/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Anuradha Paudwal</title>
       <link>http://localhost:1313/artists/anuradha-paudwal/</link>
       <pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate>
@@ -23,10 +30,24 @@
       <description></description>
     </item>
     <item>
+      <title>Hariharan</title>
+      <link>http://localhost:1313/artists/hariharan/</link>
+      <pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/hariharan/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Sonu Nigam</title>
       <link>http://localhost:1313/artists/sonu-nigam/</link>
       <pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/artists/sonu-nigam/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Udit Narayan</title>
+      <link>http://localhost:1313/artists/udit-narayan/</link>
+      <pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/udit-narayan/</guid>
       <description></description>
     </item>
     <item>
@@ -90,13 +111,6 @@
       <link>http://localhost:1313/artists/suzanne-dmello/</link>
       <pubDate>Sun, 23 May 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/artists/suzanne-dmello/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Udit Narayan</title>
-      <link>http://localhost:1313/artists/udit-narayan/</link>
-      <pubDate>Sun, 23 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/artists/udit-narayan/</guid>
       <description></description>
     </item>
     <item>
@@ -258,13 +272,6 @@
       <link>http://localhost:1313/artists/yasser-desai/</link>
       <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/artists/yasser-desai/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Alka Yagnik</title>
-      <link>http://localhost:1313/artists/alka-yagnik/</link>
-      <pubDate>Wed, 19 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/artists/alka-yagnik/</guid>
       <description></description>
     </item>
     <item>
@@ -524,13 +531,6 @@
       <link>http://localhost:1313/artists/babul-supriyo/</link>
       <pubDate>Thu, 13 May 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/artists/babul-supriyo/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Hariharan</title>
-      <link>http://localhost:1313/artists/hariharan/</link>
-      <pubDate>Thu, 13 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/artists/hariharan/</guid>
       <description></description>
     </item>
     <item>
