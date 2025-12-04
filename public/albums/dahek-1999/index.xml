@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dahek (1999) on demo 1</title>
+    <link>http://localhost:1313/albums/dahek-1999/</link>
+    <description>Recent content in Dahek (1999) on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 29 May 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/albums/dahek-1999/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Saawan Barse lyrics - Dahek</title>
+      <link>http://localhost:1313/sawan-barse-tarse-dil-dahek-lyrics/</link>
+      <pubDate>Sat, 29 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sawan-barse-tarse-dil-dahek-lyrics/</guid>
+      <description>Saawan Barse, Tarse Dil&#xA;Kyun Na Nikle Ghar Se Dil&#xA;Barkha Me Bhi Dil Pyasa Hai&#xA;Yeh Pyaar Nahi..</description>
+    </item>
+  </channel>
+</rss>

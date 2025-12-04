@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yeh Hai Jalwa (2002) on demo 1</title>
+    <link>http://localhost:1313/albums/yeh-hai-jalwa-2002/</link>
+    <description>Recent content in Yeh Hai Jalwa (2002) on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 29 May 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/albums/yeh-hai-jalwa-2002/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Choodi Khankayi Re lyrics - Yeh Hai Jalwa</title>
+      <link>http://localhost:1313/chudi-khankayi-re-yeh-hai-jalwa-lyrics/</link>
+      <pubDate>Sat, 29 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/chudi-khankayi-re-yeh-hai-jalwa-lyrics/</guid>
+      <description>Choodi Khankaayi Re, Choodi&#xA;Bolo Kaisa Lagta Hai&#xA;Mehendi Rachaayi Re&#xA;Haan, Mehendi..</description>
+    </item>
+    <item>
+      <title>Jalwa (Title Song) lyrics</title>
+      <link>http://localhost:1313/o-jaane-jigar-yeh-hai-jalwa-lyrics/</link>
+      <pubDate>Sat, 29 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/o-jaane-jigar-yeh-hai-jalwa-lyrics/</guid>
+      <description>O Jaan-e-Jigar&#xA;Le Gayi Mann Yeh Karaari Karaari Nazar&#xA;Maan Ja..</description>
+    </item>
+  </channel>
+</rss>

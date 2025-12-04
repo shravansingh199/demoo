@@ -89,5 +89,13 @@ td:last-child {
   hr {
     border-color: #547273;
   }
+   .totals {
+    animation: techFlash 0.5s linear 0s 3;
+  }
+
+  @keyframes techFlash {
+    0%, 90%, 100% { filter: brightness(100%); }
+    50% { filter: brightness(200%); }
+  }
 }
 

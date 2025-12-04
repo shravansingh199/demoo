@@ -2,6 +2,10 @@
   {{ .Content }}
 
   {{ $lyrics := where site.RegularPages "Type" "lyrics" }}
+
+{{ $total := len $lyrics }}
+<h4 class="totals">Total posts: <strong>{{ $total }}</strong></h4>
+
   {{ $paginator := .Paginate $lyrics }}
 
   {{ range $paginator.Pages }}
@@ -29,4 +33,3 @@
 
 
 {{ end }}
-
