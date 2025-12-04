@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tera Chehra (2002) Album on demo 1</title>
+    <link>http://localhost:1313/albums/tera-chehra-2002-album/</link>
+    <description>Recent content in Tera Chehra (2002) Album on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 30 May 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/albums/tera-chehra-2002-album/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tera Chehra lyrics - Adnan Sami</title>
+      <link>http://localhost:1313/tera-chehra-jab-nazar-aaye-adnan-sami-lyrics/</link>
+      <pubDate>Sun, 30 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tera-chehra-jab-nazar-aaye-adnan-sami-lyrics/</guid>
+      <description>Yeh Zameen Ruk Jaaye&#xA;Aasmaan Jhuk Jaaye&#xA;Tera Chehra Jab Nazar Aaye&#xA;Ho, Tera..</description>
+    </item>
+  </channel>
+</rss>

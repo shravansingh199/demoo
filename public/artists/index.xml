@@ -16,6 +16,69 @@
       <description></description>
     </item>
     <item>
+      <title>Ashish Pandit</title>
+      <link>http://localhost:1313/artists/ashish-pandit/</link>
+      <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/ashish-pandit/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hard Kaur</title>
+      <link>http://localhost:1313/artists/hard-kaur/</link>
+      <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/hard-kaur/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mika Singh</title>
+      <link>http://localhost:1313/artists/mika-singh/</link>
+      <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/mika-singh/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Neeraj Shridhar</title>
+      <link>http://localhost:1313/artists/neeraj-shridhar/</link>
+      <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/neeraj-shridhar/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Simar Kaur</title>
+      <link>http://localhost:1313/artists/simar-kaur/</link>
+      <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/simar-kaur/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Yo Yo Honey Singh</title>
+      <link>http://localhost:1313/artists/yo-yo-honey-singh/</link>
+      <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/yo-yo-honey-singh/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Adnan Sami</title>
+      <link>http://localhost:1313/artists/adnan-sami/</link>
+      <pubDate>Sun, 30 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/adnan-sami/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Anand Raj Anand</title>
+      <link>http://localhost:1313/artists/anand-raj-anand/</link>
+      <pubDate>Sun, 30 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/anand-raj-anand/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hema Sardesai</title>
+      <link>http://localhost:1313/artists/hema-sardesai/</link>
+      <pubDate>Sun, 30 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/hema-sardesai/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Jubin Nautiyal</title>
       <link>http://localhost:1313/artists/jubin-nautiyal/</link>
       <pubDate>Sun, 30 May 2021 00:00:00 +0000</pubDate>
@@ -34,6 +97,20 @@
       <link>http://localhost:1313/artists/neha-kakkar/</link>
       <pubDate>Sun, 30 May 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/artists/neha-kakkar/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sunidhi Chauhan</title>
+      <link>http://localhost:1313/artists/sunidhi-chauhan/</link>
+      <pubDate>Sun, 30 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/sunidhi-chauhan/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tauseef Akhtar</title>
+      <link>http://localhost:1313/artists/tauseef-akhtar/</link>
+      <pubDate>Sun, 30 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/tauseef-akhtar/</guid>
       <description></description>
     </item>
     <item>
@@ -233,13 +310,6 @@
       <description></description>
     </item>
     <item>
-      <title>Mika Singh</title>
-      <link>http://localhost:1313/artists/mika-singh/</link>
-      <pubDate>Thu, 27 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/artists/mika-singh/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Nindy Kaur</title>
       <link>http://localhost:1313/artists/nindy-kaur/</link>
       <pubDate>Thu, 27 May 2021 00:00:00 +0000</pubDate>
@@ -331,13 +401,6 @@
       <description></description>
     </item>
     <item>
-      <title>Yo Yo Honey Singh</title>
-      <link>http://localhost:1313/artists/yo-yo-honey-singh/</link>
-      <pubDate>Wed, 26 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/artists/yo-yo-honey-singh/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Earl D&#39;Souza</title>
       <link>http://localhost:1313/artists/earl-dsouza/</link>
       <pubDate>Tue, 25 May 2021 00:00:00 +0000</pubDate>
@@ -387,31 +450,10 @@
       <description></description>
     </item>
     <item>
-      <title>Neeraj Shridhar</title>
-      <link>http://localhost:1313/artists/neeraj-shridhar/</link>
-      <pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/artists/neeraj-shridhar/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Shabab Sabri</title>
       <link>http://localhost:1313/artists/shabab-sabri/</link>
       <pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/artists/shabab-sabri/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Sunidhi Chauhan</title>
-      <link>http://localhost:1313/artists/sunidhi-chauhan/</link>
-      <pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/artists/sunidhi-chauhan/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Anand Raj Anand</title>
-      <link>http://localhost:1313/artists/anand-raj-anand/</link>
-      <pubDate>Sun, 23 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/artists/anand-raj-anand/</guid>
       <description></description>
     </item>
     <item>
@@ -748,13 +790,6 @@
       <link>http://localhost:1313/artists/anu-malik/</link>
       <pubDate>Wed, 12 May 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/artists/anu-malik/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Hema Sardesai</title>
-      <link>http://localhost:1313/artists/hema-sardesai/</link>
-      <pubDate>Wed, 12 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/artists/hema-sardesai/</guid>
       <description></description>
     </item>
     <item>
@@ -1206,13 +1241,6 @@
       <description></description>
     </item>
     <item>
-      <title>Hard Kaur</title>
-      <link>http://localhost:1313/artists/hard-kaur/</link>
-      <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/artists/hard-kaur/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Aneela Mirza</title>
       <link>http://localhost:1313/artists/aneela-mirza/</link>
       <pubDate>Thu, 22 Apr 2021 00:00:00 +0000</pubDate>
@@ -1588,13 +1616,6 @@
       <link>http://localhost:1313/artists/rabbi-shergill/</link>
       <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/artists/rabbi-shergill/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Simar Kaur</title>
-      <link>http://localhost:1313/artists/simar-kaur/</link>
-      <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/artists/simar-kaur/</guid>
       <description></description>
     </item>
     <item>

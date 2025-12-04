@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Musafir (2004) on demo 1</title>
+    <link>http://localhost:1313/albums/musafir-2004/</link>
+    <description>Recent content in Musafir (2004) on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 30 May 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/albums/musafir-2004/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sun Suniyo lyrics - Musafir</title>
+      <link>http://localhost:1313/sun-suniyo-musafir-lyrics/</link>
+      <pubDate>Sun, 30 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sun-suniyo-musafir-lyrics/</guid>
+      <description>Daao Laga Le, Khud Pe Kabhi&#xA;Kar Le Yakeen&#xA;Khel Ja Baazi, Kal Ka..</description>
+    </item>
+  </channel>
+</rss>
