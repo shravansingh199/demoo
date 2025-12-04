@@ -16,6 +16,83 @@
       <description></description>
     </item>
     <item>
+      <title>Refugee (2000)</title>
+      <link>http://localhost:1313/albums/refugee-2000/</link>
+      <pubDate>Wed, 02 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/albums/refugee-2000/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tees Maar Khan (2010)</title>
+      <link>http://localhost:1313/albums/tees-maar-khan-2010/</link>
+      <pubDate>Wed, 02 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/albums/tees-maar-khan-2010/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Action Jackson (2014)</title>
+      <link>http://localhost:1313/albums/action-jackson-2014/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/albums/action-jackson-2014/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cash (2007)</title>
+      <link>http://localhost:1313/albums/cash-2007/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/albums/cash-2007/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Heyy Babyy (2007)</title>
+      <link>http://localhost:1313/albums/heyy-babyy-2007/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/albums/heyy-babyy-2007/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kaal (2005)</title>
+      <link>http://localhost:1313/albums/kaal-2005/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/albums/kaal-2005/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Zeher (2005)</title>
+      <link>http://localhost:1313/albums/zeher-2005/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/albums/zeher-2005/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dum Laga Ke Haisha (2015)</title>
+      <link>http://localhost:1313/albums/dum-laga-ke-haisha-2015/</link>
+      <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/albums/dum-laga-ke-haisha-2015/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Jab We Met (2007)</title>
+      <link>http://localhost:1313/albums/jab-we-met-2007/</link>
+      <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/albums/jab-we-met-2007/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pardes (1997)</title>
+      <link>http://localhost:1313/albums/pardes-1997/</link>
+      <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/albums/pardes-1997/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Shaadi Mein Zaroor Aana (2017)</title>
+      <link>http://localhost:1313/albums/shaadi-mein-zaroor-aana-2017/</link>
+      <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/albums/shaadi-mein-zaroor-aana-2017/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Singh Is Kinng (2008)</title>
       <link>http://localhost:1313/albums/singh-is-kinng-2008/</link>
       <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
@@ -184,13 +261,6 @@
       <description></description>
     </item>
     <item>
-      <title>Jab We Met (2007)</title>
-      <link>http://localhost:1313/albums/jab-we-met-2007/</link>
-      <pubDate>Thu, 27 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/albums/jab-we-met-2007/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Sarbjit (2016)</title>
       <link>http://localhost:1313/albums/sarbjit-2016/</link>
       <pubDate>Thu, 27 May 2021 00:00:00 +0000</pubDate>
@@ -216,13 +286,6 @@
       <link>http://localhost:1313/albums/zila-ghaziabad-2013/</link>
       <pubDate>Thu, 27 May 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/albums/zila-ghaziabad-2013/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Action Jackson (2014)</title>
-      <link>http://localhost:1313/albums/action-jackson-2014/</link>
-      <pubDate>Wed, 26 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/albums/action-jackson-2014/</guid>
       <description></description>
     </item>
     <item>
@@ -611,13 +674,6 @@
       <description></description>
     </item>
     <item>
-      <title>Shaadi Mein Zaroor Aana (2017)</title>
-      <link>http://localhost:1313/albums/shaadi-mein-zaroor-aana-2017/</link>
-      <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/albums/shaadi-mein-zaroor-aana-2017/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>The Xpose (2014)</title>
       <link>http://localhost:1313/albums/the-xpose-2014/</link>
       <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
@@ -776,13 +832,6 @@
       <link>http://localhost:1313/albums/darling-2007/</link>
       <pubDate>Wed, 12 May 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/albums/darling-2007/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Heyy Babyy (2007)</title>
-      <link>http://localhost:1313/albums/heyy-babyy-2007/</link>
-      <pubDate>Wed, 12 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/albums/heyy-babyy-2007/</guid>
       <description></description>
     </item>
     <item>
@@ -1364,13 +1413,6 @@
       <link>http://localhost:1313/albums/luck-2009/</link>
       <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/albums/luck-2009/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Refugee (2000)</title>
-      <link>http://localhost:1313/albums/refugee-2000/</link>
-      <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/albums/refugee-2000/</guid>
       <description></description>
     </item>
     <item>

@@ -16,6 +16,97 @@
       <description></description>
     </item>
     <item>
+      <title>Alka Yagnik</title>
+      <link>http://localhost:1313/artists/alka-yagnik/</link>
+      <pubDate>Wed, 02 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/alka-yagnik/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Shreya Ghoshal</title>
+      <link>http://localhost:1313/artists/shreya-ghoshal/</link>
+      <pubDate>Wed, 02 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/shreya-ghoshal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sonu Nigam</title>
+      <link>http://localhost:1313/artists/sonu-nigam/</link>
+      <pubDate>Wed, 02 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/sonu-nigam/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sukhwinder Singh</title>
+      <link>http://localhost:1313/artists/sukhwinder-singh/</link>
+      <pubDate>Wed, 02 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/sukhwinder-singh/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Atif Aslam</title>
+      <link>http://localhost:1313/artists/atif-aslam/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/atif-aslam/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Himesh Reshammiya</title>
+      <link>http://localhost:1313/artists/himesh-reshammiya/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/himesh-reshammiya/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kunal Ganjawala</title>
+      <link>http://localhost:1313/artists/kunal-ganjawala/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/kunal-ganjawala/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Master Saleem</title>
+      <link>http://localhost:1313/artists/master-saleem/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/master-saleem/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rehan Khan</title>
+      <link>http://localhost:1313/artists/rehan-khan/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/rehan-khan/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Richa Sharma</title>
+      <link>http://localhost:1313/artists/richa-sharma/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/richa-sharma/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Shalmali Kholgade</title>
+      <link>http://localhost:1313/artists/shalmali-kholgade/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/shalmali-kholgade/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Shankar Mahadevan</title>
+      <link>http://localhost:1313/artists/shankar-mahadevan/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/shankar-mahadevan/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sunidhi Chauhan</title>
+      <link>http://localhost:1313/artists/sunidhi-chauhan/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/sunidhi-chauhan/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Ashish Pandit</title>
       <link>http://localhost:1313/artists/ashish-pandit/</link>
       <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
@@ -30,6 +121,20 @@
       <description></description>
     </item>
     <item>
+      <title>Krishna Beuraa</title>
+      <link>http://localhost:1313/artists/krishna-beuraa/</link>
+      <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/krishna-beuraa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kumar Sanu</title>
+      <link>http://localhost:1313/artists/kumar-sanu/</link>
+      <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/kumar-sanu/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Mika Singh</title>
       <link>http://localhost:1313/artists/mika-singh/</link>
       <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
@@ -41,6 +146,13 @@
       <link>http://localhost:1313/artists/neeraj-shridhar/</link>
       <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/artists/neeraj-shridhar/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sadhana Sargam</title>
+      <link>http://localhost:1313/artists/sadhana-sargam/</link>
+      <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/sadhana-sargam/</guid>
       <description></description>
     </item>
     <item>
@@ -100,13 +212,6 @@
       <description></description>
     </item>
     <item>
-      <title>Sunidhi Chauhan</title>
-      <link>http://localhost:1313/artists/sunidhi-chauhan/</link>
-      <pubDate>Sun, 30 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/artists/sunidhi-chauhan/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Tauseef Akhtar</title>
       <link>http://localhost:1313/artists/tauseef-akhtar/</link>
       <pubDate>Sun, 30 May 2021 00:00:00 +0000</pubDate>
@@ -114,31 +219,10 @@
       <description></description>
     </item>
     <item>
-      <title>Alka Yagnik</title>
-      <link>http://localhost:1313/artists/alka-yagnik/</link>
-      <pubDate>Sat, 29 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/artists/alka-yagnik/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Hariharan</title>
       <link>http://localhost:1313/artists/hariharan/</link>
       <pubDate>Sat, 29 May 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/artists/hariharan/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Himesh Reshammiya</title>
-      <link>http://localhost:1313/artists/himesh-reshammiya/</link>
-      <pubDate>Sat, 29 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/artists/himesh-reshammiya/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Kumar Sanu</title>
-      <link>http://localhost:1313/artists/kumar-sanu/</link>
-      <pubDate>Sat, 29 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/artists/kumar-sanu/</guid>
       <description></description>
     </item>
     <item>
@@ -153,13 +237,6 @@
       <link>http://localhost:1313/artists/rahat-fateh-ali-khan/</link>
       <pubDate>Sat, 29 May 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/artists/rahat-fateh-ali-khan/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Sadhana Sargam</title>
-      <link>http://localhost:1313/artists/sadhana-sargam/</link>
-      <pubDate>Sat, 29 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/artists/sadhana-sargam/</guid>
       <description></description>
     </item>
     <item>
@@ -230,20 +307,6 @@
       <link>http://localhost:1313/artists/shashaa-tirupati/</link>
       <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/artists/shashaa-tirupati/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Shreya Ghoshal</title>
-      <link>http://localhost:1313/artists/shreya-ghoshal/</link>
-      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/artists/shreya-ghoshal/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Sonu Nigam</title>
-      <link>http://localhost:1313/artists/sonu-nigam/</link>
-      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/artists/sonu-nigam/</guid>
       <description></description>
     </item>
     <item>
@@ -335,13 +398,6 @@
       <link>http://localhost:1313/artists/shafqat-amanat-ali/</link>
       <pubDate>Thu, 27 May 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/artists/shafqat-amanat-ali/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Sukhwinder Singh</title>
-      <link>http://localhost:1313/artists/sukhwinder-singh/</link>
-      <pubDate>Thu, 27 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/artists/sukhwinder-singh/</guid>
       <description></description>
     </item>
     <item>
@@ -751,13 +807,6 @@
       <description></description>
     </item>
     <item>
-      <title>Atif Aslam</title>
-      <link>http://localhost:1313/artists/atif-aslam/</link>
-      <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/artists/atif-aslam/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Harshit Saxena</title>
       <link>http://localhost:1313/artists/harshit-saxena/</link>
       <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
@@ -776,13 +825,6 @@
       <link>http://localhost:1313/artists/babul-supriyo/</link>
       <pubDate>Thu, 13 May 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/artists/babul-supriyo/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Shalmali Kholgade</title>
-      <link>http://localhost:1313/artists/shalmali-kholgade/</link>
-      <pubDate>Thu, 13 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/artists/shalmali-kholgade/</guid>
       <description></description>
     </item>
     <item>
@@ -888,20 +930,6 @@
       <link>http://localhost:1313/artists/karsan-sargathiya/</link>
       <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/artists/karsan-sargathiya/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Krishna Beuraa</title>
-      <link>http://localhost:1313/artists/krishna-beuraa/</link>
-      <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/artists/krishna-beuraa/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Shankar Mahadevan</title>
-      <link>http://localhost:1313/artists/shankar-mahadevan/</link>
-      <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/artists/shankar-mahadevan/</guid>
       <description></description>
     </item>
     <item>
@@ -1164,13 +1192,6 @@
       <description></description>
     </item>
     <item>
-      <title>Master Saleem</title>
-      <link>http://localhost:1313/artists/master-saleem/</link>
-      <pubDate>Wed, 28 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/artists/master-saleem/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Sneha Pant</title>
       <link>http://localhost:1313/artists/sneha-pant/</link>
       <pubDate>Wed, 28 Apr 2021 00:00:00 +0000</pubDate>
@@ -1210,13 +1231,6 @@
       <link>http://localhost:1313/artists/tarannum-mallik/</link>
       <pubDate>Sun, 25 Apr 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/artists/tarannum-mallik/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Kunal Ganjawala</title>
-      <link>http://localhost:1313/artists/kunal-ganjawala/</link>
-      <pubDate>Sat, 24 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/artists/kunal-ganjawala/</guid>
       <description></description>
     </item>
     <item>

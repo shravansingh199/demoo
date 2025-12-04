@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pardes (1997) on demo 1</title>
+    <link>http://localhost:1313/albums/pardes-1997/</link>
+    <description>Recent content in Pardes (1997) on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 31 May 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/albums/pardes-1997/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Yeh Dil Deewana lyrics - Pardes</title>
+      <link>http://localhost:1313/yeh-dil-deewana-pardes-lyrics/</link>
+      <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/yeh-dil-deewana-pardes-lyrics/</guid>
+      <description>Yeh Dil, Deewana&#xA;Deewana Haan, Hai Yeh Dil&#xA;Deewane Ne Mujhko Bhi&#xA;Aah! Kar Daala..</description>
+    </item>
+  </channel>
+</rss>
