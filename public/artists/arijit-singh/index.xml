@@ -6,8 +6,15 @@
     <description>Recent content in Arijit Singh on demo 1</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Jun 2021 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/artists/arijit-singh/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bairaagi lyrics - Bareilly Ki Barfi</title>
+      <link>http://localhost:1313/bairaagi-bareilly-ki-barfi-lyrics/</link>
+      <pubDate>Mon, 07 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bairaagi-bareilly-ki-barfi-lyrics/</guid>
+      <description>Duniya Ke Dastoor Se Door Hai Tu&#xA;Mere Naino Ka Saara Noor Hai Tu&#xA;Meri Saans Ke..</description>
+    </item>
     <item>
       <title>Itni Si Baat Hai lyrics - Azhar</title>
       <link>http://localhost:1313/itni-si-baat-hai-azhar-lyrics/</link>

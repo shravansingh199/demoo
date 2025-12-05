@@ -6,8 +6,15 @@
     <description>Recent content in Sonu Nigam on demo 1</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Jun 2021 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/artists/sonu-nigam/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aisa Lagta Hai lyrics - Refugee</title>
+      <link>http://localhost:1313/aisa-lagta-hai-refugee-lyrics/</link>
+      <pubDate>Mon, 07 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/aisa-lagta-hai-refugee-lyrics/</guid>
+      <description>Aisa Lagta Hai&#xA;Jo Na Hua, Hone Ko Hai&#xA;Aisa Lagta Hai&#xA;Ab Dil Mera..</description>
+    </item>
     <item>
       <title>Ram Jaane - Title Track lyrics</title>
       <link>http://localhost:1313/ram-jaane-title-track-lyrics/</link>
