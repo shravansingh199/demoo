@@ -16,10 +16,80 @@
       <description></description>
     </item>
     <item>
+      <title>I, Me Aur Main (2013)</title>
+      <link>http://localhost:1313/albums/i-me-aur-main-2013/</link>
+      <pubDate>Fri, 04 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/albums/i-me-aur-main-2013/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Aashiq Banaya Aapne (2005)</title>
+      <link>http://localhost:1313/albums/aashiq-banaya-aapne-2005/</link>
+      <pubDate>Thu, 03 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/albums/aashiq-banaya-aapne-2005/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dangal (2016)</title>
+      <link>http://localhost:1313/albums/dangal-2016/</link>
+      <pubDate>Thu, 03 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/albums/dangal-2016/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hadh Kar Di Aapne (2000)</title>
+      <link>http://localhost:1313/albums/hadh-kar-di-aapne-2000/</link>
+      <pubDate>Thu, 03 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/albums/hadh-kar-di-aapne-2000/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Heartless (2014)</title>
+      <link>http://localhost:1313/albums/heartless-2014/</link>
+      <pubDate>Thu, 03 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/albums/heartless-2014/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Raabta (2017)</title>
+      <link>http://localhost:1313/albums/raabta-2017/</link>
+      <pubDate>Thu, 03 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/albums/raabta-2017/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ram Jaane (1995)</title>
+      <link>http://localhost:1313/albums/ram-jaane-1995/</link>
+      <pubDate>Thu, 03 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/albums/ram-jaane-1995/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sardar Ka Grandson (2021)</title>
+      <link>http://localhost:1313/albums/sardar-ka-grandson-2021/</link>
+      <pubDate>Thu, 03 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/albums/sardar-ka-grandson-2021/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Love Games (2016)</title>
+      <link>http://localhost:1313/albums/love-games-2016/</link>
+      <pubDate>Wed, 02 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/albums/love-games-2016/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Refugee (2000)</title>
       <link>http://localhost:1313/albums/refugee-2000/</link>
       <pubDate>Wed, 02 Jun 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/albums/refugee-2000/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Roy (2015)</title>
+      <link>http://localhost:1313/albums/roy-2015/</link>
+      <pubDate>Wed, 02 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/albums/roy-2015/</guid>
       <description></description>
     </item>
     <item>
@@ -97,13 +167,6 @@
       <link>http://localhost:1313/albums/singh-is-kinng-2008/</link>
       <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/albums/singh-is-kinng-2008/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Heartless (2014)</title>
-      <link>http://localhost:1313/albums/heartless-2014/</link>
-      <pubDate>Sun, 30 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/albums/heartless-2014/</guid>
       <description></description>
     </item>
     <item>
@@ -286,13 +349,6 @@
       <link>http://localhost:1313/albums/zila-ghaziabad-2013/</link>
       <pubDate>Thu, 27 May 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/albums/zila-ghaziabad-2013/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Hadh Kar Di Aapne (2000)</title>
-      <link>http://localhost:1313/albums/hadh-kar-di-aapne-2000/</link>
-      <pubDate>Wed, 26 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/albums/hadh-kar-di-aapne-2000/</guid>
       <description></description>
     </item>
     <item>
@@ -877,24 +933,10 @@
       <description></description>
     </item>
     <item>
-      <title>Sardar Ka Grandson (2021)</title>
-      <link>http://localhost:1313/albums/sardar-ka-grandson-2021/</link>
-      <pubDate>Tue, 11 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/albums/sardar-ka-grandson-2021/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Satyameva Jayate (2018)</title>
       <link>http://localhost:1313/albums/satyameva-jayate-2018/</link>
       <pubDate>Tue, 11 May 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/albums/satyameva-jayate-2018/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Aashiq Banaya Aapne (2005)</title>
-      <link>http://localhost:1313/albums/aashiq-banaya-aapne-2005/</link>
-      <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/albums/aashiq-banaya-aapne-2005/</guid>
       <description></description>
     </item>
     <item>
@@ -986,13 +1028,6 @@
       <link>http://localhost:1313/albums/munna-michael-2017/</link>
       <pubDate>Sat, 08 May 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/albums/munna-michael-2017/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Raabta (2017)</title>
-      <link>http://localhost:1313/albums/raabta-2017/</link>
-      <pubDate>Sat, 08 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/albums/raabta-2017/</guid>
       <description></description>
     </item>
     <item>

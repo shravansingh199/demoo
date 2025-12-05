@@ -6,8 +6,15 @@
     <description>Recent content in Divya Kumar on demo 1</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 May 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Jun 2021 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/artists/divya-kumar/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bandeya lyrics - Sardar Ka Grandson</title>
+      <link>http://localhost:1313/bandeya-sardar-ka-grandson-lyrics/</link>
+      <pubDate>Thu, 03 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bandeya-sardar-ka-grandson-lyrics/</guid>
+      <description>Jitna Jale Tape Tu Agan Me&#xA;Utna Chamke Tera Rang&#xA;Darr Kya Jo Jag Dushman Tera&#xA;Rabb Hai..</description>
+    </item>
     <item>
       <title>Sun Saathiya lyrics - ABCD 2</title>
       <link>http://localhost:1313/sun-saathiya-abcd-2-lyrics/</link>
