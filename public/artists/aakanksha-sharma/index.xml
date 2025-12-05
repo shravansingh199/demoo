@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aakanksha Sharma on demo 1</title>
+    <link>http://localhost:1313/artists/aakanksha-sharma/</link>
+    <description>Recent content in Aakanksha Sharma on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 04 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/artists/aakanksha-sharma/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jogi lyrics - Shaadi Mein Zaroor Aana</title>
+      <link>http://localhost:1313/jogi-shaadi-mein-zaroor-aana-lyrics/</link>
+      <pubDate>Fri, 04 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jogi-shaadi-mein-zaroor-aana-lyrics/</guid>
+      <description>Main Ta Tere Naal Hi Rehna Ji&#xA;Har Gham Sang Tere Sehna Ji&#xA;Jo Jag Se Kaha Na..</description>
+    </item>
+  </channel>
+</rss>

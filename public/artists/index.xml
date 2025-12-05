@@ -16,10 +16,80 @@
       <description></description>
     </item>
     <item>
+      <title>Aman Trikha</title>
+      <link>http://localhost:1313/artists/aman-trikha/</link>
+      <pubDate>Sun, 06 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/aman-trikha/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pawni a Pandey</title>
+      <link>http://localhost:1313/artists/pawni-a-pandey/</link>
+      <pubDate>Sun, 06 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/pawni-a-pandey/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Shabab Sabri</title>
+      <link>http://localhost:1313/artists/shabab-sabri/</link>
+      <pubDate>Sun, 06 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/shabab-sabri/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vineet Singh</title>
+      <link>http://localhost:1313/artists/vineet-singh/</link>
+      <pubDate>Sun, 06 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/vineet-singh/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Antara Mitra</title>
+      <link>http://localhost:1313/artists/antara-mitra/</link>
+      <pubDate>Sat, 05 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/antara-mitra/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Arijit Singh</title>
       <link>http://localhost:1313/artists/arijit-singh/</link>
-      <pubDate>Fri, 04 Jun 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 05 Jun 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/artists/arijit-singh/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>KK</title>
+      <link>http://localhost:1313/artists/kk/</link>
+      <pubDate>Sat, 05 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/kk/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Suzanne D&#39;Mello</title>
+      <link>http://localhost:1313/artists/suzanne-dmello/</link>
+      <pubDate>Sat, 05 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/suzanne-dmello/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Aakanksha Sharma</title>
+      <link>http://localhost:1313/artists/aakanksha-sharma/</link>
+      <pubDate>Fri, 04 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/aakanksha-sharma/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Atif Aslam</title>
+      <link>http://localhost:1313/artists/atif-aslam/</link>
+      <pubDate>Fri, 04 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/atif-aslam/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Darshan Raval</title>
+      <link>http://localhost:1313/artists/darshan-raval/</link>
+      <pubDate>Fri, 04 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/darshan-raval/</guid>
       <description></description>
     </item>
     <item>
@@ -37,6 +107,13 @@
       <description></description>
     </item>
     <item>
+      <title>Neha Kakkar</title>
+      <link>http://localhost:1313/artists/neha-kakkar/</link>
+      <pubDate>Fri, 04 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/neha-kakkar/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Payal Dev</title>
       <link>http://localhost:1313/artists/payal-dev/</link>
       <pubDate>Fri, 04 Jun 2021 00:00:00 +0000</pubDate>
@@ -48,6 +125,13 @@
       <link>http://localhost:1313/artists/stebin-ben/</link>
       <pubDate>Fri, 04 Jun 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/artists/stebin-ben/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Yasser Desai</title>
+      <link>http://localhost:1313/artists/yasser-desai/</link>
+      <pubDate>Fri, 04 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/yasser-desai/</guid>
       <description></description>
     </item>
     <item>
@@ -69,13 +153,6 @@
       <link>http://localhost:1313/artists/divya-kumar/</link>
       <pubDate>Thu, 03 Jun 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/artists/divya-kumar/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>KK</title>
-      <link>http://localhost:1313/artists/kk/</link>
-      <pubDate>Thu, 03 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/artists/kk/</guid>
       <description></description>
     </item>
     <item>
@@ -139,13 +216,6 @@
       <link>http://localhost:1313/artists/sukhwinder-singh/</link>
       <pubDate>Wed, 02 Jun 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/artists/sukhwinder-singh/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Atif Aslam</title>
-      <link>http://localhost:1313/artists/atif-aslam/</link>
-      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/artists/atif-aslam/</guid>
       <description></description>
     </item>
     <item>
@@ -293,13 +363,6 @@
       <link>http://localhost:1313/artists/khurram-iqbal/</link>
       <pubDate>Sun, 30 May 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/artists/khurram-iqbal/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Neha Kakkar</title>
-      <link>http://localhost:1313/artists/neha-kakkar/</link>
-      <pubDate>Sun, 30 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/artists/neha-kakkar/</guid>
       <description></description>
     </item>
     <item>
@@ -548,31 +611,10 @@
       <description></description>
     </item>
     <item>
-      <title>Suzanne D&#39;Mello</title>
-      <link>http://localhost:1313/artists/suzanne-dmello/</link>
-      <pubDate>Tue, 25 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/artists/suzanne-dmello/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Aman Trikha</title>
-      <link>http://localhost:1313/artists/aman-trikha/</link>
-      <pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/artists/aman-trikha/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Anuradha Paudwal</title>
       <link>http://localhost:1313/artists/anuradha-paudwal/</link>
       <pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/artists/anuradha-paudwal/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Shabab Sabri</title>
-      <link>http://localhost:1313/artists/shabab-sabri/</link>
-      <pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/artists/shabab-sabri/</guid>
       <description></description>
     </item>
     <item>
@@ -615,13 +657,6 @@
       <link>http://localhost:1313/artists/k-s-chithra/</link>
       <pubDate>Sat, 22 May 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/artists/k-s-chithra/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Antara Mitra</title>
-      <link>http://localhost:1313/artists/antara-mitra/</link>
-      <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/artists/antara-mitra/</guid>
       <description></description>
     </item>
     <item>
@@ -692,13 +727,6 @@
       <link>http://localhost:1313/artists/sohail-sen/</link>
       <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/artists/sohail-sen/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Yasser Desai</title>
-      <link>http://localhost:1313/artists/yasser-desai/</link>
-      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/artists/yasser-desai/</guid>
       <description></description>
     </item>
     <item>
@@ -1241,13 +1269,6 @@
       <description></description>
     </item>
     <item>
-      <title>Vineet Singh</title>
-      <link>http://localhost:1313/artists/vineet-singh/</link>
-      <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/artists/vineet-singh/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Adnan Dhool</title>
       <link>http://localhost:1313/artists/adnan-dhool/</link>
       <pubDate>Mon, 26 Apr 2021 00:00:00 +0000</pubDate>
@@ -1406,13 +1427,6 @@
       <link>http://localhost:1313/artists/rahul-vaidya/</link>
       <pubDate>Sun, 18 Apr 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/artists/rahul-vaidya/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Darshan Raval</title>
-      <link>http://localhost:1313/artists/darshan-raval/</link>
-      <pubDate>Sat, 17 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/artists/darshan-raval/</guid>
       <description></description>
     </item>
     <item>

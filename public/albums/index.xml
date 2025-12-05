@@ -16,6 +16,34 @@
       <description></description>
     </item>
     <item>
+      <title>Policegiri (2013)</title>
+      <link>http://localhost:1313/albums/policegiri-2013/</link>
+      <pubDate>Sun, 06 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/albums/policegiri-2013/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Azhar (2016)</title>
+      <link>http://localhost:1313/albums/azhar-2016/</link>
+      <pubDate>Sat, 05 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/albums/azhar-2016/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Haunted (2011)</title>
+      <link>http://localhost:1313/albums/haunted-2011/</link>
+      <pubDate>Sat, 05 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/albums/haunted-2011/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Genius (2018)</title>
+      <link>http://localhost:1313/albums/genius-2018/</link>
+      <pubDate>Fri, 04 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/albums/genius-2018/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>I, Me Aur Main (2013)</title>
       <link>http://localhost:1313/albums/i-me-aur-main-2013/</link>
       <pubDate>Fri, 04 Jun 2021 00:00:00 +0000</pubDate>
@@ -27,6 +55,13 @@
       <link>http://localhost:1313/albums/raees-2017/</link>
       <pubDate>Fri, 04 Jun 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/albums/raees-2017/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Shaadi Mein Zaroor Aana (2017)</title>
+      <link>http://localhost:1313/albums/shaadi-mein-zaroor-aana-2017/</link>
+      <pubDate>Fri, 04 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/albums/shaadi-mein-zaroor-aana-2017/</guid>
       <description></description>
     </item>
     <item>
@@ -160,13 +195,6 @@
       <link>http://localhost:1313/albums/pardes-1997/</link>
       <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/albums/pardes-1997/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Shaadi Mein Zaroor Aana (2017)</title>
-      <link>http://localhost:1313/albums/shaadi-mein-zaroor-aana-2017/</link>
-      <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/albums/shaadi-mein-zaroor-aana-2017/</guid>
       <description></description>
     </item>
     <item>
@@ -503,13 +531,6 @@
       <link>http://localhost:1313/albums/masti-2004/</link>
       <pubDate>Sun, 23 May 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/albums/masti-2004/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Policegiri (2013)</title>
-      <link>http://localhost:1313/albums/policegiri-2013/</link>
-      <pubDate>Sun, 23 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/albums/policegiri-2013/</guid>
       <description></description>
     </item>
     <item>
@@ -1217,13 +1238,6 @@
       <link>http://localhost:1313/albums/the-body-2019/</link>
       <pubDate>Tue, 04 May 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/albums/the-body-2019/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Genius (2018)</title>
-      <link>http://localhost:1313/albums/genius-2018/</link>
-      <pubDate>Mon, 03 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/albums/genius-2018/</guid>
       <description></description>
     </item>
     <item>
