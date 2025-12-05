@@ -47,13 +47,34 @@
     <loc>http://localhost:1313/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/artists/arijit-singh/</loc>
+    <lastmod>2021-06-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/baarish-ban-jaana-payal-stebin-lyrics/</loc>
+    <lastmod>2021-06-04T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/artists/falak-shabir/</loc>
+    <lastmod>2021-06-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/artists/harshdeep-kaur/</loc>
     <lastmod>2021-06-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/albums/i-me-aur-main-2013/</loc>
     <lastmod>2021-06-04T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/artists/payal-dev/</loc>
+    <lastmod>2021-06-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/albums/raees-2017/</loc>
+    <lastmod>2021-06-04T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/saajna-i-me-aur-main-lyrics/</loc>
+    <lastmod>2021-06-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/artists/stebin-ben/</loc>
+    <lastmod>2021-06-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/zaalima-raees-lyrics/</loc>
     <lastmod>2021-06-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/albums/aashiq-banaya-aapne-2005/</loc>
@@ -63,9 +84,6 @@
     <lastmod>2021-06-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/artists/anand-raj-anand/</loc>
-    <lastmod>2021-06-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/artists/arijit-singh/</loc>
     <lastmod>2021-06-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/bandeya-sardar-ka-grandson-lyrics/</loc>
@@ -932,9 +950,6 @@
     <loc>http://localhost:1313/naino-ne-baandhi-gold-lyrics/</loc>
     <lastmod>2021-05-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/artists/payal-dev/</loc>
-    <lastmod>2021-05-20T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/artists/rashid-ali/</loc>
     <lastmod>2021-05-20T00:00:00+00:00</lastmod>
   </url><url>
@@ -942,9 +957,6 @@
     <lastmod>2021-05-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/artists/sohail-sen/</loc>
-    <lastmod>2021-05-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/artists/stebin-ben/</loc>
     <lastmod>2021-05-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/titliyan-rocky-handsome-lyrics/</loc>
@@ -2715,9 +2727,6 @@
     <lastmod>2021-03-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/albums/baghban-2003/</loc>
-    <lastmod>2021-03-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/artists/harshdeep-kaur/</loc>
     <lastmod>2021-03-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hori-khele-raghuveera-baghban/</loc>
