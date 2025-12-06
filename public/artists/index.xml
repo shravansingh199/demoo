@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>demo 1</title>
+    <title>List of Artists on demo 1</title>
     <link>http://localhost:1313/artists/</link>
-    <description>Recent content on demo 1</description>
+    <description>Recent content in List of Artists on demo 1</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 14 Feb 2025 00:00:00 +0000</lastBuildDate>
@@ -55,6 +55,20 @@
       <link>http://localhost:1313/artists/joi-barua/</link>
       <pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/artists/joi-barua/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mohit Chauhan</title>
+      <link>http://localhost:1313/artists/mohit-chauhan/</link>
+      <pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/mohit-chauhan/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nooran Sisters</title>
+      <link>http://localhost:1313/artists/nooran-sisters/</link>
+      <pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/nooran-sisters/</guid>
       <description></description>
     </item>
     <item>
@@ -811,13 +825,6 @@
       <link>http://localhost:1313/artists/amrita-kak/</link>
       <pubDate>Wed, 19 May 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/artists/amrita-kak/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Mohit Chauhan</title>
-      <link>http://localhost:1313/artists/mohit-chauhan/</link>
-      <pubDate>Wed, 19 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/artists/mohit-chauhan/</guid>
       <description></description>
     </item>
     <item>

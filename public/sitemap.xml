@@ -65,13 +65,31 @@
     <loc>http://localhost:1313/artists/clinton-cerejo/</loc>
     <lastmod>2021-06-09T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/dooriyan-love-aaj-kal-lyrics/</loc>
+    <lastmod>2021-06-09T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/artists/hamsika-iyer/</loc>
+    <lastmod>2021-06-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/albums/jab-harry-met-sejal-2017/</loc>
+    <lastmod>2021-06-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/jee-ve-sohaneya-jab-harry-met-sejal-lyrics/</loc>
     <lastmod>2021-06-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/artists/joi-barua/</loc>
     <lastmod>2021-06-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/kho-jaane-de-vicky-donor-lyrics/</loc>
+    <lastmod>2021-06-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/albums/love-aaj-kal-2009/</loc>
+    <lastmod>2021-06-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/artists/mohit-chauhan/</loc>
+    <lastmod>2021-06-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/artists/nooran-sisters/</loc>
     <lastmod>2021-06-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/offo-2-states-lyrics/</loc>
@@ -153,9 +171,6 @@
     <lastmod>2021-06-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/albums/drive-2019/</loc>
-    <lastmod>2021-06-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/albums/jab-harry-met-sejal-2017/</loc>
     <lastmod>2021-06-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/albums/jolly-llb-2-2017/</loc>
@@ -902,9 +917,6 @@
     <loc>http://localhost:1313/laal-chunariya-jodi-no-1-lyrics/</loc>
     <lastmod>2021-05-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/albums/love-aaj-kal-2009/</loc>
-    <lastmod>2021-05-24T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/meri-saanson-mein-aur-pyar-ho-gaya-lyrics/</loc>
     <lastmod>2021-05-24T00:00:00+00:00</lastmod>
   </url><url>
@@ -1155,9 +1167,6 @@
     <lastmod>2021-05-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/khuda-bhi-ek-paheli-leela-lyrics/</loc>
-    <lastmod>2021-05-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/artists/mohit-chauhan/</loc>
     <lastmod>2021-05-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/albums/ready-2011/</loc>
