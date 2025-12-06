@@ -16,6 +16,13 @@
       <description></description>
     </item>
     <item>
+      <title>A R Rahman</title>
+      <link>http://localhost:1313/artists/a-r-rahman/</link>
+      <pubDate>Thu, 10 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/a-r-rahman/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Aastha Gill</title>
       <link>http://localhost:1313/artists/aastha-gill/</link>
       <pubDate>Thu, 10 Jun 2021 00:00:00 +0000</pubDate>
@@ -23,10 +30,73 @@
       <description></description>
     </item>
     <item>
+      <title>Alka Yagnik</title>
+      <link>http://localhost:1313/artists/alka-yagnik/</link>
+      <pubDate>Thu, 10 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/alka-yagnik/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Badshah</title>
       <link>http://localhost:1313/artists/badshah/</link>
       <pubDate>Thu, 10 Jun 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/artists/badshah/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Jasleen Royal</title>
+      <link>http://localhost:1313/artists/jasleen-royal/</link>
+      <pubDate>Thu, 10 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/jasleen-royal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>KK</title>
+      <link>http://localhost:1313/artists/kk/</link>
+      <pubDate>Thu, 10 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/kk/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kumar Sanu</title>
+      <link>http://localhost:1313/artists/kumar-sanu/</link>
+      <pubDate>Thu, 10 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/kumar-sanu/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Prateek Kuhad</title>
+      <link>http://localhost:1313/artists/prateek-kuhad/</link>
+      <pubDate>Thu, 10 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/prateek-kuhad/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Shahid Mallya</title>
+      <link>http://localhost:1313/artists/shahid-mallya/</link>
+      <pubDate>Thu, 10 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/shahid-mallya/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sonal Chauhan</title>
+      <link>http://localhost:1313/artists/sonal-chauhan/</link>
+      <pubDate>Thu, 10 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/sonal-chauhan/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Suneeta Rao</title>
+      <link>http://localhost:1313/artists/suneeta-rao/</link>
+      <pubDate>Thu, 10 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/suneeta-rao/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Udit Narayan</title>
+      <link>http://localhost:1313/artists/udit-narayan/</link>
+      <pubDate>Thu, 10 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/udit-narayan/</guid>
       <description></description>
     </item>
     <item>
@@ -128,13 +198,6 @@
       <description></description>
     </item>
     <item>
-      <title>Alka Yagnik</title>
-      <link>http://localhost:1313/artists/alka-yagnik/</link>
-      <pubDate>Mon, 07 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/artists/alka-yagnik/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Asees Kaur</title>
       <link>http://localhost:1313/artists/asees-kaur/</link>
       <pubDate>Mon, 07 Jun 2021 00:00:00 +0000</pubDate>
@@ -160,13 +223,6 @@
       <link>http://localhost:1313/artists/samira-koppikar/</link>
       <pubDate>Mon, 07 Jun 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/artists/samira-koppikar/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Shahid Mallya</title>
-      <link>http://localhost:1313/artists/shahid-mallya/</link>
-      <pubDate>Mon, 07 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/artists/shahid-mallya/</guid>
       <description></description>
     </item>
     <item>
@@ -216,13 +272,6 @@
       <link>http://localhost:1313/artists/jasbir-jassi/</link>
       <pubDate>Sun, 06 Jun 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/artists/jasbir-jassi/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>KK</title>
-      <link>http://localhost:1313/artists/kk/</link>
-      <pubDate>Sun, 06 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/artists/kk/</guid>
       <description></description>
     </item>
     <item>
@@ -338,13 +387,6 @@
       <description></description>
     </item>
     <item>
-      <title>Udit Narayan</title>
-      <link>http://localhost:1313/artists/udit-narayan/</link>
-      <pubDate>Thu, 03 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/artists/udit-narayan/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Kanika Kapoor</title>
       <link>http://localhost:1313/artists/kanika-kapoor/</link>
       <pubDate>Wed, 02 Jun 2021 00:00:00 +0000</pubDate>
@@ -440,13 +482,6 @@
       <link>http://localhost:1313/artists/krishna-beuraa/</link>
       <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/artists/krishna-beuraa/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Kumar Sanu</title>
-      <link>http://localhost:1313/artists/kumar-sanu/</link>
-      <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/artists/kumar-sanu/</guid>
       <description></description>
     </item>
     <item>
@@ -601,13 +636,6 @@
       <link>http://localhost:1313/artists/yash-narvekar/</link>
       <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/artists/yash-narvekar/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>A R Rahman</title>
-      <link>http://localhost:1313/artists/a-r-rahman/</link>
-      <pubDate>Thu, 27 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/artists/a-r-rahman/</guid>
       <description></description>
     </item>
     <item>
