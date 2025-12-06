@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Albums on demo 1</title>
+    <title>demo 1</title>
     <link>http://localhost:1313/albums/</link>
-    <description>Recent content in Albums on demo 1</description>
+    <description>Recent content on demo 1</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 14 Feb 2025 00:00:00 +0000</lastBuildDate>
@@ -16,10 +16,52 @@
       <description></description>
     </item>
     <item>
+      <title>2 States (2014)</title>
+      <link>http://localhost:1313/albums/2-states-2014/</link>
+      <pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/albums/2-states-2014/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Agent Vinod (2012)</title>
+      <link>http://localhost:1313/albums/agent-vinod-2012/</link>
+      <pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/albums/agent-vinod-2012/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vicky Donor (2012)</title>
+      <link>http://localhost:1313/albums/vicky-donor-2012/</link>
+      <pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/albums/vicky-donor-2012/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Jagga Jasoos (2017)</title>
+      <link>http://localhost:1313/albums/jagga-jasoos-2017/</link>
+      <pubDate>Tue, 08 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/albums/jagga-jasoos-2017/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Salaam-E-Ishq (2007)</title>
       <link>http://localhost:1313/albums/salaam-e-ishq-2007/</link>
       <pubDate>Tue, 08 Jun 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/albums/salaam-e-ishq-2007/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Virgin Bhanupriya (2020)</title>
+      <link>http://localhost:1313/albums/virgin-bhanupriya-2020/</link>
+      <pubDate>Tue, 08 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/albums/virgin-bhanupriya-2020/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Yeh Jawaani Hai Deewani (2013)</title>
+      <link>http://localhost:1313/albums/yeh-jawaani-hai-deewani-2013/</link>
+      <pubDate>Tue, 08 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/albums/yeh-jawaani-hai-deewani-2013/</guid>
       <description></description>
     </item>
     <item>
@@ -1339,13 +1381,6 @@
       <description></description>
     </item>
     <item>
-      <title>2 States (2014)</title>
-      <link>http://localhost:1313/albums/2-states-2014/</link>
-      <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/albums/2-states-2014/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Ek Villain (2014)</title>
       <link>http://localhost:1313/albums/ek-villain-2014/</link>
       <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
@@ -1868,13 +1903,6 @@
       <link>http://localhost:1313/albums/the-big-bull-2021/</link>
       <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/albums/the-big-bull-2021/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Yeh Jawaani Hai Deewani (2013)</title>
-      <link>http://localhost:1313/albums/yeh-jawaani-hai-deewani-2013/</link>
-      <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/albums/yeh-jawaani-hai-deewani-2013/</guid>
       <description></description>
     </item>
     <item>

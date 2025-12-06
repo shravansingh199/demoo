@@ -11,4 +11,4 @@ theme = 'my theme'
 tag = "tags"
 category = "categories"
 album = "albums"
-artist = 'artists'
+artist = "artists"
