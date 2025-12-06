@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/aaj-bhi-vishal-mishra-lyrics/</loc>
+    <lastmod>2025-02-14T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/albums/</loc>
     <lastmod>2025-02-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/artists/</loc>
-    <lastmod>2025-02-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/aaj-bhi-vishal-mishra-lyrics/</loc>
     <lastmod>2025-02-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/albums/singles/</loc>
@@ -46,6 +46,24 @@
   </url><url>
     <loc>http://localhost:1313/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/artists/aastha-gill/</loc>
+    <lastmod>2021-06-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/artists/badshah/</loc>
+    <lastmod>2021-06-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/buzz-badshah-lyrics/</loc>
+    <lastmod>2021-06-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/dj-waley-babu-badshah-lyrics/</loc>
+    <lastmod>2021-06-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/albums/one-original-never-ends-2018-album/</loc>
+    <lastmod>2021-06-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/paani-paani-badshah-lyrics/</loc>
+    <lastmod>2021-06-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/albums/2-states-2014/</loc>
     <lastmod>2021-06-09T00:00:00+00:00</lastmod>
@@ -1805,9 +1823,6 @@
     <loc>http://localhost:1313/albums/bachna-ae-haseeno-2008/</loc>
     <lastmod>2021-05-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/artists/badshah/</loc>
-    <lastmod>2021-05-05T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/bulleya-ae-dil-hai-mushkil-lyrics/</loc>
     <lastmod>2021-05-05T00:00:00+00:00</lastmod>
   </url><url>
@@ -2453,9 +2468,6 @@
     <loc>http://localhost:1313/mercy-badshah-lyrics/</loc>
     <lastmod>2021-04-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/albums/one-original-never-ends-2018-album/</loc>
-    <lastmod>2021-04-16T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/rabba-luck-barsa-kajraare-lyrics/</loc>
     <lastmod>2021-04-16T00:00:00+00:00</lastmod>
   </url><url>
@@ -2893,9 +2905,6 @@
   </url><url>
     <loc>http://localhost:1313/thodi-jagah-marjaavaan/</loc>
     <lastmod>2021-03-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/artists/aastha-gill/</loc>
-    <lastmod>2021-03-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/artists/anushka-manchanda/</loc>
     <lastmod>2021-03-27T00:00:00+00:00</lastmod>
