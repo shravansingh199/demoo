@@ -13,7 +13,7 @@
 
   {{ .Content }}
 {{ with .Params.artists }}
-  <h4>Artists:
+  <h4>🎤&nbsp;
   {{ range $index, $element := . -}}
     {{- if gt $index 0 }}, {{ end }}<a href="{{ (printf "artists/%s" ($element | urlize)) | relURL }}">{{ $element }}</a>
   {{- end }}

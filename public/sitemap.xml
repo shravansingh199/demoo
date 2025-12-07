@@ -47,6 +47,39 @@
     <loc>http://localhost:1313/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/ae-dil-hai-mushkil-title-track-lyrics/</loc>
+    <lastmod>2021-06-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/albums/ae-dil-hai-mushkil-2016/</loc>
+    <lastmod>2021-06-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/artists/arijit-singh/</loc>
+    <lastmod>2021-06-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/artists/badshah/</loc>
+    <lastmod>2021-06-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/channa-mereya-ae-dil-hai-mushkil-lyrics/</loc>
+    <lastmod>2021-06-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/albums/i-hate-luv-storys-2010/</loc>
+    <lastmod>2021-06-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/jab-mila-tu-i-hate-luv-storys-lyrics/</loc>
+    <lastmod>2021-06-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/artists/jonita-gandhi/</loc>
+    <lastmod>2021-06-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/artists/nakash-aziz/</loc>
+    <lastmod>2021-06-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/the-breakup-song-ae-dil-hai-mushkil-lyrics/</loc>
+    <lastmod>2021-06-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/artists/vishal-dadlani/</loc>
+    <lastmod>2021-06-17T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/artists/alka-yagnik/</loc>
     <lastmod>2021-06-16T00:00:00+00:00</lastmod>
   </url><url>
@@ -95,9 +128,6 @@
     <loc>http://localhost:1313/artists/udit-narayan/</loc>
     <lastmod>2021-06-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/artists/vishal-dadlani/</loc>
-    <lastmod>2021-06-16T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/artists/wadali-brothers/</loc>
     <lastmod>2021-06-16T00:00:00+00:00</lastmod>
   </url><url>
@@ -117,9 +147,6 @@
     <lastmod>2021-06-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/albums/hasee-toh-phasee-2014/</loc>
-    <lastmod>2021-06-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/albums/i-hate-luv-storys-2010/</loc>
     <lastmod>2021-06-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/kuch-kam-dostana-lyrics/</loc>
@@ -206,16 +233,13 @@
     <loc>http://localhost:1313/artists/tulsi-kumar/</loc>
     <lastmod>2021-06-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/albums/ahista-ahista-2006/</loc>
-    <lastmod>2021-06-13T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/ahista-ahista-title-track-lyrics/</loc>
     <lastmod>2021-06-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/artists/ankit-tiwari/</loc>
+    <loc>http://localhost:1313/albums/ahista-ahista-2006/</loc>
     <lastmod>2021-06-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/artists/arijit-singh/</loc>
+    <loc>http://localhost:1313/artists/ankit-tiwari/</loc>
     <lastmod>2021-06-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/albums/bhaag-johnny-2015/</loc>
@@ -342,9 +366,6 @@
     <lastmod>2021-06-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/albums/baar-baar-dekho-2016/</loc>
-    <lastmod>2021-06-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/artists/badshah/</loc>
     <lastmod>2021-06-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/buzz-badshah-lyrics/</loc>
@@ -1910,9 +1931,6 @@
     <loc>http://localhost:1313/albums/jackpot-2013/</loc>
     <lastmod>2021-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/artists/jonita-gandhi/</loc>
-    <lastmod>2021-05-08T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/kabhi-jo-baadal-barse-jackpot-lyrics/</loc>
     <lastmod>2021-05-08T00:00:00+00:00</lastmod>
   </url><url>
@@ -2041,9 +2059,6 @@
   </url><url>
     <loc>http://localhost:1313/albums/yamla-pagla-deewana-2011/</loc>
     <lastmod>2021-05-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/albums/ae-dil-hai-mushkil-2016/</loc>
-    <lastmod>2021-05-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/albums/bachna-ae-haseeno-2008/</loc>
     <lastmod>2021-05-05T00:00:00+00:00</lastmod>
@@ -2313,9 +2328,6 @@
     <lastmod>2021-04-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/gold-tamba-batti-gul-meter-chalu-lyrics/</loc>
-    <lastmod>2021-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/artists/nakash-aziz/</loc>
     <lastmod>2021-04-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/sajan-sajan-teri-dulhan-aarzoo-lyrics/</loc>
