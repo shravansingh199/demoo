@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Surroor 2021 the Album on demo 1</title>
+    <link>http://localhost:1313/albums/surroor-2021-the-album/</link>
+    <description>Recent content in Surroor 2021 the Album on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 11 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/albums/surroor-2021-the-album/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Surroor 2021 Title Track lyrics</title>
+      <link>http://localhost:1313/surroor-2021-title-track-lyrics/</link>
+      <pubDate>Fri, 11 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/surroor-2021-title-track-lyrics/</guid>
+      <description>Maujood Hai Dil Me Mere&#xA;Teri Aarzoo Shaam Savere&#xA;Har Pal Meri Aankhon..</description>
+    </item>
+  </channel>
+</rss>

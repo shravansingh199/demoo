@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hasee Toh Phasee (2014) on demo 1</title>
+    <link>http://localhost:1313/albums/hasee-toh-phasee-2014/</link>
+    <description>Recent content in Hasee Toh Phasee (2014) on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/albums/hasee-toh-phasee-2014/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Drama Queen lyrics - Hasee Toh Phasee</title>
+      <link>http://localhost:1313/drama-queen-hasee-toh-phasee-lyrics/</link>
+      <pubDate>Tue, 15 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/drama-queen-hasee-toh-phasee-lyrics/</guid>
+      <description>Dekho Toh Bholi Kitni&#xA;Utni Par Tadhi Cheez Hai&#xA;Baatein Kare Hai Kadvi Kadvi&#xA;Phir Bhi..</description>
+    </item>
+    <item>
+      <title>Manchala lyrics - Hasee Toh Phasee</title>
+      <link>http://localhost:1313/manchala-hasee-toh-phasee-lyrics/</link>
+      <pubDate>Tue, 15 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/manchala-hasee-toh-phasee-lyrics/</guid>
+      <description>Kabhi Gardishon Ka Maara&#xA;Kabhi Khwaahishon Se Haara&#xA;Roothe Chaand Ka Hai..</description>
+    </item>
+    <item>
+      <title>Zehnaseeb lyrics - Hasee Toh Phasee</title>
+      <link>http://localhost:1313/zehnaseeb-hasee-toh-phasee-lyrics/</link>
+      <pubDate>Tue, 15 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/zehnaseeb-hasee-toh-phasee-lyrics/</guid>
+      <description>Zehnaseeb, Zehnaseeb&#xA;Tujhe Chaahu Betahasha Zehnaseeb&#xA;Mere Kareeb, Mere Habib..</description>
+    </item>
+    <item>
+      <title>Ishq Bulaava lyrics - Hasee Toh Phasee</title>
+      <link>http://localhost:1313/ishq-bulaava-hasee-toh-phasee-lyrics/</link>
+      <pubDate>Mon, 14 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ishq-bulaava-hasee-toh-phasee-lyrics/</guid>
+      <description>Ishq Bulaava Jaane Kab Aave&#xA;Ishq Bulaava Aave Jab Aave&#xA;Main Tan Kol Tere..</description>
+    </item>
+  </channel>
+</rss>

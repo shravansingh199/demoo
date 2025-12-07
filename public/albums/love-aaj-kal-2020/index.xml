@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Love Aaj Kal (2020) on demo 1</title>
+    <link>http://localhost:1313/albums/love-aaj-kal-2020/</link>
+    <description>Recent content in Love Aaj Kal (2020) on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 14 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/albums/love-aaj-kal-2020/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mehrama lyrics - Love Aaj Kal 2</title>
+      <link>http://localhost:1313/mehrama-love-aaj-kal-2020-lyrics/</link>
+      <pubDate>Mon, 14 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mehrama-love-aaj-kal-2020-lyrics/</guid>
+      <description>Chahiye Kisi Saaye Me Jagah&#xA;Chaaha Bohot Baar Hai&#xA;Na Kahin Kabhi Mera Dil..</description>
+    </item>
+    <item>
+      <title>Rahogi Meri lyrics - Love Aaj Kal</title>
+      <link>http://localhost:1313/rahogi-meri-love-aaj-kal-2020-lyrics/</link>
+      <pubDate>Sun, 13 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/rahogi-meri-love-aaj-kal-2020-lyrics/</guid>
+      <description>Haan Tum Ho, Na Tum Ho&#xA;Tum Ho Khamoshi Meri&#xA;Chaahe Bolo Ya Na Bolo&#xA;Tum Toh..</description>
+    </item>
+  </channel>
+</rss>
