@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deewana (1992) on demo 1</title>
+    <link>http://localhost:1313/albums/deewana-1992/</link>
+    <description>Recent content in Deewana (1992) on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 25 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/albums/deewana-1992/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aisi Deewangi lyrics - Alka Yagnik, Vinod Rathod</title>
+      <link>http://localhost:1313/aisi-deewangi-deewana-lyrics/</link>
+      <pubDate>Fri, 25 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/aisi-deewangi-deewana-lyrics/</guid>
+      <description>Aisi Deewangi Dekhi Nahi Kahin&#xA;Maine Isliye&#xA;Jaan-e-Jana, Deewana..</description>
+    </item>
+  </channel>
+</rss>

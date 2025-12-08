@@ -16,6 +16,69 @@
       <description></description>
     </item>
     <item>
+      <title>Aakanksha Sharma</title>
+      <link>http://localhost:1313/artists/aakanksha-sharma/</link>
+      <pubDate>Fri, 25 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/aakanksha-sharma/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ali Pervez Mehdi</title>
+      <link>http://localhost:1313/artists/ali-pervez-mehdi/</link>
+      <pubDate>Fri, 25 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/ali-pervez-mehdi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Alka Yagnik</title>
+      <link>http://localhost:1313/artists/alka-yagnik/</link>
+      <pubDate>Fri, 25 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/alka-yagnik/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mahalakshmi Iyer</title>
+      <link>http://localhost:1313/artists/mahalakshmi-iyer/</link>
+      <pubDate>Fri, 25 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/mahalakshmi-iyer/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rahul B Seth</title>
+      <link>http://localhost:1313/artists/rahul-b-seth/</link>
+      <pubDate>Fri, 25 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/rahul-b-seth/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Shweta Pandit</title>
+      <link>http://localhost:1313/artists/shweta-pandit/</link>
+      <pubDate>Fri, 25 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/shweta-pandit/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vinod Rathod</title>
+      <link>http://localhost:1313/artists/vinod-rathod/</link>
+      <pubDate>Fri, 25 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/vinod-rathod/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Yasser Desai</title>
+      <link>http://localhost:1313/artists/yasser-desai/</link>
+      <pubDate>Fri, 25 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/yasser-desai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Benny Dayal</title>
+      <link>http://localhost:1313/artists/benny-dayal/</link>
+      <pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/benny-dayal/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Himani Kapoor</title>
       <link>http://localhost:1313/artists/himani-kapoor/</link>
       <pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate>
@@ -27,6 +90,20 @@
       <link>http://localhost:1313/artists/kunal-ganjawala/</link>
       <pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/artists/kunal-ganjawala/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ranvir</title>
+      <link>http://localhost:1313/artists/ranvir/</link>
+      <pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/ranvir/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Shalmali Kholgade</title>
+      <link>http://localhost:1313/artists/shalmali-kholgade/</link>
+      <pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/shalmali-kholgade/</guid>
       <description></description>
     </item>
     <item>
@@ -184,13 +261,6 @@
       <description></description>
     </item>
     <item>
-      <title>Benny Dayal</title>
-      <link>http://localhost:1313/artists/benny-dayal/</link>
-      <pubDate>Sat, 19 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/artists/benny-dayal/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Navraj Hans</title>
       <link>http://localhost:1313/artists/navraj-hans/</link>
       <pubDate>Sat, 19 Jun 2021 00:00:00 +0000</pubDate>
@@ -230,13 +300,6 @@
       <link>http://localhost:1313/artists/vishal-dadlani/</link>
       <pubDate>Sat, 19 Jun 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/artists/vishal-dadlani/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Alka Yagnik</title>
-      <link>http://localhost:1313/artists/alka-yagnik/</link>
-      <pubDate>Fri, 18 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/artists/alka-yagnik/</guid>
       <description></description>
     </item>
     <item>
@@ -345,13 +408,6 @@
       <description></description>
     </item>
     <item>
-      <title>Mahalakshmi Iyer</title>
-      <link>http://localhost:1313/artists/mahalakshmi-iyer/</link>
-      <pubDate>Tue, 15 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/artists/mahalakshmi-iyer/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Mohammed Irfan</title>
       <link>http://localhost:1313/artists/mohammed-irfan/</link>
       <pubDate>Tue, 15 Jun 2021 00:00:00 +0000</pubDate>
@@ -426,13 +482,6 @@
       <link>http://localhost:1313/artists/himesh-reshammiya/</link>
       <pubDate>Sun, 13 Jun 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/artists/himesh-reshammiya/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Shalmali Kholgade</title>
-      <link>http://localhost:1313/artists/shalmali-kholgade/</link>
-      <pubDate>Sun, 13 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/artists/shalmali-kholgade/</guid>
       <description></description>
     </item>
     <item>
@@ -625,13 +674,6 @@
       <description></description>
     </item>
     <item>
-      <title>Yasser Desai</title>
-      <link>http://localhost:1313/artists/yasser-desai/</link>
-      <pubDate>Mon, 07 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/artists/yasser-desai/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Aman Trikha</title>
       <link>http://localhost:1313/artists/aman-trikha/</link>
       <pubDate>Sun, 06 Jun 2021 00:00:00 +0000</pubDate>
@@ -657,13 +699,6 @@
       <link>http://localhost:1313/artists/pawni-a-pandey/</link>
       <pubDate>Sun, 06 Jun 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/artists/pawni-a-pandey/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Aakanksha Sharma</title>
-      <link>http://localhost:1313/artists/aakanksha-sharma/</link>
-      <pubDate>Fri, 04 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/artists/aakanksha-sharma/</guid>
       <description></description>
     </item>
     <item>
@@ -972,13 +1007,6 @@
       <link>http://localhost:1313/artists/juggy-d/</link>
       <pubDate>Tue, 25 May 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/artists/juggy-d/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Shweta Pandit</title>
-      <link>http://localhost:1313/artists/shweta-pandit/</link>
-      <pubDate>Tue, 25 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/artists/shweta-pandit/</guid>
       <description></description>
     </item>
     <item>
@@ -1735,13 +1763,6 @@
       <link>http://localhost:1313/artists/kylie-minogue/</link>
       <pubDate>Sat, 10 Apr 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/artists/kylie-minogue/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Vinod Rathod</title>
-      <link>http://localhost:1313/artists/vinod-rathod/</link>
-      <pubDate>Sat, 10 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/artists/vinod-rathod/</guid>
       <description></description>
     </item>
     <item>
