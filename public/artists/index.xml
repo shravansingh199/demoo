@@ -16,6 +16,48 @@
       <description></description>
     </item>
     <item>
+      <title>Arunita Kanjilal</title>
+      <link>http://localhost:1313/artists/arunita-kanjilal/</link>
+      <pubDate>Wed, 23 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/arunita-kanjilal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pawandeep Rajan</title>
+      <link>http://localhost:1313/artists/pawandeep-rajan/</link>
+      <pubDate>Wed, 23 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/pawandeep-rajan/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Anweshaa</title>
+      <link>http://localhost:1313/artists/anweshaa/</link>
+      <pubDate>Tue, 22 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/anweshaa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ash King</title>
+      <link>http://localhost:1313/artists/ash-king/</link>
+      <pubDate>Tue, 22 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/ash-king/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Harshdeep Kaur</title>
+      <link>http://localhost:1313/artists/harshdeep-kaur/</link>
+      <pubDate>Tue, 22 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/harshdeep-kaur/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Jubin Nautiyal</title>
+      <link>http://localhost:1313/artists/jubin-nautiyal/</link>
+      <pubDate>Tue, 22 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/jubin-nautiyal/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Shaan</title>
       <link>http://localhost:1313/artists/shaan/</link>
       <pubDate>Tue, 22 Jun 2021 00:00:00 +0000</pubDate>
@@ -23,10 +65,24 @@
       <description></description>
     </item>
     <item>
+      <title>Shabab Sabri</title>
+      <link>http://localhost:1313/artists/shabab-sabri/</link>
+      <pubDate>Tue, 22 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/shabab-sabri/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Shreya Ghoshal</title>
       <link>http://localhost:1313/artists/shreya-ghoshal/</link>
       <pubDate>Tue, 22 Jun 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/artists/shreya-ghoshal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vineet Singh</title>
+      <link>http://localhost:1313/artists/vineet-singh/</link>
+      <pubDate>Tue, 22 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/vineet-singh/</guid>
       <description></description>
     </item>
     <item>
@@ -209,13 +265,6 @@
       <link>http://localhost:1313/artists/anuradha-paudwal/</link>
       <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/artists/anuradha-paudwal/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Harshdeep Kaur</title>
-      <link>http://localhost:1313/artists/harshdeep-kaur/</link>
-      <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/artists/harshdeep-kaur/</guid>
       <description></description>
     </item>
     <item>
@@ -534,13 +583,6 @@
       <description></description>
     </item>
     <item>
-      <title>Jubin Nautiyal</title>
-      <link>http://localhost:1313/artists/jubin-nautiyal/</link>
-      <pubDate>Mon, 07 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/artists/jubin-nautiyal/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Samira Koppikar</title>
       <link>http://localhost:1313/artists/samira-koppikar/</link>
       <pubDate>Mon, 07 Jun 2021 00:00:00 +0000</pubDate>
@@ -594,20 +636,6 @@
       <link>http://localhost:1313/artists/pawni-a-pandey/</link>
       <pubDate>Sun, 06 Jun 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/artists/pawni-a-pandey/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Shabab Sabri</title>
-      <link>http://localhost:1313/artists/shabab-sabri/</link>
-      <pubDate>Sun, 06 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/artists/shabab-sabri/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Vineet Singh</title>
-      <link>http://localhost:1313/artists/vineet-singh/</link>
-      <pubDate>Sun, 06 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/artists/vineet-singh/</guid>
       <description></description>
     </item>
     <item>
@@ -783,13 +811,6 @@
       <link>http://localhost:1313/artists/abhijeet-bhattacharya/</link>
       <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/artists/abhijeet-bhattacharya/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Ash King</title>
-      <link>http://localhost:1313/artists/ash-king/</link>
-      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/artists/ash-king/</guid>
       <description></description>
     </item>
     <item>

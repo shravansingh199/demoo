@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ludo (2020) on demo 1</title>
+    <link>http://localhost:1313/albums/ludo-2020/</link>
+    <description>Recent content in Ludo (2020) on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 22 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/albums/ludo-2020/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Meri Tum Ho lyrics - Ludo</title>
+      <link>http://localhost:1313/meri-tum-ho-ludo-lyrics/</link>
+      <pubDate>Tue, 22 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/meri-tum-ho-ludo-lyrics/</guid>
+      <description>Aadha Tera, Aadha Mera&#xA;Ek Dil Bana, Meri Tum Ho&#xA;Gum Ho Gaye, Socha Ke..</description>
+    </item>
+  </channel>
+</rss>
