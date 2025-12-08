@@ -21,6 +21,31 @@ a {
   text-decoration: none;
 }
 
+.post-navigation {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;   /* space above */
+  padding-top: 10px;
+  padding-bottom: 9px;
+  border-top: 1px solid #597465; /* optional nice separator */
+  border-bottom: 1px solid #597465;
+}
+
+.post-navigation a {
+  display: block;
+  text-decoration: none;
+  font-size: 1rem;
+  padding: 5px 0;
+}
+/*
+@media (max-width: 600px) {
+  .post-navigation { flex-direction: column; }
+  .post-navigation .next-song {
+    text-align: right;
+    margin-top: 10px;
+  }
+}
+*/
 .pagination ul {
   list-style: none;
   padding: 0;

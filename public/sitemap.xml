@@ -47,6 +47,147 @@
     <loc>http://localhost:1313/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/albums/jai-ho-2014/</loc>
+    <lastmod>2021-06-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/artists/shaan/</loc>
+    <lastmod>2021-06-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/artists/shreya-ghoshal/</loc>
+    <lastmod>2021-06-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tere-naina-jai-ho-lyrics/</loc>
+    <lastmod>2021-06-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/artists/aditi-singh-sharma/</loc>
+    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/dhat-teri-ki-gori-tere-pyaar-mein-lyrics/</loc>
+    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/albums/fan-2016/</loc>
+    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/albums/gori-tere-pyaar-mein-2013/</loc>
+    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/albums/ishkq-in-paris-2013/</loc>
+    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/jabra-fan-lyrics-hindi/</loc>
+    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/artists/nakash-aziz/</loc>
+    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/artists/rahat-fateh-ali-khan/</loc>
+    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/saiyaan-ishkq-in-paris-lyrics/</loc>
+    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/artists/sanam-puri/</loc>
+    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/ishq-wala-love-student-of-the-year-lyrics/</loc>
+    <lastmod>2021-06-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/artists/neeti-mohan/</loc>
+    <lastmod>2021-06-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/artists/salim-merchant/</loc>
+    <lastmod>2021-06-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/artists/shekhar-ravjiani/</loc>
+    <lastmod>2021-06-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/albums/student-of-the-year-2012/</loc>
+    <lastmod>2021-06-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/albums/akira-2016/</loc>
+    <lastmod>2021-06-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/artists/ami-mishra/</loc>
+    <lastmod>2021-06-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/artists/anushka-manchanda/</loc>
+    <lastmod>2021-06-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/artists/anushka-shahaney/</loc>
+    <lastmod>2021-06-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/artists/benny-dayal/</loc>
+    <lastmod>2021-06-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/dil-melt-karda-haseen-dillruba-lyrics/</loc>
+    <lastmod>2021-06-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/ek-main-aur-ekk-tu-title-track-lyrics/</loc>
+    <lastmod>2021-06-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/albums/ek-main-aur-ekk-tu-2012/</loc>
+    <lastmod>2021-06-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/albums/great-grand-masti-2016/</loc>
+    <lastmod>2021-06-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/albums/half-girlfriend-2017/</loc>
+    <lastmod>2021-06-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/albums/haseen-dillruba-2021/</loc>
+    <lastmod>2021-06-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/lipstick-laga-ke-great-grand-masti-lyrics/</loc>
+    <lastmod>2021-06-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/lost-without-you-half-girlfriend-lyrics/</loc>
+    <lastmod>2021-06-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/artists/navraj-hans/</loc>
+    <lastmod>2021-06-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/artists/nikhita-gandhi/</loc>
+    <lastmod>2021-06-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/artists/payal-dev/</loc>
+    <lastmod>2021-06-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/rajj-rajj-ke-akira-lyrics/</loc>
+    <lastmod>2021-06-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/artists/shefali-alvares/</loc>
+    <lastmod>2021-06-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/artists/sonakshi-sinha/</loc>
+    <lastmod>2021-06-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/artists/vishal-dadlani/</loc>
+    <lastmod>2021-06-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/artists/alka-yagnik/</loc>
+    <lastmod>2021-06-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/baadal-akira-lyrics/</loc>
+    <lastmod>2021-06-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/albums/mann-1999/</loc>
+    <lastmod>2021-06-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mera-mann-udit-alka-lyrics/</loc>
+    <lastmod>2021-06-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/artists/stebin-ben/</loc>
+    <lastmod>2021-06-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/artists/sunidhi-chauhan/</loc>
+    <lastmod>2021-06-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/artists/udit-narayan/</loc>
+    <lastmod>2021-06-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/zara-zara-stebin-ben-lyrics/</loc>
+    <lastmod>2021-06-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/ae-dil-hai-mushkil-title-track-lyrics/</loc>
     <lastmod>2021-06-17T00:00:00+00:00</lastmod>
   </url><url>
@@ -71,17 +212,17 @@
     <loc>http://localhost:1313/artists/jonita-gandhi/</loc>
     <lastmod>2021-06-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/artists/nakash-aziz/</loc>
+    <loc>http://localhost:1313/albums/kapoor--sons-2016/</loc>
+    <lastmod>2021-06-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/lets-nacho-kapoor-sons-lyrics/</loc>
+    <lastmod>2021-06-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/artists/nucleya/</loc>
     <lastmod>2021-06-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/the-breakup-song-ae-dil-hai-mushkil-lyrics/</loc>
     <lastmod>2021-06-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/artists/vishal-dadlani/</loc>
-    <lastmod>2021-06-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/artists/alka-yagnik/</loc>
-    <lastmod>2021-06-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/albums/anjaana-anjaani-2010/</loc>
     <lastmod>2021-06-16T00:00:00+00:00</lastmod>
@@ -125,9 +266,6 @@
     <loc>http://localhost:1313/tumse-milna-tere-naam-lyrics/</loc>
     <lastmod>2021-06-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/artists/udit-narayan/</loc>
-    <lastmod>2021-06-16T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/artists/wadali-brothers/</loc>
     <lastmod>2021-06-16T00:00:00+00:00</lastmod>
   </url><url>
@@ -167,16 +305,7 @@
     <loc>http://localhost:1313/sadka-i-hate-luv-storys-lyrics/</loc>
     <lastmod>2021-06-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/artists/shaan/</loc>
-    <lastmod>2021-06-15T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/artists/shafqat-amanat-ali/</loc>
-    <lastmod>2021-06-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/artists/shekhar-ravjiani/</loc>
-    <lastmod>2021-06-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/artists/shreya-ghoshal/</loc>
     <lastmod>2021-06-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/sun-soniye-ajab-gazabb-love-lyrics/</loc>
@@ -222,9 +351,6 @@
     <lastmod>2021-06-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/albums/rowdy-rathore-2012/</loc>
-    <lastmod>2021-06-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/artists/sanam-puri/</loc>
     <lastmod>2021-06-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/artists/shipra-goyal/</loc>
@@ -428,9 +554,6 @@
     <loc>http://localhost:1313/albums/2-states-2014/</loc>
     <lastmod>2021-06-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/artists/aditi-singh-sharma/</loc>
-    <lastmod>2021-06-09T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/albums/agent-vinod-2012/</loc>
     <lastmod>2021-06-09T00:00:00+00:00</lastmod>
   </url><url>
@@ -476,9 +599,6 @@
     <loc>http://localhost:1313/badtameez-dil-yeh-jawaani-hai-deewani-lyrics/</loc>
     <lastmod>2021-06-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/artists/benny-dayal/</loc>
-    <lastmod>2021-06-08T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/dil-apni-haddon-se-virgin-bhanupriya-lyrics/</loc>
     <lastmod>2021-06-08T00:00:00+00:00</lastmod>
   </url><url>
@@ -498,9 +618,6 @@
     <lastmod>2021-06-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/artists/shankar-mahadevan/</loc>
-    <lastmod>2021-06-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/artists/shefali-alvares/</loc>
     <lastmod>2021-06-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/albums/virgin-bhanupriya-2020/</loc>
@@ -539,9 +656,6 @@
     <loc>http://localhost:1313/makhna-drive-lyrics/</loc>
     <lastmod>2021-06-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/artists/neeti-mohan/</loc>
-    <lastmod>2021-06-07T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/radha-jab-harry-met-sejal-lyrics/</loc>
     <lastmod>2021-06-07T00:00:00+00:00</lastmod>
   </url><url>
@@ -552,9 +666,6 @@
     <lastmod>2021-06-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/artists/sonu-nigam/</loc>
-    <lastmod>2021-06-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/artists/sunidhi-chauhan/</loc>
     <lastmod>2021-06-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/artists/sunil-kamath/</loc>
@@ -597,9 +708,6 @@
     <lastmod>2021-06-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/artists/shabab-sabri/</loc>
-    <lastmod>2021-06-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/artists/stebin-ben/</loc>
     <lastmod>2021-06-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/albums/tum-mile-2009/</loc>
@@ -645,9 +753,6 @@
     <lastmod>2021-06-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/artists/neha-kakkar/</loc>
-    <lastmod>2021-06-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/artists/payal-dev/</loc>
     <lastmod>2021-06-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/albums/raees-2017/</loc>
@@ -696,9 +801,6 @@
     <lastmod>2021-06-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/naina-dangal-lyrics/</loc>
-    <lastmod>2021-06-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/artists/nikhita-gandhi/</loc>
     <lastmod>2021-06-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/oye-raju-pyar-na-kariyo-lyrics/</loc>
@@ -926,9 +1028,6 @@
     <loc>http://localhost:1313/albums/mujhse-dosti-karoge-2002/</loc>
     <lastmod>2021-05-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/artists/rahat-fateh-ali-khan/</loc>
-    <lastmod>2021-05-29T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/sawan-barse-tarse-dil-dahek-lyrics/</loc>
     <lastmod>2021-05-29T00:00:00+00:00</lastmod>
   </url><url>
@@ -966,9 +1065,6 @@
     <lastmod>2021-05-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/artists/farhan-saeed/</loc>
-    <lastmod>2021-05-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/albums/half-girlfriend-2017/</loc>
     <lastmod>2021-05-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/albums/hero-no-1-1997/</loc>
@@ -1350,9 +1446,6 @@
     <lastmod>2021-05-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/na-jaane-kya-hai-tumse-waasta-lyrics/</loc>
-    <lastmod>2021-05-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/artists/salim-merchant/</loc>
     <lastmod>2021-05-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/artists/shruti-pathak/</loc>
@@ -3124,9 +3217,6 @@
   </url><url>
     <loc>http://localhost:1313/thodi-jagah-marjaavaan/</loc>
     <lastmod>2021-03-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/artists/anushka-manchanda/</loc>
-    <lastmod>2021-03-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/baarish-ki-jaaye-b-praak/</loc>
     <lastmod>2021-03-27T00:00:00+00:00</lastmod>
