@@ -23,13 +23,13 @@
 <div class="post-navigation">
   {{ with .PrevInSection }}
     <a href="{{ .Permalink }}" class="nav-link prev-song">
-      🡸 <strong>Previous Song</strong>
+      &leftarrow; <strong>Previous Song</strong>
     </a>
   {{ end }}
 
   {{ with .NextInSection }}
     <a href="{{ .Permalink }}" class="nav-link next-song">
-      <strong>Next Song</strong> 🡺
+      <strong>Next Song</strong> &rightarrow;
     </a>
   {{ end }}
 </div>
