@@ -50,13 +50,28 @@
     <loc>http://localhost:1313/artists/arunita-kanjilal/</loc>
     <lastmod>2021-06-23T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/albums/fool-n-final-2007/</loc>
+    <lastmod>2021-06-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/artists/hanif-shaikh/</loc>
+    <lastmod>2021-06-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/lag-raha-hai-dil-deewana-palak-muchhal-lyrics/</loc>
+    <lastmod>2021-06-23T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/albums/moods-with-melodies-the-album/</loc>
+    <lastmod>2021-06-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/artists/palak-muchhal/</loc>
     <lastmod>2021-06-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/artists/pawandeep-rajan/</loc>
     <lastmod>2021-06-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tere-bagairr-moods-with-melodies-lyrics/</loc>
+    <lastmod>2021-06-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/yeh-dooriyan-fool-n-final-lyrics/</loc>
     <lastmod>2021-06-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/artists/anweshaa/</loc>
@@ -1275,9 +1290,6 @@
     <lastmod>2021-05-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/pal-pal-soch-mein-tujhe-meri-kasam-lyrics/</loc>
-    <lastmod>2021-05-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/artists/palak-muchhal/</loc>
     <lastmod>2021-05-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/albums/partner-2007/</loc>
