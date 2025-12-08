@@ -47,13 +47,25 @@
     <loc>http://localhost:1313/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/albums/fool-n-final-2007/</loc>
+    <lastmod>2021-06-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/artists/himani-kapoor/</loc>
+    <lastmod>2021-06-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/artists/kunal-ganjawala/</loc>
+    <lastmod>2021-06-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tere-layee-fool-n-final-lyrics/</loc>
+    <lastmod>2021-06-24T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/artists/arunita-kanjilal/</loc>
     <lastmod>2021-06-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/albums/fool-n-final-2007/</loc>
+    <loc>http://localhost:1313/artists/hanif-shaikh/</loc>
     <lastmod>2021-06-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/artists/hanif-shaikh/</loc>
+    <loc>http://localhost:1313/ishq-meetha-palak-muchhal-lyrics/</loc>
     <lastmod>2021-06-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/lag-raha-hai-dil-deewana-palak-muchhal-lyrics/</loc>
@@ -480,9 +492,6 @@
     <lastmod>2021-06-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/artists/jyotica-tangri/</loc>
-    <lastmod>2021-06-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/artists/kunal-ganjawala/</loc>
     <lastmod>2021-06-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/albums/lootera-2013/</loc>
@@ -2976,9 +2985,6 @@
     <lastmod>2021-04-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/artists/bela-shende/</loc>
-    <lastmod>2021-04-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/artists/himani-kapoor/</loc>
     <lastmod>2021-04-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/meri-aawargi-himesh-lyrics/</loc>

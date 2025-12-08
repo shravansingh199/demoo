@@ -6,7 +6,7 @@
   {{ $dateHuman := .Date | time.Format ":date_long" }}
   <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
 {{ with .Params.albums }}
-  <h4>Album👉&nbsp;
+  <h4>Album 👉&nbsp;
     <a href="{{ (printf "albums/%s" (. | urlize)) | relURL }}">{{ . }}</a>
   </h4>
 {{ end }}
