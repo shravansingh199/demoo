@@ -6,8 +6,15 @@
     <description>Recent content in Jubin Nautiyal on demo 1</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Jun 2021 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/artists/jubin-nautiyal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tum Se lyrics - Jubin Nautiyal</title>
+      <link>http://localhost:1313/tum-se-jalebi-lyrics/</link>
+      <pubDate>Sun, 27 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tum-se-jalebi-lyrics/</guid>
+      <description>Tere Naam Se Hi&#xA;Roshan Mera Hai Jahaan&#xA;Tere Saath Se Hi Raatein Meri..</description>
+    </item>
     <item>
       <title>Meri Tum Ho lyrics - Ludo</title>
       <link>http://localhost:1313/meri-tum-ho-ludo-lyrics/</link>

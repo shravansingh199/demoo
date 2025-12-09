@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jalebi (2018) on demo 1</title>
+    <link>http://localhost:1313/albums/jalebi-2018/</link>
+    <description>Recent content in Jalebi (2018) on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 29 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/albums/jalebi-2018/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mera Pyar Tera Pyar lyrics - Jalebi</title>
+      <link>http://localhost:1313/mera-pyar-tera-pyar-jalebi-lyrics/</link>
+      <pubDate>Tue, 29 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mera-pyar-tera-pyar-jalebi-lyrics/</guid>
+      <description>Main Jitna Tumhe Dekhu&#xA;Mann Yeh Na Bhare&#xA;Main Jitna Tumhe Sochu..</description>
+    </item>
+    <item>
+      <title>Pal lyrics - Jalebi</title>
+      <link>http://localhost:1313/pal-jalebi-lyrics-arijit-shreya/</link>
+      <pubDate>Tue, 29 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pal-jalebi-lyrics-arijit-shreya/</guid>
+      <description>Pal, Ek Pal Me Hi Tham Sa Gaya&#xA;Tu Haath Me Haath Jo De Gaya&#xA;Chalu Main Jahan..</description>
+    </item>
+    <item>
+      <title>Tum Se lyrics - Jubin Nautiyal</title>
+      <link>http://localhost:1313/tum-se-jalebi-lyrics/</link>
+      <pubDate>Sun, 27 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tum-se-jalebi-lyrics/</guid>
+      <description>Tere Naam Se Hi&#xA;Roshan Mera Hai Jahaan&#xA;Tere Saath Se Hi Raatein Meri..</description>
+    </item>
+    <item>
+      <title>Yeh Tera Mera Rishta lyrics - Jalebi</title>
+      <link>http://localhost:1313/tera-mera-rishta-jalebi-lyrics/</link>
+      <pubDate>Sat, 26 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tera-mera-rishta-jalebi-lyrics/</guid>
+      <description>Sambhaaloge Jo Tum Na Toh&#xA;Main Jaaungi Kahan&#xA;Tumhe Bhi Toh Pata Hoga..</description>
+    </item>
+  </channel>
+</rss>

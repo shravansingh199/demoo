@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dil Pardesi Ho Gayaa (2003) on demo 1</title>
+    <link>http://localhost:1313/albums/dil-pardesi-ho-gayaa-2003/</link>
+    <description>Recent content in Dil Pardesi Ho Gayaa (2003) on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 25 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/albums/dil-pardesi-ho-gayaa-2003/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mubarakaan lyrics - Dil Pardesi Ho Gayaa</title>
+      <link>http://localhost:1313/mubarakaan-dil-pardesi-ho-gayaa-lyrics/</link>
+      <pubDate>Fri, 25 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mubarakaan-dil-pardesi-ho-gayaa-lyrics/</guid>
+      <description>Mera Sona Sajan Ghar Aaya&#xA;Eid Ho Gayi Meri&#xA;Mujhe Chaand Nazar..</description>
+    </item>
+  </channel>
+</rss>
