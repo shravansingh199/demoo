@@ -18,8 +18,85 @@
     <item>
       <title>Alka Yagnik</title>
       <link>http://localhost:1313/artists/alka-yagnik/</link>
-      <pubDate>Tue, 29 Jun 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/artists/alka-yagnik/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Atif Aslam</title>
+      <link>http://localhost:1313/artists/atif-aslam/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/atif-aslam/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Jyotica Tangri</title>
+      <link>http://localhost:1313/artists/jyotica-tangri/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/jyotica-tangri/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kumar Sanu</title>
+      <link>http://localhost:1313/artists/kumar-sanu/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/kumar-sanu/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Palak Muchhal</title>
+      <link>http://localhost:1313/artists/palak-muchhal/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/palak-muchhal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Shreya Ghoshal</title>
+      <link>http://localhost:1313/artists/shreya-ghoshal/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/shreya-ghoshal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sonal Pradhan</title>
+      <link>http://localhost:1313/artists/sonal-pradhan/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/sonal-pradhan/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Udit Narayan</title>
+      <link>http://localhost:1313/artists/udit-narayan/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/udit-narayan/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Yasser Desai</title>
+      <link>http://localhost:1313/artists/yasser-desai/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/yasser-desai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gajendra Verma</title>
+      <link>http://localhost:1313/artists/gajendra-verma/</link>
+      <pubDate>Wed, 30 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/gajendra-verma/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mohammed Irfan</title>
+      <link>http://localhost:1313/artists/mohammed-irfan/</link>
+      <pubDate>Wed, 30 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/mohammed-irfan/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tulsi Kumar</title>
+      <link>http://localhost:1313/artists/tulsi-kumar/</link>
+      <pubDate>Wed, 30 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/tulsi-kumar/</guid>
       <description></description>
     </item>
     <item>
@@ -37,24 +114,10 @@
       <description></description>
     </item>
     <item>
-      <title>Shreya Ghoshal</title>
-      <link>http://localhost:1313/artists/shreya-ghoshal/</link>
-      <pubDate>Tue, 29 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/artists/shreya-ghoshal/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Sonu Nigam</title>
       <link>http://localhost:1313/artists/sonu-nigam/</link>
       <pubDate>Tue, 29 Jun 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/artists/sonu-nigam/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Udit Narayan</title>
-      <link>http://localhost:1313/artists/udit-narayan/</link>
-      <pubDate>Tue, 29 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/artists/udit-narayan/</guid>
       <description></description>
     </item>
     <item>
@@ -79,13 +142,6 @@
       <description></description>
     </item>
     <item>
-      <title>Kumar Sanu</title>
-      <link>http://localhost:1313/artists/kumar-sanu/</link>
-      <pubDate>Mon, 28 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/artists/kumar-sanu/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Nitin Mukesh</title>
       <link>http://localhost:1313/artists/nitin-mukesh/</link>
       <pubDate>Mon, 28 Jun 2021 00:00:00 +0000</pubDate>
@@ -104,13 +160,6 @@
       <link>http://localhost:1313/artists/shankar-mahadevan/</link>
       <pubDate>Mon, 28 Jun 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/artists/shankar-mahadevan/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Yasser Desai</title>
-      <link>http://localhost:1313/artists/yasser-desai/</link>
-      <pubDate>Mon, 28 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/artists/yasser-desai/</guid>
       <description></description>
     </item>
     <item>
@@ -146,20 +195,6 @@
       <link>http://localhost:1313/artists/jubin-nautiyal/</link>
       <pubDate>Sun, 27 Jun 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/artists/jubin-nautiyal/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Mohammed Irfan</title>
-      <link>http://localhost:1313/artists/mohammed-irfan/</link>
-      <pubDate>Sun, 27 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/artists/mohammed-irfan/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Palak Muchhal</title>
-      <link>http://localhost:1313/artists/palak-muchhal/</link>
-      <pubDate>Sun, 27 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/artists/palak-muchhal/</guid>
       <description></description>
     </item>
     <item>
@@ -562,13 +597,6 @@
       <description></description>
     </item>
     <item>
-      <title>Tulsi Kumar</title>
-      <link>http://localhost:1313/artists/tulsi-kumar/</link>
-      <pubDate>Mon, 14 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/artists/tulsi-kumar/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Ankit Tiwari</title>
       <link>http://localhost:1313/artists/ankit-tiwari/</link>
       <pubDate>Sun, 13 Jun 2021 00:00:00 +0000</pubDate>
@@ -594,13 +622,6 @@
       <link>http://localhost:1313/artists/amitabh-bhattacharya/</link>
       <pubDate>Sat, 12 Jun 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/artists/amitabh-bhattacharya/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Jyotica Tangri</title>
-      <link>http://localhost:1313/artists/jyotica-tangri/</link>
-      <pubDate>Sat, 12 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/artists/jyotica-tangri/</guid>
       <description></description>
     </item>
     <item>
@@ -769,13 +790,6 @@
       <link>http://localhost:1313/artists/pawni-a-pandey/</link>
       <pubDate>Sun, 06 Jun 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/artists/pawni-a-pandey/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Atif Aslam</title>
-      <link>http://localhost:1313/artists/atif-aslam/</link>
-      <pubDate>Fri, 04 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/artists/atif-aslam/</guid>
       <description></description>
     </item>
     <item>
