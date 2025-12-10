@@ -16,10 +16,38 @@
       <description></description>
     </item>
     <item>
+      <title>A Gentleman (2017)</title>
+      <link>http://localhost:1313/albums/a-gentleman-2017/</link>
+      <pubDate>Fri, 02 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/albums/a-gentleman-2017/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sanam Teri Kasam (2016)</title>
+      <link>http://localhost:1313/albums/sanam-teri-kasam-2016/</link>
+      <pubDate>Fri, 02 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/albums/sanam-teri-kasam-2016/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Student of the Year 2 (2019)</title>
+      <link>http://localhost:1313/albums/student-of-the-year-2-2019/</link>
+      <pubDate>Fri, 02 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/albums/student-of-the-year-2-2019/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Gumnaam: The Mystery (2008)</title>
       <link>http://localhost:1313/albums/gumnaam-the-mystery-2008/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/albums/gumnaam-the-mystery-2008/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kajraare (2010)</title>
+      <link>http://localhost:1313/albums/kajraare-2010/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/albums/kajraare-2010/</guid>
       <description></description>
     </item>
     <item>
@@ -1563,20 +1591,6 @@
       <description></description>
     </item>
     <item>
-      <title>Sanam Teri Kasam (2016)</title>
-      <link>http://localhost:1313/albums/sanam-teri-kasam-2016/</link>
-      <pubDate>Sat, 08 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/albums/sanam-teri-kasam-2016/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>A Gentleman (2017)</title>
-      <link>http://localhost:1313/albums/a-gentleman-2017/</link>
-      <pubDate>Fri, 07 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/albums/a-gentleman-2017/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Aap Se Mausiiquii (2016) Album</title>
       <link>http://localhost:1313/albums/aap-se-mausiiquii-2016-album/</link>
       <pubDate>Fri, 07 May 2021 00:00:00 +0000</pubDate>
@@ -1973,13 +1987,6 @@
       <link>http://localhost:1313/albums/bajirao-mastani-2015/</link>
       <pubDate>Sat, 17 Apr 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/albums/bajirao-mastani-2015/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Kajraare (2010)</title>
-      <link>http://localhost:1313/albums/kajraare-2010/</link>
-      <pubDate>Sat, 17 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/albums/kajraare-2010/</guid>
       <description></description>
     </item>
     <item>

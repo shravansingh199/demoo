@@ -16,6 +16,48 @@
       <description></description>
     </item>
     <item>
+      <title>Arijit Singh</title>
+      <link>http://localhost:1313/artists/arijit-singh/</link>
+      <pubDate>Fri, 02 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/arijit-singh/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ash King</title>
+      <link>http://localhost:1313/artists/ash-king/</link>
+      <pubDate>Fri, 02 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/ash-king/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Jigar Saraiya</title>
+      <link>http://localhost:1313/artists/jigar-saraiya/</link>
+      <pubDate>Fri, 02 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/jigar-saraiya/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Neeti Mohan</title>
+      <link>http://localhost:1313/artists/neeti-mohan/</link>
+      <pubDate>Fri, 02 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/neeti-mohan/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Raftaar</title>
+      <link>http://localhost:1313/artists/raftaar/</link>
+      <pubDate>Fri, 02 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/raftaar/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sanam Puri</title>
+      <link>http://localhost:1313/artists/sanam-puri/</link>
+      <pubDate>Fri, 02 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/sanam-puri/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Alka Yagnik</title>
       <link>http://localhost:1313/artists/alka-yagnik/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
@@ -27,6 +69,20 @@
       <link>http://localhost:1313/artists/atif-aslam/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/artists/atif-aslam/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Harshdeep Kaur</title>
+      <link>http://localhost:1313/artists/harshdeep-kaur/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/harshdeep-kaur/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Himesh Reshammiya</title>
+      <link>http://localhost:1313/artists/himesh-reshammiya/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/himesh-reshammiya/</guid>
       <description></description>
     </item>
     <item>
@@ -97,13 +153,6 @@
       <link>http://localhost:1313/artists/tulsi-kumar/</link>
       <pubDate>Wed, 30 Jun 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/artists/tulsi-kumar/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Arijit Singh</title>
-      <link>http://localhost:1313/artists/arijit-singh/</link>
-      <pubDate>Tue, 29 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/artists/arijit-singh/</guid>
       <description></description>
     </item>
     <item>
@@ -181,13 +230,6 @@
       <link>http://localhost:1313/artists/darshan-raval/</link>
       <pubDate>Sun, 27 Jun 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/artists/darshan-raval/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Harshdeep Kaur</title>
-      <link>http://localhost:1313/artists/harshdeep-kaur/</link>
-      <pubDate>Sun, 27 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/artists/harshdeep-kaur/</guid>
       <description></description>
     </item>
     <item>
@@ -338,13 +380,6 @@
       <description></description>
     </item>
     <item>
-      <title>Ash King</title>
-      <link>http://localhost:1313/artists/ash-king/</link>
-      <pubDate>Tue, 22 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/artists/ash-king/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Shaan</title>
       <link>http://localhost:1313/artists/shaan/</link>
       <pubDate>Tue, 22 Jun 2021 00:00:00 +0000</pubDate>
@@ -384,20 +419,6 @@
       <link>http://localhost:1313/artists/rahat-fateh-ali-khan/</link>
       <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/artists/rahat-fateh-ali-khan/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Sanam Puri</title>
-      <link>http://localhost:1313/artists/sanam-puri/</link>
-      <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/artists/sanam-puri/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Neeti Mohan</title>
-      <link>http://localhost:1313/artists/neeti-mohan/</link>
-      <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/artists/neeti-mohan/</guid>
       <description></description>
     </item>
     <item>
@@ -601,13 +622,6 @@
       <link>http://localhost:1313/artists/ankit-tiwari/</link>
       <pubDate>Sun, 13 Jun 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/artists/ankit-tiwari/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Himesh Reshammiya</title>
-      <link>http://localhost:1313/artists/himesh-reshammiya/</link>
-      <pubDate>Sun, 13 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/artists/himesh-reshammiya/</guid>
       <description></description>
     </item>
     <item>
@@ -1007,13 +1021,6 @@
       <link>http://localhost:1313/artists/nindy-kaur/</link>
       <pubDate>Thu, 27 May 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/artists/nindy-kaur/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Raftaar</title>
-      <link>http://localhost:1313/artists/raftaar/</link>
-      <pubDate>Thu, 27 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/artists/raftaar/</guid>
       <description></description>
     </item>
     <item>
