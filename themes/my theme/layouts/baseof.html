@@ -6,6 +6,7 @@
 <body>
   <header>
     {{ partial "header.html" . }}
+    {{ partial "breadcrumbs.html" . }}
   </header>
   <main>
     {{ block "main" . }}{{ end }}

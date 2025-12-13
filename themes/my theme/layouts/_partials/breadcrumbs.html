@@ -1,0 +1,11 @@
+{{ if ne .Kind "home" }}
+<nav class="breadcrumbs">
+  <a href="{{ "/" | relURL }}">Home</a>
+
+  {{ with .Params.albums }}
+    › <a href="{{ printf "/albums/%s/" (urlize .) | relURL }}">{{ . }}</a>
+  {{ end }}
+  
+  › <span>{{ index (split .Title " - ") 0 }}</span>
+</nav>
+{{ end }}
