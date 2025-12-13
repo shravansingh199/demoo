@@ -1,11 +1,15 @@
 {{ if ne .Kind "home" }}
 <nav class="breadcrumbs">
-  <a href="{{ "/" | relURL }}">Home</a>
+  <!-- Home link -->
+  <a href="{{ .Site.Home.RelPermalink }}">Home</a>
 
   {{ with .Params.albums }}
-    › <a href="{{ printf "/albums/%s/" (urlize .) | relURL }}">{{ . }}</a>
+    <!-- Album link -->
+    {{ $albumPage := site.GetPage (printf "/albums/%s/" (urlize .)) }}
+    › <a href="{{ if $albumPage }}{{ $albumPage.RelPermalink }}{{ else }}#{{ end }}">{{ . }}</a>
   {{ end }}
   
+  <!-- Current page -->
   › <span>{{ index (split .Title " - ") 0 }}</span>
 </nav>
 {{ end }}

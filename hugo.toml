@@ -1,4 +1,4 @@
-baseURL = 'https://shravansingh199.github.io/demoo/'
+baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'demo 1'
 theme = 'my theme'
