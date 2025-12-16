@@ -2,6 +2,7 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'demo 1'
 theme = 'my theme'
+copyright = '© 2021 lyrify, Inc.'
 
 [caches]
   [caches.images]
