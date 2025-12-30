@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jannat (2008) on demo 1</title>
+    <link>http://localhost:1313/albums/jannat-2008/</link>
+    <description>Recent content in Jannat (2008) on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Wed, 08 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/albums/jannat-2008/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Haan Tu Hai lyrics - Jannat</title>
+      <link>http://localhost:1313/haan-tu-hai-jannat-lyrics/</link>
+      <pubDate>Wed, 08 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/haan-tu-hai-jannat-lyrics/</guid>
+      <description>Jo Khwaabon Khayaalon Me&#xA;Socha Nahi Tha Tune Mujhe Itna Pyar Diya&#xA;Main Jab Bhi Jahan Bhi..</description>
+    </item>
+    <item>
+      <title>Judai lyrics - Jannat</title>
+      <link>http://localhost:1313/judai-jannat-lyrics/</link>
+      <pubDate>Tue, 17 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/judai-jannat-lyrics/</guid>
+      <description>Chaar Dino Ka Pyar, O Rabba&#xA;Lambi Judai, Lambi Judai&#xA;Tere Bin Dil Mera Laage Kahin Na..</description>
+    </item>
+    <item>
+      <title>Zara Sa lyrics - Jannat</title>
+      <link>http://localhost:1313/zara-sa-jannat-lyrics/</link>
+      <pubDate>Tue, 17 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/zara-sa-jannat-lyrics/</guid>
+      <description>Zara Si Dil Me De Jagah Tu&#xA;Zara Sa Apna Le Bana&#xA;Zara Sa Khwaabon Me..</description>
+    </item>
+  </channel>
+</rss>

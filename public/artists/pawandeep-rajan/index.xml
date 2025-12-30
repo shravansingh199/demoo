@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pawandeep Rajan on demo 1</title>
+    <link>http://localhost:1313/artists/pawandeep-rajan/</link>
+    <description>Recent content in Pawandeep Rajan on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Fri, 04 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/artists/pawandeep-rajan/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dekhaa Tujhe Toh Lagaa lyrics</title>
+      <link>http://localhost:1313/dekha-tujhe-toh-laga-arunita-pawandeep-lyrics/</link>
+      <pubDate>Fri, 04 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/dekha-tujhe-toh-laga-arunita-pawandeep-lyrics/</guid>
+      <description>Dekha Tujhe Toh Laga&#xA;Ke Din Badal Jayenge Ishq Me Tere, Sanam Ab Hum…</description>
+    </item>
+    <item>
+      <title>Manzoor Dil lyrics - Pawandeep Rajan, Arunita kanjilal</title>
+      <link>http://localhost:1313/manzoor-dil-pawandeep-arunita-lyrics/</link>
+      <pubDate>Mon, 25 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/manzoor-dil-pawandeep-arunita-lyrics/</guid>
+      <description>Pyar Jitna Bhi Tha Mere Paas Me&#xA;Woh Naam Tere Yeh Dil Kar Gaya&#xA;Ishq Laaye Jo Tum Mere…</description>
+    </item>
+    <item>
+      <title>Tu lyrics - Pawandeep Rajan</title>
+      <link>http://localhost:1313/tu-pawandeep-rajan-lyrics/</link>
+      <pubDate>Mon, 18 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tu-pawandeep-rajan-lyrics/</guid>
+      <description>Meri Har Saans Yeh Kehti Hai&#xA;Tu, Tu Meri Nas Nas Me Har Pehar Behti..</description>
+    </item>
+    <item>
+      <title>O Saiyyonii lyrics - Pawandeep Rajan, Arunita Kanjilal</title>
+      <link>http://localhost:1313/o-saiyyonii-pawandeep-arunita-lyrics/</link>
+      <pubDate>Tue, 14 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/o-saiyyonii-pawandeep-arunita-lyrics/</guid>
+      <description>Tu Hai Jaise Koi Paheli&#xA;Jo Na Suljha Paaye Dil&#xA;Aaj Ho Ke Mujhse Rubaru..</description>
+    </item>
+    <item>
+      <title>Terii Umeed lyrics - Pawandeep Rajan, Arunita Kanjilal</title>
+      <link>http://localhost:1313/teri-umeed-pawandeep-arunita-lyrics/</link>
+      <pubDate>Fri, 23 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teri-umeed-pawandeep-arunita-lyrics/</guid>
+      <description>Teri Ummeed Na Karte Hue&#xA;Teri Hi Ummeed Ki Hai Haaye, Tera Pyar&#xA;Har Ek Pal Dil Me..</description>
+    </item>
+    <item>
+      <title>Tere Bagairr lyrics - Pawandeep Rajan, Arunita Kanjilal</title>
+      <link>http://localhost:1313/tere-bagairr-moods-with-melodies-lyrics/</link>
+      <pubDate>Wed, 23 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tere-bagairr-moods-with-melodies-lyrics/</guid>
+      <description>Jab Tere Bagair Jeene Ka Hausla Kiya&#xA;Meri Aankh Bhar Aayi Jab Yeh Faisla..</description>
+    </item>
+  </channel>
+</rss>

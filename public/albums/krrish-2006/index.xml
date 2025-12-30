@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Krrish (2006) on demo 1</title>
+    <link>http://localhost:1313/albums/krrish-2006/</link>
+    <description>Recent content in Krrish (2006) on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Sat, 24 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/albums/krrish-2006/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dil Na Diya lyrics - Krrish</title>
+      <link>http://localhost:1313/dil-na-diya-krrish-lyrics/</link>
+      <pubDate>Sat, 24 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/dil-na-diya-krrish-lyrics/</guid>
+      <description>Dil Na Liya, Dil Na Diya&#xA;Toh Bolo Na Bolo Kya Kiya&#xA;Aake Duniya Me Bhi Agar&#xA;Pyar Na..</description>
+    </item>
+    <item>
+      <title>Pyaar Ki Ek Kahani lyrics - Krrish</title>
+      <link>http://localhost:1313/pyar-ki-ek-kahani-krrish-lyrics/</link>
+      <pubDate>Wed, 07 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pyar-ki-ek-kahani-krrish-lyrics/</guid>
+      <description>Aao Sunaaun Pyar Ki Ek Kahani&#xA;Ek Tha Ladka,&#xA;Ek Thi Ladki Deewani..</description>
+    </item>
+    <item>
+      <title>Koi Tumsa Nahin lyrics - Krrish</title>
+      <link>http://localhost:1313/koi-tumsa-nahin-krrish/</link>
+      <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/koi-tumsa-nahin-krrish/</guid>
+      <description>Dhoop Nikalti Hai Jahan Se&#xA;Chaandni Rehti Hai Jahan Pe&#xA;Khabar Yeh Aayi Hai Wahan Se</description>
+    </item>
+  </channel>
+</rss>

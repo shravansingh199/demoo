@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Atrangi Re (2021) on demo 1</title>
+    <link>http://localhost:1313/albums/atrangi-re-2021/</link>
+    <description>Recent content in Atrangi Re (2021) on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Mon, 06 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/albums/atrangi-re-2021/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rait Zara Si lyrics - Atrangi Re</title>
+      <link>http://localhost:1313/rait-zara-si-atrangi-re-2021-lyrics/</link>
+      <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/rait-zara-si-atrangi-re-2021-lyrics/</guid>
+      <description>Hona, Tera Hona&#xA;Paana, Tumko Paana Jeena Hai Yeh Maana&#xA;Pal Bhar Me Sadiyan Hai Sadiyon Me…</description>
+    </item>
+    <item>
+      <title>Chaka Chak lyrics - Atrangi Re</title>
+      <link>http://localhost:1313/chaka-chak-atrangi-re-2021-lyrics/</link>
+      <pubDate>Tue, 30 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/chaka-chak-atrangi-re-2021-lyrics/</guid>
+      <description>Tapti Dupahri Si, Ladki Gilahri Si&#xA;Meri Jaisi Chahiye Tere Jaise Ko Phoolon Wali Daali Bhi…</description>
+    </item>
+  </channel>
+</rss>

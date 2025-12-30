@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nitin Mukesh on demo 1</title>
+    <link>http://localhost:1313/artists/nitin-mukesh/</link>
+    <description>Recent content in Nitin Mukesh on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Sun, 30 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/artists/nitin-mukesh/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>So Gaya Yeh Jahan lyrics</title>
+      <link>http://localhost:1313/so-gaya-yeh-jahan-tezaab-1988-lyrics/</link>
+      <pubDate>Sun, 30 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/so-gaya-yeh-jahan-tezaab-1988-lyrics/</guid>
+      <description>So Gaya Yeh Jahaan, So Gaya Aasmaan&#xA;So Gayi Hain Saari Manzilein O Saari…</description>
+    </item>
+    <item>
+      <title>Mela Dilon Ka (Celebration) lyrics</title>
+      <link>http://localhost:1313/mela-dilon-ka-celebration-lyrics/</link>
+      <pubDate>Mon, 28 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mela-dilon-ka-celebration-lyrics/</guid>
+      <description>Iss Duniya Me Desh Kayi&#xA;Desh Kayi Me Desh Hai Ek&#xA;Aur Uss Desh Ka Naam Hai..</description>
+    </item>
+  </channel>
+</rss>

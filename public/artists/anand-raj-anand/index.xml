@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anand Raj Anand on demo 1</title>
+    <link>http://localhost:1313/artists/anand-raj-anand/</link>
+    <description>Recent content in Anand Raj Anand on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Thu, 20 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/artists/anand-raj-anand/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jalebi Bai lyrics - Double Dhamaal</title>
+      <link>http://localhost:1313/jalebi-bai-double-dhamaal-2011-lyrics/</link>
+      <pubDate>Thu, 20 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jalebi-bai-double-dhamaal-2011-lyrics/</guid>
+      <description>Cha Cha Cha… Chikne&#xA;Kayi Chikne Mujhpe Phisal Gaye&#xA;Ka Ka Ka… Kitne Haaye, Kitno Ke Dum…</description>
+    </item>
+    <item>
+      <title>Palang Todh lyrics - Singh Saab the Great</title>
+      <link>http://localhost:1313/palang-todh-singh-saab-the-great-lyrics/</link>
+      <pubDate>Wed, 07 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/palang-todh-singh-saab-the-great-lyrics/</guid>
+      <description>Khaike Palang Tod Paan&#xA;Tune Le Li Meri Jaan&#xA;Haari Haari Main Toh..</description>
+    </item>
+    <item>
+      <title>Oye Raju lyrics - Hadh Kar Di Aapne</title>
+      <link>http://localhost:1313/oye-raju-pyar-na-kariyo-lyrics/</link>
+      <pubDate>Thu, 03 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/oye-raju-pyar-na-kariyo-lyrics/</guid>
+      <description>Oye Raju, Pyar Na Kariyo, Dariyo&#xA;Dil Toot Jata Hai&#xA;Chaahat Ki Baat Na Kariyo..</description>
+    </item>
+    <item>
+      <title>Ishq Samundar lyrics - Kaante</title>
+      <link>http://localhost:1313/ishq-samundar-kaante-lyrics/</link>
+      <pubDate>Sun, 30 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ishq-samundar-kaante-lyrics/</guid>
+      <description>Ishq Jab Hadd Se Paar Ho Jaaye&#xA;Zindagi Beqaraar Ho Jaaye&#xA;Ishq Itna Bhi Na Jatao Ke&#xA;Husn Sar Pe..</description>
+    </item>
+    <item>
+      <title>Chain Khuli Ki Main Khuli lyrics - Masti</title>
+      <link>http://localhost:1313/chain-khuli-ki-main-khuli-masti-lyrics/</link>
+      <pubDate>Sun, 23 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/chain-khuli-ki-main-khuli-masti-lyrics/</guid>
+      <description>Chain Khuli Ki Main Khuli Ki Chain&#xA;Dil Ka Panchhi Kare Dhamaal&#xA;Pinjre Me Na..</description>
+    </item>
+    <item>
+      <title>Dil De Diya Hai lyrics - Masti</title>
+      <link>http://localhost:1313/dil-de-diya-hai-masti-lyrics/</link>
+      <pubDate>Sun, 23 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/dil-de-diya-hai-masti-lyrics/</guid>
+      <description>Dil De Diya Hai, Jaan Tumhe Denge&#xA;Daga Nahi Karenge, Sanam&#xA;Rabb Di Kasam</description>
+    </item>
+  </channel>
+</rss>

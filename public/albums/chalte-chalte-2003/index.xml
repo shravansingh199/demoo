@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chalte Chalte (2003) on demo 1</title>
+    <link>http://localhost:1313/albums/chalte-chalte-2003/</link>
+    <description>Recent content in Chalte Chalte (2003) on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Thu, 19 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/albums/chalte-chalte-2003/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dagariya Chalo lyrics - Chalte Chalte</title>
+      <link>http://localhost:1313/dagariya-chalo-chalte-chalte/</link>
+      <pubDate>Thu, 19 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/dagariya-chalo-chalte-chalte/</guid>
+      <description>Rang Birangi Duniya Saari&#xA;Bhaant Bhaant Ke Log&#xA;Milke Bichhadna, Bichhadke Milna&#xA;Saara Hai Sanjog..</description>
+    </item>
+    <item>
+      <title>Tauba Tumhare Yeh Ishare lyrics - Chalte Chalte</title>
+      <link>http://localhost:1313/tauba-tumhare-lyrics/</link>
+      <pubDate>Wed, 24 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tauba-tumhare-lyrics/</guid>
+      <description>Tauba, Tumhare Yeh Ishaare&#xA;Hum Toh Deewane Hain Tumhare&#xA;Raaz Yeh Kaise Khol Rahi Ho&#xA;Tum Aankhon Se Bol Rahi Ho&#xA;Jadoo Aate Hain Tumko Saare</description>
+    </item>
+  </channel>
+</rss>

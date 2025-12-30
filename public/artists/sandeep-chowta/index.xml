@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sandeep Chowta on demo 1</title>
+    <link>http://localhost:1313/artists/sandeep-chowta/</link>
+    <description>Recent content in Sandeep Chowta on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Mon, 24 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/artists/sandeep-chowta/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dhuaan Dhuaan lyrics - Alisha Chinai, Sandeep Chowta</title>
+      <link>http://localhost:1313/dhuaan-dhuaan-alisha-chinai-sandeep-chowta-lyrics/</link>
+      <pubDate>Mon, 24 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/dhuaan-dhuaan-alisha-chinai-sandeep-chowta-lyrics/</guid>
+      <description>Dhuan Dhuan Dhuan Chale Yahan Wahan&#xA;Nasha Tera Kuchh Aisa Hua Chhua Chhua Chhua Teri Nigaahon…</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kanika Kapoor on demo 1</title>
+    <link>http://localhost:1313/artists/kanika-kapoor/</link>
+    <description>Recent content in Kanika Kapoor on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Sat, 11 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/artists/kanika-kapoor/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Panghat lyrics - Kanika Kapoor, Arindam Chakraborty</title>
+      <link>http://localhost:1313/madhuban-kanika-kapoor-arindam-chakraborty-lyrics/</link>
+      <pubDate>Sat, 11 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/madhuban-kanika-kapoor-arindam-chakraborty-lyrics/</guid>
+      <description>Naache Panghat Pe Premika&#xA;Jungle Me Naache Jaise More Saanwariya, More…</description>
+    </item>
+    <item>
+      <title>Luv Letter lyrics - Kanika Kapoor, Meet Bros</title>
+      <link>http://localhost:1313/luv-letter-legend-michael-mishra-lyrics/</link>
+      <pubDate>Sun, 25 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/luv-letter-legend-michael-mishra-lyrics/</guid>
+      <description>Meri Ankhiyon Ne Likhe&#xA;Luv Letter Ve Sajna Tu Chaand&#xA;Se Better Ve, Sajna Ve..</description>
+    </item>
+    <item>
+      <title>Neendein Khul Jaati Hain lyrics</title>
+      <link>http://localhost:1313/neendein-khul-jaati-hain-hate-story-3-lyrics/</link>
+      <pubDate>Sat, 17 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/neendein-khul-jaati-hain-hate-story-3-lyrics/</guid>
+      <description>Tujhe Chhoone Ki Aazadi&#xA;Jo Nahi Mil Paati Hai&#xA;Sapno Me Woh Aazadi Mujhko..</description>
+    </item>
+    <item>
+      <title>Chittiyaan Kalaiyaan lyrics - Kanika Kapoor, Meet Bros</title>
+      <link>http://localhost:1313/chittiyaan-kalaiyaan-roy-lyrics/</link>
+      <pubDate>Wed, 02 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/chittiyaan-kalaiyaan-roy-lyrics/</guid>
+      <description>Tu Leya De Mainu Golden Jhumke&#xA;Main Kanna Vich Paawan&#xA;Choom Choom..</description>
+    </item>
+    <item>
+      <title>Soneya Ve lyrics</title>
+      <link>http://localhost:1313/soneya-ve-hello-charlie-lyrics/</link>
+      <pubDate>Sat, 03 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/soneya-ve-hello-charlie-lyrics/</guid>
+      <description>Meri Ankhiyon Ke Samajh Ishare&#xA;Maine Tod Dene Border Saare&#xA;Bas Time Hai Thoda..</description>
+    </item>
+  </channel>
+</rss>

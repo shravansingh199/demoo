@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thalaivii (2021) on demo 1</title>
+    <link>http://localhost:1313/albums/thalaivii-2021/</link>
+    <description>Recent content in Thalaivii (2021) on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Thu, 07 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/albums/thalaivii-2021/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hai Kamaal lyrics - Thalaivii</title>
+      <link>http://localhost:1313/hai-kamaal-thalaivii-lyrics/</link>
+      <pubDate>Thu, 07 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hai-kamaal-thalaivii-lyrics/</guid>
+      <description>Pyar Jahan Par Mil Jaata Hai&#xA;Rishta Ban Jaata Hai Anjaane Hi Anjaana Sa Apna..</description>
+    </item>
+    <item>
+      <title>Nain Bandhe Naino Se lyrics - Saindhavi</title>
+      <link>http://localhost:1313/nain-bandhe-naino-se-thalaivii-lyrics/</link>
+      <pubDate>Sat, 02 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/nain-bandhe-naino-se-thalaivii-lyrics/</guid>
+      <description>Nain Baandhe Nain Se Jo&#xA;Preet Baandhi Preet Se Toh&#xA;Dhadkano Ki Taal Tooti..</description>
+    </item>
+    <item>
+      <title>Chali Chali lyrics - Thalaivii</title>
+      <link>http://localhost:1313/chali-chali-thalaivi-lyrics/</link>
+      <pubDate>Fri, 02 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/chali-chali-thalaivi-lyrics/</guid>
+      <description>Chali Chali Haan Chali&#xA;Ek Nayi Hawaa Hoon Main&#xA;Kabhi Nahi Dekhi Jo&#xA;Woh Nayi Disha Hoon..</description>
+    </item>
+  </channel>
+</rss>

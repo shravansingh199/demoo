@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fazilpuria on demo 1</title>
+    <link>http://localhost:1313/artists/fazilpuria/</link>
+    <description>Recent content in Fazilpuria on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Sun, 12 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/artists/fazilpuria/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kar Gayi Chull lyrics - Kapoor &amp; Sons</title>
+      <link>http://localhost:1313/kar-gayi-chull-kapoor-sons-lyrics/</link>
+      <pubDate>Sun, 12 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/kar-gayi-chull-kapoor-sons-lyrics/</guid>
+      <description>Dekh Tera Rang Saanwla Hua Baawla&#xA;Ladki Nahi Hai Tu Hai Garam Maamla&#xA;Bolti Band Meri Kahu Kya Bhala..</description>
+    </item>
+  </channel>
+</rss>

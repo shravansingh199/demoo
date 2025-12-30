@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fan (2016) on demo 1</title>
+    <link>http://localhost:1313/albums/fan-2016/</link>
+    <description>Recent content in Fan (2016) on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Mon, 21 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/albums/fan-2016/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jabra Fan lyrics - Nakash Aziz</title>
+      <link>http://localhost:1313/jabra-fan-lyrics-hindi/</link>
+      <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jabra-fan-lyrics-hindi/</guid>
+      <description>Follow Karoon Twitter Pe&#xA;Tag Karoon Facebook Pe&#xA;Tere Quiz Me Google Ko&#xA;Beat Kar Diya..</description>
+    </item>
+  </channel>
+</rss>

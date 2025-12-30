@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maninder Buttar on demo 1</title>
+    <link>http://localhost:1313/artists/maninder-buttar/</link>
+    <description>Recent content in Maninder Buttar on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Mon, 04 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/artists/maninder-buttar/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sakhiyan 2.0 lyrics - Bell Bottom</title>
+      <link>http://localhost:1313/sakhiyan-2-0-bell-bottom-2021-lyrics/</link>
+      <pubDate>Mon, 04 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sakhiyan-2-0-bell-bottom-2021-lyrics/</guid>
+      <description>Sakhiyan Ne Mainu Mehne Maar Diyan&#xA;Uddiyan Ne Channa Gallan Pyar Diyan..</description>
+    </item>
+  </channel>
+</rss>

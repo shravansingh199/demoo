@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Singh Saab the Great (2013) on demo 1</title>
+    <link>http://localhost:1313/albums/singh-saab-the-great-2013/</link>
+    <description>Recent content in Singh Saab the Great (2013) on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Wed, 07 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/albums/singh-saab-the-great-2013/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Palang Todh lyrics - Singh Saab the Great</title>
+      <link>http://localhost:1313/palang-todh-singh-saab-the-great-lyrics/</link>
+      <pubDate>Wed, 07 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/palang-todh-singh-saab-the-great-lyrics/</guid>
+      <description>Khaike Palang Tod Paan&#xA;Tune Le Li Meri Jaan&#xA;Haari Haari Main Toh..</description>
+    </item>
+    <item>
+      <title>Daaru Band Kal Se lyrics - Sonu Nigam</title>
+      <link>http://localhost:1313/daaru-band-kal-se-singh-saab-the-great-lyrics/</link>
+      <pubDate>Thu, 27 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/daaru-band-kal-se-singh-saab-the-great-lyrics/</guid>
+      <description>Haaye, Teri Nazaakat, Kya Kehne&#xA;Tere Bholepan Pe, Marr Baithe&#xA;Ho, Ek Zindadi Di Thi..</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jaz Dhami on demo 1</title>
+    <link>http://localhost:1313/artists/jaz-dhami/</link>
+    <description>Recent content in Jaz Dhami on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Thu, 05 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/artists/jaz-dhami/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Humne Pee Rakhi Hai lyrics</title>
+      <link>http://localhost:1313/humne-pee-rakhi-hai-sanam-re-lyrics/</link>
+      <pubDate>Thu, 05 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/humne-pee-rakhi-hai-sanam-re-lyrics/</guid>
+      <description>Party Poori Talli Hai&#xA;Machi Khalbali Hai&#xA;Sau Number Se Hum Nahi Darte Humne..</description>
+    </item>
+  </channel>
+</rss>

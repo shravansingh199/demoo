@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chori Chori Chupke Chupke (2001) on demo 1</title>
+    <link>http://localhost:1313/albums/chori-chori-chupke-chupke-2001/</link>
+    <description>Recent content in Chori Chori Chupke Chupke (2001) on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Wed, 15 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/albums/chori-chori-chupke-chupke-2001/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Diwana Hai Ye Man lyrics</title>
+      <link>http://localhost:1313/diwana-hai-ye-man-chori-chori-chupke-chupke-2001-lyrics/</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/diwana-hai-ye-man-chori-chori-chupke-chupke-2001-lyrics/</guid>
+      <description>Deewana Hai Yeh Mann&#xA;Kyun Pagal Hai Dhadkan Kyun Tujhpe Mujhe…</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dhoom (2004) on demo 1</title>
+    <link>http://localhost:1313/albums/dhoom-2004/</link>
+    <description>Recent content in Dhoom (2004) on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Sat, 08 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/albums/dhoom-2004/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dhoom Machale lyrics - Dhoom</title>
+      <link>http://localhost:1313/dhoom-machale-dhoom-2004-lyrics/</link>
+      <pubDate>Sat, 08 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/dhoom-machale-dhoom-2004-lyrics/</guid>
+      <description>Ishq Ishq Karna Hai, Kar Le&#xA;Ishq Ishq Me Jee Le, Mar Le Ishq Ishq Hai…</description>
+    </item>
+  </channel>
+</rss>

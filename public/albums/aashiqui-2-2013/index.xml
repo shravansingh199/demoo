@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aashiqui 2 (2013) on demo 1</title>
+    <link>http://localhost:1313/albums/aashiqui-2-2013/</link>
+    <description>Recent content in Aashiqui 2 (2013) on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Tue, 25 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/albums/aashiqui-2-2013/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sunn Raha Hai lyrics - Ankit Tiwari</title>
+      <link>http://localhost:1313/sunn-raha-hai-aashiqui-2-2013-lyrics-2/</link>
+      <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sunn-raha-hai-aashiqui-2-2013-lyrics-2/</guid>
+      <description>Apne Karam Ki Kar Adayein, Yaara…&#xA;Mujhko Iraade De Kasmein De, Vaade…</description>
+    </item>
+    <item>
+      <title>Sunn Raha Hai lyrics - Shreya Ghoshal</title>
+      <link>http://localhost:1313/sunn-raha-hai-aashiqui-2-2013-lyrics/</link>
+      <pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sunn-raha-hai-aashiqui-2-2013-lyrics/</guid>
+      <description>Manzilein Ruswa Hai, Khoya Hai Raasta&#xA;Aaye, Le Jaye, Itni Si Iltija Yeh Meri Zamaanat…</description>
+    </item>
+    <item>
+      <title>Tum Hi Ho lyrics - Aashiqui 2</title>
+      <link>http://localhost:1313/tum-hi-ho-aashiqui-2-2013-lyrics/</link>
+      <pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tum-hi-ho-aashiqui-2-2013-lyrics/</guid>
+      <description>Hum Tere Bin Ab Reh Nahi Sakte&#xA;Tere Bina Kya Wajood Mera Tujhse Juda &amp;lsquo;gar…</description>
+    </item>
+  </channel>
+</rss>

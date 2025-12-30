@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jasmine Sandlas on demo 1</title>
+    <link>http://localhost:1313/artists/jasmine-sandlas/</link>
+    <description>Recent content in Jasmine Sandlas on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Fri, 28 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/artists/jasmine-sandlas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Illegal Weapon 2.0 lyrics - Street Dancer 3D</title>
+      <link>http://localhost:1313/illegal-weapon-2-0-street-dancer-3d-lyrics/</link>
+      <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/illegal-weapon-2-0-street-dancer-3d-lyrics/</guid>
+      <description>Aankh Surme Se Bhar Ke Taiyyar Ki&#xA;Kheench Kheench Ke Nishaare Hoon Main…</description>
+    </item>
+    <item>
+      <title>Yaar Naa Miley lyrics - Kick</title>
+      <link>http://localhost:1313/yaar-naa-miley-kick-lyrics/</link>
+      <pubDate>Sun, 04 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/yaar-naa-miley-kick-lyrics/</guid>
+      <description>Tu Hai Lajawaab, Tere Jalwe Hazaar&#xA;Mera Bhi Pata Hai&#xA;Main Na Maanoon Kabhi..</description>
+    </item>
+  </channel>
+</rss>

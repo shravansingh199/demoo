@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Article 15 (2019) on demo 1</title>
+    <link>http://localhost:1313/albums/article-15-2019/</link>
+    <description>Recent content in Article 15 (2019) on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Wed, 14 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/albums/article-15-2019/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Naina Yeh lyrics - Article 15</title>
+      <link>http://localhost:1313/naina-yeh-article-15-lyrics/</link>
+      <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/naina-yeh-article-15-lyrics/</guid>
+      <description>Kaash Aisa Ho Kabhi Yun Hi Tumse Milu&#xA;Dher Saari Raat Bhar Baatein Tumse..</description>
+    </item>
+  </channel>
+</rss>

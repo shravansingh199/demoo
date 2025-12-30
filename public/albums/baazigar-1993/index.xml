@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Baazigar (1993) on demo 1</title>
+    <link>http://localhost:1313/albums/baazigar-1993/</link>
+    <description>Recent content in Baazigar (1993) on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Thu, 02 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/albums/baazigar-1993/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Baazigar O Baazigar lyrics</title>
+      <link>http://localhost:1313/baazigar-o-baazigar-1993-lyrics/</link>
+      <pubDate>Thu, 02 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/baazigar-o-baazigar-1993-lyrics/</guid>
+      <description>Mera Dil Tha Akela&#xA;Tune Khel Aisa Khela Teri Yaad Me Jaagu Raat Bhar…</description>
+    </item>
+  </channel>
+</rss>

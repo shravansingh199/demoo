@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arpita Mukherjee on demo 1</title>
+    <link>http://localhost:1313/artists/arpita-mukherjee/</link>
+    <description>Recent content in Arpita Mukherjee on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Tue, 18 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/artists/arpita-mukherjee/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dard E Dil Kii Dawwa lyrics</title>
+      <link>http://localhost:1313/dard-e-dil-kii-dawwa-mohammed-irfan-arpita-mukherjee-lyrics/</link>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/dard-e-dil-kii-dawwa-mohammed-irfan-arpita-mukherjee-lyrics/</guid>
+      <description>Meri Aankhon Me Tera Chehra Hai&#xA;Meri Dhadkan Pe Tera Pehra Hai Jahan Jaaun Main, Dil…</description>
+    </item>
+  </channel>
+</rss>

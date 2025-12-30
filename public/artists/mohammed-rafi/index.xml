@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mohammed Rafi on demo 1</title>
+    <link>http://localhost:1313/artists/mohammed-rafi/</link>
+    <description>Recent content in Mohammed Rafi on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Sat, 05 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/artists/mohammed-rafi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Shirdi Wale Sai Baba lyrics</title>
+      <link>http://localhost:1313/shirdi-wale-sai-baba-amar-akbar-anthony-1977-lyrics/</link>
+      <pubDate>Sat, 05 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/shirdi-wale-sai-baba-amar-akbar-anthony-1977-lyrics/</guid>
+      <description>Zamaane Me Kahan&#xA;Tooti Hui Tasveer Banti Hai Tere Darbaar Me…</description>
+    </item>
+    <item>
+      <title>	Ik Pardesi Mera Dil Le Gaya lyrics</title>
+      <link>http://localhost:1313/ek-pardesi-mera-dil-le-gaya-phagun-1958-lyrics/</link>
+      <pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ek-pardesi-mera-dil-le-gaya-phagun-1958-lyrics/</guid>
+      <description>Ek Pardesi Mera Dil Le Gaya&#xA;Jaate Jaate Meetha Meetha Gham De…</description>
+    </item>
+    <item>
+      <title>Ae Watan Ae Watan lyrics - Shaheed</title>
+      <link>http://localhost:1313/ae-watan-ae-watan-shaheed-1965-lyrics/</link>
+      <pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ae-watan-ae-watan-shaheed-1965-lyrics/</guid>
+      <description>Jalte Bhi Gaye, Kehte Bhi Gaye&#xA;Aazaadi Ke Parwaane Jeena Toh Usi Ka…</description>
+    </item>
+    <item>
+      <title>Aaj Mere Yaar Ki Shaadi Hai lyrics</title>
+      <link>http://localhost:1313/aaj-mere-yaar-ki-shaadi-aadmi-sadak-ka-1977-lyrics/</link>
+      <pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/aaj-mere-yaar-ki-shaadi-aadmi-sadak-ka-1977-lyrics/</guid>
+      <description>Ameer Se Hoti Hai&#xA;Gareeb Se Hoti Hai Door Se Hoti Hai&#xA;Kareeb Se Hoti Hai Magar Jahan Bhi…</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bhoomi Trivedi on demo 1</title>
+    <link>http://localhost:1313/artists/bhoomi-trivedi/</link>
+    <description>Recent content in Bhoomi Trivedi on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Fri, 16 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/artists/bhoomi-trivedi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Husn Parcham lyrics - Zero</title>
+      <link>http://localhost:1313/husn-parcham-zero-lyrics/</link>
+      <pubDate>Fri, 16 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/husn-parcham-zero-lyrics/</guid>
+      <description>Haath Me Raat Yeh Baaki Hai&#xA;Baat Napaak Wafa Ki Hai&#xA;Sandli Si Purvayi Saath Hai..</description>
+    </item>
+    <item>
+      <title>Udi Udi Jaye lyrics - Raees</title>
+      <link>http://localhost:1313/udi-udi-jaye-raees-lyrics/</link>
+      <pubDate>Tue, 06 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/udi-udi-jaye-raees-lyrics/</guid>
+      <description>Udi Udi Jaaye&#xA;Dil Ki Patang Dekho&#xA;Udi Udi Jaaye..</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PK (2014) on demo 1</title>
+    <link>http://localhost:1313/albums/pk-2014/</link>
+    <description>Recent content in PK (2014) on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Tue, 25 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/albums/pk-2014/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dil Darbadar lyrics - PK</title>
+      <link>http://localhost:1313/dil-darbadar-pk-2014-lyrics/</link>
+      <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/dil-darbadar-pk-2014-lyrics/</guid>
+      <description>Hai Maun Me Doobi Duniya&#xA;Tera Kissa Kaun Sunaye Jo Kahe, Tujhe Na Jaane Jo Jaane, Keh…</description>
+    </item>
+    <item>
+      <title>Bhagwan Hai Kahan Re Tu lyrics - PK</title>
+      <link>http://localhost:1313/bhagwan-hai-kahan-re-tu-pk-2014-lyrics/</link>
+      <pubDate>Fri, 07 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bhagwan-hai-kahan-re-tu-pk-2014-lyrics/</guid>
+      <description>Hai Suna Yeh Poori Dharti Tu Chalaata Hai&#xA;Meri Bhi Sun Le Araj Mujhe Ghar…</description>
+    </item>
+    <item>
+      <title>Chaar Kadam lyrics - PK</title>
+      <link>http://localhost:1313/chaar-kadam-pk-2014-lyrics/</link>
+      <pubDate>Fri, 07 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/chaar-kadam-pk-2014-lyrics/</guid>
+      <description>Bin Poochhe Mera Naam Aur Pata&#xA;Rasmon Ko Rakh Ke Pare Chaar Kadam Bas Chaar Kadam Chal Do…</description>
+    </item>
+  </channel>
+</rss>

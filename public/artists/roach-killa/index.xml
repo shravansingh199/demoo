@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Roach Killa on demo 1</title>
+    <link>http://localhost:1313/artists/roach-killa/</link>
+    <description>Recent content in Roach Killa on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Sun, 16 May 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/artists/roach-killa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Girl I Need You lyrics - Baaghi</title>
+      <link>http://localhost:1313/girl-i-need-you-baaghi-lyrics/</link>
+      <pubDate>Sun, 16 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/girl-i-need-you-baaghi-lyrics/</guid>
+      <description>Tujhpe Meri Hai Daavedaariyan&#xA;Tujhse Hai Dil Ki Saajhedaariyan&#xA;Tere Bin Saansein Loon Toh..</description>
+    </item>
+    <item>
+      <title>Aa Toh Sahi lyrics - Judwaa 2</title>
+      <link>http://localhost:1313/aa-toh-sahi-judwaa-2-lyrics/</link>
+      <pubDate>Wed, 28 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/aa-toh-sahi-judwaa-2-lyrics/</guid>
+      <description>Sun Baby, Teri Deadly Hai Walk Ni&#xA;Tere Thumke Bhi Karte Hain Talk Ni&#xA;Ho, Dil Kare..</description>
+    </item>
+  </channel>
+</rss>

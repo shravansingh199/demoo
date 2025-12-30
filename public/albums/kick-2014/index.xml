@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kick (2014) on demo 1</title>
+    <link>http://localhost:1313/albums/kick-2014/</link>
+    <description>Recent content in Kick (2014) on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Sun, 04 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/albums/kick-2014/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Yaar Naa Miley lyrics - Kick</title>
+      <link>http://localhost:1313/yaar-naa-miley-kick-lyrics/</link>
+      <pubDate>Sun, 04 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/yaar-naa-miley-kick-lyrics/</guid>
+      <description>Tu Hai Lajawaab, Tere Jalwe Hazaar&#xA;Mera Bhi Pata Hai&#xA;Main Na Maanoon Kabhi..</description>
+    </item>
+    <item>
+      <title>Tu Hi Tu (Reprise) lyrics - Neeti Mohan</title>
+      <link>http://localhost:1313/tu-hi-tu-reprise-kick-lyrics/</link>
+      <pubDate>Sun, 16 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tu-hi-tu-reprise-kick-lyrics/</guid>
+      <description>Ek Pal Pyar Ka, Zindagi Se Bada&#xA;Aisa Mere Khuda Kyun Hai&#xA;Tu Hi Tu Har Jagah..</description>
+    </item>
+    <item>
+      <title>Tu Hi Tu lyrics - Kick</title>
+      <link>http://localhost:1313/tu-hi-tu-kick-lyrics/</link>
+      <pubDate>Sat, 15 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tu-hi-tu-kick-lyrics/</guid>
+      <description>[Tu Hi Tu Har Jagah&#xA;Aaj Kal Kyun Hai&#xA;Raaste Har Dafa, Sirf Tera Pata&#xA;Mujhse Poochhe..</description>
+    </item>
+    <item>
+      <title>Hangover lyrics - Kick</title>
+      <link>http://localhost:1313/hangover-kick-lyrics/</link>
+      <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hangover-kick-lyrics/</guid>
+      <description>Jaane Kab Honthon Pe&#xA;Dil Ne Rakh Di Dil Ki Baatein&#xA;Samjha Nahi Yeh Dil&#xA;Isko Hum Toh..</description>
+    </item>
+    <item>
+      <title>Jumme Ki Raat lyrics - Kick</title>
+      <link>http://localhost:1313/jumme-ki-raat-kick-lyrics/</link>
+      <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jumme-ki-raat-kick-lyrics/</guid>
+      <description>Jumme Ki Raat Hai&#xA;Chumme Ki Baat Hai&#xA;Allah Bachaye Mujhe Tere..</description>
+    </item>
+  </channel>
+</rss>

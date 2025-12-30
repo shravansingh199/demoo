@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Khatta Meetha (2010) on demo 1</title>
+    <link>http://localhost:1313/albums/khatta-meetha-2010/</link>
+    <description>Recent content in Khatta Meetha (2010) on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Fri, 26 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/albums/khatta-meetha-2010/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sajde lyrics - KK, Sunidhi Chauhan</title>
+      <link>http://localhost:1313/sajde-khatta-meetha-2010-lyrics/</link>
+      <pubDate>Fri, 26 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sajde-khatta-meetha-2010-lyrics/</guid>
+      <description>Sajde Kiye Hain Laakhon&#xA;Laakhon Duaayein Maangi Paaya Hai Maine Phir Tujhe…</description>
+    </item>
+  </channel>
+</rss>

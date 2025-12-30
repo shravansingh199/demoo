@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chameli (2003) on demo 1</title>
+    <link>http://localhost:1313/albums/chameli-2003/</link>
+    <description>Recent content in Chameli (2003) on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Sat, 17 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/albums/chameli-2003/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bhaage Re Mann lyrics - Chameli</title>
+      <link>http://localhost:1313/bhaage-re-mann-chameli-lyrics/</link>
+      <pubDate>Sat, 17 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bhaage-re-mann-chameli-lyrics/</guid>
+      <description>Bhaage Re Mann Kahin&#xA;Aage Re Mann Chala&#xA;Jaane Kidhar Jaanu Na..</description>
+    </item>
+    <item>
+      <title>Sajna Ve Sajna lyrics - Sunidhi Chauhan</title>
+      <link>http://localhost:1313/sajna-ve-sajna-chameli-lyrics/</link>
+      <pubDate>Sat, 15 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sajna-ve-sajna-chameli-lyrics/</guid>
+      <description>Mann Saat Samundar Dol Gaya&#xA;Jo Tu Aankhon Se Bol Gaya&#xA;Le Teri Ho Gayi Yaar&#xA;Sajna..</description>
+    </item>
+  </channel>
+</rss>

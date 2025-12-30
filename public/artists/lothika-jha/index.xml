@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lothika Jha on demo 1</title>
+    <link>http://localhost:1313/artists/lothika-jha/</link>
+    <description>Recent content in Lothika Jha on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/artists/lothika-jha/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gehraiyaan Title Track lyrics</title>
+      <link>http://localhost:1313/gehraiyaan-2022-title-song-lyrics/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gehraiyaan-2022-title-song-lyrics/</guid>
+      <description>Tu Marz Hai, Dawa Bhi&#xA;Par Aadat Hai Hamein Roka Hai Khud Ko Lekin Hum Reh Na…</description>
+    </item>
+    <item>
+      <title>Doobey lyrics - Gehraiyaan</title>
+      <link>http://localhost:1313/doobe-gehraiyaan-2022-lyrics/</link>
+      <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/doobe-gehraiyaan-2022-lyrics/</guid>
+      <description>Tera Mera Dono Ka Dil Besabar&#xA;Besabar, Besabar Shaam-o-Sehar Dono Ka Dil…</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Soham Naik on demo 1</title>
+    <link>http://localhost:1313/artists/soham-naik/</link>
+    <description>Recent content in Soham Naik on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Wed, 25 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/artists/soham-naik/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Razdaan lyrics - Badnaam</title>
+      <link>http://localhost:1313/razdaan-badnaam-lyrics/</link>
+      <pubDate>Wed, 25 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/razdaan-badnaam-lyrics/</guid>
+      <description>Zinda Hoon Aankhon Me Teri&#xA;Honthon Pe Fariyad Bhi Hoon&#xA;Main Zindagi Me Hoon Teri Main Maut Ke..</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Malang (2020) on demo 1</title>
+    <link>http://localhost:1313/albums/malang-2020/</link>
+    <description>Recent content in Malang (2020) on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Fri, 10 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/albums/malang-2020/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hui Malang lyrics - Asees Kaur</title>
+      <link>http://localhost:1313/hui-malang-asees-kaur-lyrics/</link>
+      <pubDate>Fri, 10 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hui-malang-asees-kaur-lyrics/</guid>
+      <description>Main Bairaagan Si Jiyu&#xA;Yeh Bhatakta Mann&#xA;Kab Kahan Le Jayega Yeh Aawarapan&#xA;Ke Hui Main Malang..</description>
+    </item>
+    <item>
+      <title>Phir Na Milen Kabhi lyrics</title>
+      <link>http://localhost:1313/phir-na-milen-kabhi-malang-lyrics/</link>
+      <pubDate>Tue, 03 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/phir-na-milen-kabhi-malang-lyrics/</guid>
+      <description>Ab Ke Gaye Ghar Se Jo Tere&#xA;Phir Na Laut Aaunga&#xA;Tu Bhi Mujhe Bhool Jaana&#xA;Main Bhi..</description>
+    </item>
+  </channel>
+</rss>

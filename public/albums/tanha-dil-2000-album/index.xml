@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tanha Dil… (2000) Album on demo 1</title>
+    <link>http://localhost:1313/albums/tanha-dil-2000-album/</link>
+    <description>Recent content in Tanha Dil… (2000) Album on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Wed, 10 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/albums/tanha-dil-2000-album/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tanha Dil lyrics - Shaan</title>
+      <link>http://localhost:1313/tanha-dil-shaan-lyrics/</link>
+      <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tanha-dil-shaan-lyrics/</guid>
+      <description>Tanha Dil, Tanha Safar&#xA;Dhoondhe Tujhe Phir Kyun Nazar Tanha Dil…</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pehchaan (1993) on demo 1</title>
+    <link>http://localhost:1313/albums/pehchaan-1993/</link>
+    <description>Recent content in Pehchaan (1993) on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Sun, 28 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/albums/pehchaan-1993/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tu Mere Dil Me Rehti Hai lyrics - Pehchaan</title>
+      <link>http://localhost:1313/too-mere-dil-me-rehti-hai-pehchaan-1993-lyrics/</link>
+      <pubDate>Sun, 28 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/too-mere-dil-me-rehti-hai-pehchaan-1993-lyrics/</guid>
+      <description>Tu Mere Dil Me Rehti Hai&#xA;Main Tere Dil Me Rehta Hoon&#xA;Main Tere Pyar Me…</description>
+    </item>
+    <item>
+      <title>Sanam O Sanam lyrics - Pehchaan</title>
+      <link>http://localhost:1313/sanam-o-sanam-pehchaan-1993-lyrics/</link>
+      <pubDate>Sat, 27 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sanam-o-sanam-pehchaan-1993-lyrics/</guid>
+      <description>Sanam O Sanam&#xA;Aise Hi Pyar Karte Rehna Mere Inn Vaadon Pe&#xA;Meri Inn Kasmon Pe Tum Aitbaar Karte…</description>
+    </item>
+  </channel>
+</rss>

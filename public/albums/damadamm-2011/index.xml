@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Damadamm (2011) on demo 1</title>
+    <link>http://localhost:1313/albums/damadamm-2011/</link>
+    <description>Recent content in Damadamm (2011) on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Thu, 13 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/albums/damadamm-2011/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Umrao Jaan lyrics - Damadamm</title>
+      <link>http://localhost:1313/umrao-jaan-damadamm-2011-lyrics/</link>
+      <pubDate>Thu, 13 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/umrao-jaan-damadamm-2011-lyrics/</guid>
+      <description>I Tell All, Listen! No Touching, No Touching&#xA;Only Seeing, Only Seeing Understand? No Touching Only…</description>
+    </item>
+    <item>
+      <title>Bhool Jaaun lyrics - Damadamm</title>
+      <link>http://localhost:1313/bhool-jaaun-damadamm-2011-lyrics/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bhool-jaaun-damadamm-2011-lyrics/</guid>
+      <description>Aarzoo Dil Me Jaagi Jo Kaise Tujhko Bataaun&#xA;Aye Sanam, Teri Baanhon Me Aa Ke Zamaana Bhool…</description>
+    </item>
+    <item>
+      <title>Madhushala lyrics - Aditi Singh Sharma, Himesh Reshammiya</title>
+      <link>http://localhost:1313/madhushala-damadamm-lyrics/</link>
+      <pubDate>Fri, 07 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/madhushala-damadamm-lyrics/</guid>
+      <description>Tere Jism Ki Khusboo Me&#xA;Aankhon Ki Madhusaala Me&#xA;Kabhi Aar Gaya, Kabhi Paar..</description>
+    </item>
+    <item>
+      <title>Aaja Ve lyrics - Himesh Reshammiya</title>
+      <link>http://localhost:1313/aaja-ve-damadamm-lyrics/</link>
+      <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/aaja-ve-damadamm-lyrics/</guid>
+      <description>Meri Gali Aaja Ve Mahiya&#xA;Bas Ik Vaari Aaja Ve&#xA;Hua Dil Aashna Ve Jaaniya&#xA;Bas Ik Vaari..</description>
+    </item>
+    <item>
+      <title>Mango lyrics - Damadamm</title>
+      <link>http://localhost:1313/mango-damadamm-lyrics/</link>
+      <pubDate>Sun, 02 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mango-damadamm-lyrics/</guid>
+      <description>Jab Tum Jaati Ho&#xA;Jaldi Nahi Aati Ho&#xA;I Miss You Baby&#xA;Like Mango..</description>
+    </item>
+    <item>
+      <title>Tere Bina lyrics - Damadamm</title>
+      <link>http://localhost:1313/tere-bina-damadamm-lyrics/</link>
+      <pubDate>Sun, 02 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tere-bina-damadamm-lyrics/</guid>
+      <description>Tere Bina Jiya Nahi Jaye&#xA;Tu Har Saans Me, Har Aah Me&#xA;Tu Mere Har Ek Ehsaas..</description>
+    </item>
+  </channel>
+</rss>

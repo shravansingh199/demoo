@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gayatri Iyer on demo 1</title>
+    <link>http://localhost:1313/artists/gayatri-iyer/</link>
+    <description>Recent content in Gayatri Iyer on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Tue, 20 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/artists/gayatri-iyer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mohabbat Hai Mirchi lyrics</title>
+      <link>http://localhost:1313/mohabbat-hai-mirchi-chura-liyaa-hai-tumne-lyrics/</link>
+      <pubDate>Tue, 20 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mohabbat-hai-mirchi-chura-liyaa-hai-tumne-lyrics/</guid>
+      <description>Jaan Hatheli Pe Rakhlo&#xA;Aankhon Se Moti Chakhlo&#xA;Teekhi Teekhi, Tez Tez Yeh&#xA;Sooli Par Hai..</description>
+    </item>
+    <item>
+      <title>My Dil Goes Mmmm lyrics</title>
+      <link>http://localhost:1313/my-dil-goes-mmmm-lyrics/</link>
+      <pubDate>Sun, 18 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/my-dil-goes-mmmm-lyrics/</guid>
+      <description>Aati Hai Woh Aise Chal Ke&#xA;Jaise Jannat Me Rehti Hai&#xA;Dekhti Hai Sabko Aise&#xA;Jaise Sabko Woh..</description>
+    </item>
+  </channel>
+</rss>

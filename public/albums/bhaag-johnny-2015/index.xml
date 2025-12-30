@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bhaag Johnny (2015) on demo 1</title>
+    <link>http://localhost:1313/albums/bhaag-johnny-2015/</link>
+    <description>Recent content in Bhaag Johnny (2015) on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Sun, 13 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/albums/bhaag-johnny-2015/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Iss Qadar Pyar Hai lyrics - Bhaag Johnny</title>
+      <link>http://localhost:1313/iss-qadar-pyar-hai-bhaag-johnny-lyrics/</link>
+      <pubDate>Sun, 13 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/iss-qadar-pyar-hai-bhaag-johnny-lyrics/</guid>
+      <description>Iss Qadar Pyar Hai Tumse, Aye Humsafar&#xA;Chaandni Narm Si Raat Ke..</description>
+    </item>
+    <item>
+      <title>Kinna Sona lyrics - Bhaag Johnny</title>
+      <link>http://localhost:1313/kinna-sona-bhaag-johnny-lyrics/</link>
+      <pubDate>Mon, 07 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/kinna-sona-bhaag-johnny-lyrics/</guid>
+      <description>Tu Rang Hai Mera, Noor Hai Tu&#xA;Aadat Teri Mujhe, Fitoor Hai Tu&#xA;Fitoor Hai Tu..</description>
+    </item>
+    <item>
+      <title>Daddy Mummy lyrics - Bhaag Johnny</title>
+      <link>http://localhost:1313/daddy-mummy-bhaag-johnny-lyrics/</link>
+      <pubDate>Sun, 16 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/daddy-mummy-bhaag-johnny-lyrics/</guid>
+      <description>Daddy Mummy Hain Nahi Ghar Pe&#xA;Pichhle Kamre Me Ghus Ke&#xA;Kuchh Toh Karenge Chhup..</description>
+    </item>
+  </channel>
+</rss>

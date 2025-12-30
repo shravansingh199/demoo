@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Code Blue (2019) on demo 1</title>
+    <link>http://localhost:1313/albums/code-blue-2019/</link>
+    <description>Recent content in Code Blue (2019) on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Wed, 19 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/albums/code-blue-2019/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kaash Tu Mila Hota lyrics - Code Blue</title>
+      <link>http://localhost:1313/kaash-tu-mila-hota-code-blue-2019-lyrics/</link>
+      <pubDate>Wed, 19 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/kaash-tu-mila-hota-code-blue-2019-lyrics/</guid>
+      <description>Kal Jo Na Tujhse Mila Main Hota&#xA;Aaj Na Bichhadne Ki Baat Yeh Hoti Na Toh Tujhe…</description>
+    </item>
+  </channel>
+</rss>

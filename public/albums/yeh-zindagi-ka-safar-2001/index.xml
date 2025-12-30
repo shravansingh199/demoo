@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yeh Zindagi Ka Safar (2001) on demo 1</title>
+    <link>http://localhost:1313/albums/yeh-zindagi-ka-safar-2001/</link>
+    <description>Recent content in Yeh Zindagi Ka Safar (2001) on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Sun, 12 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/albums/yeh-zindagi-ka-safar-2001/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dil To Kehta Hai (Male) lyrics</title>
+      <link>http://localhost:1313/dil-to-kehta-hai-male-yeh-zindagi-ka-safar-2001-lyrics/</link>
+      <pubDate>Sun, 12 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/dil-to-kehta-hai-male-yeh-zindagi-ka-safar-2001-lyrics/</guid>
+      <description>Dil Toh Kehta Hai Woh Apne Hain Apne Hi Hain&#xA;Jinki Jaanib Se Halka Sa Ishara Bhi…</description>
+    </item>
+  </channel>
+</rss>

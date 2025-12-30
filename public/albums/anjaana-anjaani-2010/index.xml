@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anjaana Anjaani (2010) on demo 1</title>
+    <link>http://localhost:1313/albums/anjaana-anjaani-2010/</link>
+    <description>Recent content in Anjaana Anjaani (2010) on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Wed, 16 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/albums/anjaana-anjaani-2010/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I Feel Good lyrics - Anjaana Anjaani</title>
+      <link>http://localhost:1313/i-feel-good-anjaana-anjaani-lyrics/</link>
+      <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/i-feel-good-anjaana-anjaani-lyrics/</guid>
+      <description>Teri Meri, Teri Meri Kahani&#xA;Ek Daastaan Nayi Puraani&#xA;Chori Chori Yeh Kahani Chali..</description>
+    </item>
+    <item>
+      <title>Tujhe Bhula Diya lyrics - Anjaana Anjaani</title>
+      <link>http://localhost:1313/tujhe-bhula-diya-anjaana-anjaani-lyrics/</link>
+      <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tujhe-bhula-diya-anjaana-anjaani-lyrics/</guid>
+      <description>Naina Laggeyan Baarishan&#xA;Te Sukke Sukke Sapne Vi Pijj Gaye&#xA;Naina Laggeyan Baarishan&#xA;Rove Palkan De Kone Vich..</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rowdy Rathore (2012) on demo 1</title>
+    <link>http://localhost:1313/albums/rowdy-rathore-2012/</link>
+    <description>Recent content in Rowdy Rathore (2012) on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Mon, 14 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/albums/rowdy-rathore-2012/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chinta Ta Chita Chita lyrics - Rowdy Rathore</title>
+      <link>http://localhost:1313/chinta-ta-ta-chita-chita-mika-singh-lyrics/</link>
+      <pubDate>Mon, 14 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/chinta-ta-ta-chita-chita-mika-singh-lyrics/</guid>
+      <description>Duniya Chale Pichhaadi&#xA;Toh Main Chaloon Agaadi&#xA;Sab Khel Jaanta Hoon&#xA;Main Hoon..</description>
+    </item>
+  </channel>
+</rss>

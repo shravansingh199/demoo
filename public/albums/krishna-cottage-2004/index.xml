@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Krishna Cottage (2004) on demo 1</title>
+    <link>http://localhost:1313/albums/krishna-cottage-2004/</link>
+    <description>Recent content in Krishna Cottage (2004) on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Mon, 10 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/albums/krishna-cottage-2004/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bindaas lyrics - Krishna Cottage</title>
+      <link>http://localhost:1313/bindaas-krishna-cottage-2004-lyrics/</link>
+      <pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bindaas-krishna-cottage-2004-lyrics/</guid>
+      <description>Meri Yeh Masti, Mere Yeh Nakhre&#xA;Paagal Deewane Hum Bikhre Bikhre Darta Hai Kya, Mujhko Tu…</description>
+    </item>
+    <item>
+      <title>Suna Suna lyrics - Shreya Ghoshal</title>
+      <link>http://localhost:1313/suna-suna-krishna-cottage-2004-lyrics/</link>
+      <pubDate>Mon, 13 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/suna-suna-krishna-cottage-2004-lyrics/</guid>
+      <description>Soona Soona Lamha Lamha Meri Raahein Tanha Tanha&#xA;Aa Kar Mujhe Tum Thaam Lo Manzil Teri…</description>
+    </item>
+  </channel>
+</rss>

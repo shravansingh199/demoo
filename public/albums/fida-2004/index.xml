@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fida (2004) on demo 1</title>
+    <link>http://localhost:1313/albums/fida-2004/</link>
+    <description>Recent content in Fida (2004) on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Thu, 03 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/albums/fida-2004/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Maine Jisko Chaaha lyrics - Fida</title>
+      <link>http://localhost:1313/maine-jisko-chaaha-fida-2004-lyrics/</link>
+      <pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/maine-jisko-chaaha-fida-2004-lyrics/</guid>
+      <description>Maine Jisko Chaaha Mil Gaya&#xA;Chain Jabse Aaya Dil Gaya Dekh Ke Tumhari Yeh…</description>
+    </item>
+    <item>
+      <title>Nazar Nazar lyrics - Fida</title>
+      <link>http://localhost:1313/nazar-nazar-fida-2004-lyrics/</link>
+      <pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/nazar-nazar-fida-2004-lyrics/</guid>
+      <description>Nazar Nazar Dhoondhe Usey Meri Nazar&#xA;Aayegi Ek Din Woh Mere…</description>
+    </item>
+  </channel>
+</rss>

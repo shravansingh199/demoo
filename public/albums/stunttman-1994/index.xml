@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stunttman (1994) on demo 1</title>
+    <link>http://localhost:1313/albums/stunttman-1994/</link>
+    <description>Recent content in Stunttman (1994) on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Mon, 13 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/albums/stunttman-1994/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Yeh Aankhen Hai Aaina lyrics</title>
+      <link>http://localhost:1313/yeh-aankhen-hai-aaina-stunttman-1994-lyrics/</link>
+      <pubDate>Mon, 13 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/yeh-aankhen-hai-aaina-stunttman-1994-lyrics/</guid>
+      <description>Izhaar Karti Hai Deewangi Ka&#xA;Yeh Aankhein Hain Aayina&#xA;Meri Zindagi Ka Koi Dil Churaye…</description>
+    </item>
+  </channel>
+</rss>

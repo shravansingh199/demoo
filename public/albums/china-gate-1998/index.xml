@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>China Gate (1998) on demo 1</title>
+    <link>http://localhost:1313/albums/china-gate-1998/</link>
+    <description>Recent content in China Gate (1998) on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Tue, 24 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/albums/china-gate-1998/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chamma Chamma Baaje Re lyrics - Alka Yagnik</title>
+      <link>http://localhost:1313/chhamma-chhamma-china-gate-lyrics/</link>
+      <pubDate>Tue, 24 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/chhamma-chhamma-china-gate-lyrics/</guid>
+      <description>Dekha Dekhi Dil Mera Jud Gaya Re&#xA;Le Ke Pardesi Dil Udd Gaya Re&#xA;Chhamma Chhamma..</description>
+    </item>
+  </channel>
+</rss>

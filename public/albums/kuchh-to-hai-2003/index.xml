@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kuchh to Hai (2003) on demo 1</title>
+    <link>http://localhost:1313/albums/kuchh-to-hai-2003/</link>
+    <description>Recent content in Kuchh to Hai (2003) on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Tue, 11 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/albums/kuchh-to-hai-2003/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ding Dong lyrics - Kuchh To Hai</title>
+      <link>http://localhost:1313/dil-ding-dang-ding-dole-kuchh-to-hai-2003-lyrics/</link>
+      <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/dil-ding-dang-ding-dole-kuchh-to-hai-2003-lyrics/</guid>
+      <description>Mehbooba, Mehbooba Tu Hai Mere Dil Ka Ajooba&#xA;Ajooba, Ajooba… Tere Ishq Ki Deewangi…</description>
+    </item>
+    <item>
+      <title>Kya Pyar Karoge Mujhse lyrics - Kuchh To Hai</title>
+      <link>http://localhost:1313/kya-pyar-karoge-mujhse-kuchh-to-hai-2003-lyrics/</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/kya-pyar-karoge-mujhse-kuchh-to-hai-2003-lyrics/</guid>
+      <description>Dil Mera Poochh Raha Hai Tujhse&#xA;Kya Pyar Karoge Mujhse, Mujhse Hansti Hai, Aise Tu Hansti…</description>
+    </item>
+  </channel>
+</rss>

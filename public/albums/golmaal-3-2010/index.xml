@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Golmaal 3 (2010) on demo 1</title>
+    <link>http://localhost:1313/albums/golmaal-3-2010/</link>
+    <description>Recent content in Golmaal 3 (2010) on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Fri, 21 May 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/albums/golmaal-3-2010/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ale lyrics - Golmaal 3</title>
+      <link>http://localhost:1313/ale-golmaal-3-lyrics/</link>
+      <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ale-golmaal-3-lyrics/</guid>
+      <description>Duniya Ki Baatein Waatein Chhod Ke&#xA;Ghamon Ki Baahon Ko Marod Ke&#xA;Khushi Khadi Hai..</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tulsi Kumaar on demo 1</title>
+    <link>http://localhost:1313/artists/tulsi-kumaar/</link>
+    <description>Recent content in Tulsi Kumaar on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Thu, 03 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/artists/tulsi-kumaar/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tera Ban Jaunga lyrics - Kabir Singh</title>
+      <link>http://localhost:1313/tera-ban-jaunga-kabir-singh-2019-lyrics/</link>
+      <pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tera-ban-jaunga-kabir-singh-2019-lyrics/</guid>
+      <description>Meri Raahein Tere Tak Hain&#xA;Tujhpe Hi Toh Mera Haq Hai Ishq Mera Tu…</description>
+    </item>
+  </channel>
+</rss>

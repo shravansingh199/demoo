@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Traffic (2016) on demo 1</title>
+    <link>http://localhost:1313/albums/traffic-2016/</link>
+    <description>Recent content in Traffic (2016) on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Mon, 12 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/albums/traffic-2016/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neki Ki Raah lyrics - Arijit Singh, Mithoon</title>
+      <link>http://localhost:1313/neki-ki-raah-traffic-lyrics/</link>
+      <pubDate>Mon, 12 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/neki-ki-raah-traffic-lyrics/</guid>
+      <description>Neki Ki Raahon Pe Tu Chal&#xA;Rabba Rahega Tere Sang&#xA;Woh Toh Hai Tere Dil Me, Haan&#xA;Tu Kyun Baahar Usey..</description>
+    </item>
+    <item>
+      <title>Kuch Der lyrics - Traffic</title>
+      <link>http://localhost:1313/kuch-der-sahi-traffic-lyrics/</link>
+      <pubDate>Sun, 11 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/kuch-der-sahi-traffic-lyrics/</guid>
+      <description>Kuchh Der Sahi Theher Ja Tu Yahan&#xA;Itni Tu Meri Sun Le Kuchh Pal Ki Hi Baat..</description>
+    </item>
+  </channel>
+</rss>

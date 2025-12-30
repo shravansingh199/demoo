@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ae Dil Hai Mushkil (2016) on demo 1</title>
+    <link>http://localhost:1313/albums/ae-dil-hai-mushkil-2016/</link>
+    <description>Recent content in Ae Dil Hai Mushkil (2016) on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Thu, 17 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/albums/ae-dil-hai-mushkil-2016/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ae Dil Hai Mushkil Title Track lyrics</title>
+      <link>http://localhost:1313/ae-dil-hai-mushkil-title-track-lyrics/</link>
+      <pubDate>Thu, 17 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ae-dil-hai-mushkil-title-track-lyrics/</guid>
+      <description>Tu Safar Mera&#xA;Hai Tu Hi Meri Manzil&#xA;Tere Bina Guzaara Ae Dil Hai..</description>
+    </item>
+    <item>
+      <title>Channa Mereya lyrics - Ae Dil Hai Mushkil</title>
+      <link>http://localhost:1313/channa-mereya-ae-dil-hai-mushkil-lyrics/</link>
+      <pubDate>Thu, 17 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/channa-mereya-ae-dil-hai-mushkil-lyrics/</guid>
+      <description>Acchha Chalta Hoon&#xA;Duaaon Me Yaad Rakhna&#xA;Mere Zikr Ka Zubaan Pe..</description>
+    </item>
+    <item>
+      <title>The Breakup Song lyrics - Ae Dil Hai Mushkil</title>
+      <link>http://localhost:1313/the-breakup-song-ae-dil-hai-mushkil-lyrics/</link>
+      <pubDate>Thu, 17 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/the-breakup-song-ae-dil-hai-mushkil-lyrics/</guid>
+      <description>Break Up Song&#xA;Dard-e-Dil Ki Feeling Strong&#xA;Saadhe Chaar Minute Long&#xA;Break Up..</description>
+    </item>
+    <item>
+      <title>Bulleya lyrics - Ae Dil Hai Mushkil</title>
+      <link>http://localhost:1313/bulleya-ae-dil-hai-mushkil-lyrics/</link>
+      <pubDate>Wed, 05 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bulleya-ae-dil-hai-mushkil-lyrics/</guid>
+      <description>Meri Rooh Ka Parinda Phadphadaaye&#xA;Lekin Sukoon Ka Jazeera Mil Na Paaye&#xA;Ve Ki Karaan..</description>
+    </item>
+  </channel>
+</rss>

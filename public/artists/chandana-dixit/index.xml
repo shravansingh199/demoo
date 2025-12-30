@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chandana Dixit on demo 1</title>
+    <link>http://localhost:1313/artists/chandana-dixit/</link>
+    <description>Recent content in Chandana Dixit on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Sun, 28 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/artists/chandana-dixit/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Shahar Ki Ladki lyrics - Rakshak</title>
+      <link>http://localhost:1313/shahar-ki-ladki-rakshak-1996-lyrics/</link>
+      <pubDate>Sun, 28 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/shahar-ki-ladki-rakshak-1996-lyrics/</guid>
+      <description>Ladki, Haan… Sheher Ki Ladki&#xA;Aankh Lada Ke Poochhe Hi, How Are You&#xA;Haath Mila Ke Poochhe…</description>
+    </item>
+    <item>
+      <title>Husn Hai Suhana lyrics - Coolie No.1</title>
+      <link>http://localhost:1313/husn-hai-suhana-coolie-no-1-lyrics/</link>
+      <pubDate>Wed, 29 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/husn-hai-suhana-coolie-no-1-lyrics/</guid>
+      <description>Husn Hai Suhana Ishq Hai Deewana&#xA;Roop Ka Khazaana Aaj Hai Lutaana&#xA;Aa Ke Deewane Mujhe Seene Se Laga..</description>
+    </item>
+  </channel>
+</rss>

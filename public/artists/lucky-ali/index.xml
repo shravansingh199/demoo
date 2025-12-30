@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lucky Ali on demo 1</title>
+    <link>http://localhost:1313/artists/lucky-ali/</link>
+    <description>Recent content in Lucky Ali on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Mon, 31 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/artists/lucky-ali/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aahista Aahista lyrics - Shreya Ghoshal, Lucky Ali</title>
+      <link>http://localhost:1313/ahista-ahista-bachna-ae-haseeno-2008-lyrics/</link>
+      <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ahista-ahista-bachna-ae-haseeno-2008-lyrics/</guid>
+      <description>Ahista Ahista Mujhe Yakeen Ho Gaya&#xA;Ahista Ahista Yeh Dil Yahin Kho Gaya Yun Gira Gira Hai…</description>
+    </item>
+    <item>
+      <title>Ek Pal Ka Jeena lyrics</title>
+      <link>http://localhost:1313/ek-pal-ka-jeena-kaho-naa-pyaar-hai-1999-lyrics/</link>
+      <pubDate>Thu, 25 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ek-pal-ka-jeena-kaho-naa-pyaar-hai-1999-lyrics/</guid>
+      <description>Ek Pal Ka Jeena Phir Toh Hai Jaana&#xA;Tohfa Kya Le Ke Jaaye Yeh Dil&#xA;Yeh Bataana Khaali Haath Aaye…</description>
+    </item>
+  </channel>
+</rss>

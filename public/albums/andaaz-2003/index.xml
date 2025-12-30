@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andaaz (2003) on demo 1</title>
+    <link>http://localhost:1313/albums/andaaz-2003/</link>
+    <description>Recent content in Andaaz (2003) on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Thu, 23 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/albums/andaaz-2003/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aayega Maza Ab Barsaat Ka lyrics</title>
+      <link>http://localhost:1313/aayega-maza-ab-barsaat-ka-andaaz-2003-lyrics/</link>
+      <pubDate>Thu, 23 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/aayega-maza-ab-barsaat-ka-andaaz-2003-lyrics/</guid>
+      <description>Aayega Maza Ab Barsaat Ka&#xA;Teri Meri Dilkash Mulaqaat Ka&#xA;Maine Toh Sambhaale Rakha..</description>
+    </item>
+  </channel>
+</rss>

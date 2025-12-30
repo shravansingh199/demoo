@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Navraj Hans on demo 1</title>
+    <link>http://localhost:1313/artists/navraj-hans/</link>
+    <description>Recent content in Navraj Hans on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Sun, 07 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/artists/navraj-hans/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Duggi lyrics - Happy Hardy and Heer</title>
+      <link>http://localhost:1313/duggi-happy-hardy-heer-lyrics/</link>
+      <pubDate>Sun, 07 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/duggi-happy-hardy-heer-lyrics/</guid>
+      <description>Jab Eye To Eye Tere Sang Chaldi&#xA;Jab Tik-Tok Tik-Tok Tu Chaldi&#xA;Haaye, Kaleje Vich Duggi Vajdi…</description>
+    </item>
+    <item>
+      <title>Le Jaana lyrics - Happy Hardy and Heer</title>
+      <link>http://localhost:1313/le-jaana-happy-hardy-and-heer-lyrics/</link>
+      <pubDate>Fri, 22 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/le-jaana-happy-hardy-and-heer-lyrics/</guid>
+      <description>Shagna Waali Raat Hai&#xA;Te Dhol Gali Vich Vajda Ve&#xA;Taare Pande Boliyan Te Chaand Zameen Te..</description>
+    </item>
+    <item>
+      <title>Rail Gaddi lyrics - Tutak Tutak Tutiya</title>
+      <link>http://localhost:1313/rail-gaddi-tutak-tutak-tutiya-lyrics/</link>
+      <pubDate>Fri, 08 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/rail-gaddi-tutak-tutak-tutiya-lyrics/</guid>
+      <description>Goggle Pa Ke Kaale Kaale&#xA;Ucchi Heel Te Aayi&#xA;Engine Ban Gayi Tu Gaddi Da Love Di..</description>
+    </item>
+    <item>
+      <title>Vaddi Sharaban lyrics - De De Pyaar De</title>
+      <link>http://localhost:1313/vaddi-sharaban-de-de-pyaar-de-lyrics/</link>
+      <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/vaddi-sharaban-de-de-pyaar-de-lyrics/</guid>
+      <description>Raat Raat Nasheya’ch&#xA;Nachdi Phiraan Non-Stop Peendi Javaan&#xA;Uff Na Karaan Dil Zid Utte..</description>
+    </item>
+    <item>
+      <title>Dil Melt Karda lyrics - Haseen Dillruba</title>
+      <link>http://localhost:1313/dil-melt-karda-haseen-dillruba-lyrics/</link>
+      <pubDate>Sat, 19 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/dil-melt-karda-haseen-dillruba-lyrics/</guid>
+      <description>Aane Jaane Wale Saare Takne Lage&#xA;Naam Tera Neend Me&#xA;Hum Bakne..</description>
+    </item>
+  </channel>
+</rss>

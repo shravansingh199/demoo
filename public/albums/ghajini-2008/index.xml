@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ghajini (2008) on demo 1</title>
+    <link>http://localhost:1313/albums/ghajini-2008/</link>
+    <description>Recent content in Ghajini (2008) on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Sun, 23 May 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/albums/ghajini-2008/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aye Bachchu lyrics - Suzanne D&#39;Mello</title>
+      <link>http://localhost:1313/aye-bacchu-ghajini-lyrics/</link>
+      <pubDate>Sun, 23 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/aye-bacchu-ghajini-lyrics/</guid>
+      <description>Aye Bacchu, Tu Sunn Le&#xA;Mere Dil Ka Yeh Order&#xA;Ab Khul Ke Jee Le Tu&#xA;Koi Seema..</description>
+    </item>
+    <item>
+      <title>Guzarish lyrics - Ghajini</title>
+      <link>http://localhost:1313/guzarish-ghajini-lyrics/</link>
+      <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/guzarish-ghajini-lyrics/</guid>
+      <description>Tu Meri Adhoori Pyas Pyas&#xA;Tu Aa Gayi Mann Ko Raas Raas&#xA;Ab Toh..</description>
+    </item>
+    <item>
+      <title>Behka lyrics - Ghajini</title>
+      <link>http://localhost:1313/behka-ghajini-lyrics/</link>
+      <pubDate>Tue, 04 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/behka-ghajini-lyrics/</guid>
+      <description>Behka Main Behka&#xA;Woh Behki Hawa Si Aayi&#xA;Ek Hi Nazar Me Sab&#xA;Manzil-Wanzil..</description>
+    </item>
+    <item>
+      <title>Kaise Mujhe lyrics - Benny Dayal, Shreya Ghoshal</title>
+      <link>http://localhost:1313/kaise-mujhe-ghajini/</link>
+      <pubDate>Sun, 28 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/kaise-mujhe-ghajini/</guid>
+      <description>Kaise Mujhe Tum Mil Gayi&#xA;Kismat Pe Aaye Na Yakeen&#xA;Utar Aayi Jheel Me&#xA;Jaise Chaand Utarta Hai Kabhi&#xA;Haule Haule, Dheere Se</description>
+    </item>
+  </channel>
+</rss>

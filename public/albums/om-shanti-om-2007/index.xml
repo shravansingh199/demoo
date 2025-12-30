@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Om Shanti Om (2007) on demo 1</title>
+    <link>http://localhost:1313/albums/om-shanti-om-2007/</link>
+    <description>Recent content in Om Shanti Om (2007) on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Tue, 09 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/albums/om-shanti-om-2007/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ajab Si lyrics - KK</title>
+      <link>http://localhost:1313/ajab-si-om-shanti-om-2007-lyrics/</link>
+      <pubDate>Tue, 09 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ajab-si-om-shanti-om-2007-lyrics/</guid>
+      <description>Aankhon Me Teri Ajab Si, Ajab Si Adayein Hain&#xA;Dil Ko Bana De Jo Patang Saansein…</description>
+    </item>
+    <item>
+      <title>Dard-E-Disco lyrics - Om Shanti Om</title>
+      <link>http://localhost:1313/dard-e-disco-om-shanti-om-2007-lyrics/</link>
+      <pubDate>Tue, 09 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/dard-e-disco-om-shanti-om-2007-lyrics/</guid>
+      <description>Woh Haseena Woh Neelampari&#xA;Kar Gayi Kaisi Jadoogari Neend In Aankhon Se Chheen Li…</description>
+    </item>
+  </channel>
+</rss>

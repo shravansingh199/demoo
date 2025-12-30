@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dil (1990) on demo 1</title>
+    <link>http://localhost:1313/albums/dil-1990/</link>
+    <description>Recent content in Dil (1990) on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Sun, 05 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/albums/dil-1990/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mujhe Neend Na Aaye lyrics</title>
+      <link>http://localhost:1313/mujhe-neend-na-aaye-dil-lyrics/</link>
+      <pubDate>Sun, 05 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mujhe-neend-na-aaye-dil-lyrics/</guid>
+      <description>Mujhe Neend Na Aaye&#xA;Mujhe Chain Na Aaye&#xA;Koi Jaaye Zara Dhoondh Ke Laaye&#xA;Na Jaane Kahan Dil..</description>
+    </item>
+  </channel>
+</rss>

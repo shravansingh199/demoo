@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Made in China (2019) on demo 1</title>
+    <link>http://localhost:1313/albums/made-in-china-2019/</link>
+    <description>Recent content in Made in China (2019) on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Fri, 30 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/albums/made-in-china-2019/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Naari Naari Song lyrics</title>
+      <link>http://localhost:1313/naari-naari-song-made-in-china-lyrics/</link>
+      <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/naari-naari-song-made-in-china-lyrics/</guid>
+      <description>Jo Tu Muskurayi, Hua BP High&#xA;Yeh Peeda Batayi Na Jaaye Habibi Jaan..</description>
+    </item>
+    <item>
+      <title>Odhani lyrics - Made in China</title>
+      <link>http://localhost:1313/odhani-made-in-china-lyrics/</link>
+      <pubDate>Mon, 05 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/odhani-made-in-china-lyrics/</guid>
+      <description>Baby, That&amp;rsquo;s The Flow&#xA;She Will Tell You Where To Go&#xA;Ladki Kar De Mind Blow&#xA;Made In China..</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sultan Khan on demo 1</title>
+    <link>http://localhost:1313/artists/sultan-khan/</link>
+    <description>Recent content in Sultan Khan on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Thu, 27 May 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/artists/sultan-khan/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hum Jo Chalne Lage (Aao Milo Chale) lyrics</title>
+      <link>http://localhost:1313/aao-milo-chalein-jab-we-met-lyrics/</link>
+      <pubDate>Thu, 27 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/aao-milo-chalein-jab-we-met-lyrics/</guid>
+      <description>Hum Jo Chalne Lage&#xA;Chalne Lage Hain Yeh Raaste&#xA;Manzil Se Behtar&#xA;Lagne Lage..</description>
+    </item>
+  </channel>
+</rss>

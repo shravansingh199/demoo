@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ahista Ahista (2006) on demo 1</title>
+    <link>http://localhost:1313/albums/ahista-ahista-2006/</link>
+    <description>Recent content in Ahista Ahista (2006) on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Tue, 02 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/albums/ahista-ahista-2006/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ishq Ne Tere lyrics - Ahista Ahista</title>
+      <link>http://localhost:1313/ishq-ne-tere-ahista-ahista-2006-lyrics/</link>
+      <pubDate>Tue, 02 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ishq-ne-tere-ahista-ahista-2006-lyrics/</guid>
+      <description>Ishq Ne, Tere Ishq Ne Kar Diya, Kar Diya Bekhabar&#xA;Bechain Shaam-o-Sehar Bas Tujhe Yaad Karta Hoon…</description>
+    </item>
+    <item>
+      <title>Ahista Ahista Title Track lyrics</title>
+      <link>http://localhost:1313/ahista-ahista-title-track-lyrics/</link>
+      <pubDate>Sun, 13 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ahista-ahista-title-track-lyrics/</guid>
+      <description>Yaadon Ki Parchhaiyan, Tanhaaiyan Tumse Hi Hai&#xA;Tum Dil Me Shareek..</description>
+    </item>
+    <item>
+      <title>Allah Kare lyrics - Himesh Reshammiya</title>
+      <link>http://localhost:1313/allah-kare-ahista-ahista-lyrics/</link>
+      <pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/allah-kare-ahista-ahista-lyrics/</guid>
+      <description>Jab Tak Khudaayi Rahe&#xA;Tere Dil Pe Mera Naam&#xA;Rahe..&#xA;Allah Kare</description>
+    </item>
+  </channel>
+</rss>

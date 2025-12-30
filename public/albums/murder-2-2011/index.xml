@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Murder 2 (2011) on demo 1</title>
+    <link>http://localhost:1313/albums/murder-2-2011/</link>
+    <description>Recent content in Murder 2 (2011) on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Sun, 05 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/albums/murder-2-2011/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Phir Mohabbat lyrics - Murder 2</title>
+      <link>http://localhost:1313/phir-mohabbat-murder-2-lyrics/</link>
+      <pubDate>Sun, 05 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/phir-mohabbat-murder-2-lyrics/</guid>
+      <description>Jab Jab Tere Paas Main Aaya&#xA;Ek Sukoon Mila&#xA;Jise Main Tha Bhulta Aaya&#xA;Woh Wajood Mila..</description>
+    </item>
+    <item>
+      <title>Tujhko Bhulaana lyrics - Murder 2</title>
+      <link>http://localhost:1313/tujhko-bhulaana-murder-2-lyrics/</link>
+      <pubDate>Tue, 10 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tujhko-bhulaana-murder-2-lyrics/</guid>
+      <description>Tujhko Bhulaana&#xA;Aansoo Na Laana, Na Laana&#xA;Aur Muskuraana, Haan Ab Aa Gaya..</description>
+    </item>
+    <item>
+      <title>Hale Dil lyrics - Murder 2</title>
+      <link>http://localhost:1313/hale-dil-murder-2-lyrics/</link>
+      <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hale-dil-murder-2-lyrics/</guid>
+      <description>Kaash Yun Hota&#xA;Har Shaam Saath Tu Hota&#xA;Chup-Chap Dil Na Yun Rota&#xA;Har Shaam Saath..</description>
+    </item>
+    <item>
+      <title>Aa Zara lyrics - Sunidhi Chauhan</title>
+      <link>http://localhost:1313/aa-zara-murder-2-lyrics/</link>
+      <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/aa-zara-murder-2-lyrics/</guid>
+      <description>Yeh Raat Ruk Jaaye&#xA;Baat Tham Jaaye&#xA;Teri Baanhon Me&#xA;Khwahishein Jagi Hain&#xA;Pyaase Pyaase Labon Pe..</description>
+    </item>
+  </channel>
+</rss>

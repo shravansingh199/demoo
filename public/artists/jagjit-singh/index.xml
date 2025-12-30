@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jagjit Singh on demo 1</title>
+    <link>http://localhost:1313/artists/jagjit-singh/</link>
+    <description>Recent content in Jagjit Singh on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Sun, 23 May 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/artists/jagjit-singh/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aisi Aankhen Nahin Dekhin lyrics</title>
+      <link>http://localhost:1313/aisi-aankhein-nahi-dekhi-aapko-pehle-bhi-kahin-lyrics/</link>
+      <pubDate>Sun, 23 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/aisi-aankhein-nahi-dekhi-aapko-pehle-bhi-kahin-lyrics/</guid>
+      <description>Aisi Aankhein Nahi Dekhi&#xA;Aisa Kajal Nahi Dekha&#xA;Aisa Jalwa Nahi Dekha&#xA;Aisa..</description>
+    </item>
+    <item>
+      <title>Koi Fariyaad lyrics - Jagjit Singh</title>
+      <link>http://localhost:1313/koi-fariyaad-tum-bin-lyrics/</link>
+      <pubDate>Sat, 22 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/koi-fariyaad-tum-bin-lyrics/</guid>
+      <description>Koi Fariyaad Tere Dil Me Dabi Ho Jaise&#xA;Tune Aankhon Se Koi Baat..</description>
+    </item>
+  </channel>
+</rss>

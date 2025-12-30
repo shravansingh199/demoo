@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sukriti Kakar on demo 1</title>
+    <link>http://localhost:1313/artists/sukriti-kakar/</link>
+    <description>Recent content in Sukriti Kakar on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Sat, 13 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/artists/sukriti-kakar/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Is It Love lyrics - Ash King, Sukriti Kakar</title>
+      <link>http://localhost:1313/is-it-love-ash-king-sukriti-kakar-lyrics/</link>
+      <pubDate>Sat, 13 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/is-it-love-ash-king-sukriti-kakar-lyrics/</guid>
+      <description>Tum Ho Khwaabon Me&#xA;Ya Woh Ho Raat Bhar Jo Mujhko Jagaati Hai Jagaati…</description>
+    </item>
+    <item>
+      <title>Kar Gayi Chull lyrics - Kapoor &amp; Sons</title>
+      <link>http://localhost:1313/kar-gayi-chull-kapoor-sons-lyrics/</link>
+      <pubDate>Sun, 12 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/kar-gayi-chull-kapoor-sons-lyrics/</guid>
+      <description>Dekh Tera Rang Saanwla Hua Baawla&#xA;Ladki Nahi Hai Tu Hai Garam Maamla&#xA;Bolti Band Meri Kahu Kya Bhala..</description>
+    </item>
+    <item>
+      <title>Maine Tujhko Dekha lyrics</title>
+      <link>http://localhost:1313/maine-tujhko-dekha-golmaal-again-lyrics/</link>
+      <pubDate>Tue, 03 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/maine-tujhko-dekha-golmaal-again-lyrics/</guid>
+      <description>Maine Tujhko Dekha Teri Orr Dil Phenka&#xA;Pari Tu Heaven Ki Kehna Hai Nazron Ka..</description>
+    </item>
+    <item>
+      <title>Tunu Tunu lyrics - Sukriti Kakar, Vicky &amp; Hardik</title>
+      <link>http://localhost:1313/tunu-tunu-sukriti-kakar-lyrics/</link>
+      <pubDate>Sun, 18 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tunu-tunu-sukriti-kakar-lyrics/</guid>
+      <description>Lakk Mera Tunu Tunu Karta Hai&#xA;English Wale Taal Pe Main Nachdi Kamaal&#xA;Tera Hunda Bura..</description>
+    </item>
+  </channel>
+</rss>

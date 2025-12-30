@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dishoom (2016) on demo 1</title>
+    <link>http://localhost:1313/albums/dishoom-2016/</link>
+    <description>Recent content in Dishoom (2016) on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Mon, 30 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/albums/dishoom-2016/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jaaneman Aah lyrics - Dishoom</title>
+      <link>http://localhost:1313/jaaneman-aah-dishoom-lyrics/</link>
+      <pubDate>Mon, 30 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jaaneman-aah-dishoom-lyrics/</guid>
+      <description>Ishq Me Saare Ilzaam Hai Sacche&#xA;Maine Soch Liya Hai Jo Naam Hai Acchhe&#xA;Do Saal Me Honge..</description>
+    </item>
+  </channel>
+</rss>

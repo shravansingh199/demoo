@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mitron (2018) on demo 1</title>
+    <link>http://localhost:1313/albums/mitron-2018/</link>
+    <description>Recent content in Mitron (2018) on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Fri, 16 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/albums/mitron-2018/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sawarne Lage lyrics - Jubin Nautiyal</title>
+      <link>http://localhost:1313/sawarne-lage-mitron-lyrics/</link>
+      <pubDate>Fri, 16 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sawarne-lage-mitron-lyrics/</guid>
+      <description>Dil Yeh Hawa Me Udne Lage Hai&#xA;Hua Paraaya Ji&#xA;Aadhe Hain Jaage, Aadhe Hain Soye..</description>
+    </item>
+  </channel>
+</rss>

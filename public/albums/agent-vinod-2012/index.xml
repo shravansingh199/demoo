@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Agent Vinod (2012) on demo 1</title>
+    <link>http://localhost:1313/albums/agent-vinod-2012/</link>
+    <description>Recent content in Agent Vinod (2012) on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Sun, 09 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/albums/agent-vinod-2012/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pungi lyrics - Agent Vinod</title>
+      <link>http://localhost:1313/pungi-agent-vinod-2012-lyrics/</link>
+      <pubDate>Sun, 09 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pungi-agent-vinod-2012-lyrics/</guid>
+      <description>Bangle Ke Peechhe Hai Taala&#xA;Ghusu Kahan Se Main, Saala Laila Ki Khidki…</description>
+    </item>
+    <item>
+      <title>Raabta (Night In A Motel) lyrics - Agent Vinod</title>
+      <link>http://localhost:1313/raabta-night-in-a-motel-agent-vinod-lyrics/</link>
+      <pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/raabta-night-in-a-motel-agent-vinod-lyrics/</guid>
+      <description>Phaili Thi Siyaah Raatein&#xA;Aaya Tu Subah Le Ke&#xA;Khwah-Ma-Khwah Si..</description>
+    </item>
+    <item>
+      <title>Raabta (Siyaah Raatein) lyrics - Agent Vinod</title>
+      <link>http://localhost:1313/raabta-siyaah-raatein-agent-vinod-lyrics/</link>
+      <pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/raabta-siyaah-raatein-agent-vinod-lyrics/</guid>
+      <description>Phaili Thi Siyaah Raatein&#xA;Aaya Tu Subah Le Ke&#xA;Bewajah Si Zindagi Me&#xA;Jeene Ki..</description>
+    </item>
+    <item>
+      <title>Raabta lyrics - Agent Vinod</title>
+      <link>http://localhost:1313/raabta-agent-vinod-arijit-singh-lyrics/</link>
+      <pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/raabta-agent-vinod-arijit-singh-lyrics/</guid>
+      <description>Kehte Hain Khuda Iss Jahaan Me&#xA;Sabhi Ke Liye Kisi Na Kisi Ko&#xA;Hai Banaya..</description>
+    </item>
+  </channel>
+</rss>

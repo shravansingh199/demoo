@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Special 26 (2013) on demo 1</title>
+    <link>http://localhost:1313/albums/special-26-2013/</link>
+    <description>Recent content in Special 26 (2013) on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Mon, 24 May 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/albums/special-26-2013/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gore Mukhde Pe Zulfan Di Chhaavan lyrics</title>
+      <link>http://localhost:1313/gore-mukhde-pe-special-26-lyrics/</link>
+      <pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gore-mukhde-pe-special-26-lyrics/</guid>
+      <description>Chitaa Jeha Roop Soniye&#xA;Ki Lewegi Tu Mol Soniye&#xA;Main Jado Jado Tennu Takiyan&#xA;Te Dil Jaave Dol..</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nihal Tauro on demo 1</title>
+    <link>http://localhost:1313/artists/nihal-tauro/</link>
+    <description>Recent content in Nihal Tauro on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Thu, 11 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/artists/nihal-tauro/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mehendi Ka Ranngg lyrics</title>
+      <link>http://localhost:1313/mehendi-ka-ranngg-nihal-tauro-sayli-kamble-lyrics/</link>
+      <pubDate>Thu, 11 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mehendi-ka-ranngg-nihal-tauro-sayli-kamble-lyrics/</guid>
+      <description>Maine Mehendi Ka Rang&#xA;Tere Naam Kiya Maine Apna Jahaan&#xA;Tere Naam Kiya Yeh Dil, Yeh..</description>
+    </item>
+    <item>
+      <title>Agarr Tumm Naa Hote lyrics - Nihal Tauro</title>
+      <link>http://localhost:1313/agarr-tumm-naa-hote-nihal-tauro-lyrics/</link>
+      <pubDate>Mon, 20 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/agarr-tumm-naa-hote-nihal-tauro-lyrics/</guid>
+      <description>Iklauta Dil Tha Mera Kaise Sambhala&#xA;Tanhaiyon Se Isey Tune Nikaala&#xA;Ishq Ki Mujhko Chaahat Na Hoti..</description>
+    </item>
+  </channel>
+</rss>

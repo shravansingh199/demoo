@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sajid on demo 1</title>
+    <link>http://localhost:1313/artists/sajid/</link>
+    <description>Recent content in Sajid on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Wed, 05 May 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/artists/sajid/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Radhe Title Track lyrics</title>
+      <link>http://localhost:1313/radhe-title-track-lyrics/</link>
+      <pubDate>Wed, 05 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/radhe-title-track-lyrics/</guid>
+      <description>Downtown In The City I&amp;rsquo;m A Wanted&#xA;Saare Log Saala Bole Mujhe Wanted&#xA;Dil Se Mohabbat Thodi..</description>
+    </item>
+  </channel>
+</rss>

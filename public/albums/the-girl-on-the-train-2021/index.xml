@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Girl on the Train (2021) on demo 1</title>
+    <link>http://localhost:1313/albums/the-girl-on-the-train-2021/</link>
+    <description>Recent content in The Girl on the Train (2021) on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Sat, 26 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/albums/the-girl-on-the-train-2021/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Matlabi Yariyan lyrics - Neha Kakkar</title>
+      <link>http://localhost:1313/matlabi-yariyan-the-girl-on-the-train-lyrics/</link>
+      <pubDate>Sat, 26 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/matlabi-yariyan-the-girl-on-the-train-lyrics/</guid>
+      <description>Kyun Beech Me Yeh Deewarein Hain&#xA;Badhne Lagi Yeh Daraarein Hain&#xA;Hai Wajah, Kuchh..</description>
+    </item>
+  </channel>
+</rss>

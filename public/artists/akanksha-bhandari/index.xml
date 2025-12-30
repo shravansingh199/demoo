@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Akanksha Bhandari on demo 1</title>
+    <link>http://localhost:1313/artists/akanksha-bhandari/</link>
+    <description>Recent content in Akanksha Bhandari on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Sun, 31 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/artists/akanksha-bhandari/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gumsum lyrics - Akanksha Bhandari</title>
+      <link>http://localhost:1313/gumsum-akanksha-bhandari-lyrics/</link>
+      <pubDate>Sun, 31 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gumsum-akanksha-bhandari-lyrics/</guid>
+      <description>Tu Gumsum Hai Main Bhi Pareshan Hoon&#xA;Dil Ki Yeh Khwaahishein Yahi Tu Ho Jahan, Main…</description>
+    </item>
+    <item>
+      <title>Tere Liye lyrics - Namaste England</title>
+      <link>http://localhost:1313/tere-liye-namaste-england-lyrics/</link>
+      <pubDate>Fri, 06 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tere-liye-namaste-england-lyrics/</guid>
+      <description>Tu Hi Bata&#xA;Kaun Tu Hai Mera Kab Se Tu Dil Me&#xA;Rehta Hai Kya Pata Kyun Laage Mujhe..</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hungama (2003) on demo 1</title>
+    <link>http://localhost:1313/albums/hungama-2003/</link>
+    <description>Recent content in Hungama (2003) on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Wed, 19 May 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/albums/hungama-2003/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tera Dil lyrics - Hungama</title>
+      <link>http://localhost:1313/tera-dil-mere-paas-hungama-lyrics/</link>
+      <pubDate>Wed, 19 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tera-dil-mere-paas-hungama-lyrics/</guid>
+      <description>Aaj Tujhse Jo Kehna Hai, Kehne De&#xA;Tera Dil Mere Paas Rehne..</description>
+    </item>
+  </channel>
+</rss>

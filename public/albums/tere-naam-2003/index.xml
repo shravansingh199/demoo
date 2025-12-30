@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tere Naam (2003) on demo 1</title>
+    <link>http://localhost:1313/albums/tere-naam-2003/</link>
+    <description>Recent content in Tere Naam (2003) on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Sun, 26 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/albums/tere-naam-2003/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lagan Lagi lyrics - Tere Naam</title>
+      <link>http://localhost:1313/lagan-lagi-tere-naam-lyrics/</link>
+      <pubDate>Sun, 26 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/lagan-lagi-tere-naam-lyrics/</guid>
+      <description>Aankhein Tere Daras Ko Tarse&#xA;Yaad Me Teri Naina Barse&#xA;Honthon Pe Hai Naam Tera..</description>
+    </item>
+    <item>
+      <title>Kyo Kisi Ko lyrics - Tere Naam</title>
+      <link>http://localhost:1313/kyun-kisi-ko-tere-naam-lyrics/</link>
+      <pubDate>Fri, 24 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/kyun-kisi-ko-tere-naam-lyrics/</guid>
+      <description>Kyun Kisi Ko Wafa Ke Badle Wafa Nahi Milti&#xA;Kyun Kisi Ko Dua Ke Badle Dua Nahi..</description>
+    </item>
+    <item>
+      <title>Odhani lyrics - Tere Naam</title>
+      <link>http://localhost:1313/odhani-tere-naam-lyrics/</link>
+      <pubDate>Sun, 15 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/odhani-tere-naam-lyrics/</guid>
+      <description>Naachu Odhani Odh Ke Yaar&#xA;Ke Dil Pardesi Ho Gaya&#xA;Hame Tumse Ho Gaya Pyar Ke Dil..</description>
+    </item>
+    <item>
+      <title>Tumse Milna lyrics - Tere Naam</title>
+      <link>http://localhost:1313/tumse-milna-tere-naam-lyrics/</link>
+      <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tumse-milna-tere-naam-lyrics/</guid>
+      <description>Tumse Milna, Baatein Karna&#xA;Bada Acchha Lagta Hai&#xA;Kya Hai Yeh, Kyun Hai Yeh&#xA;Kya Khabar..</description>
+    </item>
+    <item>
+      <title>Chand lyrics - Tere Naam</title>
+      <link>http://localhost:1313/chand-tere-naam-lyrics/</link>
+      <pubDate>Fri, 07 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/chand-tere-naam-lyrics/</guid>
+      <description>Tauba Yeh Saadgi, Chehre Pe Taazgi&#xA;Yeh Baat Usme Kahan&#xA;Us Chaand Ka Muqaabla..</description>
+    </item>
+    <item>
+      <title>Tere Naam Title Track lyrics</title>
+      <link>http://localhost:1313/tere-naam-title-track-lyrics/</link>
+      <pubDate>Fri, 07 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tere-naam-title-track-lyrics/</guid>
+      <description>Tere Naam, Humne Kiya Hai&#xA;Jeevan Apna Saara Sanam&#xA;Pyar Bahut, Karte Hain..</description>
+    </item>
+  </channel>
+</rss>

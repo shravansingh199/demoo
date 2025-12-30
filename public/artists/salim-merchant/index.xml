@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Salim Merchant on demo 1</title>
+    <link>http://localhost:1313/artists/salim-merchant/</link>
+    <description>Recent content in Salim Merchant on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Fri, 13 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/artists/salim-merchant/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jigar Da Tukda lyrics - Ladies vs Ricky Bahl</title>
+      <link>http://localhost:1313/jigar-da-tukda-ladies-vs-ricky-bahl-lyrics/</link>
+      <pubDate>Fri, 13 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jigar-da-tukda-ladies-vs-ricky-bahl-lyrics/</guid>
+      <description>Disco Te Club-Shub&#xA;Main Ki Karaan Bar Ya Pub-Shub Main Ki Karaan..</description>
+    </item>
+    <item>
+      <title>Ishq Wala Love lyrics - Student of the Year</title>
+      <link>http://localhost:1313/ishq-wala-love-student-of-the-year-lyrics/</link>
+      <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ishq-wala-love-student-of-the-year-lyrics/</guid>
+      <description>Jhaanke Baadlon Ki Jaali Ke Peechhe Se&#xA;Kare Chaandni Yeh Mujhko Ittela&#xA;Leke Noor Saara..</description>
+    </item>
+    <item>
+      <title>Mar Jawaan lyrics - Fashion</title>
+      <link>http://localhost:1313/mar-jawaan-fashion-lyrics/</link>
+      <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mar-jawaan-fashion-lyrics/</guid>
+      <description>Mar Jaawan, Mar Jaawan&#xA;Tere Ishq Pe Mar Jaawan&#xA;Bheege Bheege Sapno Ka Jaise..</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Suresh Wadkar on demo 1</title>
+    <link>http://localhost:1313/artists/suresh-wadkar/</link>
+    <description>Recent content in Suresh Wadkar on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Wed, 10 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/artists/suresh-wadkar/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mujhse Shaadi Karogi lyrics - Dulhan Hum Le Jayenge</title>
+      <link>http://localhost:1313/mujhse-shaadi-karogi-dulhan-hum-le-jayenge-2000-lyrics/</link>
+      <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mujhse-shaadi-karogi-dulhan-hum-le-jayenge-2000-lyrics/</guid>
+      <description>Raat Ko Aaunga Main&#xA;Tujhe Le Jaaunga Main&#xA;Film Dikhaaunga Main Sair Karaaunga…</description>
+    </item>
+    <item>
+      <title>Gunja Re Chandan lyrics - Nadiya Ke Paar</title>
+      <link>http://localhost:1313/gunja-re-chandan-nadiya-ke-paar-1982-lyrics/</link>
+      <pubDate>Thu, 07 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gunja-re-chandan-nadiya-ke-paar-1982-lyrics/</guid>
+      <description>Gunja Re.. Chandan, Chandan, Chandan&#xA;Hum Dono Me Dono Kho Gaye Dekho Ek Dusre Ke</description>
+    </item>
+  </channel>
+</rss>

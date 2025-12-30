@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Preeti–Pinky on demo 1</title>
+    <link>http://localhost:1313/artists/preetipinky/</link>
+    <description>Recent content in Preeti–Pinky on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Thu, 26 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/artists/preetipinky/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Maine Koi Jadoo Nahin Kiya lyrics</title>
+      <link>http://localhost:1313/maine-koi-jadoo-mujhe-kucch-kehna-hai-lyrics/</link>
+      <pubDate>Thu, 26 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/maine-koi-jadoo-mujhe-kucch-kehna-hai-lyrics/</guid>
+      <description>Ankhiyon Ne Raat Kya Jadoo Kiya&#xA;Kya Jadoo Kiya&#xA;Maine Koi Jadoo Nahi Kiya..</description>
+    </item>
+    <item>
+      <title>Piya Piya O Piya lyrics - Preeti–Pinky</title>
+      <link>http://localhost:1313/piya-piya-o-piya-lyrics/</link>
+      <pubDate>Thu, 15 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/piya-piya-o-piya-lyrics/</guid>
+      <description>Subah Shaam Kare Mera Jiya&#xA;Jiya Jiya Jiya Jiya&#xA;Piya Piya O Piya Piya..</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Juggy D on demo 1</title>
+    <link>http://localhost:1313/artists/juggy-d/</link>
+    <description>Recent content in Juggy D on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Tue, 25 May 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/artists/juggy-d/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>U &#39;n&#39; I (Mere Dil Vich Hum Tum) lyrics</title>
+      <link>http://localhost:1313/u-n-i-mere-dil-vich-hum-tum-lyrics/</link>
+      <pubDate>Tue, 25 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/u-n-i-mere-dil-vich-hum-tum-lyrics/</guid>
+      <description>Hangin’ With The Girls At The Weekend&#xA;Tryna Have A Laugh And A Good Time&#xA;Why You Callin’ Me..</description>
+    </item>
+  </channel>
+</rss>

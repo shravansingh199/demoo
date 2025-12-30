@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ONE (Original Never Ends) (2018) Album on demo 1</title>
+    <link>http://localhost:1313/albums/one-original-never-ends-2018-album/</link>
+    <description>Recent content in ONE (Original Never Ends) (2018) Album on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Sat, 22 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/albums/one-original-never-ends-2018-album/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>She Move It Like lyrics - Badshah</title>
+      <link>http://localhost:1313/she-move-it-like-badshah-lyrics/</link>
+      <pubDate>Sat, 22 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/she-move-it-like-badshah-lyrics/</guid>
+      <description>Main Han Munda Sidha Sadha&#xA;Mainu Labhda Ni Hal Tainu Handle Karaan Main Mere…</description>
+    </item>
+    <item>
+      <title>DJ Waley Babu lyrics - Aastha Gill, Badshah</title>
+      <link>http://localhost:1313/dj-waley-babu-badshah-lyrics/</link>
+      <pubDate>Thu, 10 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/dj-waley-babu-badshah-lyrics/</guid>
+      <description>DJ Waale, Mera Gaana Tu Chala De&#xA;Thodi Volume Oonchi Kar De&#xA;Thoda Bass Tu..</description>
+    </item>
+    <item>
+      <title>Mercy lyrics - Badshah</title>
+      <link>http://localhost:1313/mercy-badshah-lyrics/</link>
+      <pubDate>Fri, 16 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mercy-badshah-lyrics/</guid>
+      <description>Ek Kone Me Tha Baitha Jab Mujhe Woh Dikhi&#xA;Thi Woh Sabse Alag, Thi Woh Sabse Haseen&#xA;Aankhein Meri Fir Uski Aankhon Se..</description>
+    </item>
+  </channel>
+</rss>

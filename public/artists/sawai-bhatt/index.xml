@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sawai Bhatt on demo 1</title>
+    <link>http://localhost:1313/artists/sawai-bhatt/</link>
+    <description>Recent content in Sawai Bhatt on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Thu, 16 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/artists/sawai-bhatt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Yeh Dil Merra Maane Kahaan lyrics</title>
+      <link>http://localhost:1313/yeh-dil-merra-maane-kahaan-palak-muchhal-sawai-bhatt-lyrics/</link>
+      <pubDate>Thu, 16 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/yeh-dil-merra-maane-kahaan-palak-muchhal-sawai-bhatt-lyrics/</guid>
+      <description>Laazmi Tha Tumse Door Jaana&#xA;Magar, Aye Jaan-e-Jaan Yeh Dil Mera…</description>
+    </item>
+    <item>
+      <title>Maujood Hai lyrics - Sawai Bhatt</title>
+      <link>http://localhost:1313/maujood-hai-sawai-bhatt-lyrics/</link>
+      <pubDate>Thu, 28 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/maujood-hai-sawai-bhatt-lyrics/</guid>
+      <description>Maujood Hai Tu Meri Rag-Rag Me&#xA;Tu Mera Jeevan, Tu Wajood Mera Tere Naam Se…</description>
+    </item>
+    <item>
+      <title>O Sajnaa lyrics - Sawai Bhatt</title>
+      <link>http://localhost:1313/o-sajnaa-sawai-bhatt-lyrics/</link>
+      <pubDate>Mon, 06 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/o-sajnaa-sawai-bhatt-lyrics/</guid>
+      <description>Inn Saanson Ki Chilman Me&#xA;Baste Ho Mere Mann Me&#xA;Tum Ho Dil Me Dhadkan Me, O Sajna..</description>
+    </item>
+    <item>
+      <title>Sanseinn lyrics - Sawai Bhatt</title>
+      <link>http://localhost:1313/sanseinn-himesh-ke-dil-se-lyrics/</link>
+      <pubDate>Sat, 03 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sanseinn-himesh-ke-dil-se-lyrics/</guid>
+      <description>Meri Taqdeer Ka Aayina&#xA;Tujhse Hi, Aye Mere Humsafar&#xA;Rabb Se Hai Yeh..</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ishq Hai Tumse (2004) on demo 1</title>
+    <link>http://localhost:1313/albums/ishq-hai-tumse-2004/</link>
+    <description>Recent content in Ishq Hai Tumse (2004) on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Sun, 14 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/albums/ishq-hai-tumse-2004/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ishq Hai Zindagi lyrics - Ishq Hai Tumse</title>
+      <link>http://localhost:1313/ishq-hai-zindagi-ishq-hai-tumse-2004-lyrics/</link>
+      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ishq-hai-zindagi-ishq-hai-tumse-2004-lyrics/</guid>
+      <description>Shab-e-Furqat Me Dil Ne Mehsoos Kiya&#xA;Ishq Hai Zindagi, Zindagi Pyar Hai Dard-e-Dil Ki Dawa…</description>
+    </item>
+    <item>
+      <title>Dil Dil lyrics - Ishq Hai Tumse</title>
+      <link>http://localhost:1313/dil-dil-dil-yeh-dil-ishq-hai-tumse-lyrics/</link>
+      <pubDate>Mon, 20 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/dil-dil-dil-yeh-dil-ishq-hai-tumse-lyrics/</guid>
+      <description>Jaane Kya Kya Karaaye&#xA;Kayi Sapne Dikhaaye Bechaini Badhaaye&#xA;Dil Dil Dil Yeh Dil..</description>
+    </item>
+  </channel>
+</rss>

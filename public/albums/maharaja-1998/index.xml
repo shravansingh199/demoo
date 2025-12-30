@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maharaja (1998) on demo 1</title>
+    <link>http://localhost:1313/albums/maharaja-1998/</link>
+    <description>Recent content in Maharaja (1998) on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Wed, 19 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/albums/maharaja-1998/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Maharaja Title Track lyrics</title>
+      <link>http://localhost:1313/maharaja-1998-title-track-lyrics/</link>
+      <pubDate>Wed, 19 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/maharaja-1998-title-track-lyrics/</guid>
+      <description>Main Tera Deewana, Tu Meri Deewani&#xA;Bas Yahi Hai Maharaja Ki Kahani Baaton Me Mohabbat, Dhadkan…</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tom Dick and Harry (2006) on demo 1</title>
+    <link>http://localhost:1313/albums/tom-dick-and-harry-2006/</link>
+    <description>Recent content in Tom Dick and Harry (2006) on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Mon, 08 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/albums/tom-dick-and-harry-2006/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chheena Re Chheena lyrics - Sunidhi Chauhan</title>
+      <link>http://localhost:1313/chheena-re-chheena-tom-dick-harry-2006-lyrics/</link>
+      <pubDate>Mon, 08 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/chheena-re-chheena-tom-dick-harry-2006-lyrics/</guid>
+      <description>Chheena Re Chheena Dil&#xA;Teri Zaalim Qaraari Adaa Ne Sanam Chheena Re…</description>
+    </item>
+    <item>
+      <title>Tanha Jiya Na Jaye lyrics</title>
+      <link>http://localhost:1313/tanha-jiya-na-jaye-tom-dick-and-harry-lyrics/</link>
+      <pubDate>Wed, 04 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tanha-jiya-na-jaye-tom-dick-and-harry-lyrics/</guid>
+      <description>Bin Tere O Mere Saathiya&#xA;Haaye, Sukoon Na Aaye&#xA;Tanha Jiya Na Jaaye..</description>
+    </item>
+  </channel>
+</rss>

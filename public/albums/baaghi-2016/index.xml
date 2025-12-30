@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Baaghi (2016) on demo 1</title>
+    <link>http://localhost:1313/albums/baaghi-2016/</link>
+    <description>Recent content in Baaghi (2016) on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Thu, 20 May 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/albums/baaghi-2016/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Agar Tu Hota lyrics - Baaghi</title>
+      <link>http://localhost:1313/agar-tu-hota-baaghi-lyrics/</link>
+      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/agar-tu-hota-baaghi-lyrics/</guid>
+      <description>Meri Raahon Me Pade&#xA;Tere Pairon Ke Nishaan&#xA;Ne Kaha&#xA;Teri Saanson Se..</description>
+    </item>
+    <item>
+      <title>Girl I Need You lyrics - Baaghi</title>
+      <link>http://localhost:1313/girl-i-need-you-baaghi-lyrics/</link>
+      <pubDate>Sun, 16 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/girl-i-need-you-baaghi-lyrics/</guid>
+      <description>Tujhpe Meri Hai Daavedaariyan&#xA;Tujhse Hai Dil Ki Saajhedaariyan&#xA;Tere Bin Saansein Loon Toh..</description>
+    </item>
+  </channel>
+</rss>

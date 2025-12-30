@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pakeezah (1972) on demo 1</title>
+    <link>http://localhost:1313/albums/pakeezah-1972/</link>
+    <description>Recent content in Pakeezah (1972) on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Sat, 27 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/albums/pakeezah-1972/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chalte Chalte Yun Hi Koi lyrics</title>
+      <link>http://localhost:1313/chalte-chalte-yun-hi-koi-pakeezah-1972-lyrics/</link>
+      <pubDate>Sat, 27 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/chalte-chalte-yun-hi-koi-pakeezah-1972-lyrics/</guid>
+      <description>Chalte Chalte Yun Hi Koi Mil Gaya Tha&#xA;Sar-e-Raah Chalte Chalte Wahin Tham Ke Reh…</description>
+    </item>
+  </channel>
+</rss>

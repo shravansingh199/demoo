@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hum Do Hamare Do (2021) on demo 1</title>
+    <link>http://localhost:1313/albums/hum-do-hamare-do-2021/</link>
+    <description>Recent content in Hum Do Hamare Do (2021) on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Fri, 22 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/albums/hum-do-hamare-do-2021/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kamli lyrics - Jubin Nautiyal</title>
+      <link>http://localhost:1313/kamli-hum-do-hamare-do-2021-lyrics/</link>
+      <pubDate>Fri, 22 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/kamli-hum-do-hamare-do-2021-lyrics/</guid>
+      <description>Main Tan Kamli Ho Gaiyan Je Mainu Ishq Hoya&#xA;Roohdariyan Hain Aisi Hove Na Bayaan..</description>
+    </item>
+  </channel>
+</rss>

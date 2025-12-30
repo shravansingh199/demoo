@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hum Ho Gaye Aap Ke (2001) on demo 1</title>
+    <link>http://localhost:1313/albums/hum-ho-gaye-aap-ke-2001/</link>
+    <description>Recent content in Hum Ho Gaye Aap Ke (2001) on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Tue, 30 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/albums/hum-ho-gaye-aap-ke-2001/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hum Ho Gaye Aap Ke Title Track lyrics</title>
+      <link>http://localhost:1313/hum-ho-gaye-aapke-title-track/</link>
+      <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hum-ho-gaye-aapke-title-track/</guid>
+      <description>Kyun Bekhudi Si Chhai Hai&#xA;Kyun Aag Si Lagai Hai Aapne&#xA;Ho.. Hum Ho Gaye Aapke</description>
+    </item>
+    <item>
+      <title>Pehli Baar Dil Yun lyrics</title>
+      <link>http://localhost:1313/pehli-baar-dil-yun-lyrics/</link>
+      <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pehli-baar-dil-yun-lyrics/</guid>
+      <description>Pehli Baar Dil Yun&#xA;Bekaraar Hua Hai&#xA;Aisa Lag Raha Hai&#xA;Jaise Pyar Hua Hai</description>
+    </item>
+  </channel>
+</rss>

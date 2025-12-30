@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dastak (1996) on demo 1</title>
+    <link>http://localhost:1313/albums/dastak-1996/</link>
+    <description>Recent content in Dastak (1996) on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Mon, 24 May 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/albums/dastak-1996/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jadoo Bhari lyrics - Dastak</title>
+      <link>http://localhost:1313/jaadu-bhari-dastak-lyrics/</link>
+      <pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jaadu-bhari-dastak-lyrics/</guid>
+      <description>Mujhko Jab Aise Dekhti Ho Tum&#xA;Rang Bhar Jaate Hain Fizaaon Me&#xA;Kasmasaati Hai Aarzoo..</description>
+    </item>
+  </channel>
+</rss>

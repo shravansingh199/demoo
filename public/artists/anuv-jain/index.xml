@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anuv Jain on demo 1</title>
+    <link>http://localhost:1313/artists/anuv-jain/</link>
+    <description>Recent content in Anuv Jain on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Fri, 23 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/artists/anuv-jain/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Baarishein lyrics - Anuv Jain</title>
+      <link>http://localhost:1313/baarishein-anuv-jain-lyrics/</link>
+      <pubDate>Fri, 23 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/baarishein-anuv-jain-lyrics/</guid>
+      <description>Haule Se, Dheeme Se&#xA;Mujhko Baanhon Me Bharlo Naa Tum&#xA;Naram Si Saanson Me Mujhko Aahon Me..</description>
+    </item>
+    <item>
+      <title>Gul lyrics - Anuv Jain</title>
+      <link>http://localhost:1313/gul-anuv-jain-lyrics/</link>
+      <pubDate>Fri, 23 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gul-anuv-jain-lyrics/</guid>
+      <description>Na Dastakein, Yeh Tere Dil Ki&#xA;Haan, Wahi Dhadkane Hain&#xA;Yun Zor Se Jo Tujhko..</description>
+    </item>
+  </channel>
+</rss>

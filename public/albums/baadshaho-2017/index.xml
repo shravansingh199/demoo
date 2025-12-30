@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Baadshaho (2017) on demo 1</title>
+    <link>http://localhost:1313/albums/baadshaho-2017/</link>
+    <description>Recent content in Baadshaho (2017) on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Fri, 23 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/albums/baadshaho-2017/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Piya More lyrics - Neeti Mohan, Mika Singh</title>
+      <link>http://localhost:1313/piya-more-baadshaho-lyrics/</link>
+      <pubDate>Fri, 23 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/piya-more-baadshaho-lyrics/</guid>
+      <description>Piya More Bhole Bhole&#xA;Move Your Body Haule Haule&#xA;Le Chale Jahan Tu Sang Saath Jaana Hai..</description>
+    </item>
+  </channel>
+</rss>

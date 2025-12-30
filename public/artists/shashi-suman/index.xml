@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shashi Suman on demo 1</title>
+    <link>http://localhost:1313/artists/shashi-suman/</link>
+    <description>Recent content in Shashi Suman on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Tue, 28 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/artists/shashi-suman/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mora Piya lyrics - Raajneeti</title>
+      <link>http://localhost:1313/mora-piya-raajneeti-lyrics/</link>
+      <pubDate>Tue, 28 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mora-piya-raajneeti-lyrics/</guid>
+      <description>Piya Mora, Mora Piya&#xA;Maanat Naahi Mohe Piya Mora Piya&#xA;Mora Piya Mose Bolat Naahi..</description>
+    </item>
+  </channel>
+</rss>

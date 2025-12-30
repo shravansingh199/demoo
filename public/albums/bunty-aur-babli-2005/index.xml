@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bunty Aur Babli (2005) on demo 1</title>
+    <link>http://localhost:1313/albums/bunty-aur-babli-2005/</link>
+    <description>Recent content in Bunty Aur Babli (2005) on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Wed, 05 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/albums/bunty-aur-babli-2005/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kajra Re lyrics - Bunty aur Babli</title>
+      <link>http://localhost:1313/kajra-re-bunty-aur-babli-2005-lyrics/</link>
+      <pubDate>Wed, 05 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/kajra-re-bunty-aur-babli-2005-lyrics/</guid>
+      <description>Aisi Nazar Se Dekha Us Zaalim Ne Chowk Par&#xA;Humne Kaleja Rakh Diya Chaaku Ki…</description>
+    </item>
+    <item>
+      <title>Nach Baliye lyrics - Bunty Aur Babli</title>
+      <link>http://localhost:1313/nach-baliye-bunty-aur-babli-lyrics/</link>
+      <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/nach-baliye-bunty-aur-babli-lyrics/</guid>
+      <description>Aaja Udiye Chal Udiye&#xA;Aaja Udiye Udd Vekhiye&#xA;Ho, Raanjheya Di Gali Aaj Chal..</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dhoom 3 (2013) on demo 1</title>
+    <link>http://localhost:1313/albums/dhoom-3-2013/</link>
+    <description>Recent content in Dhoom 3 (2013) on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Fri, 07 May 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/albums/dhoom-3-2013/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dhoom Machale Dhoom lyrics - Aditi Singh Sharma</title>
+      <link>http://localhost:1313/dhoom-machale-dhoom-3-lyrics/</link>
+      <pubDate>Fri, 07 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/dhoom-machale-dhoom-3-lyrics/</guid>
+      <description>Dhoom Dhoom Sar Chadhi Hai&#xA;Dhoom Dhoom Bekhudi Hai&#xA;Dhoom Dhoom Isme Gum Ho..</description>
+    </item>
+    <item>
+      <title>Malang lyrics - Dhoom 3</title>
+      <link>http://localhost:1313/malang-dhoom-3-lyrics/</link>
+      <pubDate>Wed, 05 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/malang-dhoom-3-lyrics/</guid>
+      <description>Ishq Labon Pe, Ishq Dua Me&#xA;Jism Me, Rooh Me Ishq Rawan…&#xA;Ishq Nazar Me, Ishq Bashar Me&#xA;Aks Me, Raks Me..</description>
+    </item>
+    <item>
+      <title>Kamli lyrics - Sunidhi Chauhan</title>
+      <link>http://localhost:1313/kamli-dhoom-3-lyrics/</link>
+      <pubDate>Mon, 03 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/kamli-dhoom-3-lyrics/</guid>
+      <description>Main Rootheya Yaar Manawangi&#xA;Har Chilman Phoonk Jalawangi&#xA;Jab Patthar Raanjha Pighlega&#xA;Tad Main Kamli..</description>
+    </item>
+  </channel>
+</rss>

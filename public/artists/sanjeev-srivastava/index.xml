@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sanjeev Srivastava on demo 1</title>
+    <link>http://localhost:1313/artists/sanjeev-srivastava/</link>
+    <description>Recent content in Sanjeev Srivastava on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Fri, 28 May 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/artists/sanjeev-srivastava/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sulgi Hui Hai Raakh lyrics - Revolver Rani</title>
+      <link>http://localhost:1313/sulgi-hui-hai-raakh-revolver-rani-lyrics/</link>
+      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sulgi-hui-hai-raakh-revolver-rani-lyrics/</guid>
+      <description>Sulgi Hui Hai Raakh Dil Me Dabi&#xA;Guzri Hui Aahat Suni Hai Abhi&#xA;Pal-Pal Gale Me Jo..</description>
+    </item>
+  </channel>
+</rss>

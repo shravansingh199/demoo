@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Super Sitaara the Album on demo 1</title>
+    <link>http://localhost:1313/albums/super-sitaara-the-album/</link>
+    <description>Recent content in Super Sitaara the Album on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Wed, 25 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/albums/super-sitaara-the-album/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Humnavva Humsafar lyrics - Kumar Sanu, Alka Yagnik</title>
+      <link>http://localhost:1313/humnavva-humsafar-super-sitaara-album-lyrics/</link>
+      <pubDate>Wed, 25 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/humnavva-humsafar-super-sitaara-album-lyrics/</guid>
+      <description>Humnava.. Humsafar&#xA;Meri Duniya, Teri Galiyan&#xA;Tera Ghar Ban Jaao Tum Mere..</description>
+    </item>
+  </channel>
+</rss>

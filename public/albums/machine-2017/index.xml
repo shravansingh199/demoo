@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine (2017) on demo 1</title>
+    <link>http://localhost:1313/albums/machine-2017/</link>
+    <description>Recent content in Machine (2017) on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Mon, 30 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/albums/machine-2017/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chatur Naar lyrics - Machine</title>
+      <link>http://localhost:1313/ek-chatur-naar-machine-lyrics/</link>
+      <pubDate>Mon, 30 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ek-chatur-naar-machine-lyrics/</guid>
+      <description>Ek Chatur Naar Every Shanivaar&#xA;Mere Mann Ke Taar Ko Chhedat Jaat&#xA;Badi Hoshiyaar, De Ke Smile Yaar..</description>
+    </item>
+    <item>
+      <title>Tera Junoon lyrics - Jubin Nautiyal</title>
+      <link>http://localhost:1313/tera-junoon-machine-lyrics/</link>
+      <pubDate>Sat, 24 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tera-junoon-machine-lyrics/</guid>
+      <description>Tera Junoon Hai Sar Pe Chadha&#xA;Mujhe Na Sukoon Hai, Kar De Riha&#xA;Haal Yeh Mera Dekh Zara..</description>
+    </item>
+    <item>
+      <title>Cheez Badi lyrics - Neha Kakkar, Udit Narayan</title>
+      <link>http://localhost:1313/cheez-badi-machine-lyrics/</link>
+      <pubDate>Tue, 29 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cheez-badi-machine-lyrics/</guid>
+      <description>Kaliyon Jaisa Husn Jo Paaya&#xA;Har Adaa Me Noor Hai Aaya&#xA;Saath Mere Aur Sat’hattar Ghayal..</description>
+    </item>
+  </channel>
+</rss>

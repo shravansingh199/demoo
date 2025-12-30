@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome (2007) on demo 1</title>
+    <link>http://localhost:1313/albums/welcome-2007/</link>
+    <description>Recent content in Welcome (2007) on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Wed, 06 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/albums/welcome-2007/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kola Laka Vellari lyrics - Himesh Reshammiya</title>
+      <link>http://localhost:1313/kola-laka-vellari-welcome-2007-lyrics/</link>
+      <pubDate>Wed, 06 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/kola-laka-vellari-welcome-2007-lyrics/</guid>
+      <description>Tujhe Yaad Kar Ke&#xA;Mujhe Chain Aave Mere Jaaniya Ve&#xA;Kola Laka Vellari Zindagi Tu, Aashiqui Tu..</description>
+    </item>
+  </channel>
+</rss>

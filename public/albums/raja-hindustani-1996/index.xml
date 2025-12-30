@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Raja Hindustani (1996) on demo 1</title>
+    <link>http://localhost:1313/albums/raja-hindustani-1996/</link>
+    <description>Recent content in Raja Hindustani (1996) on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Wed, 12 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/albums/raja-hindustani-1996/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aaye Ho Meri Zindagi Mein lyrics</title>
+      <link>http://localhost:1313/aaye-ho-meri-zindagi-mein-raja-hindustani-1996-lyrics/</link>
+      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/aaye-ho-meri-zindagi-mein-raja-hindustani-1996-lyrics/</guid>
+      <description>Aaye Ho Meri Zindagi Me&#xA;Tum Bahaar Ban Ke Mere Dil Me Yun Hi Rehna, Haaye…</description>
+    </item>
+    <item>
+      <title>Pardesi Pardesi lyrics - Raja Hindustani</title>
+      <link>http://localhost:1313/pardesi-pardesi-raja-hindustani-1996-lyrics/</link>
+      <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pardesi-pardesi-raja-hindustani-1996-lyrics/</guid>
+      <description>Main Yeh Nahi Kehti Ke Pyar Mat Karna&#xA;Kisi Musaafir Ka Magar Aitbaar…</description>
+    </item>
+    <item>
+      <title>Kitna Pyara Tujhe lyrics - Raja Hindustani</title>
+      <link>http://localhost:1313/kitna-pyara-tujhe-raja-hindustani-lyrics/</link>
+      <pubDate>Tue, 03 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/kitna-pyara-tujhe-raja-hindustani-lyrics/</guid>
+      <description>Kitna Pyara Tujhe&#xA;Rabb Ne Banaya Jee Kare Dekhta Rahoon&#xA;Kitna Sona Tujhe Rabb Ne Banaya..</description>
+    </item>
+  </channel>
+</rss>

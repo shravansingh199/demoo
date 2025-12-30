@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dulhe Raja (1998) on demo 1</title>
+    <link>http://localhost:1313/albums/dulhe-raja-1998/</link>
+    <description>Recent content in Dulhe Raja (1998) on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Fri, 28 May 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/albums/dulhe-raja-1998/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ankhiyon Se Goli Maare lyrics - Dulhe Raja</title>
+      <link>http://localhost:1313/ankhiyon-se-goli-maare-dulhe-raja-lyrics/</link>
+      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ankhiyon-se-goli-maare-dulhe-raja-lyrics/</guid>
+      <description>Apne Deewane Ka Kar De Bura Haal Re&#xA;Ee Ankhiyon Se Goli Maare..</description>
+    </item>
+  </channel>
+</rss>

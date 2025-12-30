@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sapna Awasthi on demo 1</title>
+    <link>http://localhost:1313/artists/sapna-awasthi/</link>
+    <description>Recent content in Sapna Awasthi on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Tue, 11 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/artists/sapna-awasthi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pardesi Pardesi lyrics - Raja Hindustani</title>
+      <link>http://localhost:1313/pardesi-pardesi-raja-hindustani-1996-lyrics/</link>
+      <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pardesi-pardesi-raja-hindustani-1996-lyrics/</guid>
+      <description>Main Yeh Nahi Kehti Ke Pyar Mat Karna&#xA;Kisi Musaafir Ka Magar Aitbaar…</description>
+    </item>
+  </channel>
+</rss>

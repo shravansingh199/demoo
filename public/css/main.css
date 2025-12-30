@@ -1,0 +1,132 @@
+body {
+  background: #F5F5F5;
+  color: #222;
+  font-family: sans-serif;
+  line-height: 1.5;
+  margin: 1rem auto;
+  max-width: 768px;
+  padding: 0 1rem;
+}
+
+.footer_p {
+  color: #ababab;
+}
+
+header {
+  border-bottom: 1px solid #222;
+  margin-bottom: 1rem;
+}
+
+footer {
+  border-top: 1px solid #222;
+  margin-top: 1rem;
+}
+
+a {
+  color: rgb(21, 95, 48);
+  text-decoration: none;
+}
+
+.post-navigation {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;   /* space above */
+  padding-top: 10px;
+  padding-bottom: 9px;
+  border-top: 1px solid #597465; /* optional nice separator */
+  border-bottom: 1px solid #597465;
+}
+
+.post-navigation a {
+  display: block;
+  text-decoration: none;
+  font-size: 1rem;
+  padding: 5px 0;
+}
+/*
+@media (max-width: 600px) {
+  .post-navigation { flex-direction: column; }
+  .post-navigation .next-song {
+    text-align: right;
+    margin-top: 10px;
+  }
+}
+*/
+.pagination ul {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  gap: 0.2rem;
+}
+
+.pagination li {
+  display: inline-block;
+}
+
+.pagination a {
+  text-decoration: none;
+  padding: 6px 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.pagination .active a {
+  font-weight: bold;
+  border-color: #333;
+}
+
+.lyrics iframe {
+  max-width: 100%;
+}
+
+table {
+  font-family: system-ui;
+  font-size: 0.95rem; 
+}
+
+td:first-child {
+  border-right: 1px solid rgba(0,0,0,0.2); /* the vertical divider */
+  padding-right: 0.8rem;        /* optional spacing */
+}
+
+td:last-child {
+  padding-left: 0.7rem;
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background: #111;
+    color: #E0E0E0;
+  }
+  a {
+    color: rgb(54, 188, 161);        /* light blue so it shows up on dark bg */
+  }
+  a:hover {
+    color: #cfe8ff;     /* optional — slightly brighter hover */
+  }
+
+  /* Table borders */
+  td:first-child {
+  border-right: 1px solid rgb(136, 220, 216); /* the vertical divider */
+  }
+
+  tr:nth-child(even) {
+  background-color: #0c2a37; /* Alternating row background color */
+    }
+
+  h1, h2, h3, h4, h5, h6 {
+    color: #aeaeae;  /* pick any light tone you like */
+  }
+  hr {
+    border-color: #547273;
+  }
+   .totals {
+    animation: techFlash 0.5s linear 0s 3;
+  }
+
+  @keyframes techFlash {
+    0%, 90%, 100% { filter: brightness(100%); }
+    50% { filter: brightness(200%); }
+  }
+}
+

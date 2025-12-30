@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Saajan Ki Baahon Mein (1995) on demo 1</title>
+    <link>http://localhost:1313/albums/saajan-ki-baahon-mein-1995/</link>
+    <description>Recent content in Saajan Ki Baahon Mein (1995) on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Mon, 27 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/albums/saajan-ki-baahon-mein-1995/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kitna Sukun Kitna Aaram lyrics</title>
+      <link>http://localhost:1313/kitna-sukoon-kitna-aaraam-saajan-ki-baahon-mein-1995-lyrics/</link>
+      <pubDate>Mon, 27 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/kitna-sukoon-kitna-aaraam-saajan-ki-baahon-mein-1995-lyrics/</guid>
+      <description>Kitna Sukoon, Kitna Aaraam Hai&#xA;Paas Me Tum Ho Aur Haathon Me…</description>
+    </item>
+    <item>
+      <title>Aap Ke Karib lyrics - Saajan Ki Baahon Mein</title>
+      <link>http://localhost:1313/aap-ke-kareeb-saajan-ki-baahon-mein-1995-lyrics/</link>
+      <pubDate>Sun, 26 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/aap-ke-kareeb-saajan-ki-baahon-mein-1995-lyrics/</guid>
+      <description>Aapke Kareeb Hum Rehte Hain&#xA;Apna Naseeb Tumhe Kehte Hain Armaan Bhi Hai Tumhe…</description>
+    </item>
+  </channel>
+</rss>

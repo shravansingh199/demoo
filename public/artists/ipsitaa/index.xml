@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ipsitaa on demo 1</title>
+    <link>http://localhost:1313/artists/ipsitaa/</link>
+    <description>Recent content in Ipsitaa on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Sun, 21 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/artists/ipsitaa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Kiss lyrics - Yo Yo Honey Singh, Ipsitaa</title>
+      <link>http://localhost:1313/first-kiss-yo-yo-honey-singh-lyrics/</link>
+      <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/first-kiss-yo-yo-honey-singh-lyrics/</guid>
+      <description>Pyar Ki Pehli, First Kiss, Pyar Ki Pehli&amp;hellip;&#xA;Yo Yo Honey Singh&#xA;Let Me Present, Ipsitaa&#xA;Aye Yo! Seene Se Laga Ke&#xA;Baanhon Me Mujhe Lelo&#xA;Jaldi Hai Kaisi? I Like It Nice And Slow</description>
+    </item>
+  </channel>
+</rss>

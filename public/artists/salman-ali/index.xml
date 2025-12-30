@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Salman Ali on demo 1</title>
+    <link>http://localhost:1313/artists/salman-ali/</link>
+    <description>Recent content in Salman Ali on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Fri, 28 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/artists/salman-ali/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bas Tum Mere Paas Raho lyrics - Salman Ali</title>
+      <link>http://localhost:1313/bas-tum-mere-paas-raho-salman-ali-lyrics/</link>
+      <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bas-tum-mere-paas-raho-salman-ali-lyrics/</guid>
+      <description>Iltija Hai Dil Ki&#xA;Mujhse Door Na Raho Bas Tum Mere Paas Raho…</description>
+    </item>
+    <item>
+      <title>Jhoom Baraabar Jhoomm - Salman Ali</title>
+      <link>http://localhost:1313/jhoom-baraabar-jhoomm-salman-ali-lyrics/</link>
+      <pubDate>Tue, 07 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jhoom-baraabar-jhoomm-salman-ali-lyrics/</guid>
+      <description>Udhar Shaam Doobi, Idhar Jaam Aaya&#xA;Deewano Ko Toh Bas Yahi Kaam Aaya Jhoom Baraabar Jhoom…</description>
+    </item>
+    <item>
+      <title>Mohabbat Ke Kabil lyrics - Salman Ali</title>
+      <link>http://localhost:1313/mohabbat-ke-kabil-salman-ali-lyrics/</link>
+      <pubDate>Mon, 08 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mohabbat-ke-kabil-salman-ali-lyrics/</guid>
+      <description>Tum Toh Kehte The Hum Laazmi Hain Sanam&#xA;Khwaab Waali Har Ek Raat Ke Vaaste Mannatein, Minnatein..</description>
+    </item>
+    <item>
+      <title>Aashiquii Kaa Gum lyrics - Salman Ali</title>
+      <link>http://localhost:1313/aashiquii-kaa-gum-salman-ali-lyrics/</link>
+      <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/aashiquii-kaa-gum-salman-ali-lyrics/</guid>
+      <description>Aashiqui Ka Gham Hum Piye Ja Rahe&#xA;Tera Naam Le Kar Hum Jiye Ja Rahe Channa Ve Tere Liye..</description>
+    </item>
+    <item>
+      <title>Pyarr Tumse lyrics - Salman Ali</title>
+      <link>http://localhost:1313/pyarr-tumse-salman-ali-lyrics/</link>
+      <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pyarr-tumse-salman-ali-lyrics/</guid>
+      <description>Kar Lo Tum Qadar Hamaari&#xA;Karte Hain Hum Pyar Tumse&#xA;Haan, Pyar Tumse..</description>
+    </item>
+    <item>
+      <title>Awara lyrics - Dabangg 3</title>
+      <link>http://localhost:1313/awara-dabangg-3-lyrics/</link>
+      <pubDate>Fri, 11 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/awara-dabangg-3-lyrics/</guid>
+      <description>Pehla Pehla Ishq Hua Hai&#xA;Pehla Tajurba, Pehli Dafa Hai&#xA;Tu Jo Nahi Toh..</description>
+    </item>
+  </channel>
+</rss>

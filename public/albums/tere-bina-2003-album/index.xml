@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tere Bina (2003) Album on demo 1</title>
+    <link>http://localhost:1313/albums/tere-bina-2003-album/</link>
+    <description>Recent content in Tere Bina (2003) Album on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Fri, 21 May 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/albums/tere-bina-2003-album/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dheere Dheere Dheere lyrics - Abhijeet Bhattacharya</title>
+      <link>http://localhost:1313/woh-dheere-dheere-abhijeet-lyrics/</link>
+      <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/woh-dheere-dheere-abhijeet-lyrics/</guid>
+      <description>Raat Me, Khwaab Me&#xA;Woh Mujhe Sata Rahi Hai&#xA;Woh Dheere Dheere Dheere&#xA;Mere Dil Me..</description>
+    </item>
+  </channel>
+</rss>

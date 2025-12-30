@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Desi Kalakaar (2014) on demo 1</title>
+    <link>http://localhost:1313/albums/desi-kalakaar-2014/</link>
+    <description>Recent content in Desi Kalakaar (2014) on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Thu, 06 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/albums/desi-kalakaar-2014/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>One Thousand Miles lyrics - Yo Yo Honey Singh</title>
+      <link>http://localhost:1313/one-thousand-miles-desi-kalakaar-2014-album-lyrics/</link>
+      <pubDate>Thu, 06 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/one-thousand-miles-desi-kalakaar-2014-album-lyrics/</guid>
+      <description>One Thousand Miles Gaddi Drive&#xA;Kar Ke Aaya Tere Ghar Te Main Tere Ghar…</description>
+    </item>
+  </channel>
+</rss>

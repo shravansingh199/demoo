@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nikhil D&#39;Souza on demo 1</title>
+    <link>http://localhost:1313/artists/nikhil-dsouza/</link>
+    <description>Recent content in Nikhil D&#39;Souza on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Thu, 20 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/artists/nikhil-dsouza/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sham lyrics - Aisha</title>
+      <link>http://localhost:1313/shaam-aisha-2010-lyrics/</link>
+      <pubDate>Thu, 20 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/shaam-aisha-2010-lyrics/</guid>
+      <description>Shaam Bhi Koi Jaise Hai Nadi&#xA;Lehar Lehar Jaise Beh Rahi Hai Koi Ankahi, Koi Ansuni…</description>
+    </item>
+    <item>
+      <title>Vaaste lyrics - Dhvani Bhanushali, Nikhil D&#39;Souza</title>
+      <link>http://localhost:1313/vaaste-dhvani-bhanushali-nikhil-dsouza-lyrics/</link>
+      <pubDate>Tue, 09 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/vaaste-dhvani-bhanushali-nikhil-dsouza-lyrics/</guid>
+      <description>Vaaste Jaan Bhi Doon Main Ganwa Imaan Bhi Doon&#xA;Kismaton Ka Likha Mod Doon Badle Me Main Tere…</description>
+    </item>
+    <item>
+      <title>Neendo Se Breakup lyrics - Nikhil D&#39;Souza</title>
+      <link>http://localhost:1313/neendo-se-breakup-nikhil-dsouza-lyrics/</link>
+      <pubDate>Tue, 12 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/neendo-se-breakup-nikhil-dsouza-lyrics/</guid>
+      <description>Pehle Toh Maine Yeh&#xA;Ijaazat Li Khuda Se Phir Tera Sajda Kiya&#xA;Thehra Hua Tha Ke Ibaadaton Ne Teri..</description>
+    </item>
+    <item>
+      <title>Mere Bina lyrics - Nikhil D&#39;Souza</title>
+      <link>http://localhost:1313/mere-bina-crook-lyrics/</link>
+      <pubDate>Thu, 16 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mere-bina-crook-lyrics/</guid>
+      <description>Mere Bina Main Rehne Laga Hoon&#xA;Teri Hawa Me Behne Laga Hoon&#xA;Jaane Main Kaise Tera..</description>
+    </item>
+  </channel>
+</rss>

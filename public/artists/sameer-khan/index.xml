@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sameer Khan on demo 1</title>
+    <link>http://localhost:1313/artists/sameer-khan/</link>
+    <description>Recent content in Sameer Khan on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Sun, 25 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/artists/sameer-khan/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ek Bewafaa lyrics - Sameer Khan</title>
+      <link>http://localhost:1313/ek-bewafaa-sameer-khan-lyrics/</link>
+      <pubDate>Sun, 25 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ek-bewafaa-sameer-khan-lyrics/</guid>
+      <description>Tooti Tootne Ki&#xA;Ho Jaise Hadd Sabhi&#xA;Bikhra Hoon Main Aise&#xA;Ke Simat’ta Hi Nahi Jinko Duaa Me..</description>
+    </item>
+    <item>
+      <title>Keh Rahi Hai Nazdeekiyaan lyrics</title>
+      <link>http://localhost:1313/keh-rahi-hai-nazdeekiyaan-happy-hardy-heer-lyrics/</link>
+      <pubDate>Sun, 16 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/keh-rahi-hai-nazdeekiyaan-happy-hardy-heer-lyrics/</guid>
+      <description>Keh Rahi Hai Nazdeekiyaan&#xA;Faasle Ab Bhi Hain Darmiyaan&#xA;Pechida, Pechida&#xA;Dil Ki Yeh..</description>
+    </item>
+  </channel>
+</rss>

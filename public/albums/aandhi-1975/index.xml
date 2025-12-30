@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aandhi (1975) on demo 1</title>
+    <link>http://localhost:1313/albums/aandhi-1975/</link>
+    <description>Recent content in Aandhi (1975) on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Mon, 10 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/albums/aandhi-1975/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tere Bina Zindagi Se lyrics - Aandhi</title>
+      <link>http://localhost:1313/tere-bina-zindagi-se-koi-aandhi-1975-lyrics/</link>
+      <pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tere-bina-zindagi-se-koi-aandhi-1975-lyrics/</guid>
+      <description>Tere Bina Zindagi Se Koi&#xA;Shikwa Toh Nahi, Shikwa Nahi Shikwa Nahi…</description>
+    </item>
+  </channel>
+</rss>

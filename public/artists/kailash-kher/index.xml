@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kailash Kher on demo 1</title>
+    <link>http://localhost:1313/artists/kailash-kher/</link>
+    <description>Recent content in Kailash Kher on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Sat, 11 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/artists/kailash-kher/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chand Sifarish lyrics - Fanaa</title>
+      <link>http://localhost:1313/chand-sifarish-fanaa-lyrics/</link>
+      <pubDate>Sat, 11 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/chand-sifarish-fanaa-lyrics/</guid>
+      <description>Chaand Sifarish Jo Karta Humari&#xA;Deta Woh Tumko Bata&#xA;Sharm-o-Haya Ke Parde Gira..</description>
+    </item>
+    <item>
+      <title>Damadji Angana Hai Padhare lyrics</title>
+      <link>http://localhost:1313/damadji-angana-hai-padhare-radio-lyrics/</link>
+      <pubDate>Fri, 23 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/damadji-angana-hai-padhare-radio-lyrics/</guid>
+      <description>Damad Ji Angna Me Padhare&#xA;Damad Ji Sab Tuk-Tuk Nihare&#xA;Damad Ji Laage Sab Ko Pyare..</description>
+    </item>
+  </channel>
+</rss>

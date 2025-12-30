@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Baar Baar Dekho (2016) on demo 1</title>
+    <link>http://localhost:1313/albums/baar-baar-dekho-2016/</link>
+    <description>Recent content in Baar Baar Dekho (2016) on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Thu, 10 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/albums/baar-baar-dekho-2016/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kho Gaye Hum Kahan lyrics - Baar Baar Dekho</title>
+      <link>http://localhost:1313/kho-gaye-hum-kahan-baar-baar-dekho-lyrics/</link>
+      <pubDate>Thu, 10 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/kho-gaye-hum-kahan-baar-baar-dekho-lyrics/</guid>
+      <description>Rooh Se Behti Hui&#xA;Dhun Yeh Ishaare De&#xA;Kuchh Mere Raaz&#xA;Tere Raaz Aawara..</description>
+    </item>
+  </channel>
+</rss>

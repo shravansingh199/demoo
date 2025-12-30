@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dil Hai Tumhaara (2002) on demo 1</title>
+    <link>http://localhost:1313/albums/dil-hai-tumhaara-2002/</link>
+    <description>Recent content in Dil Hai Tumhaara (2002) on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Sat, 25 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/albums/dil-hai-tumhaara-2002/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>O Sahiba lyrics - Dil Hai Tumhaara</title>
+      <link>http://localhost:1313/o-sahiba-dil-hai-tumhaara-lyrics/</link>
+      <pubDate>Sat, 25 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/o-sahiba-dil-hai-tumhaara-lyrics/</guid>
+      <description>Milenge Tumse Toh Batayenge&#xA;Ke Kitna Pyar Hai Hame..</description>
+    </item>
+    <item>
+      <title>Dil Laga Liya lyrics - Dil Hai Tumhaara</title>
+      <link>http://localhost:1313/dil-laga-liya-dil-hai-tumhaara-2002-lyrics/</link>
+      <pubDate>Fri, 24 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/dil-laga-liya-dil-hai-tumhaara-2002-lyrics/</guid>
+      <description>Dil Laga Liya&#xA;Maine Tumse Pyar Kar Ke&#xA;Tumse Pyar Kar Ke..</description>
+    </item>
+  </channel>
+</rss>

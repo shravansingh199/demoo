@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tony Kakkar on demo 1</title>
+    <link>http://localhost:1313/artists/tony-kakkar/</link>
+    <description>Recent content in Tony Kakkar on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Sun, 11 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/artists/tony-kakkar/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dheeme Dheeme lyrics - Tony Kakkar</title>
+      <link>http://localhost:1313/dheeme-dheeme-tony-kakkar-lyrics/</link>
+      <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/dheeme-dheeme-tony-kakkar-lyrics/</guid>
+      <description>Chandni Raat Me, Gori Ke Saath Me&#xA;Aasmaan Me Dekhunga Nageene..</description>
+    </item>
+    <item>
+      <title>Shona Shona lyrics - Neha Kakkar, Tony Kakkar</title>
+      <link>http://localhost:1313/shona-tony-neha-kakkar-lyrics/</link>
+      <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/shona-tony-neha-kakkar-lyrics/</guid>
+      <description>Tera Badan Poora Tera Ilaaqa&#xA;Maine Na Jhanka&#xA;Maana Tu Lady Gaga&#xA;Main Daaku..</description>
+    </item>
+    <item>
+      <title>Oh Sanam lyrics - Shreya Ghoshal, Tony Kakkar</title>
+      <link>http://localhost:1313/oh-sanam-tony-shreya-lyrics/</link>
+      <pubDate>Mon, 05 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/oh-sanam-tony-shreya-lyrics/</guid>
+      <description>Meri Kaali Kaali Si Raaton Ka&#xA;Tu Sanam Sitaara Hai&#xA;Kitna Naaz Karte Hain&#xA;Tu Sanam..</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Commando 2 (2017) on demo 1</title>
+    <link>http://localhost:1313/albums/commando-2-2017/</link>
+    <description>Recent content in Commando 2 (2017) on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Tue, 10 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/albums/commando-2-2017/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tere Dil Mein lyrics - Armaan Malik</title>
+      <link>http://localhost:1313/tere-dil-mein-commando-2-lyrics/</link>
+      <pubDate>Tue, 10 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tere-dil-mein-commando-2-lyrics/</guid>
+      <description>Tu Hi Mera Sach Hai Re&#xA;Tu Hi Mera Khwaab Re&#xA;Mere Iss Khayal Pe Tera Kya Jawaab..</description>
+    </item>
+  </channel>
+</rss>

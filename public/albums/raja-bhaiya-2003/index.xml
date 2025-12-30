@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Raja Bhaiya (2003) on demo 1</title>
+    <link>http://localhost:1313/albums/raja-bhaiya-2003/</link>
+    <description>Recent content in Raja Bhaiya (2003) on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Sun, 30 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/albums/raja-bhaiya-2003/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tu Jo Hans Hans Ke lyrics - Raja Bhaiya</title>
+      <link>http://localhost:1313/tu-jo-hans-hans-ke-raja-bhaiya-2003-lyrics/</link>
+      <pubDate>Sun, 30 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tu-jo-hans-hans-ke-raja-bhaiya-2003-lyrics/</guid>
+      <description>Tu Jo Hans Hans Ke, Sanam&#xA;Mujhse Baat Karti Hai Bas Yahi Baat Zamaane Ko…</description>
+    </item>
+  </channel>
+</rss>

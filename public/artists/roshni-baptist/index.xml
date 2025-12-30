@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Roshni Baptist on demo 1</title>
+    <link>http://localhost:1313/artists/roshni-baptist/</link>
+    <description>Recent content in Roshni Baptist on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Tue, 10 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/artists/roshni-baptist/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tujhko Bhulaana lyrics - Murder 2</title>
+      <link>http://localhost:1313/tujhko-bhulaana-murder-2-lyrics/</link>
+      <pubDate>Tue, 10 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tujhko-bhulaana-murder-2-lyrics/</guid>
+      <description>Tujhko Bhulaana&#xA;Aansoo Na Laana, Na Laana&#xA;Aur Muskuraana, Haan Ab Aa Gaya..</description>
+    </item>
+  </channel>
+</rss>

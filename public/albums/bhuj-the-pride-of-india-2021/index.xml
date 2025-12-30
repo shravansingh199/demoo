@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bhuj: The Pride of India (2021) on demo 1</title>
+    <link>http://localhost:1313/albums/bhuj-the-pride-of-india-2021/</link>
+    <description>Recent content in Bhuj: The Pride of India (2021) on demo 1</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2021 lyrify, Inc.</copyright>
+    <lastBuildDate>Sat, 28 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/albums/bhuj-the-pride-of-india-2021/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rammo Rammo lyrics - Bhuj</title>
+      <link>http://localhost:1313/rammo-rammo-bhuj-lyrics/</link>
+      <pubDate>Sat, 28 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/rammo-rammo-bhuj-lyrics/</guid>
+      <description>Bole Mhaari Bindiya&#xA;Beeti Jaaye Ratiyan Maane Rang Rang De&#xA;O Re Satrangiya Brijbala Re..</description>
+    </item>
+    <item>
+      <title>Hanjugam lyrics - Jubin Nautiyal</title>
+      <link>http://localhost:1313/hanjugam-bhuj-lyrics/</link>
+      <pubDate>Fri, 13 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hanjugam-bhuj-lyrics/</guid>
+      <description>Baatooni Ankhiyan&#xA;Kardi Ae Batiyan Ishq Hua, Ho Gaya&#xA;Teri Yeh Ankhiyan Kaali Kaali..</description>
+    </item>
+  </channel>
+</rss>
