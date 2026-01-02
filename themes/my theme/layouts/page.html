@@ -5,19 +5,20 @@
   {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
   {{ $dateHuman := .Date | time.Format ":date_long" }}
   <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
+  
 {{ with .Params.albums }}
-  <h4>Album 👉&nbsp;
-    <a href="{{ (printf "albums/%s" (. | urlize)) | relURL }}">{{ . }}</a>
-  </h4>
+  <h3 class="album-title">
+     <a href="{{ (printf "albums/%s" (. | urlize)) | relURL }}">{{ . }}</a>
+  </h3>
 {{ end }}
 
   {{ .Content }}
 {{ with .Params.artists }}
-  <h4>🎤&nbsp;
+  <h3>🎤&nbsp;
   {{ range $index, $element := . -}}
     {{- if gt $index 0 }}, {{ end }}<a href="{{ (printf "artists/%s" ($element | urlize)) | relURL }}">{{ $element }}</a>
   {{- end }}
-  </h4>
+  </h3>
 {{ end }}
 
 <div class="post-navigation">

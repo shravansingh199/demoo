@@ -43,6 +43,22 @@ a {
   font-size: 1rem;
   padding: 5px 0;
 }
+
+.album-title {
+  text-align: center;
+  font-family: Consolas, "Courier New", monospace;
+  font-weight: 500;
+  letter-spacing: 1px;      /* Adds horizontal air */
+  line-height: 1.4;           /* Adds vertical air */
+  text-transform: none;
+}
+.album-title a {
+  text-decoration: underline dotted;
+  text-decoration-thickness: 3px;
+  text-decoration-color: #ff5733; /* A bright accent color */
+  text-underline-offset: 7px;
+}
+
 /*
 @media (max-width: 600px) {
   .post-navigation { flex-direction: column; }
