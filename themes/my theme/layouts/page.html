@@ -7,18 +7,18 @@
   <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
   
 {{ with .Params.albums }}
-  <h3 class="album-title">
+  <h4 class="album-title">
      <a href="{{ (printf "albums/%s" (. | urlize)) | relURL }}">{{ . }}</a>
-  </h3>
+  </h4>
 {{ end }}
 
   {{ .Content }}
 {{ with .Params.artists }}
-  <h3>🎤&nbsp;
+  <h4 class="artist-list">🎤
   {{ range $index, $element := . -}}
     {{- if gt $index 0 }}, {{ end }}<a href="{{ (printf "artists/%s" ($element | urlize)) | relURL }}">{{ $element }}</a>
   {{- end }}
-  </h3>
+  </h4>
 {{ end }}
 
 <div class="post-navigation">

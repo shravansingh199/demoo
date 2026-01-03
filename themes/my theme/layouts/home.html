@@ -19,7 +19,7 @@
       {{ .Summary }}
 
       {{ with .Params.artists }}
-        <p><strong>{{ range $index, $element := . -}}
+        <p class="artist-list"><strong>{{ range $index, $element := . -}}
         {{- if gt $index 0 }}, {{ end }}<a href="{{ (printf "artists/%s" ($element | urlize)) | relURL }}">{{ $element }}</a>
             {{- end }}</strong></p>
       {{ end }}

@@ -13,13 +13,11 @@ body {
 }
 
 header {
-  border-bottom: 1px solid #222;
   margin-bottom: 1rem;
 }
 
 footer {
-  border-top: 1px solid #222;
-  margin-top: 1rem;
+  margin-top: 2rem;
 }
 
 a {
@@ -46,17 +44,55 @@ a {
 
 .album-title {
   text-align: center;
+  font-size: 1.2rem;
   font-family: Consolas, "Courier New", monospace;
-  font-weight: 500;
   letter-spacing: 1px;      /* Adds horizontal air */
   line-height: 1.4;           /* Adds vertical air */
   text-transform: none;
 }
 .album-title a {
-  text-decoration: underline dotted;
-  text-decoration-thickness: 3px;
+  font-weight: 500;
+  text-decoration: underline dashed;
+  text-decoration-thickness: 2px;
   text-decoration-color: #ff5733; /* A bright accent color */
-  text-underline-offset: 7px;
+  text-underline-offset: 9px;
+}
+
+.artist-list {
+  font-family: Consolas, "Courier New", monospace;
+  letter-spacing: 0.3px;
+}
+
+.artist-list a {
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.artist-list a:hover {
+  text-decoration: underline;
+}
+
+/* Breadcrumb container */
+.breadcrumbs {
+  font-size: 0.9rem;
+  margin: 1rem 0;
+  color: #aaa;
+}
+
+/* Breadcrumb links */
+.breadcrumbs a {
+  color: #6da8ff;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.breadcrumbs a:hover {
+  text-decoration: underline;
+}
+
+/* Current page (last item) */
+.breadcrumbs span {
+  font-weight: 500;
 }
 
 /*
@@ -145,4 +181,3 @@ td:last-child {
     50% { filter: brightness(200%); }
   }
 }
-
