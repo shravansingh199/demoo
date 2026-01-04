@@ -59,13 +59,13 @@ a {
 }
 
 .artist-list {
-  font-family: Consolas, "Courier New", monospace;
+  font-family: 'Lucida Console', monospace;
   letter-spacing: 0.3px;
 }
 
 .artist-list a {
   text-decoration: none;
-  font-weight: 500;
+  font-weight: 600;
 }
 
 .artist-list a:hover {
