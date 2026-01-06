@@ -1,3 +1,12 @@
+.post-date {
+  font-size: medium;
+  font-style: italic;
+  text-align: right;
+  letter-spacing: 0.05em;
+  color: #9d9d9d;
+  display: block;
+}
+
 body {
   background: #F5F5F5;
   color: #222;
@@ -60,12 +69,13 @@ a {
 
 .artist-list {
   font-family: 'Lucida Console', monospace;
-  letter-spacing: 0.3px;
+  letter-spacing: 0.1px;
+  font-size: medium;
 }
 
 .artist-list a {
   text-decoration: none;
-  font-weight: 600;
+  font-weight: lighter;
 }
 
 .artist-list a:hover {
