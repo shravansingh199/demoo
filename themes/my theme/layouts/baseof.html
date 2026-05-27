@@ -3,16 +3,25 @@
 <head>
   {{ partial "head.html" . }}
 </head>
+
 <body>
-  <header>
-    {{ partial "header.html" . }}
-    {{ partial "breadcrumbs.html" . }}
-  </header>
-  <main>
-    {{ block "main" . }}{{ end }}
-  </main>
-  <footer>
-    {{ partial "footer.html" . }}
-  </footer>
+
+  <div class="site-wrapper">
+
+    <header>
+      {{ partial "header.html" . }}
+      {{ partial "breadcrumbs.html" . }}
+    </header>
+
+    <main class="site-content">
+      {{ block "main" . }}{{ end }}
+    </main>
+
+    <footer class="site-footer">
+      {{ partial "footer.html" . }}
+    </footer>
+
+  </div>
+
 </body>
 </html>

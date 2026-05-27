@@ -12,15 +12,17 @@
     <section>
 
       {{ with .Params.albums }}
-        <h4><a href="{{ (printf "albums/%s" (. | urlize)) | relURL }}">{{ . }}</a></h4>
+        <h4 class="listpage-album-name"><a href="{{ (printf "albums/%s" (. | urlize)) | relURL }}">{{ . }}</a></h4>
       {{ end }}
 
-      <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-      {{ .Summary }}
+      <h2 class="listpage-song-name"><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+      <p class="listpage-song-summary">
+        {{ .Summary }}
+        </p>
 
       {{ with .Params.artists }}
         <p class="artist-list"><strong>{{ range $index, $element := . -}}
-        {{- if gt $index 0 }}, {{ end }}<a href="{{ (printf "artists/%s" ($element | urlize)) | relURL }}">{{ $element }}</a>
+        {{- if gt $index 0 }} {{ end }}<a href="{{ (printf "artists/%s" ($element | urlize)) | relURL }}">{{ $element }}</a>
             {{- end }}</strong></p>
       {{ end }}
 
