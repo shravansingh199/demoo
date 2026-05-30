@@ -1,6 +1,6 @@
 baseURL = 'https://lyrify.in/'
 languageCode = 'en-us'
-title = 'LIRIFY'
+title = 'LYRIFY'
 theme = 'my theme'
 
 [caches]
