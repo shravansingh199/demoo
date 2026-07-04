@@ -1,7 +1,15 @@
 baseURL = 'https://lyrify.in/'
-languageCode = 'en-us'
 title = 'LYRIFY'
 theme = 'my theme'
+
+defaultContentLanguage = "en"
+
+[languages]
+  [languages.en]
+    locale = "en-US"
+
+[security]
+allowContent = ['.*']
 
 [caches]
   [caches.images]
