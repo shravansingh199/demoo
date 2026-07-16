@@ -64,3 +64,16 @@ document.addEventListener("DOMContentLoaded", () => {
   list.innerHTML = "";
   newList.forEach(li => list.appendChild(li));
 });
+
+document.addEventListener('copy', function (e) {
+    const selection = window.getSelection();
+    const selectedText = selection.toString();
+
+    if (selectedText.trim().length > 0) {
+        const attribution = `\n\nRead more lyrics at: ${window.location.href}`;
+        const textToCopy = selectedText + attribution;
+
+        e.clipboardData.setData('text/plain', textToCopy);
+        e.preventDefault();
+    }
+});
